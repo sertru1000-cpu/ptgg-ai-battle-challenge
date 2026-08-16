@@ -61,10 +61,12 @@ _HEADER_FILES = [
 ]
 if _VERSION != "v17":
     _HEADER_FILES.append("generic_opponent.hpp")
-if _VERSION in ("v20", "v22", "v23", "v24"):
+if _VERSION in ("v20", "v22", "v23", "v24", "v25", "v26"):
     _HEADER_FILES += ["pwin_trees.hpp", "vectorizer.hpp"]
-if _VERSION == "v24":
+if _VERSION in ("v24", "v25", "v26"):
     _HEADER_FILES.append("tree_search.hpp")
+if _VERSION == "v26":
+    _HEADER_FILES += ["bc_trees.hpp", "bc_option_features.hpp"]
 
 _LIB_NAME = f"{_VERSION}_mcts.so"
 

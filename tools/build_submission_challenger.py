@@ -147,7 +147,7 @@ SUBMISSION_DIR = REPO / "submission"
 CG_SRC = REPO / "data" / "official" / "sample_submission" / "sample_submission" / "cg"
 SANITY_SIZE_CEILING_MB = 200
 
-VALID_VERSIONS = {"v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10", "v11", "v12", "v13", "v14", "v15", "v16", "v17", "v18", "v19", "v20", "v21", "v22", "v23", "v24"}
+VALID_VERSIONS = {"v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10", "v11", "v12", "v13", "v14", "v15", "v16", "v17", "v18", "v19", "v20", "v21", "v22", "v23", "v24", "v25", "v26"}
 
 DECK_SOURCE = {
     "v2": "dragapult_ex.csv", "v3": "dragapult_ex.csv", "v4": "dragapult_ex.csv",
@@ -163,6 +163,8 @@ DECK_SOURCE = {
     "v22": "dragapult_ex.csv",
     "v23": "dragapult_ex.csv",
     "v24": "dragapult_ex.csv",
+    "v25": "dragapult_ex_v19.csv",
+    "v26": "dragapult_ex_v19.csv",
 }
 
 # Versions with a genuine extra PyPI runtime dependency beyond the bundled cg

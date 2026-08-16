@@ -1,0 +1,74 @@
+[
+  {
+    "pair": "v27__v20",
+    "wins_a": 10,
+    "wins_b": 6,
+    "games": 16
+  },
+  {
+    "pair": "v27__v6",
+    "wins_a": 7,
+    "wins_b": 9,
+    "games": 16
+  },
+  {
+    "pair": "v27__v17",
+    "wins_a": 4,
+    "wins_b": 12,
+    "games": 16
+  },
+  {
+    "pair": "v27__v19",
+    "wins_a": 8,
+    "wins_b": 8,
+    "games": 16
+  },
+  {
+    "pair": "v27__v24",
+    "wins_a": 9,
+    "wins_b": 7,
+    "games": 16
+  },
+  {
+    "pair": "v27__v26",
+    "wins_a": 9,
+    "wins_b": 7,
+    "games": 16
+  },
+  {
+    "pair": "v27__v25",
+    "wins_a": 8,
+    "wins_b": 8,
+    "games": 16
+  },
+  {
+    "pair": "v27__v23",
+    "wins_a": 6,
+    "wins_b": 10,
+    "games": 16
+  },
+  {
+    "pair": "v27b__v20",
+    "wins_a": 11,
+    "wins_b": 5,
+    "games": 16
+  },
+  {
+    "pair": "v27b__v24",
+    "wins_a": 9,
+    "wins_b": 7,
+    "games": 16
+  },
+  {
+    "pair": "v27b__v25",
+    "wins_a": 9,
+    "wins_b": 7,
+    "games": 16
+  },
+  {
+    "pair": "v27b__v23",
+    "wins_a": 5,
+    "wins_b": 11,
+    "games": 16
+  }
+]
