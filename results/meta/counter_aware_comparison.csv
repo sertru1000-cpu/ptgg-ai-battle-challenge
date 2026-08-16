@@ -1,0 +1,13 @@
+strategy,oos_win_rate,games,wins,decision_days,bootstrap_ci_lo,bootstrap_ci_hi,median_daily_win_rate,std_daily_win_rate,delta_vs_recent_wr
+A_most_popular,0.462,2171,1003,50,0.4441,0.4789,0.4428,0.1664,-0.0509
+B_recent_wr,0.5129,622,319,49,0.4727,0.5548,0.5,0.1721,0.0
+C_conservative_meta_aware,0.4792,1703,816,50,0.4572,0.4986,0.4732,0.1255,-0.0337
+D_counter_aware,0.4792,1703,816,50,0.4578,0.4994,0.4732,0.1255,-0.0337
+Counter_Only,0.4795,1683,807,50,0.4573,0.4995,0.4732,0.1437,-0.0334
+ORACLE,0.6138,1028,631,47,0.5843,0.6482,0.625,0.1115,0.1009
+
+# paired_statistical_comparisons
+comparison,abs_difference,ci_lo,ci_hi,p_value,significant_95pct
+D_counter_aware vs B_recent_wr,-0.0317,-0.0718,0.0079,0.117,False
+D_counter_aware vs A_most_popular,0.0163,0.0014,0.0351,0.037,True
+D_counter_aware vs C_conservative_meta_aware,0.0,0.0,0.0,1.0,False

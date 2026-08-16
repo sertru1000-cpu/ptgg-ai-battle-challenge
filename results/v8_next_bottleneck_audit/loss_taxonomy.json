@@ -1,0 +1,110 @@
+{
+  "n_losses": 13,
+  "category_counts": {
+    "K": 2,
+    "I": 4,
+    "H": 7,
+    "G": 1
+  },
+  "category_pct_of_losses": {
+    "K": 15.4,
+    "I": 30.8,
+    "H": 53.8,
+    "G": 7.7
+  },
+  "examples": {
+    "K": [
+      {
+        "episode_id": 92639822,
+        "confidence": "LOW",
+        "rationale": "decisive turn 11 identified but no specific decision-level defect found there -- read as matchup/tempo"
+      },
+      {
+        "episode_id": 92644563,
+        "confidence": "LOW",
+        "rationale": "decisive turn 9 identified but no specific decision-level defect found there -- read as matchup/tempo"
+      }
+    ],
+    "I": [
+      {
+        "episode_id": 92642676,
+        "confidence": "MEDIUM",
+        "rationale": "turn 7: confirmed lethal threat left unaddressed, active Pokemon lost by the following turn"
+      },
+      {
+        "episode_id": 92654005,
+        "confidence": "MEDIUM",
+        "rationale": "turn 22: confirmed lethal threat left unaddressed, active Pokemon lost by the following turn"
+      },
+      {
+        "episode_id": 92654952,
+        "confidence": "MEDIUM",
+        "rationale": "turn 15: confirmed lethal threat left unaddressed, active Pokemon lost by the following turn"
+      },
+      {
+        "episode_id": 92655907,
+        "confidence": "MEDIUM",
+        "rationale": "turn 14: confirmed lethal threat left unaddressed, active Pokemon lost by the following turn"
+      }
+    ],
+    "H": [
+      {
+        "episode_id": 92643618,
+        "confidence": "HIGH",
+        "rationale": "Dragapult ex never appeared on board this game (14-turn game)"
+      },
+      {
+        "episode_id": 92645508,
+        "confidence": "MEDIUM",
+        "rationale": "Dragapult ex first appeared turn 6, AFTER the game had already decisively slipped (turn 2)"
+      },
+      {
+        "episode_id": 92649266,
+        "confidence": "HIGH",
+        "rationale": "Dragapult ex never appeared on board this game (12-turn game)"
+      },
+      {
+        "episode_id": 92650212,
+        "confidence": "MEDIUM",
+        "rationale": "Dragapult ex first appeared turn 8, AFTER the game had already decisively slipped (turn 5)"
+      },
+      {
+        "episode_id": 92651053,
+        "confidence": "HIGH",
+        "rationale": "Dragapult ex never appeared on board this game (1-turn game)"
+      },
+      {
+        "episode_id": 92653055,
+        "confidence": "MEDIUM",
+        "rationale": "Dragapult ex first appeared turn 6, AFTER the game had already decisively slipped (turn 3)"
+      },
+      {
+        "episode_id": 92656873,
+        "confidence": "MEDIUM",
+        "rationale": "Dragapult ex first appeared turn 11, AFTER the game had already decisively slipped (turn 5)"
+      }
+    ],
+    "G": [
+      {
+        "episode_id": 92643618,
+        "confidence": "MEDIUM",
+        "rationale": "turn 2: no legal attack and no energy-ready bench attacker at/near the decisive turn"
+      }
+    ]
+  },
+  "labels": {
+    "A": "Failed attack / wrong attack",
+    "B": "Failed KO despite available lethal",
+    "C": "Bad target selection",
+    "D": "Failed retreat (declined available beneficial retreat)",
+    "E": "Unnecessary retreat",
+    "F": "Energy starvation",
+    "G": "Active stranded / no attacker",
+    "H": "Bench/evolution development failure (Dragapult ex never came online)",
+    "I": "Opponent threat not answered (threat unaddressed AND active subsequently lost)",
+    "J": "Prize-race mistake",
+    "K": "Matchup-specific structural weakness / total shutout, no single flagged decision",
+    "L": "Random / unclear",
+    "M": "Other"
+  }
+}

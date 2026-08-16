@@ -1,0 +1,11 @@
+variant_type,variant_value,pairs_clearing_stat_and_effect_gate_full_dataset,is_primary
+min_matchup_sample,20.0,6,False
+min_matchup_sample,100.0,0,False
+min_matchup_sample,50.0,3,True
+effect_size_threshold,0.55,4,False
+effect_size_threshold,0.65,2,False
+effect_size_threshold,0.7,2,False
+effect_size_threshold,0.6,3,True
+oos_failure_threshold,0.45,1,False
+oos_failure_threshold,0.48,1,False
+oos_failure_threshold,0.5,1,True

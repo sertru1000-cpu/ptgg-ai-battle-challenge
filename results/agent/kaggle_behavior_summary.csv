@@ -1,0 +1,23 @@
+metric,value
+games_analyzed,46
+self_play_validation_episodes_excluded,1
+wins,24
+losses,22
+draws,0
+error_or_timeout_results,0
+going_first_games,34
+going_second_games,12
+going_first_unknown,0
+total_decision_calls_logged,4151
+calls_with_nonempty_stderr,0
+calls_with_nonempty_stdout,0
+calls_ge_1.0s_duration,0
+calls_ge_1.8s_duration_near_2s_cap,0
+decision_duration_mean_s_pooled,0.004021254233439734
+decision_duration_max_s_overall,0.203799
+invalid_actions_directly_observable,"NO (in-memory counter, never logged)"
+timeouts_directly_observable,"NO (in-memory counter, never logged)"
+fallback_count_directly_observable,"NO (in-memory counter, never logged)"
+safety_interventions_directly_observable,"NO (in-memory counter, never logged)"
+current_public_score,726.9
+starting_rating_documented,600.0

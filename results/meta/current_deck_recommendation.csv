@@ -1,0 +1,10 @@
+rank,archetype,recent_share,recent_games,recent_win_rate,expected_win_rate_vs_current_meta,conservative_expected_win_rate_vs_current_meta,credible_counters_this_deck_has,credible_counters_against_this_deck,overall_confidence
+1,Teal Mask Ogerpon ex,0.0479,191,0.5445,0.664,0.4456,1,0,HIGH_CONFIDENCE
+2,Dragapult ex,0.0461,184,0.5707,0.5797,0.4343,1,0,HIGH_CONFIDENCE
+3,Mega Lopunny ex,0.0684,273,0.5678,0.5537,0.4204,0,0,HIGH_CONFIDENCE
+4,Cynthia's Garchomp ex,0.0419,167,0.491,0.521,0.3801,0,0,HIGH_CONFIDENCE
+5,Mega Lucario ex,0.015,60,0.6167,0.5129,0.3379,0,0,HIGH_CONFIDENCE
+6,Mega Kangaskhan ex,0.0875,349,0.5014,0.507,0.4029,0,0,HIGH_CONFIDENCE
+7,Team Rocket's Mewtwo ex,0.0554,221,0.4887,0.4963,0.349,1,1,HIGH_CONFIDENCE
+8,Marnie's Grimmsnarl ex,0.4434,1769,0.4845,0.4798,0.4181,1,1,HIGH_CONFIDENCE
+9,Fezandipiti ex,0.1682,671,0.4739,0.4525,0.3947,0,2,HIGH_CONFIDENCE

@@ -1,0 +1,1274 @@
+{
+  "primary_n": 5,
+  "source_files": [
+    "1786649900_2d0df93e_decisions.csv",
+    "1786649941_9e821c33_decisions.csv"
+  ],
+  "method": "For each N=5 ATTACK<->PLAY disagreement, scan V6's real decision sequence (ordered by decision_num) within the same `turn` value for the complementary real action (a PLAY before an ATTACK row, or an ATTACK after a PLAY row). A same-turn match is definitionally zero opponent turns apart, since this engine's `turn` field only advances on a turn handoff (empirically confirmed: every row after a real V6 ATTACK decision has a strictly higher `turn` value).",
+  "by_source_file": {
+    "1786649900_2d0df93e_decisions.csv": {
+      "ATTACK_TO_PLAY": {
+        "total": 12,
+        "SAME_TURN_SEQUENCING_EQUIVALENT": 12,
+        "GENUINE_TACTICAL_DIVERGENCE": 0
+      },
+      "PLAY_TO_ATTACK": {
+        "total": 2,
+        "SAME_TURN_SEQUENCING_EQUIVALENT": 2,
+        "GENUINE_TACTICAL_DIVERGENCE": 0
+      }
+    },
+    "1786649941_9e821c33_decisions.csv": {
+      "ATTACK_TO_PLAY": {
+        "total": 55,
+        "SAME_TURN_SEQUENCING_EQUIVALENT": 51,
+        "GENUINE_TACTICAL_DIVERGENCE": 4
+      },
+      "PLAY_TO_ATTACK": {
+        "total": 6,
+        "SAME_TURN_SEQUENCING_EQUIVALENT": 6,
+        "GENUINE_TACTICAL_DIVERGENCE": 0
+      }
+    }
+  },
+  "combined_summary": {
+    "ATTACK_TO_PLAY": {
+      "total": 67,
+      "SAME_TURN_SEQUENCING_EQUIVALENT": 63,
+      "GENUINE_TACTICAL_DIVERGENCE": 4
+    },
+    "PLAY_TO_ATTACK": {
+      "total": 8,
+      "SAME_TURN_SEQUENCING_EQUIVALENT": 8,
+      "GENUINE_TACTICAL_DIVERGENCE": 0
+    },
+    "ALL": {
+      "total": 75,
+      "SAME_TURN_SEQUENCING_EQUIVALENT": 71,
+      "GENUINE_TACTICAL_DIVERGENCE": 4
+    }
+  },
+  "attack_to_play_cases": [
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "2",
+      "decision_num": 6,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "4",
+      "decision_num": 9,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "6",
+      "decision_num": 20,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "8",
+      "decision_num": 26,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "10",
+      "decision_num": 29,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_0",
+      "turn": "12",
+      "decision_num": 34,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "2",
+      "decision_num": 2,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "8",
+      "decision_num": 26,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "10",
+      "decision_num": 34,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "12",
+      "decision_num": 38,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "14",
+      "decision_num": 41,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "16",
+      "decision_num": 44,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_0",
+      "turn": "4",
+      "decision_num": 13,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_0",
+      "turn": "6",
+      "decision_num": 18,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_0",
+      "turn": "8",
+      "decision_num": 24,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_0",
+      "turn": "10",
+      "decision_num": 33,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_1",
+      "turn": "14",
+      "decision_num": 51,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_4",
+      "turn": "8",
+      "decision_num": 33,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_5",
+      "turn": "2",
+      "decision_num": 6,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_5",
+      "turn": "4",
+      "decision_num": 11,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_5",
+      "turn": "8",
+      "decision_num": 23,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "EVOLVE",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": false,
+      "opponent_turn_between": null,
+      "classification": "GENUINE_TACTICAL_DIVERGENCE"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_5",
+      "turn": "10",
+      "decision_num": 26,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "ATTACH",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": false,
+      "opponent_turn_between": null,
+      "classification": "GENUINE_TACTICAL_DIVERGENCE"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_6",
+      "turn": "8",
+      "decision_num": 32,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "EVOLVE",
+        "ABILITY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_6",
+      "turn": "10",
+      "decision_num": 38,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_6",
+      "turn": "12",
+      "decision_num": 41,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_6",
+      "turn": "14",
+      "decision_num": 46,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "2",
+      "decision_num": 7,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "6",
+      "decision_num": 22,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "8",
+      "decision_num": 27,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "12",
+      "decision_num": 39,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "14",
+      "decision_num": 43,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_7",
+      "turn": "16",
+      "decision_num": 47,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_8",
+      "turn": "8",
+      "decision_num": 22,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_8",
+      "turn": "10",
+      "decision_num": 27,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_8",
+      "turn": "14",
+      "decision_num": 35,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "ABILITY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": false,
+      "opponent_turn_between": null,
+      "classification": "GENUINE_TACTICAL_DIVERGENCE"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_9",
+      "turn": "4",
+      "decision_num": 14,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_9",
+      "turn": "6",
+      "decision_num": 21,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_9",
+      "turn": "8",
+      "decision_num": 26,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_9",
+      "turn": "10",
+      "decision_num": 32,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_10",
+      "turn": "12",
+      "decision_num": 30,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_11",
+      "turn": "2",
+      "decision_num": 5,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_12",
+      "turn": "2",
+      "decision_num": 3,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_12",
+      "turn": "8",
+      "decision_num": 26,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_12",
+      "turn": "12",
+      "decision_num": 35,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_14",
+      "turn": "12",
+      "decision_num": 35,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_15",
+      "turn": "8",
+      "decision_num": 21,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_16",
+      "turn": "2",
+      "decision_num": 8,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_16",
+      "turn": "6",
+      "decision_num": 28,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_17",
+      "turn": "4",
+      "decision_num": 10,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_17",
+      "turn": "6",
+      "decision_num": 19,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "EVOLVE",
+        "ATTACH",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_18",
+      "turn": "6",
+      "decision_num": 28,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_18",
+      "turn": "8",
+      "decision_num": 37,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_19",
+      "turn": "2",
+      "decision_num": 4,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_19",
+      "turn": "10",
+      "decision_num": 27,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_19",
+      "turn": "16",
+      "decision_num": 41,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_21",
+      "turn": "6",
+      "decision_num": 20,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_21",
+      "turn": "8",
+      "decision_num": 27,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_21",
+      "turn": "10",
+      "decision_num": 31,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_22",
+      "turn": "2",
+      "decision_num": 8,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_22",
+      "turn": "4",
+      "decision_num": 12,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "EVOLVE",
+        "ABILITY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_22",
+      "turn": "10",
+      "decision_num": 38,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_22",
+      "turn": "12",
+      "decision_num": 44,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_23",
+      "turn": "2",
+      "decision_num": 3,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "ATTACH"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_23",
+      "turn": "4",
+      "decision_num": 10,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY",
+        "RETREAT"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_23",
+      "turn": "6",
+      "decision_num": 13,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_23",
+      "turn": "8",
+      "decision_num": 14,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [],
+      "same_turn_play_then_attack": false,
+      "opponent_turn_between": null,
+      "classification": "GENUINE_TACTICAL_DIVERGENCE"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_23",
+      "turn": "10",
+      "decision_num": 21,
+      "direction": "ATTACK_TO_PLAY",
+      "v6_real_choice": "ATTACK",
+      "lookahead_choice": "PLAY",
+      "prior_actions_same_turn": [
+        "PLAY"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    }
+  ],
+  "play_to_attack_cases": [
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "16",
+      "decision_num": 42,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "PLAY",
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649900_2d0df93e_decisions.csv",
+      "game_id": "1786649900_2d0df93e_1",
+      "turn": "16",
+      "decision_num": 43,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_12",
+      "turn": "12",
+      "decision_num": 31,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ABILITY",
+        "PLAY",
+        "ATTACH",
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_12",
+      "turn": "12",
+      "decision_num": 33,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ATTACH",
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_19",
+      "turn": "14",
+      "decision_num": 33,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_20",
+      "turn": "14",
+      "decision_num": 47,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ABILITY",
+        "EVOLVE",
+        "ABILITY",
+        "PLAY",
+        "PLAY",
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_20",
+      "turn": "14",
+      "decision_num": 51,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "PLAY",
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    },
+    {
+      "source_file": "1786649941_9e821c33_decisions.csv",
+      "game_id": "1786649941_9e821c33_20",
+      "turn": "14",
+      "decision_num": 52,
+      "direction": "PLAY_TO_ATTACK",
+      "v6_real_choice": "PLAY",
+      "lookahead_choice": "ATTACK",
+      "later_actions_same_turn": [
+        "ATTACK"
+      ],
+      "same_turn_play_then_attack": true,
+      "opponent_turn_between": false,
+      "classification": "SAME_TURN_SEQUENCING_EQUIVALENT"
+    }
+  ]
+}

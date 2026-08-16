@@ -1,0 +1,2 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+abomasnow_agent,random_agent,20,0,0,17,3,0.85,0.9,0.8,10,10

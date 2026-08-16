@@ -1,0 +1,17 @@
+{
+  "run_id": "1786649941_9e821c33",
+  "n_games": 24,
+  "max_steps": 800,
+  "opponent": "lucario_ex_agent",
+  "primary_n": 5,
+  "benchmark_ns": [
+    3,
+    5,
+    10
+  ],
+  "rss_start_mb": 35.13671875,
+  "rss_end_mb": 49.921875,
+  "rss_delta_mb": 14.78515625,
+  "total_elapsed_s": 122.68128619994968,
+  "n_decisions": 970
+}

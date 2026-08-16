@@ -1,0 +1,8 @@
+{
+  "processed_count": 3500,
+  "successful_count": 3499,
+  "failed_count": 1,
+  "last_processed_episode_id": "91685662",
+  "last_processed_timestamp": "2026-08-10",
+  "checkpoint_written_at": "2026-08-11T08:01:20.173922+00:00"
+}

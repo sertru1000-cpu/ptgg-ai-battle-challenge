@@ -1,0 +1,516 @@
+{
+  "overall": {
+    "n": 46,
+    "wins": 24,
+    "losses": 22,
+    "draws": 0,
+    "win_rate": 0.5217391304347826,
+    "wilson_lo": 0.38137172148151327,
+    "wilson_hi": 0.6587554012432788,
+    "binomial_p_value_vs_50pct": 0.8829959121223965
+  },
+  "cumulative": [
+    {
+      "game_number": 1,
+      "cum_wins": 1,
+      "cum_n": 1,
+      "cum_wr": 1.0
+    },
+    {
+      "game_number": 2,
+      "cum_wins": 1,
+      "cum_n": 2,
+      "cum_wr": 0.5
+    },
+    {
+      "game_number": 3,
+      "cum_wins": 1,
+      "cum_n": 3,
+      "cum_wr": 0.3333333333333333
+    },
+    {
+      "game_number": 4,
+      "cum_wins": 2,
+      "cum_n": 4,
+      "cum_wr": 0.5
+    },
+    {
+      "game_number": 5,
+      "cum_wins": 3,
+      "cum_n": 5,
+      "cum_wr": 0.6
+    },
+    {
+      "game_number": 6,
+      "cum_wins": 3,
+      "cum_n": 6,
+      "cum_wr": 0.5
+    },
+    {
+      "game_number": 7,
+      "cum_wins": 3,
+      "cum_n": 7,
+      "cum_wr": 0.42857142857142855
+    },
+    {
+      "game_number": 8,
+      "cum_wins": 4,
+      "cum_n": 8,
+      "cum_wr": 0.5
+    },
+    {
+      "game_number": 9,
+      "cum_wins": 4,
+      "cum_n": 9,
+      "cum_wr": 0.4444444444444444
+    },
+    {
+      "game_number": 10,
+      "cum_wins": 4,
+      "cum_n": 10,
+      "cum_wr": 0.4
+    },
+    {
+      "game_number": 11,
+      "cum_wins": 4,
+      "cum_n": 11,
+      "cum_wr": 0.36363636363636365
+    },
+    {
+      "game_number": 12,
+      "cum_wins": 5,
+      "cum_n": 12,
+      "cum_wr": 0.4166666666666667
+    },
+    {
+      "game_number": 13,
+      "cum_wins": 6,
+      "cum_n": 13,
+      "cum_wr": 0.46153846153846156
+    },
+    {
+      "game_number": 14,
+      "cum_wins": 7,
+      "cum_n": 14,
+      "cum_wr": 0.5
+    },
+    {
+      "game_number": 15,
+      "cum_wins": 8,
+      "cum_n": 15,
+      "cum_wr": 0.5333333333333333
+    },
+    {
+      "game_number": 16,
+      "cum_wins": 9,
+      "cum_n": 16,
+      "cum_wr": 0.5625
+    },
+    {
+      "game_number": 17,
+      "cum_wins": 10,
+      "cum_n": 17,
+      "cum_wr": 0.5882352941176471
+    },
+    {
+      "game_number": 18,
+      "cum_wins": 11,
+      "cum_n": 18,
+      "cum_wr": 0.6111111111111112
+    },
+    {
+      "game_number": 19,
+      "cum_wins": 12,
+      "cum_n": 19,
+      "cum_wr": 0.631578947368421
+    },
+    {
+      "game_number": 20,
+      "cum_wins": 13,
+      "cum_n": 20,
+      "cum_wr": 0.65
+    },
+    {
+      "game_number": 21,
+      "cum_wins": 14,
+      "cum_n": 21,
+      "cum_wr": 0.6666666666666666
+    },
+    {
+      "game_number": 22,
+      "cum_wins": 14,
+      "cum_n": 22,
+      "cum_wr": 0.6363636363636364
+    },
+    {
+      "game_number": 23,
+      "cum_wins": 14,
+      "cum_n": 23,
+      "cum_wr": 0.6086956521739131
+    },
+    {
+      "game_number": 24,
+      "cum_wins": 14,
+      "cum_n": 24,
+      "cum_wr": 0.5833333333333334
+    },
+    {
+      "game_number": 25,
+      "cum_wins": 14,
+      "cum_n": 25,
+      "cum_wr": 0.56
+    },
+    {
+      "game_number": 26,
+      "cum_wins": 14,
+      "cum_n": 26,
+      "cum_wr": 0.5384615384615384
+    },
+    {
+      "game_number": 27,
+      "cum_wins": 15,
+      "cum_n": 27,
+      "cum_wr": 0.5555555555555556
+    },
+    {
+      "game_number": 28,
+      "cum_wins": 15,
+      "cum_n": 28,
+      "cum_wr": 0.5357142857142857
+    },
+    {
+      "game_number": 29,
+      "cum_wins": 15,
+      "cum_n": 29,
+      "cum_wr": 0.5172413793103449
+    },
+    {
+      "game_number": 30,
+      "cum_wins": 16,
+      "cum_n": 30,
+      "cum_wr": 0.5333333333333333
+    },
+    {
+      "game_number": 31,
+      "cum_wins": 16,
+      "cum_n": 31,
+      "cum_wr": 0.5161290322580645
+    },
+    {
+      "game_number": 32,
+      "cum_wins": 17,
+      "cum_n": 32,
+      "cum_wr": 0.53125
+    },
+    {
+      "game_number": 33,
+      "cum_wins": 18,
+      "cum_n": 33,
+      "cum_wr": 0.5454545454545454
+    },
+    {
+      "game_number": 34,
+      "cum_wins": 19,
+      "cum_n": 34,
+      "cum_wr": 0.5588235294117647
+    },
+    {
+      "game_number": 35,
+      "cum_wins": 20,
+      "cum_n": 35,
+      "cum_wr": 0.5714285714285714
+    },
+    {
+      "game_number": 36,
+      "cum_wins": 21,
+      "cum_n": 36,
+      "cum_wr": 0.5833333333333334
+    },
+    {
+      "game_number": 37,
+      "cum_wins": 22,
+      "cum_n": 37,
+      "cum_wr": 0.5945945945945946
+    },
+    {
+      "game_number": 38,
+      "cum_wins": 22,
+      "cum_n": 38,
+      "cum_wr": 0.5789473684210527
+    },
+    {
+      "game_number": 39,
+      "cum_wins": 23,
+      "cum_n": 39,
+      "cum_wr": 0.5897435897435898
+    },
+    {
+      "game_number": 40,
+      "cum_wins": 23,
+      "cum_n": 40,
+      "cum_wr": 0.575
+    },
+    {
+      "game_number": 41,
+      "cum_wins": 23,
+      "cum_n": 41,
+      "cum_wr": 0.5609756097560976
+    },
+    {
+      "game_number": 42,
+      "cum_wins": 23,
+      "cum_n": 42,
+      "cum_wr": 0.5476190476190477
+    },
+    {
+      "game_number": 43,
+      "cum_wins": 23,
+      "cum_n": 43,
+      "cum_wr": 0.5348837209302325
+    },
+    {
+      "game_number": 44,
+      "cum_wins": 23,
+      "cum_n": 44,
+      "cum_wr": 0.5227272727272727
+    },
+    {
+      "game_number": 45,
+      "cum_wins": 23,
+      "cum_n": 45,
+      "cum_wr": 0.5111111111111111
+    },
+    {
+      "game_number": 46,
+      "cum_wins": 24,
+      "cum_n": 46,
+      "cum_wr": 0.5217391304347826
+    }
+  ],
+  "going_first_second": {
+    "going_first_n": 34,
+    "going_first_wins": 17,
+    "going_first_wr": 0.5,
+    "going_first_wilson_lo": 0.34069062628048985,
+    "going_first_wilson_hi": 0.6593093737195102,
+    "going_second_n": 12,
+    "going_second_wins": 7,
+    "going_second_wr": 0.5833333333333334,
+    "going_second_wilson_lo": 0.3195073356553728,
+    "going_second_wilson_hi": 0.8067425380947535,
+    "z_stat": -0.4968334070324122,
+    "p_value_two_proportion": 0.6193065349631821,
+    "unknown_first_player_n": 0
+  },
+  "matchups": [
+    {
+      "opponent_matchup_key": "Fezandipiti ex",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "draws": 0,
+      "win_rate": 0.25,
+      "wilson_lo": 0.07147768885802763,
+      "wilson_hi": 0.5907301208974108,
+      "credibility": "OBSERVED_ONLY_SMALL_N"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Abra, Alakazam, Dudunsparce, Dunsparce, Kadabra]",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "draws": 0,
+      "win_rate": 0.5,
+      "wilson_lo": 0.21521252682444186,
+      "wilson_hi": 0.7847874731755582,
+      "credibility": "OBSERVED_ONLY_SMALL_N"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Archaludon ex]",
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "draws": 0,
+      "win_rate": 0.42857142857142855,
+      "wilson_lo": 0.15821692226262685,
+      "wilson_hi": 0.7495457695909742,
+      "credibility": "OBSERVED_ONLY_SMALL_N"
+    },
+    {
+      "opponent_matchup_key": "Dragapult ex",
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "draws": 0,
+      "win_rate": 0.6666666666666666,
+      "wilson_lo": 0.29998832134152864,
+      "wilson_hi": 0.9032306674407831,
+      "credibility": "OBSERVED_ONLY_SMALL_N"
+    },
+    {
+      "opponent_matchup_key": "Marnie's Grimmsnarl ex",
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "draws": 0,
+      "win_rate": 0.5,
+      "wilson_lo": 0.18761280689940868,
+      "wilson_hi": 0.8123871931005913,
+      "credibility": "OBSERVED_ONLY_SMALL_N"
+    },
+    {
+      "opponent_matchup_key": "Mega Lucario ex",
+      "games": 3,
+      "wins": 3,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.43849391955098227,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "Iono's (Bellibolt/Voltorb)",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.20654329147389294,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "Mega Kangaskhan ex",
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "win_rate": 0.0,
+      "wilson_lo": 0.0,
+      "wilson_hi": 0.7934567085261071,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "Team Rocket's Kangaskhan ex",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.20654329147389294,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "Team Rocket's Mewtwo ex",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.20654329147389294,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Crustle, Dwebble, Great Tusk, Terrakion]",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.20654329147389294,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Crustle, Dwebble]",
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "win_rate": 0.0,
+      "wilson_lo": 0.0,
+      "wilson_hi": 0.7934567085261071,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Mega Froslass ex, Mega Starmie ex]",
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "win_rate": 0.0,
+      "wilson_lo": 0.0,
+      "wilson_hi": 0.7934567085261071,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    },
+    {
+      "opponent_matchup_key": "UNLABELED[Mega Starmie ex]",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "win_rate": 1.0,
+      "wilson_lo": 0.20654329147389294,
+      "wilson_hi": 1.0,
+      "credibility": "INSUFFICIENT_SAMPLE"
+    }
+  ],
+  "game_length": {
+    "thresholds_turns": {
+      "q1_33pct": 13.0,
+      "q2_67pct": 14.0
+    },
+    "buckets": [
+      {
+        "bucket": "LONG",
+        "games": 12,
+        "wins": 6,
+        "win_rate": 0.5,
+        "wilson_lo": 0.2537781703934222,
+        "wilson_hi": 0.7462218296065778,
+        "avg_turns": 19.166666666666668,
+        "avg_decision_count": 114.5
+      },
+      {
+        "bucket": "MEDIUM",
+        "games": 7,
+        "wins": 6,
+        "win_rate": 0.8571428571428571,
+        "wilson_lo": 0.48686549668097007,
+        "wilson_hi": 0.9743210440510253,
+        "avg_turns": 14.0,
+        "avg_decision_count": 104.57142857142857
+      },
+      {
+        "bucket": "SHORT",
+        "games": 27,
+        "wins": 12,
+        "win_rate": 0.4444444444444444,
+        "wilson_lo": 0.2758559767007283,
+        "wilson_hi": 0.6268728052042312,
+        "avg_turns": 11.11111111111111,
+        "avg_decision_count": 75.74074074074075
+      }
+    ]
+  },
+  "latency": {
+    "mean_of_game_means_s": 0.004021254233439691,
+    "mean_of_game_medians_s": 0.0012461413043478216,
+    "max_overall_s": 0.203799,
+    "mean_of_game_p95_s": 0.0017951086956521738,
+    "mean_of_game_p99_s": 0.03828843478260869,
+    "total_calls_ge_1.0s": 0,
+    "total_calls_ge_1.8s": 0,
+    "total_decision_calls": 4151
+  },
+  "data_availability": {
+    "opponent_rating_available": false,
+    "per_game_rating_before_after_available": false,
+    "match_level_data_available": true,
+    "agent_logs_available": true,
+    "opponent_logs_available": false
+  }
+}

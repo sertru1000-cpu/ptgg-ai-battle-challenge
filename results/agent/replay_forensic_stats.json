@@ -1,0 +1,1889 @@
+{
+  "going_first_second": {
+    "going_first_games": 34,
+    "going_first_wins": 17,
+    "going_first_wr": 0.5,
+    "going_second_games": 12,
+    "going_second_wins": 7,
+    "going_second_wr": 0.5833333333333334
+  },
+  "timing": {
+    "n_calls_total": 4151,
+    "mean_s": 0.0035905107203083593,
+    "median_s": 0.001281,
+    "p95_s": 0.001985,
+    "p99_s": 0.117378,
+    "max_s": 0.203799,
+    "n_calls_ge_1s": 0,
+    "n_pre_loss_last5_calls": 110,
+    "pre_loss_last5_mean_s": 0.0013296272727272727,
+    "pre_loss_last5_max_s": 0.002512
+  },
+  "errors_total": 0,
+  "loss_dives": [
+    {
+      "episode_id": 92033721,
+      "n_meaningful_decisions": 36,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 22,
+      "deterioration_total_meaningful": 36,
+      "deterioration_fraction_through_game": 0.6111111111111112,
+      "final_our_prize": 5,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92034712,
+      "n_meaningful_decisions": 20,
+      "last5_categories": [
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "ENERGY_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [],
+        [
+          "ATTACH"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 5,
+      "deterioration_total_meaningful": 20,
+      "deterioration_fraction_through_game": 0.25,
+      "final_our_prize": 6,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92037577,
+      "n_meaningful_decisions": 53,
+      "last5_categories": [
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 31,
+      "deterioration_total_meaningful": 53,
+      "deterioration_fraction_through_game": 0.5849056603773585,
+      "final_our_prize": 4,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92038527,
+      "n_meaningful_decisions": 50,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 36,
+      "deterioration_total_meaningful": 50,
+      "deterioration_fraction_through_game": 0.72,
+      "final_our_prize": 4,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92040440,
+      "n_meaningful_decisions": 25,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 23,
+      "deterioration_total_meaningful": 25,
+      "deterioration_fraction_through_game": 0.92,
+      "final_our_prize": 5,
+      "final_opp_prize": 3
+    },
+    {
+      "episode_id": 92041426,
+      "n_meaningful_decisions": 24,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 14,
+      "deterioration_total_meaningful": 24,
+      "deterioration_fraction_through_game": 0.5833333333333334,
+      "final_our_prize": 5,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92042379,
+      "n_meaningful_decisions": 52,
+      "last5_categories": [
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 19,
+      "deterioration_total_meaningful": 52,
+      "deterioration_fraction_through_game": 0.36538461538461536,
+      "final_our_prize": 6,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92052778,
+      "n_meaningful_decisions": 33,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RETREAT_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "RETREAT"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 18,
+      "deterioration_total_meaningful": 33,
+      "deterioration_fraction_through_game": 0.5454545454545454,
+      "final_our_prize": 5,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92053714,
+      "n_meaningful_decisions": 51,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "BENCH_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "PLAY"
+        ],
+        [],
+        [
+          "EVOLVE"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": null,
+      "deterioration_total_meaningful": 51,
+      "deterioration_fraction_through_game": null,
+      "final_our_prize": 2,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92054670,
+      "n_meaningful_decisions": 47,
+      "last5_categories": [
+        "ATTACK_SELECTION",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ATTACK"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 18,
+      "deterioration_total_meaningful": 47,
+      "deterioration_fraction_through_game": 0.3829787234042553,
+      "final_our_prize": 6,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92055639,
+      "n_meaningful_decisions": 45,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 35,
+      "deterioration_total_meaningful": 45,
+      "deterioration_fraction_through_game": 0.7777777777777778,
+      "final_our_prize": 3,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92056608,
+      "n_meaningful_decisions": 60,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 54,
+      "deterioration_total_meaningful": 60,
+      "deterioration_fraction_through_game": 0.9,
+      "final_our_prize": 3,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92058494,
+      "n_meaningful_decisions": 42,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 13,
+      "deterioration_total_meaningful": 42,
+      "deterioration_fraction_through_game": 0.30952380952380953,
+      "final_our_prize": 4,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92063308,
+      "n_meaningful_decisions": 50,
+      "last5_categories": [
+        "ATTACK_SELECTION",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RETREAT_SELECTION",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ATTACK"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "RETREAT"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 17,
+      "deterioration_total_meaningful": 50,
+      "deterioration_fraction_through_game": 0.34,
+      "final_our_prize": 4,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92074690,
+      "n_meaningful_decisions": 47,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 28,
+      "deterioration_total_meaningful": 47,
+      "deterioration_fraction_through_game": 0.5957446808510638,
+      "final_our_prize": 3,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92098917,
+      "n_meaningful_decisions": 10,
+      "last5_categories": [
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [],
+        [
+          "PLAY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": null,
+      "deterioration_total_meaningful": 10,
+      "deterioration_fraction_through_game": null,
+      "final_our_prize": 6,
+      "final_opp_prize": 6
+    },
+    {
+      "episode_id": 92108240,
+      "n_meaningful_decisions": 39,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RETREAT_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "RETREAT"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 27,
+      "deterioration_total_meaningful": 39,
+      "deterioration_fraction_through_game": 0.6923076923076923,
+      "final_our_prize": 3,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92108334,
+      "n_meaningful_decisions": 48,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 31,
+      "deterioration_total_meaningful": 48,
+      "deterioration_fraction_through_game": 0.6458333333333334,
+      "final_our_prize": 6,
+      "final_opp_prize": 2
+    },
+    {
+      "episode_id": 92113723,
+      "n_meaningful_decisions": 59,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "ATTACK_SELECTION",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "ATTACK"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": null,
+      "deterioration_total_meaningful": 59,
+      "deterioration_fraction_through_game": null,
+      "final_our_prize": 2,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92121351,
+      "n_meaningful_decisions": 38,
+      "last5_categories": [
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 19,
+      "deterioration_total_meaningful": 38,
+      "deterioration_fraction_through_game": 0.5,
+      "final_our_prize": 6,
+      "final_opp_prize": 3
+    },
+    {
+      "episode_id": 92142909,
+      "n_meaningful_decisions": 46,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "PLAY"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 31,
+      "deterioration_total_meaningful": 46,
+      "deterioration_fraction_through_game": 0.6739130434782609,
+      "final_our_prize": 5,
+      "final_opp_prize": 1
+    },
+    {
+      "episode_id": 92150473,
+      "n_meaningful_decisions": 43,
+      "last5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "ATTACK_SELECTION"
+      ],
+      "last5_contexts": [
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN",
+        "MAIN"
+      ],
+      "last5_chosen": [
+        [
+          "PLAY"
+        ],
+        [
+          "EVOLVE"
+        ],
+        [
+          "ABILITY"
+        ],
+        [
+          "ATTACH"
+        ],
+        [
+          "ATTACK"
+        ]
+      ],
+      "deterioration_decision_index_in_meaningful_list": 14,
+      "deterioration_total_meaningful": 43,
+      "deterioration_fraction_through_game": 0.32558139534883723,
+      "final_our_prize": 4,
+      "final_opp_prize": 2
+    }
+  ],
+  "final_turn_classification": [
+    {
+      "episode_id": 92033721,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 2,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92034712,
+      "final_window_turns": [
+        5,
+        5,
+        5,
+        7
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92037577,
+      "final_window_turns": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+      ],
+      "prize_deficit_at_window_start": 2,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92038527,
+      "final_window_turns": [
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92040440,
+      "final_window_turns": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        9,
+        9
+      ],
+      "prize_deficit_at_window_start": 1,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92041426,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92042379,
+      "final_window_turns": [
+        16,
+        16,
+        18,
+        18
+      ],
+      "prize_deficit_at_window_start": 4,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92052778,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92053714,
+      "final_window_turns": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        18
+      ],
+      "prize_deficit_at_window_start": -1,
+      "classification": "LOSS_FIRST_BECAME_CLEAR_HERE"
+    },
+    {
+      "episode_id": 92054670,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 4,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92055639,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92056608,
+      "final_window_turns": [
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "prize_deficit_at_window_start": 1,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92058494,
+      "final_window_turns": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "prize_deficit_at_window_start": 4,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92063308,
+      "final_window_turns": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        12,
+        12,
+        12,
+        12
+      ],
+      "prize_deficit_at_window_start": 5,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92074690,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 2,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92098917,
+      "final_window_turns": [
+        3,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5
+      ],
+      "prize_deficit_at_window_start": 0,
+      "classification": "LOSS_FIRST_BECAME_CLEAR_HERE"
+    },
+    {
+      "episode_id": 92108240,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 1,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92108334,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 4,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92113723,
+      "final_window_turns": [
+        14,
+        14,
+        14,
+        14,
+        16,
+        16
+      ],
+      "prize_deficit_at_window_start": -2,
+      "classification": "LOSS_FIRST_BECAME_CLEAR_HERE"
+    },
+    {
+      "episode_id": 92121351,
+      "final_window_turns": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "prize_deficit_at_window_start": 2,
+      "classification": "LOSS_LIKELY_DECIDED_HERE"
+    },
+    {
+      "episode_id": 92142909,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 3,
+      "classification": "LOSS_ALREADY_FORCED"
+    },
+    {
+      "episode_id": 92150473,
+      "final_window_turns": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "prize_deficit_at_window_start": 4,
+      "classification": "LOSS_ALREADY_FORCED"
+    }
+  ],
+  "final_turn_classification_counts": {
+    "LOSS_LIKELY_DECIDED_HERE": 7,
+    "LOSS_ALREADY_FORCED": 12,
+    "LOSS_FIRST_BECAME_CLEAR_HERE": 3
+  },
+  "early_game": [
+    {
+      "episode_id": 92032796,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92033721,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92034712,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92035664,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92036613,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92037577,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RETREAT_SELECTION",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92038527,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92039487,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92040440,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92041426,
+      "result": "LOSS",
+      "first5_categories": [
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92042379,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RETREAT_SELECTION"
+      ]
+    },
+    {
+      "episode_id": 92043348,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92044295,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92045248,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92046201,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92047143,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92048087,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92049041,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92049984,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "BENCH_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92050914,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92051839,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92052778,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92053714,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RETREAT_SELECTION"
+      ]
+    },
+    {
+      "episode_id": 92054670,
+      "result": "LOSS",
+      "first5_categories": [
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92055639,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92056608,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92057550,
+      "result": "WIN",
+      "first5_categories": [
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92058494,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92063308,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92064256,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92074690,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92083858,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92084005,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "BENCH_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92084030,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92095110,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92095243,
+      "result": "WIN",
+      "first5_categories": [
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92096868,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92098917,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92104680,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92108240,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92108334,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92113723,
+      "result": "LOSS",
+      "first5_categories": [
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92121351,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92142909,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING"
+      ]
+    },
+    {
+      "episode_id": 92150473,
+      "result": "LOSS",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "ENERGY_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT"
+      ]
+    },
+    {
+      "episode_id": 92158945,
+      "result": "WIN",
+      "first5_categories": [
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "RESOURCE_MANAGEMENT",
+        "TIMING",
+        "BENCH_MANAGEMENT"
+      ]
+    }
+  ],
+  "early_game_category_by_result": {
+    "RESOURCE_MANAGEMENT": {
+      "WIN": 24,
+      "LOSS": 22
+    },
+    "TIMING": {
+      "WIN": 14,
+      "LOSS": 10
+    },
+    "ENERGY_MANAGEMENT": {
+      "WIN": 20,
+      "LOSS": 14
+    },
+    "BENCH_MANAGEMENT": {
+      "WIN": 5,
+      "LOSS": 1
+    },
+    "RETREAT_SELECTION": {
+      "WIN": 0,
+      "LOSS": 3
+    }
+  },
+  "late_game_category_by_result": {
+    "ENERGY_MANAGEMENT": {
+      "WIN": 13,
+      "LOSS": 14
+    },
+    "RESOURCE_MANAGEMENT": {
+      "WIN": 23,
+      "LOSS": 22
+    },
+    "ATTACK_SELECTION": {
+      "WIN": 24,
+      "LOSS": 11
+    },
+    "BENCH_MANAGEMENT": {
+      "WIN": 10,
+      "LOSS": 10
+    },
+    "TIMING": {
+      "WIN": 1,
+      "LOSS": 5
+    },
+    "RETREAT_SELECTION": {
+      "WIN": 7,
+      "LOSS": 3
+    }
+  },
+  "n_ladder_games_this_phase": 46,
+  "n_wins": 24,
+  "n_losses": 22,
+  "n_draws": 0
+}

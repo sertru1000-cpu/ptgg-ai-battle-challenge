@@ -1,0 +1,13 @@
+counter_archetype,target_archetype,detection_date,horizon_games,oos_wins,oos_win_rate,oos_wilson_lo,oos_wilson_hi,is_primary_horizon
+Dragapult ex,Fezandipiti ex,2026-08-05,ALL_AVAILABLE,9,0.6,0.3575,0.8018,False
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,25,11,0.44,0.2667,0.6293,True
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,50,25,0.5,0.3664,0.6336,False
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,ALL_AVAILABLE,36,0.4932,0.3817,0.6053,False
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,25,13,0.52,0.335,0.6997,True
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,50,27,0.54,0.404,0.6703,False
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,100,48,0.48,0.3846,0.5768,False
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,150,74,0.4933,0.4145,0.5725,False
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,ALL_AVAILABLE,78,0.4906,0.414,0.5676,False
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,ALL_AVAILABLE,14,0.8235,0.5897,0.9381,False
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,25,21,0.84,0.6535,0.936,True
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,ALL_AVAILABLE,22,0.8462,0.6647,0.9385,False

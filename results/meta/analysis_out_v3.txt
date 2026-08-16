@@ -1,0 +1,146 @@
+==============================================================================
+DATASET: 6998 side-rows (3499 episodes)
+Date range: 2026-06-16 to 2026-08-10
+By period (episode-level, side=0 rows only to avoid double count): {'RECENT': 1999, 'MIDDLE': 1000, 'EARLY': 500}
+outcome_type (episode-level): DECISIVE=3491 DRAW=5 ERROR_OR_TIMEOUT=3
+
+Wrote C:\Users\sertru1000\Projects\PokemonGame\reports\meta_data_quality.md
+
+Wrote deck_stats.csv: 619 exact decks
+
+TOP 20 EXACT DECKS:
+       deck_hash                   label              cluster_id  games  share_pct  wins  losses  win_rate  wilson_lo  wilson_hi first_player_win_rate second_player_win_rate  avg_player_rating_inferred  avg_opponent_rating_inferred  avg_game_length confidence
+dc2ce39b94cbbb38  Marnie's Grimmsnarl ex  Marnie's Grimmsnarl ex   1436     20.567   697     739    0.4854     0.4596     0.5112                0.5409                 0.4294                      1080.0                        1092.9            181.2     USABLE
+fcac695071c3f3cf          Fezandipiti ex          Fezandipiti ex    763     10.928   353     410    0.4626     0.4275     0.4981                0.5303                 0.3958                      1103.9                        1097.4            154.8     USABLE
+b43a53d96da0f0b5  Marnie's Grimmsnarl ex  Marnie's Grimmsnarl ex    393      5.629   202     191    0.5140     0.4647     0.5630                0.5213                 0.5055                      1097.2                        1100.5            175.4     USABLE
+e34dae96b1984485   Cynthia's Garchomp ex   Cynthia's Garchomp ex    261      3.738   139     122    0.5326     0.4720     0.5922                0.5899                 0.4672                      1106.6                        1096.8            156.9     USABLE
+b20e3e96100a11d5          Fezandipiti ex          Fezandipiti ex    237      3.394   117     120    0.4937     0.4306     0.5569                  0.56                 0.4196                      1136.1                        1109.1            155.4     USABLE
+37f2032236fb6baf      Mega Kangaskhan ex      Mega Kangaskhan ex    152      2.177    70      82    0.4605     0.3832     0.5398                 0.493                 0.4321                      1144.0                        1110.9            141.6     USABLE
+fb6542fd45093b86         Mega Lopunny ex         Mega Lopunny ex    119      1.704    75      44    0.6303     0.5407     0.7116                0.6889                 0.5946                      1092.7                        1081.1            161.9     USABLE
+14db4b34cc8fbbb7      Mega Kangaskhan ex      Mega Kangaskhan ex    116      1.661    53      63    0.4569     0.3691     0.5475                0.4032                 0.5185                      1124.9                        1099.7            156.6     USABLE
+831fd3a04060c7c2               UNLABELED    UNLABELED_CLUSTER_01    115      1.647    57      58    0.4957     0.4059     0.5857                 0.569                 0.4211                      1069.4                        1085.2            161.9     USABLE
+58c4d89cf8edc355 Team Rocket's Mewtwo ex Team Rocket's Mewtwo ex     77      1.103    36      41    0.4675     0.3603     0.5779                0.5526                 0.3846                      1142.3                        1113.6            164.1     USABLE
+61f90c30a060ef40  Marnie's Grimmsnarl ex  Marnie's Grimmsnarl ex     75      1.074    30      45    0.4000     0.2966     0.5131                0.4545                 0.3571                      1094.4                        1094.8            150.8     USABLE
+19a01ac1cebb1e8b         Mega Lopunny ex         Mega Lopunny ex     68      0.974    38      30    0.5588     0.4408     0.6705                   0.5                 0.6111                      1112.6                        1080.7            166.4     USABLE
+910dcaefeb77a2f0  Marnie's Grimmsnarl ex  Marnie's Grimmsnarl ex     67      0.960    44      23    0.6567     0.5373     0.7591                0.6923                 0.6071                      1124.1                        1098.2            162.0     USABLE
+2b38095c5eca59f6    Teal Mask Ogerpon ex    Teal Mask Ogerpon ex     65      0.931    33      32    0.5077     0.3892     0.6254                0.4688                 0.5455                      1075.1                        1086.4            129.1     USABLE
+058f82abd5449e39            Dragapult ex            Dragapult ex     64      0.917    37      27    0.5781     0.4561     0.6913                0.5714                 0.5833                      1056.6                        1077.9            196.7     USABLE
+5ef1f4c673271c4f      Mega Kangaskhan ex      Mega Kangaskhan ex     63      0.902    35      28    0.5556     0.4332     0.6715                0.6364                 0.4667                      1074.3                        1099.6            142.5     USABLE
+6c534f1524e51c74         Mega Lucario ex         Mega Lucario ex     60      0.859    25      35    0.4167     0.3006     0.5427                0.5161                 0.3103                       893.6                         891.6            125.7     USABLE
+f1b53d2f908f682e      Mega Kangaskhan ex      Mega Kangaskhan ex     60      0.859    29      31    0.4833     0.3617     0.6069                0.4138                 0.5484                      1109.4                        1082.4            165.2     USABLE
+cf54338b6b99acc3               UNLABELED    UNLABELED_CLUSTER_05     58      0.831    28      30    0.4828     0.3593     0.6084                   0.5                 0.4643                      1055.7                        1054.9            162.7     USABLE
+b78aa05e94236e10      Mega Kangaskhan ex      Mega Kangaskhan ex     57      0.816    32      25    0.5614     0.4328     0.6823                0.5556                 0.5714                      1152.8                        1120.9            139.6     USABLE
+
+==============================================================================
+ARCHETYPE/CLUSTER LEVEL (n=83)
+                cluster_id  games  share_pct  win_rate  wilson_lo  wilson_hi  n_exact_decks  avg_player_rating_inferred     confidence
+    Marnie's Grimmsnarl ex   2225     31.868    0.4903     0.4696     0.5111             47                      1086.2         USABLE
+            Fezandipiti ex   1355     19.407    0.4708     0.4444     0.4975             87                      1102.4         USABLE
+        Mega Kangaskhan ex    668      9.567    0.4970     0.4592     0.5348             48                      1112.9         USABLE
+   Team Rocket's Mewtwo ex    349      4.999    0.5129     0.4606     0.5649             30                      1118.4         USABLE
+              Dragapult ex    337      4.827    0.5519     0.4985     0.6041             50                      1062.5         USABLE
+     Cynthia's Garchomp ex    296      4.239    0.5270     0.4702     0.5832             13                      1103.4         USABLE
+           Mega Lopunny ex    289      4.139    0.5536     0.4960     0.6099             18                      1090.3         USABLE
+           Mega Lucario ex    262      3.753    0.5153     0.4550     0.5751             49                      1012.3         USABLE
+      Teal Mask Ogerpon ex    199      2.850    0.5578     0.4883     0.6251             30                      1054.2         USABLE
+      UNLABELED_CLUSTER_01    191      2.736    0.5183     0.4478     0.5881             36                      1071.8         USABLE
+      UNLABELED_CLUSTER_02    124      1.776    0.4435     0.3591     0.5314             33                      1078.1         USABLE
+      UNLABELED_CLUSTER_03     88      1.260    0.4545     0.3546     0.5583              9                      1076.1         USABLE
+      UNLABELED_CLUSTER_04     80      1.146    0.4625     0.3575     0.5710             11                      1071.8         USABLE
+      UNLABELED_CLUSTER_05     76      1.089    0.4868     0.3778     0.5971             13                      1052.7         USABLE
+      UNLABELED_CLUSTER_06     41      0.587    0.4390     0.2989     0.5896             14                       892.8 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_07     39      0.559    0.5385     0.3857     0.6843             11                      1102.8 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_08     28      0.401    0.7500     0.5664     0.8732              4                      1080.1 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_09     23      0.329    0.6087     0.4079     0.7784              2                      1102.7 LOW_CONFIDENCE
+         Mega Abomasnow ex     22      0.315    0.5000     0.3072     0.6928              6                       683.7 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_10     22      0.315    0.5909     0.3873     0.7674              3                      1066.9 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_11     20      0.286    0.5500     0.3421     0.7418              2                      1108.7 LOW_CONFIDENCE
+      UNLABELED_CLUSTER_12     19      0.272    0.5263     0.3171     0.7267              6                      1093.9   INSUFFICIENT
+Iono's (Bellibolt/Voltorb)     15      0.215    0.3333     0.1518     0.5829              1                      1003.8   INSUFFICIENT
+      UNLABELED_CLUSTER_13     15      0.215    0.6000     0.3575     0.8018              1                      1103.5   INSUFFICIENT
+      UNLABELED_CLUSTER_14     14      0.201    0.3571     0.1634     0.6124              2                      1061.5   INSUFFICIENT
+      UNLABELED_CLUSTER_15     12      0.172    0.7500     0.4677     0.9111              1                      1183.4   INSUFFICIENT
+      UNLABELED_CLUSTER_16     11      0.158    0.2727     0.0975     0.5657              2                      1084.7   INSUFFICIENT
+      UNLABELED_CLUSTER_17     11      0.158    0.7273     0.4343     0.9025              4                       904.2   INSUFFICIENT
+      UNLABELED_CLUSTER_18     11      0.158    0.4545     0.2127     0.7199              3                      1113.1   INSUFFICIENT
+      UNLABELED_CLUSTER_19      9      0.129    0.6667     0.3542     0.8794              5                      1060.2   INSUFFICIENT
+
+==============================================================================
+TEMPORAL DRIFT for 16 major archetypes (>= 30 games overall)
+             cluster_id  share_early_pct  n_early  win_rate_early  share_middle_pct  n_middle  win_rate_middle  share_recent_pct  n_recent  win_rate_recent
+ Marnie's Grimmsnarl ex             8.52       85           0.612             18.61       371            0.491             44.34      1769            0.484
+         Fezandipiti ex             8.12       81           0.531             30.24       603            0.459             16.82       671            0.474
+     Mega Kangaskhan ex             2.10       21           0.524             14.94       298            0.490              8.75       349            0.501
+Team Rocket's Mewtwo ex             0.90        9           0.444              5.97       119            0.563              5.54       221            0.489
+           Dragapult ex             6.41       64           0.422              4.46        89            0.607              4.61       184            0.571
+  Cynthia's Garchomp ex             1.70       17           0.588              5.62       112            0.571              4.19       167            0.491
+        Mega Lopunny ex             0.20        2           0.500              0.70        14            0.286              6.84       273            0.568
+        Mega Lucario ex            17.54      175           0.474              1.35        27            0.556              1.50        60            0.617
+   Teal Mask Ogerpon ex             0.30        3           1.000              0.25         5            0.800              4.79       191            0.545
+   UNLABELED_CLUSTER_01            11.02      110           0.491              3.81        76            0.539              0.13         5            0.800
+   UNLABELED_CLUSTER_02             8.72       87           0.494              1.71        34            0.324              0.08         3            0.333
+   UNLABELED_CLUSTER_03             4.91       49           0.449              1.96        39            0.462              0.00         0              NaN
+   UNLABELED_CLUSTER_04             1.30       13           0.231              2.51        50            0.540              0.43        17            0.412
+   UNLABELED_CLUSTER_05             7.62       76           0.487              0.00         0              NaN              0.00         0              NaN
+   UNLABELED_CLUSTER_06             4.11       41           0.439              0.00         0              NaN              0.00         0              NaN
+   UNLABELED_CLUSTER_07             1.00       10           0.600              1.20        24            0.542              0.13         5            0.400
+
+==============================================================================
+MATCHUP MATRIX
+Wrote matchup_matrix.csv: 1751 rows (EXACT=1462, ARCHETYPE=289)
+ARCHETYPE-level pairs: USABLE(>=50)=11, LOW_CONFIDENCE(20-49)=15, INSUFFICIENT(<20)=263
+
+Most lopsided USABLE archetype matchups:
+    level        player_deck_hash     opponent_deck_hash  games  wins  losses  win_rate  wilson_lo  wilson_hi confidence
+ARCHETYPE  Marnie's Grimmsnarl ex   Teal Mask Ogerpon ex     77    14      63    0.1818     0.1115     0.2824     USABLE
+ARCHETYPE Team Rocket's Mewtwo ex         Fezandipiti ex     85    65      20    0.7647     0.6643     0.8422     USABLE
+ARCHETYPE          Fezandipiti ex           Dragapult ex     76    27      49    0.3553     0.2570     0.4674     USABLE
+ARCHETYPE  Marnie's Grimmsnarl ex           Dragapult ex     76    30      46    0.3947     0.2925     0.5071     USABLE
+ARCHETYPE Team Rocket's Mewtwo ex Marnie's Grimmsnarl ex    134    54      80    0.4030     0.3238     0.4876     USABLE
+ARCHETYPE  Marnie's Grimmsnarl ex        Mega Lopunny ex     98    42      56    0.4286     0.3351     0.5274     USABLE
+ARCHETYPE  Marnie's Grimmsnarl ex  Cynthia's Garchomp ex     98    42      56    0.4286     0.3351     0.5274     USABLE
+ARCHETYPE          Fezandipiti ex  Cynthia's Garchomp ex     57    32      25    0.5614     0.4328     0.6823     USABLE
+ARCHETYPE      Mega Kangaskhan ex Marnie's Grimmsnarl ex    210   115      95    0.5476     0.4800     0.6135     USABLE
+ARCHETYPE          Fezandipiti ex Marnie's Grimmsnarl ex    417   190     227    0.4556     0.4085     0.5036     USABLE
+ARCHETYPE          Fezandipiti ex     Mega Kangaskhan ex    160    83      77    0.5188     0.4418     0.5948     USABLE
+
+==============================================================================
+DECK VARIANTS
+Wrote deck_variants.csv: 16 archetype/cluster variants (>= 30 games each)
+NOTE: variant identity = deterministic clustering by shared headline-Pokemon signature (src/meta_analysis/deck_clustering.py), not a learned/statistical clustering model -- documented explicitly per the prompt's instruction not to invent archetypes the data doesn't support.
+
+==============================================================================
+RATING ANALYSIS
+Decisive episodes with resolved (INFERRED) rating: 3491
+player_rating distribution: min=340.3 p25=1046.6 median=1090.1 p75=1130.0 max=1347.4 mean=1085.1
+Wrote rating_analysis.csv: 53 rows
+      row_type                  key  games  win_rate  wilson_lo  wilson_hi  avg_player_rating  avg_opponent_rating  avg_rating_diff  avg_game_length confidence
+OVERALL_BUCKET  (340.309, 1033.724]   1397    0.5075     0.4813     0.5337              973.9               1006.2            -32.4            152.7     USABLE
+OVERALL_BUCKET (1033.724, 1074.223]   1396    0.5057     0.4795     0.5319             1055.8               1079.6            -23.8            161.0     USABLE
+OVERALL_BUCKET (1074.223, 1104.502]   1396    0.4692     0.4431     0.4954             1089.8               1090.5             -0.7            160.4     USABLE
+OVERALL_BUCKET (1104.502, 1140.845]   1396    0.5129     0.4867     0.5390             1121.5               1101.9             19.6            162.4     USABLE
+OVERALL_BUCKET  (1140.845, 1347.44]   1397    0.5047     0.4785     0.5308             1184.4               1147.1             37.3            156.9     USABLE
+
+==============================================================================
+SHORT-GAME ANALYSIS
+game_length distribution (decisive, side=0 rows would double count -- using all rows/2 implicitly via episode-level dedup): n=3491 p5=70 p25=131 median=160 p75=189 p95=237
+Short-game threshold (10th percentile): 97 steps
+Short games (<= 97 steps): 718 side-rows
+ player_deck_cluster_id  games  win_rate     confidence
+         Fezandipiti ex    135  0.651852         USABLE
+     Mega Kangaskhan ex    109  0.238532         USABLE
+ Marnie's Grimmsnarl ex     84  0.547619         USABLE
+        Mega Lucario ex     47  0.638298 LOW_CONFIDENCE
+   UNLABELED_CLUSTER_03     38  0.552632 LOW_CONFIDENCE
+   UNLABELED_CLUSTER_06     31  0.354839 LOW_CONFIDENCE
+   UNLABELED_CLUSTER_01     29  0.379310 LOW_CONFIDENCE
+   Teal Mask Ogerpon ex     28  0.392857 LOW_CONFIDENCE
+        Mega Lopunny ex     27  0.703704 LOW_CONFIDENCE
+           Dragapult ex     23  0.434783 LOW_CONFIDENCE
+   UNLABELED_CLUSTER_02     22  0.454545 LOW_CONFIDENCE
+      Mega Abomasnow ex     18  0.444444   INSUFFICIENT
+Team Rocket's Mewtwo ex     17  0.352941   INSUFFICIENT
+  Cynthia's Garchomp ex     14  0.357143   INSUFFICIENT
+   UNLABELED_CLUSTER_07     12  0.666667   INSUFFICIENT
+
+DONE.

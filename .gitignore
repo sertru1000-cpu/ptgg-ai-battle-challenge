@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+pytools/
+
+# Kaggle credentials - never commit
+kaggle.json
+.kaggle/
+
+# Local data / large official assets pulled from Kaggle.
+# data/ wholesale: contains the competition-use-only engine distribution
+# (data/official/ -- licensed "do not share or republish") and multi-GB
+# replay pulls; nothing in data/ may reach a public repo.
+data/
+*.tar.gz
+*.zip
+
+# Submission staging: every _staging_v*/ carries a full copy of the official
+# cg package (cg.dll et al.) -- same license restriction as data/official/.
+submission/
+
+# Native build artifacts (JIT-compiled per machine, never committed)
+src/agents/*_cpp/_build/
+*.dll
+*.obj
+*.lib
+*.exp
+*.pdb
+*.so
+*.dylib
+
+# Bulk experiment outputs (raw CSV/JSONL stay in git as research assets;
+# multi-GB generated datasets do not)
+results/selfplay/
+results/**/*.parquet
+logs/
+
+# Third-party Kaggle content (others' notebooks, competition page dumps)
+sample_notebooks/
+kaggle_page_*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Per-decision game logs from the first/second study: 50-113MB each, over
+# GitHub limits. Kept locally as raw research data, excluded from the repo.
+results/dragapult_first_second/*/games/

@@ -1,0 +1,84 @@
+archetype_id,archetype_name,recent_games,recent_share_of_period,prior_raw,included_in_filtered,prior_filtered
+Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,1769,44.3358,0.443358,True,0.455341
+Fezandipiti ex,Fezandipiti ex,671,16.817,0.16817,True,0.172716
+Mega Kangaskhan ex,Mega Kangaskhan ex,349,8.7469,0.087469,True,0.089833
+Mega Lopunny ex,Mega Lopunny ex,273,6.8421,0.068421,True,0.07027
+Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,221,5.5388,0.055388,True,0.056885
+Teal Mask Ogerpon ex,Teal Mask Ogerpon ex,191,4.787,0.04787,True,0.049163
+Dragapult ex,Dragapult ex,184,4.6115,0.046115,True,0.047362
+Cynthia's Garchomp ex,Cynthia's Garchomp ex,167,4.1855,0.041855,True,0.042986
+Mega Lucario ex,Mega Lucario ex,60,1.5038,0.015038,True,0.015444
+UNLABELED_CLUSTER_04,Cornerstone Mask Ogerpon ex,17,0.4261,0.004261,False,0.0
+UNLABELED_CLUSTER_09,Applin / Dipplin / Grookey / Rabsca / Rellor / Shaymin / Thwackey,10,0.2506,0.002506,False,0.0
+UNLABELED_CLUSTER_12,Cornerstone Mask Ogerpon ex / Mega Froslass ex / Mega Starmie ex,9,0.2256,0.002256,False,0.0
+UNLABELED_CLUSTER_13,Applin / Dipplin / Grookey / Swirlix / Thwackey,7,0.1754,0.001754,False,0.0
+UNLABELED_CLUSTER_21,N’s Zoroark ex,7,0.1754,0.001754,False,0.0
+UNLABELED_CLUSTER_19,Applin / Dipplin / Goldeen / Grookey / Seaking / Thwackey,5,0.1253,0.001253,False,0.0
+UNLABELED_CLUSTER_07,Mega Froslass ex / Mega Starmie ex,5,0.1253,0.001253,False,0.0
+UNLABELED_CLUSTER_01,Abra / Alakazam / Dudunsparce / Dunsparce / Kadabra,5,0.1253,0.001253,False,0.0
+UNLABELED_CLUSTER_15,Applin / Dipplin / Genesect / Grookey / Rabsca / Rellor / Shaymin / Thwackey,5,0.1253,0.001253,False,0.0
+UNLABELED_CLUSTER_26,Applin / Celebi / Dipplin / Grookey / Thwackey,4,0.1003,0.001003,False,0.0
+UNLABELED_CLUSTER_30,Applin / Dipplin / Goldeen / Grookey / Rabsca / Rellor / Rillaboom / Seaking / Shaymin / Thwackey,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_32,Applin / Dipplin / Grookey / Shaymin / Thwackey,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_33,Applin / Dipplin / Grookey / Shaymin / Thwackey / Volbeat,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_34,Applin / Celebi / Dipplin / Grookey / Shaymin / Thwackey,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_02,Archaludon ex,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_27,Applin / Dipplin / Goldeen / Grookey / Seaking / Shaymin / Thwackey,3,0.0752,0.000752,False,0.0
+UNLABELED_CLUSTER_45,Applin / Dipplin / Goldeen / Grookey / Psyduck / Rillaboom / Seaking / Shaymin / Thwackey,2,0.0501,0.000501,False,0.0
+UNLABELED_CLUSTER_44,Brambleghast / Bramblin / Comfey / Rabsca / Rellor / Team Rocket's Articuno,2,0.0501,0.000501,False,0.0
+UNLABELED_CLUSTER_46,Applin / Dipplin / Grookey / Thwackey / Volbeat,2,0.0501,0.000501,False,0.0
+UNLABELED_CLUSTER_41,Applin / Dipplin / Grookey / Thwackey,2,0.0501,0.000501,False,0.0
+UNLABELED_CLUSTER_42,Crustle / Dwebble / Ethan's Cyndaquil / Ethan's Quilava / Ethan's Typhlosion / Team Rocket's Articuno,2,0.0501,0.000501,False,0.0
+UNLABELED_CLUSTER_72,Applin / Budew / Dipplin / Goldeen / Grookey / Rillaboom / Thwackey,1,0.0251,0.000251,False,0.0
+UNLABELED_CLUSTER_68,Cornerstone Mask Ogerpon ex / Latias ex / Meowth ex,1,0.0251,0.000251,False,0.0
+UNLABELED_CLUSTER_71,Chandelure / Comfey / Lampent / Litwick,1,0.0251,0.000251,False,0.0
+Mega Abomasnow ex,Mega Abomasnow ex,0,0.0,0.0,False,0.0
+Iono's (Bellibolt/Voltorb),Iono's (Bellibolt/Voltorb),0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_08,Abra / Alakazam / Dudunsparce / Dunsparce / Kadabra / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_06,Crustle / Dwebble,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_05,Dudunsparce / Dunsparce / Hop's Phantump / Hop's Trevenant / Hop’s Snorlax,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_03,Mega Starmie ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_17,Crustle / Dwebble / Ethan's Cyndaquil / Ethan's Quilava / Ethan's Typhlosion,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_18,Brambleghast / Bramblin / Comfey / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_28,Abra / Alakazam / Dudunsparce / Dunsparce / Kadabra / Shaymin / Togekiss / Togepi,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_25,Cubchoo / Dudunsparce / Dunsparce / Munkidori / Team Rocket's Articuno,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_24,Mega Froslass ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_23,Abra / Alakazam / Dudunsparce / Dunsparce / Genesect / Kadabra / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_22,Dudunsparce / Dunsparce / Hop's Phantump / Hop's Trevenant / Hop’s Cramorant / Hop’s Snorlax,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_20,Crustle / Dwebble / Great Tusk / Terrakion,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_16,Abra / Alakazam / Dudunsparce / Dunsparce / Kadabra / Togekiss / Togepi,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_14,Comfey / Shaymin / Yveltal,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_11,Chandelure / Comfey / Lampent / Litwick / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_10,Hop's Phantump / Hop's Trevenant / Hop’s Cramorant / Hop’s Snorlax,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_40,Cubchoo / Dudunsparce / Dunsparce / Fan Rotom,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_39,Hop's Phantump / Hop's Trevenant / Hop’s Cramorant / Hop’s Dubwool / Hop’s Snorlax / Hop’s Wooloo / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_38,Mega Starmie ex / Meowth ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_37,Barbaracle / Binacle / Lunatone / Okidogi / Solrock,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_36,Team Rocket's Articuno / Team Rocket's Honchkrow / Team Rocket's Murkrow / Team Rocket's Porygon / Team Rocket's Porygon2,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_35,Budew / Dudunsparce / Dunsparce / Sealeo / Spheal / Walrein,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_29,Abra / Alakazam / Dudunsparce / Dunsparce / Fan Rotom / Kadabra,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_31,Barbaracle / Binacle / Bloodmoon Ursaluna / Lunatone / Okidogi / Solrock,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_49,Abra / Alakazam / Dudunsparce / Dunsparce / Genesect / Kadabra / Psyduck / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_50,Cubchoo / Munkidori,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_51,Applin / Dipplin / Grookey / Shaymin / Swirlix / Thwackey,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_52,Crustle / Dwebble / Volcanion,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_53,Pikachu ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_43,Cornerstone Mask Ogerpon ex / Mega Starmie ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_47,Abra / Alakazam / Dudunsparce / Dunsparce / Fan Rotom / Kadabra / Shaymin / Togekiss / Togepi,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_48,Crustle / Dwebble / Munkidori,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_56,Budew / Cubchoo,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_55,Crustle / Dwebble / Ethan's Cyndaquil / Ethan's Quilava / Ethan's Typhlosion / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_54,Abra / Alakazam / Dudunsparce / Dunsparce / Elgyem / Kadabra,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_57,Dunsparce / Hop's Phantump / Hop's Trevenant / Hop’s Cramorant / Hop’s Snorlax,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_61,Latias ex / Lillie’s Clefairy ex / Meowth ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_58,Dudunsparce / Dunsparce / Hop's Phantump / Hop's Trevenant / Hop’s Snorlax / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_59,Abra / Alakazam / Dudunsparce / Dunsparce / Genesect / Kadabra,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_60,Barbaracle / Binacle / Lunatone / Munkidori / Okidogi / Solrock,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_64,Budew / Crustle / Dwebble / Ethan's Cyndaquil / Ethan's Quilava / Ethan's Typhlosion,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_63,Abra / Alakazam / Dudunsparce / Dunsparce / Fan Rotom / Kadabra / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_62,Barbaracle / Binacle / Lunatone / Moltres / Okidogi / Patrat / Solrock,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_65,Elgyem / Maractus / Team Rocket's Articuno / Turtonator,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_67,Abra / Alakazam / Dudunsparce / Dunsparce / Kadabra / Sigilyph,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_66,Cubchoo / Dudunsparce / Dunsparce / Great Tusk / Shaymin,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_70,Mega Sharpedo ex,0,0.0,0.0,False,0.0
+UNLABELED_CLUSTER_69,Archaludon ex / Meowth ex,0,0.0,0.0,False,0.0

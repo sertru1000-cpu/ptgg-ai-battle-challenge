@@ -1,0 +1,2 @@
+total_candidates,total_detected,oos_confirmed,oos_failed,oos_pending,expired_low_target_share,oos_evaluated_total,confirmation_rate_of_evaluated,false_positive_rate_of_evaluated,note
+5,5,1,2,2,0,3,0.3333,0.6667,pending counters excluded from confirmation/false-positive rates (Sec 28: never interpret pending as failure)

@@ -1,0 +1,2 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+dragapult_agent_v12,lucario_ex_agent,4,0,0,2,2,0.5,0.5,0.5,2,2

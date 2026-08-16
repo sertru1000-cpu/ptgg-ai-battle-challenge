@@ -1,0 +1,3 @@
+target_archetype,counter_archetype,detection_date,historical_estimate_at_detection,historical_n_at_detection,future_oos_games,future_oos_wins,future_oos_win_rate,note
+Marnie's Grimmsnarl ex,Mega Kangaskhan ex,2026-07-17,0.74,50,160,78,0.4875,"detected using games strictly before 2026-07-17, evaluated on games from that date onward (inclusive)"
+Fezandipiti ex,Team Rocket's Mewtwo ex,2026-07-21,0.7255,51,34,28,0.8235,"detected using games strictly before 2026-07-21, evaluated on games from that date onward (inclusive)"

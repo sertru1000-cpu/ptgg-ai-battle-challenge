@@ -1,0 +1,85 @@
+{
+  "phase": "4.7",
+  "generated": "2026-08-11",
+  "competition": {
+    "simulation_ref": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle",
+    "deadline_utc": "2026-08-16T23:59:00Z",
+    "max_daily_submissions": 5,
+    "max_team_size": 5,
+    "only_latest_n_submissions_scored": 2,
+    "env": "cabt (kaggle_environments)",
+    "episode_steps_config": 10000000,
+    "act_timeout_config_seconds": 0,
+    "remaining_overage_time_seconds": 600,
+    "resource_limits_resolved": false,
+    "resource_limits_note": "SubmissionSizeLimit/AgentDisk/AgentRam/AgentCpuCores are unresolved template placeholders in the live 'How to Submit' API page and are not present in the open-source kaggle_environments cabt.json env spec; could not be resolved to concrete numbers this phase. Archive built is 1.92MB, well within any typical Kaggle simulation-competition norm. Flagged as a known limitation."
+  },
+  "layer_a_deck_selection": {
+    "method": "tools/build_agent_layer_a_deck_selection_v1.py, applying the frozen Phase 4.6 policy (results/meta/final_deck_selection_policy.csv) restricted to decks with both real ladder data and a tested hand-tuned Layer B policy",
+    "selected_archetype": "Dragapult ex",
+    "selected_deck_csv": "decks/dragapult_ex.csv",
+    "selection_basis": "Recent WR (14d real-ladder snapshot) among eligible candidates; tied on point estimate with Mega Lucario ex (61.67% n=60 vs 57.07% n=184, Wilson 95% CIs overlap), tie-broken toward Dragapult ex on sample-size/precision grounds",
+    "candidates_considered": "results/agent/final_agent_policy.csv",
+    "counter_rule_applicable": false,
+    "counter_rule_reason": "The only OOS_CONFIRMED validated counter (Team Rocket's Mewtwo ex -> Fezandipiti ex) does not involve Dragapult ex as the counter archetype; not activated."
+  },
+  "layer_b_gameplay_policy": {
+    "base_agent": "src.agents.dragapult_agent (751-line hand-tuned port of the official notebook agent)",
+    "going_first_second_override": {
+      "status": "USED",
+      "module": "src.agents.dragapult_agent_always_first ('dragapult_fix_v1')",
+      "basis": "Pre-existing dedicated controlled experiment (results/dragapult_first_second_analysis.md): 1000 games/condition, Dragapult ex significantly better going first vs Abomasnow ex (67.1% vs 56.3%, z=-4.97), never significantly worse vs any tested opponent. Corroborated (not solely established) by this phase's real-ladder pooled analysis (results/agent/going_first_second_analysis.csv): POOLED first-player advantage +8.62pp, Wilson 95% CI [6.29%, 10.96%], credible=True.",
+      "layer_a_usage": "NOT used to adjust Layer A expected-win-rate deck ranking -- Dragapult ex's own archetype-level real-ladder advantage (+6.6pp, n=137/200) is not individually statistically credible (Wilson CI includes 0) at current sample size, per Section 7's 'do not use for deck selection if underpowered' rule. Retained purely as an in-game (Layer B) feature."
+    },
+    "bayesian_opponent_prediction": {
+      "status": "EXPERIMENTAL",
+      "wired_into_main_py": false,
+      "basis": "results/agent/opponent_prediction_notes.md, results/agent/opponent_prediction_metrics.csv. Beats the recent-meta-prior baseline decisively from turn 2 onward (top-1 77.0%/85.1%/87.2% at turns 2/3/full vs 35.0% baseline; log loss 1.237/0.852/0.665 vs 1.961), but turn-1 log loss is worse than baseline, only 43% of the canonical 3,499-episode dataset had turn-by-turn data available (1,503 episodes), 4/11 archetypes trained on <20 examples, and only one temporal train/test split was run.",
+      "production_hook": "None exists for Dragapult ex specifically -- dragapult_agent.py's hand-tuning operates at the individual-opposing-Pokemon level, not the archetype level, so there is no validated archetype-level tactical delta to condition on. Model is built/tested/documented but intentionally not called from main.py this cycle (Section 36: don't add complexity without a validated benefit)."
+    },
+    "validated_counter_integration": {
+      "status": "NOT_APPLICABLE_THIS_CYCLE",
+      "reason": "No OOS_CONFIRMED counter exists with Dragapult ex as the counter archetype."
+    }
+  },
+  "safety": {
+    "legal_action_layer": {
+      "module": "src.agents.safety_wrapper",
+      "invariant": "invalid_actions == 0",
+      "measured_ablation_e_invalid_actions": 0
+    },
+    "timeout_shield": {
+      "module": "src.agents.timeout_shield",
+      "match_budget_seconds": 600.0,
+      "match_budget_source": "kaggle_environments cabt.json observation.remainingOverageTime=600, cross-confirmed against docs/environment.md's independently C++-engine-sourced '10 minutes per match total' finding",
+      "per_decision_budget_seconds": 2.0,
+      "safety_margin_seconds": 150.0,
+      "measured_ablation_e_timeouts": 0,
+      "measured_ablation_e_degraded_mode_activations": 0,
+      "measured_mean_decision_ms": 0.609,
+      "measured_p99_decision_ms": 16.0,
+      "measured_max_decision_ms": 16.0
+    },
+    "exception_shield": "Composed via safety_wrapper (catches exceptions from the wrapped inner agent, including any raised inside timeout_shield's thread) and timeout_shield (catches inner-agent exceptions separately from timeouts). Measured 0 exceptions across all ablation runs."
+  },
+  "composition_order_outermost_to_innermost": [
+    "safety_wrapper (src.agents.safety_wrapper.wrap_agent)",
+    "timeout_shield (src.agents.timeout_shield.wrap_timeout)",
+    "dragapult_agent_always_first.agent (Layer B policy)"
+  ],
+  "final_agent_module": "src.agents.final_candidate_agent",
+  "submission_entry_point": "main.py (repo root)",
+  "ablation_ladder_summary": "results/agent/agent_ablation_results.csv",
+  "jaccard_experiment": {
+    "status": "NOT_RUN",
+    "reason": "No decision this phase depended on refining archetype representation beyond the existing canonical SHA-256-based deck_to_archetype.csv mapping (reused as-is throughout); Section 26 makes this experiment explicitly conditional ('if useful'). Time budget prioritized toward engine-integration/safety work given the 2026-08-16 deadline."
+  },
+  "glicko_experiment": {
+    "status": "REJECTED_AT_GATE",
+    "reason": "Section 27 explicitly instructs: 'if player identity/rating data is structurally unreliable, do not attempt to reconstruct player Glicko-2.' Phase 4.1/4.5b/4.6 already established, across three independent sessions, that per-side rating cannot be reliably resolved from this dataset (~49-53% labeled-check accuracy, indistinguishable from chance) -- a structural, not sample-size, limitation. An archetype-strength alternative would substantially duplicate Phase 4.3/4.3b's already-completed (and largely negative) strategy-comparison work."
+  },
+  "rl_experiment": {
+    "status": "REJECTED_AT_GATE",
+    "reason": "Section 28 gate: simulator supports the interaction model (yes, Search API exists) and a working non-RL candidate already exists (yes), but insufficient time remains before the 2026-08-16 deadline to build and strictly-OOS-validate an RL/contextual-bandit candidate against the existing agent within this same phase. Not attempted."
+  }
+}

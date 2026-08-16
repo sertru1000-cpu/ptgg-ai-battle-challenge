@@ -1,0 +1,50 @@
+{
+  "v6_grimmsnarl": {
+    "wins": 10,
+    "losses": 2
+  },
+  "v6_kangaskhan": {
+    "wins": 7,
+    "losses": 5
+  },
+  "v6_fezandipiti": {
+    "wins": 10,
+    "losses": 2
+  },
+  "v6_TOTAL": {
+    "wins": 27,
+    "losses": 9
+  },
+  "v18_grimmsnarl": {
+    "wins": 12,
+    "losses": 0
+  },
+  "v18_kangaskhan": {
+    "wins": 8,
+    "losses": 4
+  },
+  "v18_fezandipiti": {
+    "wins": 11,
+    "losses": 1
+  },
+  "v18_TOTAL": {
+    "wins": 31,
+    "losses": 5
+  },
+  "v20_grimmsnarl": {
+    "wins": 11,
+    "losses": 1
+  },
+  "v20_kangaskhan": {
+    "wins": 7,
+    "losses": 5
+  },
+  "v20_fezandipiti": {
+    "wins": 11,
+    "losses": 1
+  },
+  "v20_TOTAL": {
+    "wins": 29,
+    "losses": 7
+  }
+}

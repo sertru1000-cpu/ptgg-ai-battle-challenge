@@ -1,0 +1,6 @@
+counter_archetype,target_archetype,status,historical_win_rate,historical_games,detection_date,detection_win_rate,detection_games,detection_wilson_lo,oos_primary_games,oos_primary_win_rate,oos_primary_wilson_lo,oos_extended_games,oos_extended_win_rate,confirmation_or_failure_date,current_target_meta_share,current_counter_meta_share,confidence,production_recommendation
+Team Rocket's Mewtwo ex,Fezandipiti ex,OOS_CONFIRMED,0.7647,85,2026-07-22,0.7288,59,0.604,25,0.84,0.6535,26,0.8462,2026-08-09,0.1487,0.0294,HIGH,USE_NARROWLY_AS_MATCHUP_RULE
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,OOS_PENDING,0.8182,77,2026-08-09,0.8167,60,0.7008,,,,17,0.8235,,0.4347,0.0717,MEDIUM/LOW,MONITOR_ONLY_DO_NOT_DEPLOY
+Dragapult ex,Fezandipiti ex,OOS_PENDING,0.6447,76,2026-08-05,0.6557,61,0.5305,,,,15,0.6,,0.1487,0.0513,LOW,MONITOR_ONLY_DO_NOT_DEPLOY
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,OOS_FAILED,0.7255,210,2026-07-18,0.7255,51,0.5905,25,0.52,0.335,159,0.4906,2026-07-24,0.4347,0.0951,HIGH (rejection confidence),REJECT
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,OOS_FAILED,0.597,134,2026-07-25,0.7213,61,0.5983,25,0.44,0.2667,73,0.4932,2026-07-27,0.0294,0.4347,HIGH (rejection confidence),REJECT

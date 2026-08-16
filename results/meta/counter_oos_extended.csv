@@ -1,0 +1,27 @@
+counter_archetype,target_archetype,detection_date,horizon_games,availability,wins,win_rate,wilson_lo,wilson_hi,new_episodes_contributed_to_this_horizon,data_source
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,25,AVAILABLE,21.0,0.84,0.6535,0.936,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,50,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 26 post-detection games exist in the entire available dataset (through 2026-08-10)
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,75,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 26 post-detection games exist in the entire available dataset (through 2026-08-10)
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,100,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 26 post-detection games exist in the entire available dataset (through 2026-08-10)
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,150,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 26 post-detection games exist in the entire available dataset (through 2026-08-10)
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,200,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 26 post-detection games exist in the entire available dataset (through 2026-08-10)
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,ALL_AVAILABLE,AVAILABLE,22.0,0.8462,0.6647,0.9385,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,25,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 17 post-detection games exist in the entire available dataset (through 2026-08-10)
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,50,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 17 post-detection games exist in the entire available dataset (through 2026-08-10)
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,75,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 17 post-detection games exist in the entire available dataset (through 2026-08-10)
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,100,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 17 post-detection games exist in the entire available dataset (through 2026-08-10)
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,150,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 17 post-detection games exist in the entire available dataset (through 2026-08-10)
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,2026-08-09,ALL_AVAILABLE,AVAILABLE,14.0,0.8235,0.5897,0.9381,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,25,AVAILABLE,13.0,0.52,0.335,0.6997,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,50,AVAILABLE,27.0,0.54,0.404,0.6703,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,75,AVAILABLE,39.0,0.52,0.4087,0.6293,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,100,AVAILABLE,48.0,0.48,0.3846,0.5768,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,150,AVAILABLE,74.0,0.4933,0.4145,0.5725,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,200,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 159 post-detection games exist in the entire available dataset (through 2026-08-10)
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,2026-07-18,ALL_AVAILABLE,AVAILABLE,78.0,0.4906,0.414,0.5676,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,25,AVAILABLE,11.0,0.44,0.2667,0.6293,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,50,AVAILABLE,25.0,0.5,0.3664,0.6336,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,75,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 73 post-detection games exist in the entire available dataset (through 2026-08-10)
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,100,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 73 post-detection games exist in the entire available dataset (through 2026-08-10)
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,150,INSUFFICIENT_DATA_SOURCE_EXHAUSTED,,,,,0,only 73 post-detection games exist in the entire available dataset (through 2026-08-10)
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,2026-07-25,ALL_AVAILABLE,AVAILABLE,36.0,0.4932,0.3817,0.6053,0,ORIGINAL_DATASET_2026-06-16_to_2026-08-10

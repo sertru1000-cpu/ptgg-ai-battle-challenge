@@ -1,0 +1,3 @@
+grimmsnarl: rows=99796 decisions=16783 top1=0.499 (first-option baseline 0.440) best_iter=240
+kangaskhan: rows=59110 decisions=8042 top1=0.116 (first-option baseline 0.106) best_iter=12
+fezandipiti: rows=98982 decisions=12905 top1=0.511 (first-option baseline 0.516) best_iter=186

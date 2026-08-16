@@ -1,0 +1,2 @@
+episode_id,turn,game_result,opponent_bench_pre_attack,actual_allocation_by_slot,actual_kos,actual_prize,optimal_allocation_by_slot,optimal_kos,optimal_prize,prize_difference
+92652121,14,WIN,slot0:Team Rocket's Porygon hp=60/60 prize=1 immune=False(None); slot1:Team Rocket's Porygon hp=60/60 prize=1 immune=False(None); slot2:Team Rocket's Murkrow hp=80/80 prize=1 immune=False(None),"{0: 1, 1: 0, 2: 5}",[],0,"{0: 0, 1: 6, 2: 0}","[""Team Rocket's Porygon""]",1,1

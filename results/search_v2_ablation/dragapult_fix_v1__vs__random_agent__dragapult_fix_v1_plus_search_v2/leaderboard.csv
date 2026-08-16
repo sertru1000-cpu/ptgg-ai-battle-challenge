@@ -1,0 +1,2 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+dragapult_fix_v1,random_agent,500,0,0,481,19,0.962,0.98,0.944,250,250

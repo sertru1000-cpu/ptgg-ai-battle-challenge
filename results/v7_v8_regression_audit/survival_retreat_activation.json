@@ -1,0 +1,28 @@
+{
+  "v7": {
+    "n_games": 29,
+    "n_decisions_total": 2457,
+    "n_eligible_decisions": 50,
+    "n_eligible_and_retreated": 1,
+    "n_eligible_and_attacked_instead": 6,
+    "n_eligible_neither_retreat_nor_attack": 43,
+    "games_with_any_eligible_decision": 8,
+    "pct_games_with_eligible_decision": 0.27586206896551724,
+    "games_with_any_eligible_retreat_taken": 1,
+    "pct_games_with_eligible_retreat_taken": 0.034482758620689655,
+    "retreat_rate_when_eligible": 0.02
+  },
+  "v8": {
+    "n_games": 23,
+    "n_decisions_total": 2135,
+    "n_eligible_decisions": 52,
+    "n_eligible_and_retreated": 12,
+    "n_eligible_and_attacked_instead": 0,
+    "n_eligible_neither_retreat_nor_attack": 40,
+    "games_with_any_eligible_decision": 9,
+    "pct_games_with_eligible_decision": 0.391304347826087,
+    "games_with_any_eligible_retreat_taken": 9,
+    "pct_games_with_eligible_retreat_taken": 0.391304347826087,
+    "retreat_rate_when_eligible": 0.23076923076923078
+  }
+}

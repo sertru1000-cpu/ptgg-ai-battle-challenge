@@ -1,0 +1,1533 @@
+episode_id,side,turn_cutoff,true_archetype,predicted_archetype,posterior_top1,posterior_entropy,confidence_tier,oov_true_archetype,coverage,evidence_n,top1_correct,model
+89052711,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+89052711,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89100569,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89100569,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89107015,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+89107015,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89117889,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9981721039445746,0.015235147960226582,HIGH,False,True,2,True,bayesian
+89117889,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89126415,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89126415,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89138436,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+89138436,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89142610,0,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+89142610,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89143555,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89143555,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89216843,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89216843,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89219226,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89219226,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89226372,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+89226372,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89229414,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+89229414,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89233517,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89233517,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89264249,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+89264249,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89276215,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89276215,1,1,Team Rocket's Mewtwo ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89280888,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.8040729829370757,0.8001878657462783,HIGH,False,True,1,True,bayesian
+89280888,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89309555,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89309555,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89311705,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+89311705,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89321909,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89321909,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89348014,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+89348014,1,1,Team Rocket's Mewtwo ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89360902,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+89360902,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89375116,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9965144813013557,0.029468775654459736,HIGH,False,True,2,True,bayesian
+89375116,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89384187,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89384187,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89388472,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89388472,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89394689,0,1,Mega Lopunny ex,Team Rocket's Mewtwo ex,0.2639248135623442,1.950567152452233,LOW,False,True,2,False,bayesian
+89402091,0,1,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.759425881276696,0.9245035057137898,MEDIUM,False,True,1,True,bayesian
+89402091,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89405263,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89405263,1,1,Team Rocket's Mewtwo ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89412094,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89412094,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89412098,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+89412098,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89413120,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+89413120,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89414710,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89414718,0,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.3166580054423679,1.7078393043670863,LOW,False,True,1,False,bayesian
+89414718,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89415263,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89415263,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89416880,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89416880,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89419474,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993577429416216,0.005993760668101783,HIGH,False,True,2,True,bayesian
+89419474,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89422231,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+89422231,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89425659,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+89425659,1,1,Mega Lopunny ex,Mega Lopunny ex,0.9311184025138275,0.37731286357863025,HIGH,False,True,4,True,bayesian
+89432011,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993577429416216,0.005993760668101783,HIGH,False,True,2,True,bayesian
+89432011,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89479308,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.8040729829370757,0.8001878657462783,HIGH,False,True,1,True,bayesian
+89479308,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89482563,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+89482563,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89495129,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89495129,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89521754,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89521754,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89580775,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+89580775,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89585587,0,1,Mega Lopunny ex,Fezandipiti ex,0.6121343751008125,0.9425229285303511,MEDIUM,False,True,2,False,bayesian
+89585587,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89594369,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89594369,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89600298,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89600298,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89607081,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89607081,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89609248,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89609414,0,1,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.999252529357045,0.007421107622604772,HIGH,False,True,3,True,bayesian
+89609414,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89613745,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+89613745,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89614758,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89614758,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89616078,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89616078,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89628389,0,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89628389,1,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.4808285138143863,1.657558222980913,LOW,False,True,3,False,bayesian
+89630347,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993577429416216,0.005993760668101783,HIGH,False,True,2,True,bayesian
+89630347,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89657437,0,1,Mega Lucario ex,Mega Lucario ex,0.5781324280184799,1.378608748310272,LOW,False,True,1,True,bayesian
+89657437,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89670258,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9502788417853055,0.2472843550440455,HIGH,False,True,2,True,bayesian
+89670258,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89672202,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89672202,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89672640,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+89672640,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89680553,0,1,Mega Lopunny ex,Fezandipiti ex,0.5860512765918046,1.0541455956892032,LOW,False,True,2,False,bayesian
+89680553,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89689186,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89689186,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89689566,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+89689566,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89698325,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+89698325,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89700868,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+89700868,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89702234,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89702234,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89704585,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+89704585,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89723734,0,1,Mega Lopunny ex,Fezandipiti ex,0.5860512765918046,1.0541455956892032,LOW,False,True,2,False,bayesian
+89723734,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89728349,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+89728349,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89730826,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+89730826,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89784248,0,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,True,1,False,bayesian
+89784248,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89788502,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+89788502,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89790301,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9982177260127943,0.016481450142034837,HIGH,False,True,2,True,bayesian
+89790301,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89793343,0,1,Dragapult ex,Fezandipiti ex,0.6930680821138815,0.9577014713071489,MEDIUM,False,True,1,False,bayesian
+89793343,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89810358,0,1,Dragapult ex,Dragapult ex,0.8367386080457858,0.6957371309457208,HIGH,False,True,1,True,bayesian
+89810358,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89810960,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89810960,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89814136,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+89814136,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89819494,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+89819494,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89869427,0,1,Fezandipiti ex,Fezandipiti ex,0.9995771515720846,0.004388784920984707,HIGH,False,True,3,True,bayesian
+89869427,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89884921,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+89884921,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89899877,0,1,Dragapult ex,Dragapult ex,0.8367386080457858,0.6957371309457208,HIGH,False,True,1,True,bayesian
+89899877,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89900770,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89934295,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+89934295,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89944815,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.8040729829370757,0.8001878657462783,HIGH,False,True,1,True,bayesian
+89944815,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+89976307,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.9655678330832282,0.16776258120537121,HIGH,False,True,2,False,bayesian
+89976307,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90014356,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+90014356,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90016361,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90016361,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90016981,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+90016981,1,1,Mega Lucario ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90020470,0,1,Mega Lucario ex,Mega Lucario ex,0.598856655630965,1.336918111066044,LOW,False,True,1,True,bayesian
+90020470,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90021702,0,1,Mega Lopunny ex,Fezandipiti ex,0.5860512765918046,1.0541455956892032,LOW,False,True,2,False,bayesian
+90021702,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90026260,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+90026260,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90035651,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+90035651,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90040592,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90040592,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90041277,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90041277,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90050344,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90065339,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90065339,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90070714,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+90070714,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90076057,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+90076057,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90091042,0,1,Dragapult ex,Marnie's Grimmsnarl ex,0.592475968199836,1.126262976359774,LOW,False,True,1,False,bayesian
+90091042,1,1,Mega Lucario ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90098479,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9807571481143798,0.12967761495452687,HIGH,False,True,2,True,bayesian
+90098479,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90099086,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90099086,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90107397,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90107397,1,1,Mega Lucario ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90108084,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90108084,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90124386,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.3444097543659505,1.6486261419664132,LOW,False,True,1,True,bayesian
+90124386,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90128411,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+90128411,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90131683,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+90131683,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90148181,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+90148181,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90155093,0,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,True,1,False,bayesian
+90155093,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90190787,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90190787,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90228158,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+90228158,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90243125,0,1,Teal Mask Ogerpon ex,Team Rocket's Mewtwo ex,0.6705311306141802,1.1120500411973933,MEDIUM,False,True,2,False,bayesian
+90243125,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90264510,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90264510,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90276479,0,1,Fezandipiti ex,Fezandipiti ex,0.9954767197292465,0.03213604584309423,HIGH,False,True,2,True,bayesian
+90276479,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90283845,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90283845,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90285853,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90285853,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90292346,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.7931101144451408,0.6557275575763861,MEDIUM,False,True,3,False,bayesian
+90292346,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90293113,0,1,Mega Lucario ex,Mega Lucario ex,0.3416602913830461,1.7309497892200456,LOW,False,True,1,True,bayesian
+90293113,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90299782,0,1,Mega Lopunny ex,Fezandipiti ex,0.5860512765918046,1.0541455956892032,LOW,False,True,2,False,bayesian
+90299782,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90306216,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9981721039445746,0.015235147960226582,HIGH,False,True,2,True,bayesian
+90306216,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90307564,0,1,Mega Lucario ex,Mega Lucario ex,0.9706729611975642,0.18756607210241127,HIGH,False,True,2,True,bayesian
+90307564,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90331726,0,1,Fezandipiti ex,Fezandipiti ex,0.9948017558137005,0.04121975487033271,HIGH,False,True,2,True,bayesian
+90331726,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90343401,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90343401,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90372383,0,1,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.759425881276696,0.9245035057137898,MEDIUM,False,True,1,True,bayesian
+90372383,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90373154,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+90373154,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90373972,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+90373972,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90384998,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993577429416216,0.005993760668101783,HIGH,False,True,2,True,bayesian
+90384998,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90388870,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+90388870,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90411356,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90411356,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90440065,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+90440065,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90468951,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+90468951,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90476414,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+90476414,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90480217,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90480217,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90500076,0,1,Fezandipiti ex,Fezandipiti ex,0.9954767197292465,0.03213604584309423,HIGH,False,True,2,True,bayesian
+90504684,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.8981897624739831,0.4815016170257149,HIGH,False,True,1,True,bayesian
+90504684,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90509336,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+90509336,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90526151,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+90526151,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90547849,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9981721039445746,0.015235147960226582,HIGH,False,True,2,True,bayesian
+90547849,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90548582,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999373810824685,0.0007436918709776898,HIGH,False,True,3,True,bayesian
+90548582,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90557690,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,True,bayesian
+90557690,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90576695,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90576695,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90615993,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90615993,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90617340,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9982177260127943,0.016481450142034837,HIGH,False,True,2,True,bayesian
+90617340,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90620575,0,1,Fezandipiti ex,Fezandipiti ex,0.6930680821138815,0.9577014713071489,MEDIUM,False,True,1,True,bayesian
+90620575,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90629097,0,1,Dragapult ex,Dragapult ex,0.8625436874355833,0.42533779825704887,HIGH,False,True,2,True,bayesian
+90629097,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90647378,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.9710678564558943,0.1801854798397797,HIGH,False,True,1,False,bayesian
+90647378,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90658616,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90658616,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90667163,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+90667163,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90675160,0,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,True,1,False,bayesian
+90675160,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90759435,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.7733989448278191,0.8884466305892493,MEDIUM,False,True,1,True,bayesian
+90759435,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90774217,0,1,Teal Mask Ogerpon ex,Fezandipiti ex,0.6930680821138815,0.9577014713071489,MEDIUM,False,True,1,False,bayesian
+90774217,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90826674,0,1,Mega Lopunny ex,Fezandipiti ex,0.5860512765918046,1.0541455956892032,LOW,False,True,2,False,bayesian
+90826674,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90831584,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+90831584,1,1,Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90833214,0,1,Mega Lopunny ex,Team Rocket's Mewtwo ex,0.22230823344301512,2.001446970793741,LOW,False,True,2,False,bayesian
+90833214,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90837287,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90837287,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90851553,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90851553,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90858232,0,1,Dragapult ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,False,bayesian
+90858232,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90861423,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999373810824685,0.0007436918709776898,HIGH,False,True,3,True,bayesian
+90861423,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90870277,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3589947859615852,1.7662614367237779,LOW,False,True,1,False,bayesian
+90870277,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90878641,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+90878641,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90886909,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+90886909,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90898439,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+90898439,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90906285,0,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.3166580054423679,1.7078393043670863,LOW,False,True,1,False,bayesian
+90906285,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90941431,0,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.3639070344853917,1.724911030000752,LOW,False,True,1,False,bayesian
+90949905,0,1,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.7733989448278191,0.8884466305892493,MEDIUM,False,True,1,True,bayesian
+90949905,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+90951261,0,1,Dragapult ex,Dragapult ex,0.9902054370052796,0.06883103740885757,HIGH,False,True,2,True,bayesian
+90951261,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+90988796,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+90988796,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91067123,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+91067123,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91137010,0,1,Mega Lucario ex,Mega Lucario ex,0.598856655630965,1.336918111066044,LOW,False,True,1,True,bayesian
+91137166,0,1,Dragapult ex,Dragapult ex,0.8367386080457858,0.6957371309457208,HIGH,False,True,1,True,bayesian
+91137166,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91143214,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993607553375269,0.0065168035045724704,HIGH,False,True,2,True,bayesian
+91143214,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91155362,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+91155362,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91172875,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+91172875,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91177476,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+91177476,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91196596,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+91196596,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91210977,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9993577429416216,0.005993760668101783,HIGH,False,True,2,True,bayesian
+91210977,1,1,Mega Lucario ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91304394,0,1,Dragapult ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,False,bayesian
+91304394,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91307809,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91344627,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+91344627,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91382688,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+91388044,0,1,Fezandipiti ex,Fezandipiti ex,0.743628075412114,0.8835294929281344,MEDIUM,False,True,1,True,bayesian
+91388044,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91393495,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91405282,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+91405282,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91466558,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+91466558,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91468241,0,1,Mega Lopunny ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,False,bayesian
+91468241,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91482900,0,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.4808285138143863,1.657558222980913,LOW,False,True,2,False,bayesian
+91482900,1,1,Mega Kangaskhan ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91487825,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+91487825,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91539788,0,1,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9229527133951502,0.3895748652496573,HIGH,False,True,1,True,bayesian
+91539788,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91560723,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+91560723,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91592154,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91607664,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.98952714787902,0.07576818401003316,HIGH,False,True,1,True,bayesian
+91607664,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91642731,0,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,True,1,False,bayesian
+91642731,1,1,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91657668,0,1,Fezandipiti ex,Fezandipiti ex,0.6930680821138815,0.9577014713071489,MEDIUM,False,True,1,True,bayesian
+91660622,0,1,Fezandipiti ex,Fezandipiti ex,0.6930680821138815,0.9577014713071489,MEDIUM,False,True,1,True,bayesian
+91660622,1,1,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91714582,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91714582,1,1,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5153161353443005,1.4399246792229328,LOW,False,True,1,False,bayesian
+91742238,0,1,Dragapult ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,False,bayesian
+91742238,1,1,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91747005,0,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9753984596965741,0.14358507273861637,HIGH,False,True,1,True,bayesian
+91750460,0,1,Mega Lucario ex,Mega Lucario ex,0.9132837601977956,0.4254465954847138,HIGH,False,True,3,True,bayesian
+91750460,1,1,Dragapult ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,False,bayesian
+91752428,0,1,Fezandipiti ex,Fezandipiti ex,0.9699319036347845,0.1809545614468191,HIGH,False,True,1,True,bayesian
+91773770,0,1,Fezandipiti ex,Fezandipiti ex,0.5984772410290985,0.7623340204008576,LOW,False,True,1,True,bayesian
+91773770,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91776574,0,1,Dragapult ex,Dragapult ex,0.8367386080457858,0.6957371309457208,HIGH,False,True,1,True,bayesian
+91776574,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+91779029,0,1,Mega Lucario ex,Mega Lucario ex,0.9993865595583777,0.006240202929237441,HIGH,False,True,3,True,bayesian
+91779029,1,1,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.5613441957369466,1.2590292699258163,LOW,False,False,0,True,bayesian
+89052711,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+89052711,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9995460890039686,0.0042838981726186914,HIGH,False,True,3,True,bayesian
+89100569,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89100569,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89107015,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+89107015,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89117889,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+89117889,1,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.27669917283307094,1.6830113006333465,LOW,False,True,2,False,bayesian
+89126415,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89126415,1,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.27669917283307094,1.6830113006333465,LOW,False,True,2,False,bayesian
+89138436,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+89138436,1,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5241964322474609,1.311818247082477,LOW,False,True,1,False,bayesian
+89142610,0,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.27669917283307094,1.6830113006333465,LOW,False,True,1,False,bayesian
+89142610,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.99204531458531,0.06060372038389103,HIGH,False,True,2,True,bayesian
+89143555,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89143555,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89216843,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89216843,1,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.27669917283307094,1.6830113006333465,LOW,False,True,2,False,bayesian
+89219226,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89219226,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89226372,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89226372,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89229414,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+89229414,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89233517,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89233517,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999897961181392,0.0012156871390688973,HIGH,False,True,2,True,bayesian
+89264249,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+89264249,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89276215,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89276215,1,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9331377069939619,0.35010539727640544,HIGH,False,True,1,True,bayesian
+89280888,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9714986767753503,0.1731014657290392,HIGH,False,True,1,True,bayesian
+89280888,1,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.27669917283307094,1.6830113006333465,LOW,False,True,2,False,bayesian
+89309555,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89309555,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89311705,0,2,Mega Lopunny ex,Mega Kangaskhan ex,0.3900212110614053,1.5848540829887516,LOW,False,True,1,False,bayesian
+89311705,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89321909,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89321909,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998753897007899,0.0014625507169547876,HIGH,False,True,2,True,bayesian
+89348014,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89348014,1,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999943690906292,8.280322101966408e-05,HIGH,False,True,3,True,bayesian
+89360902,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+89360902,1,2,Fezandipiti ex,Fezandipiti ex,0.9995186885174699,0.004809974041288164,HIGH,False,True,2,True,bayesian
+89375116,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9996031244737774,0.004199508447049757,HIGH,False,True,2,True,bayesian
+89375116,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89384187,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89384187,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998753897007899,0.0014625507169547876,HIGH,False,True,2,True,bayesian
+89388472,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89388472,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89394689,0,2,Mega Lopunny ex,Mega Kangaskhan ex,0.27368226033648424,1.878810854142681,LOW,False,True,2,False,bayesian
+89402091,0,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9331377069939619,0.35010539727640544,HIGH,False,True,1,True,bayesian
+89402091,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89405263,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89405263,1,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9996318147090509,0.003922998961662652,HIGH,False,True,2,True,bayesian
+89412094,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89412094,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89412098,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89412098,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89413120,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89413120,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+89414710,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+89414718,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.3878653415905978,1.6051091673225486,LOW,False,True,1,True,bayesian
+89414718,1,2,Dragapult ex,Dragapult ex,0.9999195691857959,0.0008803941697119352,HIGH,False,True,5,True,bayesian
+89415263,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89415263,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89416880,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89416880,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89419474,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89419474,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89422231,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89422231,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89425659,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+89425659,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9963937161682571,0.02931590170498413,HIGH,False,True,4,True,bayesian
+89432011,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89432011,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89479308,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9714986767753503,0.1731014657290392,HIGH,False,True,1,True,bayesian
+89479308,1,2,Dragapult ex,Dragapult ex,0.955824744503223,0.1837039900772074,HIGH,False,True,2,True,bayesian
+89482563,0,2,Mega Lopunny ex,Mega Kangaskhan ex,0.3900212110614053,1.5848540829887516,LOW,False,True,1,False,bayesian
+89482563,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9714986767753503,0.1731014657290392,HIGH,False,True,1,True,bayesian
+89495129,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89495129,1,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.6307057624782252,0.7374213273786675,MEDIUM,False,True,3,False,bayesian
+89521754,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89521754,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89580775,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+89580775,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89585587,0,2,Mega Lopunny ex,Fezandipiti ex,0.8164569292090826,0.6514826045973056,HIGH,False,True,2,False,bayesian
+89585587,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9991411295711765,0.008524195156017884,HIGH,False,True,4,False,bayesian
+89594369,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89594369,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9714986767753503,0.1731014657290392,HIGH,False,True,1,True,bayesian
+89600298,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89600298,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89607081,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89607081,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89609248,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89609414,0,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999880934577923,0.00016617132128804319,HIGH,False,True,3,True,bayesian
+89609414,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89613745,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89613745,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89614758,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89614758,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+89616078,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89616078,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9991411295711765,0.008524195156017884,HIGH,False,True,4,False,bayesian
+89628389,0,2,Fezandipiti ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,True,bayesian
+89628389,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8194542030178916,0.8137632105248045,HIGH,False,True,3,False,bayesian
+89630347,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89630347,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+89657437,0,2,Mega Lucario ex,Mega Lucario ex,0.9999997499699326,4.331267339910606e-06,HIGH,False,True,4,True,bayesian
+89657437,1,2,Mega Lopunny ex,Fezandipiti ex,0.8164569292090826,0.6514826045973056,HIGH,False,True,2,False,bayesian
+89670258,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9912898896353488,0.05605547643331441,HIGH,False,True,2,True,bayesian
+89670258,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998753897007899,0.0014625507169547876,HIGH,False,True,2,True,bayesian
+89672202,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89672202,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9994777357426017,0.005381314687903701,HIGH,False,True,2,True,bayesian
+89672640,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+89672640,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89680553,0,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+89680553,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89689186,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89689186,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89689566,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+89689566,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9994777357426017,0.005381314687903701,HIGH,False,True,2,True,bayesian
+89698325,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89698325,1,2,Mega Lopunny ex,Mega Lopunny ex,0.4474337507410588,1.63422580111798,LOW,False,True,2,True,bayesian
+89700868,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+89700868,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89702234,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89702234,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89704585,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+89704585,1,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+89723734,0,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+89723734,1,2,Mega Lopunny ex,Mega Lopunny ex,0.988544229631506,0.06727763177587251,HIGH,False,True,4,True,bayesian
+89728349,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.27205928464062207,1.7294823375226982,LOW,False,True,1,False,bayesian
+89728349,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89730826,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+89730826,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89784248,0,2,Fezandipiti ex,Marnie's Grimmsnarl ex,0.5241964322474609,1.311818247082477,LOW,False,True,1,False,bayesian
+89784248,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89788502,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89788502,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89790301,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999897961181392,0.0012156871390688973,HIGH,False,True,2,True,bayesian
+89790301,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89793343,0,2,Dragapult ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,False,bayesian
+89793343,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89810358,0,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+89810358,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89810960,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89810960,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89814136,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+89814136,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+89819494,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+89819494,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9991411295711765,0.008524195156017884,HIGH,False,True,3,False,bayesian
+89869427,0,2,Fezandipiti ex,Fezandipiti ex,0.999983022358883,0.00022376602871419367,HIGH,False,True,3,True,bayesian
+89869427,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+89884921,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+89884921,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89899877,0,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+89899877,1,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+89900770,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+89934295,0,2,Mega Lopunny ex,Mega Lopunny ex,0.9963937161682571,0.02931590170498413,HIGH,False,True,4,True,bayesian
+89934295,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+89944815,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9714986767753503,0.1731014657290392,HIGH,False,True,1,True,bayesian
+89944815,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+89976307,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.9795241640049815,0.10783935426853561,HIGH,False,True,2,False,bayesian
+89976307,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.7915185753384841,0.8792534885969423,MEDIUM,False,True,2,True,bayesian
+90014356,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+90014356,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90016361,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90016361,1,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+90016981,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+90016981,1,2,Mega Lucario ex,Mega Lucario ex,0.9999997499699326,4.331267339910606e-06,HIGH,False,True,4,True,bayesian
+90020470,0,2,Mega Lucario ex,Mega Lucario ex,0.6724740998349075,1.1810021902120058,MEDIUM,False,True,1,True,bayesian
+90020470,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,2,False,bayesian
+90021702,0,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+90021702,1,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90026260,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+90026260,1,2,Dragapult ex,Dragapult ex,0.955824744503223,0.1837039900772074,HIGH,False,True,3,True,bayesian
+90035651,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90035651,1,2,Dragapult ex,Dragapult ex,0.9994759042145908,0.0051953266046195,HIGH,False,True,3,True,bayesian
+90040592,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90040592,1,2,Dragapult ex,Dragapult ex,0.9987306349926114,0.011137822838097305,HIGH,False,True,2,True,bayesian
+90041277,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90041277,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90050344,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90065339,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90065339,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90070714,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90070714,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90076057,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90076057,1,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+90091042,0,2,Dragapult ex,Marnie's Grimmsnarl ex,0.47997880860876624,0.961278176198144,LOW,False,True,1,False,bayesian
+90091042,1,2,Mega Lucario ex,Mega Lucario ex,0.9999997499699326,4.331267339910606e-06,HIGH,False,True,4,True,bayesian
+90098479,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.998687096578273,0.012317131571125278,HIGH,False,True,2,True,bayesian
+90098479,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90099086,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90099086,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999998764281782,1.9336100377300943e-05,HIGH,False,True,4,True,bayesian
+90107397,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90107397,1,2,Mega Lucario ex,Mega Lucario ex,0.9999997499699326,4.331267339910606e-06,HIGH,False,True,4,True,bayesian
+90108084,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90108084,1,2,Mega Lopunny ex,Mega Lopunny ex,0.988544229631506,0.06727763177587251,HIGH,False,True,4,True,bayesian
+90124386,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.5633903525805019,1.3408109402713972,LOW,False,True,1,True,bayesian
+90124386,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90128411,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+90128411,1,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90131683,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+90131683,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90148181,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+90148181,1,2,Dragapult ex,Dragapult ex,0.955824744503223,0.1837039900772074,HIGH,False,True,3,True,bayesian
+90155093,0,2,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5241964322474609,1.311818247082477,LOW,False,True,1,False,bayesian
+90155093,1,2,Fezandipiti ex,Fezandipiti ex,0.7683653245139871,0.855043971657593,MEDIUM,False,True,2,True,bayesian
+90190787,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90190787,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90228158,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+90228158,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90243125,0,2,Teal Mask Ogerpon ex,Team Rocket's Mewtwo ex,0.6612383648482268,0.8689515949736911,MEDIUM,False,True,2,False,bayesian
+90243125,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90264510,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90264510,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9991411295711765,0.008524195156017884,HIGH,False,True,2,True,bayesian
+90276479,0,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90276479,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90283845,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90283845,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90285853,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90285853,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90292346,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.6307057624782252,0.7374213273786675,MEDIUM,False,True,3,False,bayesian
+90292346,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90293113,0,2,Mega Lucario ex,Mega Lucario ex,0.3391918004862626,1.7473186996174919,LOW,False,True,1,True,bayesian
+90293113,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90299782,0,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+90299782,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90306216,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+90306216,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90307564,0,2,Mega Lucario ex,Mega Lucario ex,0.9999997499699326,4.331267339910606e-06,HIGH,False,True,4,True,bayesian
+90307564,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90331726,0,2,Fezandipiti ex,Fezandipiti ex,0.9995186885174699,0.004809974041288164,HIGH,False,True,2,True,bayesian
+90331726,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90343401,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90343401,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90372383,0,2,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9331377069939619,0.35010539727640544,HIGH,False,True,1,True,bayesian
+90372383,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9312643639959647,0.3555241426025502,HIGH,False,True,1,True,bayesian
+90373154,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90373154,1,2,Fezandipiti ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,True,bayesian
+90373972,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+90373972,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90384998,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90384998,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90388870,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+90388870,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998753897007899,0.0014625507169547876,HIGH,False,True,2,True,bayesian
+90411356,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90411356,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90440065,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+90440065,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90468951,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+90468951,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+90476414,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+90476414,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90480217,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90480217,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90500076,0,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90504684,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9860960424606053,0.09517385248727922,HIGH,False,True,1,True,bayesian
+90504684,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90509336,0,2,Mega Lopunny ex,Mega Kangaskhan ex,0.3900212110614053,1.5848540829887516,LOW,False,True,1,False,bayesian
+90509336,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90526151,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+90526151,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90547849,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+90547849,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90548582,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90548582,1,2,Dragapult ex,Dragapult ex,0.9848116190403784,0.10408074374971668,HIGH,False,True,3,True,bayesian
+90557690,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,True,bayesian
+90557690,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90576695,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90576695,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90615993,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90615993,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90617340,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999897961181392,0.0012156871390688973,HIGH,False,True,2,True,bayesian
+90617340,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90620575,0,2,Fezandipiti ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,True,bayesian
+90620575,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90629097,0,2,Dragapult ex,Dragapult ex,0.955824744503223,0.1837039900772074,HIGH,False,True,2,True,bayesian
+90629097,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8194542030178916,0.8137632105248045,HIGH,False,True,3,False,bayesian
+90647378,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.9884888338543645,0.08109599994476012,HIGH,False,True,1,False,bayesian
+90647378,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90658616,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90658616,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90667163,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90667163,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90675160,0,2,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5241964322474609,1.311818247082477,LOW,False,True,1,False,bayesian
+90675160,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90759435,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9312643639959647,0.3555241426025502,HIGH,False,True,1,True,bayesian
+90759435,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90774217,0,2,Teal Mask Ogerpon ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,False,bayesian
+90774217,1,2,Fezandipiti ex,Fezandipiti ex,0.9999763636518813,0.00030415348798253295,HIGH,False,True,3,True,bayesian
+90826674,0,2,Mega Lopunny ex,Fezandipiti ex,0.5818451967585214,1.0585559548479484,LOW,False,True,2,False,bayesian
+90826674,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90831584,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+90831584,1,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998753897007899,0.0014625507169547876,HIGH,False,True,2,True,bayesian
+90833214,0,2,Mega Lopunny ex,Mega Lopunny ex,0.8220430308693127,0.7976207823425553,HIGH,False,True,2,True,bayesian
+90833214,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90837287,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90837287,1,2,Mega Lopunny ex,Mega Lopunny ex,0.988544229631506,0.06727763177587251,HIGH,False,True,4,True,bayesian
+90851553,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90851553,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+90858232,0,2,Dragapult ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,False,bayesian
+90858232,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90861423,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+90861423,1,2,Fezandipiti ex,Fezandipiti ex,0.9999763636518813,0.00030415348798253295,HIGH,False,True,3,True,bayesian
+90870277,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.2961356922169215,1.8092920307070013,LOW,False,True,1,False,bayesian
+90870277,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+90878641,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+90878641,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+90886909,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+90886909,1,2,Mega Lopunny ex,Mega Lopunny ex,0.988544229631506,0.06727763177587251,HIGH,False,True,4,True,bayesian
+90898439,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+90898439,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+90906285,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.695977711046176,1.07082976277131,MEDIUM,False,True,1,True,bayesian
+90906285,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999897961181392,0.0012156871390688973,HIGH,False,True,2,True,bayesian
+90941431,0,2,Mega Lopunny ex,Marnie's Grimmsnarl ex,0.27205928464062207,1.7294823375226982,LOW,False,True,1,False,bayesian
+90949905,0,2,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9312643639959647,0.3555241426025502,HIGH,False,True,1,True,bayesian
+90949905,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+90951261,0,2,Dragapult ex,Dragapult ex,0.9987306349926114,0.011137822838097305,HIGH,False,True,2,True,bayesian
+90951261,1,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+90988796,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+90988796,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+91067123,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+91067123,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+91137010,0,2,Mega Lucario ex,Mega Lucario ex,0.6724740998349075,1.1810021902120058,MEDIUM,False,True,1,True,bayesian
+91137166,0,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+91137166,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+91143214,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+91143214,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9602933256864351,0.2048573968361679,HIGH,False,True,2,True,bayesian
+91155362,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+91155362,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91172875,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91172875,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91177476,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+91177476,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+91196596,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+91196596,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+91210977,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+91210977,1,2,Mega Lucario ex,Mega Lucario ex,0.9989526591429458,0.010243331233758111,HIGH,False,True,2,True,bayesian
+91304394,0,2,Dragapult ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,False,bayesian
+91304394,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999897961181392,0.0012156871390688973,HIGH,False,True,2,True,bayesian
+91307809,1,2,Mega Lopunny ex,Mega Lopunny ex,0.9591480282844148,0.19708168324719919,HIGH,False,True,3,True,bayesian
+91344627,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+91344627,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+91382688,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+91388044,0,2,Fezandipiti ex,Fezandipiti ex,0.7266039200610046,0.7893838085221537,MEDIUM,False,True,1,True,bayesian
+91388044,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9991411295711765,0.008524195156017884,HIGH,False,True,2,False,bayesian
+91393495,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+91405282,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91405282,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+91466558,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+91466558,1,2,Fezandipiti ex,Fezandipiti ex,0.9995186885174699,0.004809974041288164,HIGH,False,True,2,True,bayesian
+91468241,0,2,Mega Lopunny ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,False,bayesian
+91468241,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+91482900,0,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8194542030178916,0.8137632105248045,HIGH,False,True,2,False,bayesian
+91482900,1,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.99204531458531,0.06060372038389103,HIGH,False,True,2,True,bayesian
+91487825,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+91487825,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9994859267270438,0.004633406496811879,HIGH,False,True,2,True,bayesian
+91539788,0,2,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9869913125829202,0.08894631388053204,HIGH,False,True,1,True,bayesian
+91539788,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+91560723,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+91560723,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+91592154,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+91607664,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9983264979809258,0.014985221007669402,HIGH,False,True,1,True,bayesian
+91607664,1,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+91642731,0,2,Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,0.5241964322474609,1.311818247082477,LOW,False,True,1,False,bayesian
+91642731,1,2,Fezandipiti ex,Fezandipiti ex,0.9997262493861325,0.0027177292883294422,HIGH,False,True,2,True,bayesian
+91657668,0,2,Fezandipiti ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,True,bayesian
+91660622,0,2,Fezandipiti ex,Fezandipiti ex,0.7730917867073863,0.8150851789235748,MEDIUM,False,True,1,True,bayesian
+91660622,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91714582,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+91714582,1,2,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8671624384281734,0.5950646911547057,HIGH,False,True,1,False,bayesian
+91742238,0,2,Dragapult ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,False,bayesian
+91742238,1,2,Mega Lopunny ex,Mega Lopunny ex,0.988544229631506,0.06727763177587251,HIGH,False,True,4,True,bayesian
+91747005,0,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9793909511586362,0.11105817787866198,HIGH,False,True,1,True,bayesian
+91750460,0,2,Mega Lucario ex,Mega Lucario ex,0.9451755546438431,0.2684643292067853,HIGH,False,True,3,True,bayesian
+91750460,1,2,Dragapult ex,Dragapult ex,0.955824744503223,0.1837039900772074,HIGH,False,True,2,True,bayesian
+91752428,0,2,Fezandipiti ex,Fezandipiti ex,0.995276299506711,0.03707160502372937,HIGH,False,True,1,True,bayesian
+91773770,0,2,Fezandipiti ex,Fezandipiti ex,0.7400522887060794,0.6230253098726781,MEDIUM,False,True,1,True,bayesian
+91773770,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999979187755575,3.069927665524072e-05,HIGH,False,True,3,True,bayesian
+91776574,0,2,Dragapult ex,Dragapult ex,0.9735710785897138,0.16150223194446317,HIGH,False,True,1,True,bayesian
+91776574,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999966979816222,0.00043275893160133036,HIGH,False,True,2,True,bayesian
+91779029,0,2,Mega Lucario ex,Mega Lucario ex,0.9999943772390278,8.399628339946946e-05,HIGH,False,True,3,True,bayesian
+91779029,1,2,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999260418567889,0.0008073181953244125,HIGH,False,True,2,True,bayesian
+89052711,0,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+89052711,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998517620379727,0.001492666165524311,HIGH,False,True,3,True,bayesian
+89100569,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89100569,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89107015,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+89107015,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89117889,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89117889,1,3,Fezandipiti ex,Mega Kangaskhan ex,0.4924010144029258,1.3355268857527824,LOW,False,True,2,False,bayesian
+89126415,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89126415,1,3,Fezandipiti ex,Mega Kangaskhan ex,0.4924010144029258,1.3355268857527824,LOW,False,True,2,False,bayesian
+89138436,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89138436,1,3,Fezandipiti ex,Mega Kangaskhan ex,0.45172559759686665,1.2380514202227462,LOW,False,True,1,False,bayesian
+89142610,0,3,Fezandipiti ex,Mega Kangaskhan ex,0.4924010144029258,1.3355268857527824,LOW,False,True,2,False,bayesian
+89142610,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9991120018739069,0.008851791178122253,HIGH,False,True,2,True,bayesian
+89143555,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89143555,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89216843,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89216843,1,3,Fezandipiti ex,Mega Kangaskhan ex,0.4335441158238447,1.617743905525797,LOW,False,True,4,False,bayesian
+89219226,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89219226,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9992811010562214,0.006667490085969702,HIGH,False,True,1,True,bayesian
+89226372,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89226372,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89229414,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999124127981632,0.000987103244372331,HIGH,False,True,4,True,bayesian
+89229414,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89233517,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89233517,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+89264249,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9976803798209799,0.0197416834110085,HIGH,False,True,1,True,bayesian
+89264249,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89276215,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89276215,1,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9695755613957651,0.17268622823370014,HIGH,False,True,1,True,bayesian
+89280888,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89280888,1,3,Fezandipiti ex,Mega Kangaskhan ex,0.4335441158238447,1.617743905525797,LOW,False,True,4,False,bayesian
+89309555,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89309555,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999821688925938,0.0002281181995433689,HIGH,False,True,5,True,bayesian
+89311705,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9995315473818246,0.004590600258156158,HIGH,False,True,4,True,bayesian
+89311705,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999475351128,9.80668585385174e-07,HIGH,False,True,5,True,bayesian
+89321909,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89321909,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89348014,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9967953595827315,0.024696915082663362,HIGH,False,True,2,True,bayesian
+89348014,1,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999992885035043,1.1778272095330167e-05,HIGH,False,True,3,True,bayesian
+89360902,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+89360902,1,3,Fezandipiti ex,Fezandipiti ex,0.9998993390810657,0.0011315532843695455,HIGH,False,True,2,True,bayesian
+89375116,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998835594901835,0.001337850595283475,HIGH,False,True,2,True,bayesian
+89375116,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999996781944055,5.408813486160656e-06,HIGH,False,True,3,True,bayesian
+89384187,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89384187,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89388472,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89388472,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89394689,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9995315473818246,0.004590600258156158,HIGH,False,True,4,True,bayesian
+89402091,0,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999992885035043,1.1778272095330167e-05,HIGH,False,True,3,True,bayesian
+89402091,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89405263,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89405263,1,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.999999984850408,2.9919131553928134e-07,HIGH,False,True,5,True,bayesian
+89412094,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89412094,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89412098,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9979821731020889,0.014881741800768691,HIGH,False,True,2,True,bayesian
+89412098,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89413120,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9979821731020889,0.014881741800768691,HIGH,False,True,2,True,bayesian
+89413120,1,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+89414710,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9823255717851855,0.10752609993125523,HIGH,False,True,1,True,bayesian
+89414718,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9967953595827315,0.024696915082663362,HIGH,False,True,2,True,bayesian
+89414718,1,3,Dragapult ex,Dragapult ex,0.9999966578526291,4.7080562878327346e-05,HIGH,False,True,5,True,bayesian
+89415263,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89415263,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89416880,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.999902458250478,0.0011723956527525431,HIGH,False,True,4,False,bayesian
+89416880,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89419474,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89419474,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89422231,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89422231,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999821688925938,0.0002281181995433689,HIGH,False,True,5,True,bayesian
+89425659,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89425659,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999788235375445,0.00025699597160447547,HIGH,False,True,6,True,bayesian
+89432011,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89432011,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89479308,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89479308,1,3,Dragapult ex,Dragapult ex,0.989184278899845,0.06054971497662316,HIGH,False,True,2,True,bayesian
+89482563,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9899807451307976,0.06892145242005766,HIGH,False,True,3,True,bayesian
+89482563,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9889974389455897,0.07400057562296347,HIGH,False,True,1,True,bayesian
+89495129,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89495129,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9955418864373925,0.03049722734430603,HIGH,False,True,4,True,bayesian
+89521754,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89521754,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9854612704894844,0.08809679284955797,HIGH,False,True,1,True,bayesian
+89580775,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+89580775,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89585587,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89585587,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.999902458250478,0.0011723956527525431,HIGH,False,True,4,False,bayesian
+89594369,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89594369,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9889974389455897,0.07400057562296347,HIGH,False,True,1,True,bayesian
+89600298,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89600298,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999846643308,3.0337100385640154e-07,HIGH,False,True,6,True,bayesian
+89607081,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89607081,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89609248,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999754011558,4.784310604662099e-07,HIGH,False,True,5,True,bayesian
+89609414,0,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999364465353,1.1708396168260534e-06,HIGH,False,True,4,True,bayesian
+89609414,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89613745,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89613745,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999949040714,9.729799210821444e-07,HIGH,False,True,4,True,bayesian
+89614758,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89614758,1,3,Fezandipiti ex,Fezandipiti ex,0.9999972060737105,4.2178982655960354e-05,HIGH,False,True,3,True,bayesian
+89616078,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89616078,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.999902458250478,0.0011723956527525431,HIGH,False,True,4,False,bayesian
+89628389,0,3,Fezandipiti ex,Fezandipiti ex,0.8379011718946489,0.589599186643387,HIGH,False,True,1,True,bayesian
+89628389,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.966021305501343,0.20915839254090676,HIGH,False,True,4,False,bayesian
+89630347,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89630347,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998071891076038,0.0019800370308905133,HIGH,False,True,2,True,bayesian
+89657437,0,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+89657437,1,3,Mega Lopunny ex,Fezandipiti ex,0.8332214270770774,0.5857483547370115,HIGH,False,True,2,False,bayesian
+89670258,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.996986833978029,0.021634879939435882,HIGH,False,True,2,True,bayesian
+89670258,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89672202,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89672202,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998666233890404,0.0015189382049019247,HIGH,False,True,2,True,bayesian
+89672640,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89672640,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89680553,0,3,Mega Lopunny ex,Fezandipiti ex,0.5748847413639054,0.9180479143460054,LOW,False,True,2,False,bayesian
+89680553,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9971740740639153,0.023593821273428565,HIGH,False,True,1,True,bayesian
+89689186,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89689186,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9971740740639153,0.023593821273428565,HIGH,False,True,1,True,bayesian
+89689566,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89689566,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9998666233890404,0.0015189382049019247,HIGH,False,True,2,True,bayesian
+89698325,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89698325,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9708403433910674,0.16824536420310615,HIGH,False,True,3,True,bayesian
+89700868,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89700868,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89702234,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89702234,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89704585,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+89704585,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9865996713963473,0.07972475321404368,HIGH,False,True,3,True,bayesian
+89723734,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89723734,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999796602024451,0.000244592719734618,HIGH,False,True,6,True,bayesian
+89728349,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+89728349,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999085368495381,0.0010392970165626304,HIGH,False,True,4,True,bayesian
+89730826,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+89730826,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89784248,0,3,Fezandipiti ex,Mega Kangaskhan ex,0.4924010144029258,1.3355268857527824,LOW,False,True,2,False,bayesian
+89784248,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999652955390372,0.0004407506910335543,HIGH,False,True,2,True,bayesian
+89788502,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89788502,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999821688925938,0.0002281181995433689,HIGH,False,True,5,True,bayesian
+89790301,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+89790301,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89793343,0,3,Dragapult ex,Dragapult ex,0.9840369069629992,0.08939486942231173,HIGH,False,True,2,True,bayesian
+89793343,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89810358,0,3,Dragapult ex,Dragapult ex,0.9996163921535407,0.0034102009331626743,HIGH,False,True,3,True,bayesian
+89810358,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+89810960,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89810960,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89814136,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998401361983686,0.0017393566347700367,HIGH,False,True,4,True,bayesian
+89814136,1,3,Fezandipiti ex,Fezandipiti ex,0.9999998213104104,3.0006797767388705e-06,HIGH,False,True,5,True,bayesian
+89819494,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89819494,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.999902458250478,0.0011723956527525431,HIGH,False,True,8,False,bayesian
+89869427,0,3,Fezandipiti ex,Fezandipiti ex,0.9999965371190215,5.08722503850339e-05,HIGH,False,True,3,True,bayesian
+89869427,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999995845845215,7.148395201424682e-06,HIGH,False,True,3,True,bayesian
+89884921,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+89884921,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+89899877,0,3,Dragapult ex,Dragapult ex,0.9999208348782109,0.0009189701251902116,HIGH,False,True,2,True,bayesian
+89899877,1,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+89900770,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999846643308,3.0337100385640154e-07,HIGH,False,True,6,True,bayesian
+89934295,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9995067795695097,0.00491832066528133,HIGH,False,True,4,True,bayesian
+89934295,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+89944815,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+89944815,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999821688925938,0.0002281181995433689,HIGH,False,True,5,True,bayesian
+89976307,0,3,Mega Lopunny ex,Mega Lopunny ex,0.5824805204546966,0.758453509577771,LOW,False,True,3,True,bayesian
+89976307,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9560394600165741,0.26432578558527864,HIGH,False,True,2,True,bayesian
+90014356,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90014356,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999754011558,4.784310604662099e-07,HIGH,False,True,5,True,bayesian
+90016361,0,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+90016361,1,3,Dragapult ex,Dragapult ex,0.9900546937437364,0.06763568937884107,HIGH,False,True,1,True,bayesian
+90016981,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998973179816867,0.0011300060413636406,HIGH,False,True,4,True,bayesian
+90016981,1,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+90020470,0,3,Mega Lucario ex,Mega Lucario ex,0.9993195990158932,0.0067399665427798116,HIGH,False,True,2,True,bayesian
+90020470,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8978385724879412,0.38717687321388816,HIGH,False,True,7,False,bayesian
+90021702,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90021702,1,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+90026260,0,3,Fezandipiti ex,Fezandipiti ex,0.9967375767695978,0.025732935714796873,HIGH,False,True,2,True,bayesian
+90026260,1,3,Dragapult ex,Dragapult ex,0.989184278899845,0.06054971497662316,HIGH,False,True,3,True,bayesian
+90035651,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90035651,1,3,Dragapult ex,Dragapult ex,0.9999555495429975,0.0005433464962609495,HIGH,False,True,3,True,bayesian
+90040592,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90040592,1,3,Dragapult ex,Dragapult ex,0.9999208348782109,0.0009189701251902116,HIGH,False,True,2,True,bayesian
+90041277,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9992811010562214,0.006667490085969702,HIGH,False,True,1,True,bayesian
+90041277,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90050344,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999881135241,2.4317366636270854e-07,HIGH,False,True,4,True,bayesian
+90065339,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90065339,1,3,Fezandipiti ex,Fezandipiti ex,0.9999991015048878,1.3653779223214351e-05,HIGH,False,True,4,True,bayesian
+90070714,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90070714,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90076057,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90076057,1,3,Dragapult ex,Dragapult ex,0.9900546937437364,0.06763568937884107,HIGH,False,True,1,True,bayesian
+90091042,0,3,Dragapult ex,Dragapult ex,0.9999208348782109,0.0009189701251902116,HIGH,False,True,2,True,bayesian
+90091042,1,3,Mega Lucario ex,Mega Lucario ex,0.9999999938610014,1.2771533006709119e-07,HIGH,False,True,5,True,bayesian
+90098479,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999995305837871,8.11203022883837e-06,HIGH,False,True,3,True,bayesian
+90098479,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999846643308,3.0337100385640154e-07,HIGH,False,True,6,True,bayesian
+90099086,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90099086,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999149329407,1.57289034516972e-06,HIGH,False,True,4,True,bayesian
+90107397,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90107397,1,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+90108084,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90108084,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999796602024451,0.000244592719734618,HIGH,False,True,6,True,bayesian
+90124386,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998401361983686,0.0017393566347700367,HIGH,False,True,4,True,bayesian
+90124386,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+90128411,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9967953595827315,0.024696915082663362,HIGH,False,True,2,True,bayesian
+90128411,1,3,Fezandipiti ex,Fezandipiti ex,0.9999966753485343,5.1028900987792024e-05,HIGH,False,True,3,True,bayesian
+90131683,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90131683,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999996781944055,5.408813486160656e-06,HIGH,False,True,3,True,bayesian
+90148181,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90148181,1,3,Dragapult ex,Dragapult ex,0.989184278899845,0.06054971497662316,HIGH,False,True,3,True,bayesian
+90155093,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,4,False,bayesian
+90155093,1,3,Fezandipiti ex,Fezandipiti ex,0.8429321567084136,0.5977389007668412,HIGH,False,True,2,True,bayesian
+90190787,0,3,Mega Lopunny ex,Fezandipiti ex,0.5748847413639054,0.9180479143460054,LOW,False,True,2,False,bayesian
+90190787,1,3,Fezandipiti ex,Fezandipiti ex,0.9999991015048878,1.3653779223214351e-05,HIGH,False,True,4,True,bayesian
+90228158,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90228158,1,3,Fezandipiti ex,Fezandipiti ex,0.9999995377907196,7.475417352650259e-06,HIGH,False,True,4,True,bayesian
+90243125,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.6230586170253305,0.7694471788617633,MEDIUM,False,True,2,False,bayesian
+90243125,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+90264510,0,3,Mega Lopunny ex,Mega Kangaskhan ex,0.50877208050385,1.4968348169866492,LOW,False,True,1,False,bayesian
+90264510,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998281842556238,0.0018117099856046074,HIGH,False,True,4,True,bayesian
+90276479,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90276479,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999991521719303,1.3478699547812922e-05,HIGH,False,True,4,True,bayesian
+90283845,0,3,Mega Lopunny ex,Fezandipiti ex,0.5748847413639054,0.9180479143460054,LOW,False,True,2,False,bayesian
+90283845,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90285853,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9992811010562214,0.006667490085969702,HIGH,False,True,1,True,bayesian
+90285853,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90292346,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90292346,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999996781944055,5.408813486160656e-06,HIGH,False,True,3,True,bayesian
+90293113,0,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+90293113,1,3,Fezandipiti ex,Fezandipiti ex,0.9999937387740169,8.17355079426059e-05,HIGH,False,True,5,True,bayesian
+90299782,0,3,Mega Lopunny ex,Fezandipiti ex,0.5748847413639054,0.9180479143460054,LOW,False,True,2,False,bayesian
+90299782,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90306216,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90306216,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90307564,0,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+90307564,1,3,Fezandipiti ex,Fezandipiti ex,0.9999998213104104,3.0006797767388705e-06,HIGH,False,True,5,True,bayesian
+90331726,0,3,Fezandipiti ex,Fezandipiti ex,0.9999972060737105,4.2178982655960354e-05,HIGH,False,True,3,True,bayesian
+90331726,1,3,Fezandipiti ex,Fezandipiti ex,0.9999937387740169,8.17355079426059e-05,HIGH,False,True,5,True,bayesian
+90343401,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90343401,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999881135241,2.4317366636270854e-07,HIGH,False,True,4,True,bayesian
+90372383,0,3,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.999997947277984,3.180625318798226e-05,HIGH,False,True,3,True,bayesian
+90372383,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9039362668717854,0.4337036037892829,HIGH,False,True,1,True,bayesian
+90373154,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90373154,1,3,Fezandipiti ex,Fezandipiti ex,0.8379011718946489,0.589599186643387,HIGH,False,True,1,True,bayesian
+90373972,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90373972,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90384998,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90384998,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999996781944055,5.408813486160656e-06,HIGH,False,True,3,True,bayesian
+90388870,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90388870,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+90411356,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9992811010562214,0.006667490085969702,HIGH,False,True,1,True,bayesian
+90411356,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90440065,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9979821731020889,0.014881741800768691,HIGH,False,True,2,True,bayesian
+90440065,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+90468951,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90468951,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90476414,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90476414,1,3,Fezandipiti ex,Fezandipiti ex,0.9999994998741685,8.049219578517961e-06,HIGH,False,True,4,True,bayesian
+90480217,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90480217,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90500076,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90504684,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90504684,1,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90509336,0,3,Mega Lopunny ex,Mega Kangaskhan ex,0.44464264198516995,1.3692079430229833,LOW,False,True,3,False,bayesian
+90509336,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90526151,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90526151,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999991521719303,1.3478699547812922e-05,HIGH,False,True,4,True,bayesian
+90547849,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90547849,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90548582,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90548582,1,3,Dragapult ex,Dragapult ex,0.9879600371921512,0.07388020577848846,HIGH,False,True,3,True,bayesian
+90557690,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998071891076038,0.0019800370308905133,HIGH,False,True,2,True,bayesian
+90557690,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90576695,0,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+90576695,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90615993,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90615993,1,3,Fezandipiti ex,Fezandipiti ex,0.9999971639659819,4.1531965234476696e-05,HIGH,False,True,3,True,bayesian
+90617340,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90617340,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90620575,0,3,Fezandipiti ex,Fezandipiti ex,0.8429321567084136,0.5977389007668412,HIGH,False,True,3,True,bayesian
+90620575,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+90629097,0,3,Dragapult ex,Dragapult ex,0.9998901425614029,0.0011939966093383488,HIGH,False,True,3,True,bayesian
+90629097,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.966021305501343,0.20915839254090676,HIGH,False,True,3,False,bayesian
+90647378,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90647378,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999996781944055,5.408813486160656e-06,HIGH,False,True,3,True,bayesian
+90658616,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90658616,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+90667163,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90667163,1,3,Fezandipiti ex,Fezandipiti ex,0.9999937387740169,8.17355079426059e-05,HIGH,False,True,5,True,bayesian
+90675160,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,2,False,bayesian
+90675160,1,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90759435,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+90759435,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9854612704894844,0.08809679284955797,HIGH,False,True,1,True,bayesian
+90774217,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8501051454412293,0.5914034311680681,HIGH,False,True,4,False,bayesian
+90774217,1,3,Fezandipiti ex,Fezandipiti ex,0.9999998213104104,3.0006797767388705e-06,HIGH,False,True,5,True,bayesian
+90826674,0,3,Mega Lopunny ex,Mega Lopunny ex,0.5824805204546966,0.758453509577771,LOW,False,True,3,True,bayesian
+90826674,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90831584,0,3,Mega Lopunny ex,Fezandipiti ex,0.5748847413639054,0.9180479143460054,LOW,False,True,2,False,bayesian
+90831584,1,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.999999596136452,6.806330818511391e-06,HIGH,False,True,4,True,bayesian
+90833214,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90833214,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90837287,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90837287,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90851553,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90851553,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90858232,0,3,Dragapult ex,Dragapult ex,0.9996163921535407,0.0034102009331626743,HIGH,False,True,3,True,bayesian
+90858232,1,3,Fezandipiti ex,Fezandipiti ex,0.9999994998741685,8.049219578517961e-06,HIGH,False,True,4,True,bayesian
+90861423,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+90861423,1,3,Fezandipiti ex,Fezandipiti ex,0.9999987525158499,1.830963085542082e-05,HIGH,False,True,6,True,bayesian
+90870277,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90870277,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90878641,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+90878641,1,3,Fezandipiti ex,Fezandipiti ex,0.9999991015048878,1.3653779223214351e-05,HIGH,False,True,4,True,bayesian
+90886909,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+90886909,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+90898439,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+90898439,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999846643308,3.0337100385640154e-07,HIGH,False,True,6,True,bayesian
+90906285,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998401361983686,0.0017393566347700367,HIGH,False,True,4,True,bayesian
+90906285,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90941431,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+90949905,0,3,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999836184996111,0.00022091145719962816,HIGH,False,True,2,True,bayesian
+90949905,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998071891076038,0.0019800370308905133,HIGH,False,True,2,True,bayesian
+90951261,0,3,Dragapult ex,Dragapult ex,0.9999555495429975,0.0005433464962609495,HIGH,False,True,3,True,bayesian
+90951261,1,3,Fezandipiti ex,Fezandipiti ex,0.887566637147361,0.3870231444562436,HIGH,False,True,1,True,bayesian
+90988796,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+90988796,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999475351128,9.80668585385174e-07,HIGH,False,True,5,True,bayesian
+91067123,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91067123,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9999821688925938,0.0002281181995433689,HIGH,False,True,5,True,bayesian
+91137010,0,3,Mega Lucario ex,Mega Lucario ex,0.9999991345232354,1.4556240579004337e-05,HIGH,False,True,3,True,bayesian
+91137166,0,3,Dragapult ex,Dragapult ex,0.9996163921535407,0.0034102009331626743,HIGH,False,True,3,True,bayesian
+91137166,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+91143214,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91143214,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9996190025912127,0.003886978725920685,HIGH,False,True,3,True,bayesian
+91155362,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+91155362,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,2,False,bayesian
+91172875,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+91172875,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+91177476,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+91177476,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91196596,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+91196596,1,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+91210977,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999998699388069,2.3177095424902207e-06,HIGH,False,True,3,True,bayesian
+91210977,1,3,Mega Lucario ex,Mega Lucario ex,0.9999822344708121,0.00024441343681393053,HIGH,False,True,3,True,bayesian
+91304394,0,3,Dragapult ex,Dragapult ex,0.989184278899845,0.06054971497662316,HIGH,False,True,2,True,bayesian
+91304394,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+91307809,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+91344627,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+91344627,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999949040714,9.729799210821444e-07,HIGH,False,True,4,True,bayesian
+91382688,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91388044,0,3,Fezandipiti ex,Fezandipiti ex,0.9999774294922695,0.000275505577362031,HIGH,False,True,3,True,bayesian
+91388044,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9999625859996115,0.00046327398191521,HIGH,False,True,3,False,bayesian
+91393495,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91405282,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5550529952203467,0.8875018695789304,LOW,False,True,3,False,bayesian
+91405282,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998071891076038,0.0019800370308905133,HIGH,False,True,2,True,bayesian
+91466558,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998517620379727,0.001492666165524311,HIGH,False,True,3,True,bayesian
+91466558,1,3,Fezandipiti ex,Fezandipiti ex,0.9998993390810657,0.0011315532843695455,HIGH,False,True,2,True,bayesian
+91468241,0,3,Mega Lopunny ex,Mega Lopunny ex,0.9916881890628129,0.0514301770797622,HIGH,False,True,3,True,bayesian
+91468241,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999837280631096,0.00021898043378040008,HIGH,False,True,2,True,bayesian
+91482900,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.966021305501343,0.20915839254090676,HIGH,False,True,4,False,bayesian
+91482900,1,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9991120018739069,0.008851791178122253,HIGH,False,True,2,True,bayesian
+91487825,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+91487825,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9998071891076038,0.0019800370308905133,HIGH,False,True,2,True,bayesian
+91539788,0,3,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999700147087623,0.0003708471880269794,HIGH,False,True,2,True,bayesian
+91539788,1,3,Fezandipiti ex,Fezandipiti ex,0.9999991015048878,1.3653779223214351e-05,HIGH,False,True,4,True,bayesian
+91560723,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+91560723,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999754011558,4.784310604662099e-07,HIGH,False,True,5,True,bayesian
+91592154,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+91607664,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91607664,1,3,Fezandipiti ex,Fezandipiti ex,0.887566637147361,0.3870231444562436,HIGH,False,True,1,True,bayesian
+91642731,0,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,3,False,bayesian
+91642731,1,3,Fezandipiti ex,Fezandipiti ex,0.9999991015048878,1.3653779223214351e-05,HIGH,False,True,4,True,bayesian
+91657668,0,3,Fezandipiti ex,Fezandipiti ex,0.9999972060737105,4.2178982655960354e-05,HIGH,False,True,3,True,bayesian
+91660622,0,3,Fezandipiti ex,Fezandipiti ex,0.9998993390810657,0.0011315532843695455,HIGH,False,True,2,True,bayesian
+91660622,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.981528374603883,0.12023725132756795,HIGH,False,True,1,False,bayesian
+91714582,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+91714582,1,3,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9601491518658479,0.21403980533698055,HIGH,False,True,5,False,bayesian
+91742238,0,3,Dragapult ex,Dragapult ex,0.9999966578526291,4.7080562878327346e-05,HIGH,False,True,4,True,bayesian
+91742238,1,3,Mega Lopunny ex,Mega Lopunny ex,0.9984456460597648,0.012423872737942277,HIGH,False,True,4,True,bayesian
+91747005,0,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+91750460,0,3,Mega Lucario ex,Mega Lucario ex,0.9998912213037515,0.00118034437100525,HIGH,False,True,4,True,bayesian
+91750460,1,3,Dragapult ex,Dragapult ex,0.989184278899845,0.06054971497662316,HIGH,False,True,2,True,bayesian
+91752428,0,3,Fezandipiti ex,Fezandipiti ex,0.998563992913188,0.012314996598897135,HIGH,False,True,1,True,bayesian
+91773770,0,3,Fezandipiti ex,Fezandipiti ex,0.9999626595477523,0.0004544637697282312,HIGH,False,True,2,True,bayesian
+91773770,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999881135241,2.4317366636270854e-07,HIGH,False,True,4,True,bayesian
+91776574,0,3,Dragapult ex,Dragapult ex,0.9999208348782109,0.0009189701251902116,HIGH,False,True,2,True,bayesian
+91776574,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999935633541088,9.299887161294093e-05,HIGH,False,True,2,True,bayesian
+91779029,0,3,Mega Lucario ex,Mega Lucario ex,0.9999999765725175,4.625045953963741e-07,HIGH,False,True,4,True,bayesian
+91779029,1,3,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999923477005556,0.0001029494418530269,HIGH,False,True,2,True,bayesian
+89052711,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+89052711,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9997850620312645,0.002030338027672043,HIGH,False,True,4,True,bayesian
+89100569,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89100569,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89107015,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+89107015,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89117889,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999996035247,9.265615082183305e-09,HIGH,False,True,5,True,bayesian
+89117889,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7146587941339492,0.8696466383265943,MEDIUM,False,True,4,False,bayesian
+89126415,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89126415,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+89138436,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89138436,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+89142610,0,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+89142610,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998840304439863,0.0012778665219855352,HIGH,False,True,2,True,bayesian
+89143555,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89143555,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89216843,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89216843,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+89219226,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89219226,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89226372,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89226372,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89229414,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999928803839994,9.248514171400822e-05,HIGH,False,True,5,True,bayesian
+89229414,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89233517,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89233517,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+89264249,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9997850620312645,0.002030338027672043,HIGH,False,True,4,True,bayesian
+89264249,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999922366277239,0.0001009559007138036,HIGH,False,True,4,True,bayesian
+89276215,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89276215,1,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999830890879,3.334692215806504e-07,HIGH,False,True,4,True,bayesian
+89280888,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999998231623,4.2480983651929414e-09,HIGH,False,True,5,True,bayesian
+89280888,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7146587941339492,0.8696466383265943,MEDIUM,False,True,4,False,bayesian
+89309555,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89309555,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89311705,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999993892284513,9.419054391410164e-06,HIGH,False,True,6,True,bayesian
+89311705,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89321909,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89321909,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+89348014,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.987060962287266,0.06912601875325443,HIGH,False,True,3,True,bayesian
+89348014,1,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999997823978,5.195927761365046e-09,HIGH,False,True,6,True,bayesian
+89360902,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+89360902,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+89375116,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999996994993,7.063290413205779e-09,HIGH,False,True,5,True,bayesian
+89375116,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89384187,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89384187,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999998231623,4.2480983651929414e-09,HIGH,False,True,5,True,bayesian
+89388472,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89388472,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89394689,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999996458813769,5.6453103559160775e-06,HIGH,False,True,7,True,bayesian
+89402091,0,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999998064952,4.65873123819565e-09,HIGH,False,True,5,True,bayesian
+89402091,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89405263,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89405263,1,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999998064952,4.65873123819565e-09,HIGH,False,True,5,True,bayesian
+89412094,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89412094,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89412098,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9978786682904174,0.015181593340101317,HIGH,False,True,2,True,bayesian
+89412098,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89413120,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9978786682904174,0.015181593340101317,HIGH,False,True,2,True,bayesian
+89413120,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+89414710,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998452254,3.762314847674886e-09,HIGH,False,True,5,True,bayesian
+89414718,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.987060962287266,0.06912601875325443,HIGH,False,True,3,True,bayesian
+89414718,1,full,Dragapult ex,Dragapult ex,0.999999999989662,2.772721986812692e-10,HIGH,False,True,11,True,bayesian
+89415263,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89415263,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89416880,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9998965326073346,0.001063913071750504,HIGH,False,True,8,False,bayesian
+89416880,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89419474,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89419474,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89422231,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89422231,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89425659,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89425659,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999943744192599,7.484417976370038e-05,HIGH,False,True,6,True,bayesian
+89432011,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89432011,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89479308,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999998231623,4.2480983651929414e-09,HIGH,False,True,5,True,bayesian
+89479308,1,full,Dragapult ex,Dragapult ex,0.999999999939829,1.505550908678166e-09,HIGH,False,True,6,True,bayesian
+89482563,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999904525857752,0.00012152614826908055,HIGH,False,True,5,True,bayesian
+89482563,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999998231623,4.2480983651929414e-09,HIGH,False,True,5,True,bayesian
+89495129,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89495129,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999923071259934,9.991199818822199e-05,HIGH,False,True,5,True,bayesian
+89521754,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89521754,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89580775,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+89580775,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89585587,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+89585587,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9998965326073346,0.001063913071750504,HIGH,False,True,8,False,bayesian
+89594369,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89594369,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+89600298,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89600298,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89607081,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89607081,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89609248,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89609414,0,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999998064952,4.65873123819565e-09,HIGH,False,True,5,True,bayesian
+89609414,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89613745,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89613745,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89614758,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89614758,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+89616078,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89616078,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9998965326073346,0.001063913071750504,HIGH,False,True,8,False,bayesian
+89628389,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999952733207,9.94764145221187e-08,HIGH,False,True,5,True,bayesian
+89628389,1,full,Teal Mask Ogerpon ex,Teal Mask Ogerpon ex,0.565355074862896,0.722724997038147,LOW,False,True,9,True,bayesian
+89630347,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89630347,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89657437,0,full,Mega Lucario ex,Mega Lucario ex,0.9999999999743132,6.644367010097076e-10,HIGH,False,True,6,True,bayesian
+89657437,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999922366277239,0.0001009559007138036,HIGH,False,True,4,True,bayesian
+89670258,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999795603133623,0.00024117054856820545,HIGH,False,True,4,True,bayesian
+89670258,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999998677128348,2.319989374027405e-06,HIGH,False,True,4,True,bayesian
+89672202,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89672202,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+89672640,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89672640,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89680553,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89680553,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+89689186,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89689186,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.987060962287266,0.06912601875325443,HIGH,False,True,3,True,bayesian
+89689566,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89689566,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+89698325,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89698325,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9997183710126506,0.0027219561101047476,HIGH,False,True,4,True,bayesian
+89700868,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89700868,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89702234,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89702234,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89704585,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+89704585,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999802556546817,0.0002489951908618419,HIGH,False,True,4,True,bayesian
+89723734,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89723734,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+89728349,0,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+89728349,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89730826,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+89730826,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89784248,0,full,Fezandipiti ex,Mega Kangaskhan ex,0.7146587941339492,0.8696466383265943,MEDIUM,False,True,4,False,bayesian
+89784248,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999009879565595,0.0010976472750890652,HIGH,False,True,2,True,bayesian
+89788502,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89788502,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999997150560863,4.610815249225808e-06,HIGH,False,True,6,True,bayesian
+89790301,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+89790301,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89793343,0,full,Dragapult ex,Dragapult ex,0.999999999939829,1.505550908678166e-09,HIGH,False,True,6,True,bayesian
+89793343,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89810358,0,full,Dragapult ex,Dragapult ex,0.9999999992347939,1.7264440108596132e-08,HIGH,False,True,5,True,bayesian
+89810358,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89810960,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+89810960,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+89814136,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999520904281815,0.0005632112794435555,HIGH,False,True,5,True,bayesian
+89814136,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+89819494,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89819494,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9998965326073346,0.001063913071750504,HIGH,False,True,8,False,bayesian
+89869427,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999999799283,5.273738694831413e-10,HIGH,False,True,6,True,bayesian
+89869427,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89884921,0,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+89884921,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89899877,0,full,Dragapult ex,Dragapult ex,0.9999999998673927,3.2329698729699923e-09,HIGH,False,True,6,True,bayesian
+89899877,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999999799283,5.273738694831413e-10,HIGH,False,True,6,True,bayesian
+89900770,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+89934295,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999954539928807,6.166674512296537e-05,HIGH,False,True,5,True,bayesian
+89934295,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+89944815,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+89944815,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+89976307,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999956156365354,5.893400715558059e-05,HIGH,False,True,6,True,bayesian
+89976307,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9985568548490475,0.011904052784254646,HIGH,False,True,5,True,bayesian
+90014356,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999999799283,5.273738694831413e-10,HIGH,False,True,6,True,bayesian
+90014356,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998452254,3.762314847674886e-09,HIGH,False,True,5,True,bayesian
+90016361,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999999799283,5.273738694831413e-10,HIGH,False,True,6,True,bayesian
+90016361,1,full,Dragapult ex,Dragapult ex,0.9999999995457214,1.0575815142237145e-08,HIGH,False,True,6,True,bayesian
+90016981,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999942741636417,7.545408665093072e-05,HIGH,False,True,6,True,bayesian
+90016981,1,full,Mega Lucario ex,Mega Lucario ex,0.9999999999743132,6.644367010097076e-10,HIGH,False,True,6,True,bayesian
+90020470,0,full,Mega Lucario ex,Mega Lucario ex,0.9994904213636547,0.004814582671039605,HIGH,False,True,2,True,bayesian
+90020470,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9957741594731155,0.029245481474061374,HIGH,False,True,8,False,bayesian
+90021702,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+90021702,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999993744861,1.426784880252384e-08,HIGH,False,True,5,True,bayesian
+90026260,0,full,Fezandipiti ex,Fezandipiti ex,0.9999455137378156,0.0006422144668775886,HIGH,False,True,3,True,bayesian
+90026260,1,full,Dragapult ex,Dragapult ex,0.9999999672877589,6.194949598510903e-07,HIGH,False,True,8,True,bayesian
+90035651,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90035651,1,full,Dragapult ex,Dragapult ex,0.9999999996564872,8.073882398639148e-09,HIGH,False,True,7,True,bayesian
+90040592,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90040592,1,full,Dragapult ex,Dragapult ex,0.9999999992347939,1.7264440108596132e-08,HIGH,False,True,5,True,bayesian
+90041277,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90041277,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90050344,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90065339,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999069641189943,0.0009693939334633777,HIGH,False,True,5,True,bayesian
+90065339,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90070714,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90070714,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90076057,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90076057,1,full,Dragapult ex,Dragapult ex,0.9999999974399341,5.4834227231806325e-08,HIGH,False,True,5,True,bayesian
+90091042,0,full,Dragapult ex,Dragapult ex,0.9999999998673927,3.2329698729699923e-09,HIGH,False,True,6,True,bayesian
+90091042,1,full,Mega Lucario ex,Mega Lucario ex,0.9999999999743132,6.644367010097076e-10,HIGH,False,True,6,True,bayesian
+90098479,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999998677128348,2.319989374027405e-06,HIGH,False,True,4,True,bayesian
+90098479,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90099086,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90099086,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999999981508,5.232188834782514e-11,HIGH,False,True,7,True,bayesian
+90107397,0,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+90107397,1,full,Mega Lucario ex,Mega Lucario ex,0.9999999997486835,5.949002031247543e-09,HIGH,False,True,5,True,bayesian
+90108084,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999922366277239,0.0001009559007138036,HIGH,False,True,4,True,bayesian
+90108084,1,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+90124386,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999520904281815,0.0005632112794435555,HIGH,False,True,5,True,bayesian
+90124386,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90128411,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9997850620312645,0.002030338027672043,HIGH,False,True,4,True,bayesian
+90128411,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+90131683,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90131683,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90148181,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+90148181,1,full,Dragapult ex,Dragapult ex,0.9999999504987493,9.189869173315174e-07,HIGH,False,True,8,True,bayesian
+90155093,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9325775302972484,0.25605226904987927,HIGH,False,True,10,False,bayesian
+90155093,1,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+90190787,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9997651937473414,0.0023541462866211367,HIGH,False,True,3,True,bayesian
+90190787,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999959580812,8.446788660753975e-08,HIGH,False,True,4,True,bayesian
+90228158,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90228158,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+90243125,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.8726490333163034,0.4575694947546368,HIGH,False,True,2,False,bayesian
+90243125,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90264510,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9997651937473414,0.0023541462866211367,HIGH,False,True,3,True,bayesian
+90264510,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.999971294119831,0.0003317659232227213,HIGH,False,True,4,True,bayesian
+90276479,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+90276479,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90283845,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999802556546817,0.0002489951908618419,HIGH,False,True,4,True,bayesian
+90283845,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90285853,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90285853,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999674030322,6.361832166908275e-07,HIGH,False,True,3,True,bayesian
+90292346,0,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+90292346,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90293113,0,full,Mega Lucario ex,Mega Lucario ex,0.9999999997486835,5.949002031247543e-09,HIGH,False,True,5,True,bayesian
+90293113,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90299782,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999802556546817,0.0002489951908618419,HIGH,False,True,4,True,bayesian
+90299782,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90306216,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999472517537,9.835640257838896e-07,HIGH,False,True,4,True,bayesian
+90306216,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90307564,0,full,Mega Lucario ex,Mega Lucario ex,0.9999999999743132,6.644367010097076e-10,HIGH,False,True,6,True,bayesian
+90307564,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90331726,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999999805007,5.021449953512815e-10,HIGH,False,True,7,True,bayesian
+90331726,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+90343401,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90343401,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90372383,0,full,Team Rocket's Mewtwo ex,Team Rocket's Mewtwo ex,0.9999999998064952,4.65873123819565e-09,HIGH,False,True,5,True,bayesian
+90372383,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+90373154,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90373154,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999999799283,5.273738694831413e-10,HIGH,False,True,6,True,bayesian
+90373972,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90373972,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90384998,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999983061287,3.740823016719906e-08,HIGH,False,True,4,True,bayesian
+90384998,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90388870,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+90388870,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+90411356,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90411356,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90440065,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.987060962287266,0.06912601875325443,HIGH,False,True,3,True,bayesian
+90440065,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998452254,3.762314847674886e-09,HIGH,False,True,5,True,bayesian
+90468951,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90468951,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999922366277239,0.0001009559007138036,HIGH,False,True,4,True,bayesian
+90476414,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+90476414,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90480217,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999993635494332,9.765530320172657e-06,HIGH,False,True,7,True,bayesian
+90480217,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90500076,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90504684,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9998369258838126,0.0015913455849015496,HIGH,False,True,3,True,bayesian
+90504684,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999959580812,8.446788660753975e-08,HIGH,False,True,4,True,bayesian
+90509336,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999903702175796,0.00012297353915951525,HIGH,False,True,6,True,bayesian
+90509336,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90526151,0,full,Mega Lopunny ex,Mega Lopunny ex,0.999997438781733,3.579492872578931e-05,HIGH,False,True,6,True,bayesian
+90526151,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999494612,1.1682692735442897e-08,HIGH,False,True,5,True,bayesian
+90547849,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90547849,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90548582,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90548582,1,full,Dragapult ex,Dragapult ex,0.9999975541871137,3.5438196300795214e-05,HIGH,False,True,8,True,bayesian
+90557690,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90557690,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90576695,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+90576695,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90615993,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90615993,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+90617340,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+90617340,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90620575,0,full,Fezandipiti ex,Mega Kangaskhan ex,0.7863200541906836,0.7779797250407678,MEDIUM,False,True,5,False,bayesian
+90620575,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998452254,3.762314847674886e-09,HIGH,False,True,5,True,bayesian
+90629097,0,full,Dragapult ex,Dragapult ex,0.9999999995457214,1.0575815142237145e-08,HIGH,False,True,6,True,bayesian
+90629097,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.5703210392968788,0.7257747883108433,LOW,False,True,8,False,bayesian
+90647378,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+90647378,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+90658616,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999993602475,1.424480278739089e-08,HIGH,False,True,6,True,bayesian
+90658616,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999996035247,9.265615082183305e-09,HIGH,False,True,5,True,bayesian
+90667163,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90667163,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999999805007,5.021449953512815e-10,HIGH,False,True,7,True,bayesian
+90675160,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,2,False,bayesian
+90675160,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+90759435,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+90759435,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90774217,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.6844890771608885,0.658287682795321,MEDIUM,False,True,9,False,bayesian
+90774217,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90826674,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999317857410394,0.0007318123429603332,HIGH,False,True,5,True,bayesian
+90826674,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90831584,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999802556546817,0.0002489951908618419,HIGH,False,True,4,True,bayesian
+90831584,1,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+90833214,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+90833214,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+90837287,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90837287,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+90851553,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+90851553,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90858232,0,full,Dragapult ex,Dragapult ex,0.999999999939829,1.505550908678166e-09,HIGH,False,True,6,True,bayesian
+90858232,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90861423,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90861423,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999999805007,5.021449953512815e-10,HIGH,False,True,7,True,bayesian
+90870277,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+90870277,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+90878641,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90878641,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999956950709,8.759010148418358e-08,HIGH,False,True,5,True,bayesian
+90886909,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+90886909,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9998366686633198,0.001628672959671442,HIGH,False,True,4,True,bayesian
+90898439,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999674030322,6.361832166908275e-07,HIGH,False,True,3,True,bayesian
+90898439,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90906285,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999884524314236,0.0001528003755567884,HIGH,False,True,7,True,bayesian
+90906285,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+90941431,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+90949905,0,full,Cynthia's Garchomp ex,Cynthia's Garchomp ex,0.9999999999951301,1.3339186275239528e-10,HIGH,False,True,6,True,bayesian
+90949905,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+90951261,0,full,Dragapult ex,Dragapult ex,0.999999999939829,1.505550908678166e-09,HIGH,False,True,6,True,bayesian
+90951261,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+90988796,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+90988796,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91067123,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91067123,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+91137010,0,full,Mega Lucario ex,Mega Lucario ex,0.9999999913476186,1.7533762087743354e-07,HIGH,False,True,4,True,bayesian
+91137166,0,full,Dragapult ex,Dragapult ex,0.999999999989662,2.772721986812692e-10,HIGH,False,True,7,True,bayesian
+91137166,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+91143214,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91143214,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999841131145636,0.00019466440708779765,HIGH,False,True,4,True,bayesian
+91155362,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+91155362,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,2,False,bayesian
+91172875,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+91172875,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+91177476,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+91177476,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91196596,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999994864652829,8.106525132394146e-06,HIGH,False,True,5,True,bayesian
+91196596,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+91210977,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian
+91210977,1,full,Mega Lucario ex,Mega Lucario ex,0.9999999913476186,1.7533762087743354e-07,HIGH,False,True,4,True,bayesian
+91304394,0,full,Dragapult ex,Dragapult ex,0.9999999974399341,5.4834227231806325e-08,HIGH,False,True,5,True,bayesian
+91304394,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+91307809,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999922366277239,0.0001009559007138036,HIGH,False,True,4,True,bayesian
+91344627,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+91344627,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+91382688,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999974837488974,0.0003199953268304244,HIGH,False,True,3,True,bayesian
+91388044,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999999805007,5.021449953512815e-10,HIGH,False,True,7,True,bayesian
+91388044,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9999874503716952,0.00015538261314949247,HIGH,False,True,5,False,bayesian
+91393495,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91405282,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9107019283282963,0.3657986937892548,HIGH,False,True,9,False,bayesian
+91405282,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91466558,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9997850620312645,0.002030338027672043,HIGH,False,True,4,True,bayesian
+91466558,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+91468241,0,full,Mega Lopunny ex,Mega Lopunny ex,0.9999955693273699,5.965479184694419e-05,HIGH,False,True,5,True,bayesian
+91468241,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+91482900,0,full,Teal Mask Ogerpon ex,Teal Mask Ogerpon ex,0.565355074862896,0.722724997038147,LOW,False,True,9,True,bayesian
+91482900,1,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9997850620312645,0.002030338027672043,HIGH,False,True,4,True,bayesian
+91487825,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+91487825,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91539788,0,full,Mega Kangaskhan ex,Mega Kangaskhan ex,0.9999651377851637,0.00039274091168671634,HIGH,False,True,3,True,bayesian
+91539788,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999959580812,8.446788660753975e-08,HIGH,False,True,4,True,bayesian
+91560723,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+91560723,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998452254,3.762314847674886e-09,HIGH,False,True,5,True,bayesian
+91592154,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+91607664,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91607664,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+91642731,0,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9325775302972484,0.25605226904987927,HIGH,False,True,9,False,bayesian
+91642731,1,full,Fezandipiti ex,Fezandipiti ex,0.9999999959580812,8.446788660753975e-08,HIGH,False,True,4,True,bayesian
+91657668,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+91660622,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+91660622,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.9936378736440599,0.03972109950600855,HIGH,False,True,1,False,bayesian
+91714582,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91714582,1,full,Teal Mask Ogerpon ex,Mega Kangaskhan ex,0.6844890771608885,0.658287682795321,MEDIUM,False,True,9,False,bayesian
+91742238,0,full,Dragapult ex,Dragapult ex,0.999999999989662,2.772721986812692e-10,HIGH,False,True,7,True,bayesian
+91742238,1,full,Mega Lopunny ex,Mega Lopunny ex,0.9999998349888538,2.754693719024236e-06,HIGH,False,True,7,True,bayesian
+91747005,0,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.9999999998003628,4.812266348235779e-09,HIGH,False,True,4,True,bayesian
+91750460,0,full,Mega Lucario ex,Mega Lucario ex,0.9999995117528916,7.874723556422119e-06,HIGH,False,True,5,True,bayesian
+91750460,1,full,Dragapult ex,Dragapult ex,0.999999999989662,2.772721986812692e-10,HIGH,False,True,7,True,bayesian
+91752428,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998709699,3.1509542271327296e-09,HIGH,False,True,5,True,bayesian
+91773770,0,full,Fezandipiti ex,Fezandipiti ex,0.9999999998688944,3.1269490824207857e-09,HIGH,False,True,6,True,bayesian
+91773770,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91776574,0,full,Dragapult ex,Dragapult ex,0.999999999939829,1.505550908678166e-09,HIGH,False,True,6,True,bayesian
+91776574,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999998801,3.433618751538265e-11,HIGH,False,True,6,True,bayesian
+91779029,0,full,Mega Lucario ex,Mega Lucario ex,0.9999999999743132,6.644367010097076e-10,HIGH,False,True,6,True,bayesian
+91779029,1,full,Marnie's Grimmsnarl ex,Marnie's Grimmsnarl ex,0.999999999987268,3.4090481900726234e-10,HIGH,False,True,5,True,bayesian

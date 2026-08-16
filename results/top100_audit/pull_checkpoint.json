@@ -1,0 +1,5403 @@
+{
+  "done_team_ids": [],
+  "results": [
+    {
+      "rank": 1,
+      "team_id": 16581741,
+      "team_name": "Dipam Chakraborty",
+      "rating": "1227.1",
+      "leaderboard_submission_date": "2026-08-13T14:22:15.396Z",
+      "submission_id": 55485291,
+      "submission_public_score": "919.2",
+      "submission_date": "2026-08-13T14:22:15.397Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 11,
+      "n_episodes_public_completed": 10,
+      "sample_info": [
+        {
+          "episode_id": 92673468,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "prod1gy"
+        },
+        {
+          "episode_id": 92678159,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokopia"
+        },
+        {
+          "episode_id": 92680996,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokémon Day Care"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 2,
+      "team_id": 16380946,
+      "team_name": "flg",
+      "rating": "1217.0",
+      "leaderboard_submission_date": "2026-08-12T10:30:56.850Z",
+      "submission_id": 55456208,
+      "submission_public_score": "1151.8",
+      "submission_date": "2026-08-12T10:30:56.850Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 86,
+      "n_episodes_public_completed": 85,
+      "sample_info": [
+        {
+          "episode_id": 92285945,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Tardigrades"
+        },
+        {
+          "episode_id": 92320782,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yigit Kayali"
+        },
+        {
+          "episode_id": 92663446,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "palsystem"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 3,
+      "team_id": 16375635,
+      "team_name": "palsystem",
+      "rating": "1211.0",
+      "leaderboard_submission_date": "2026-08-13T10:49:23.776Z",
+      "submission_id": 55480973,
+      "submission_public_score": "1211.0",
+      "submission_date": "2026-08-13T10:49:23.777Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92623983,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Ardell Aghna Mahendra"
+        },
+        {
+          "episode_id": 92645662,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92665371,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "THIRD PTCG Club"
+        }
+      ],
+      "deck_hashes_seen": [
+        "6de33022ed33e4f5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "6de33022ed33e4f5": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:3;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 4,
+      "team_id": 16448747,
+      "team_name": "Luca",
+      "rating": "1197.5",
+      "leaderboard_submission_date": "2026-08-12T03:05:16.426Z",
+      "submission_id": 55447414,
+      "submission_public_score": "1197.5",
+      "submission_date": "2026-08-12T03:05:16.427Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 89,
+      "n_episodes_public_completed": 88,
+      "sample_info": [
+        {
+          "episode_id": 92181140,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "LP"
+        },
+        {
+          "episode_id": 92218995,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwa"
+        },
+        {
+          "episode_id": 92679225,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "eb1222900df9baf0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "eb1222900df9baf0": "6:13;673:2;674:2;675:2;676:3;677:3;678:4;1121:4;1123:2;1141:4;1142:4;1152:4;1159:1;1182:2;1213:4;1227:4;1229:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 5,
+      "team_id": 16411029,
+      "team_name": "ANDPAD kaggler team",
+      "rating": "1175.3",
+      "leaderboard_submission_date": "2026-08-12T10:46:32.120Z",
+      "submission_id": 55456501,
+      "submission_public_score": "1132.2",
+      "submission_date": "2026-08-12T10:46:32.120Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 85,
+      "n_episodes_public_completed": 84,
+      "sample_info": [
+        {
+          "episode_id": 92288780,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Can Kural"
+        },
+        {
+          "episode_id": 92326366,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FENGZHAOFAN"
+        },
+        {
+          "episode_id": 92667053,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 1,
+      "team_id": 16581741,
+      "team_name": "Dipam Chakraborty",
+      "rating": "1227.1",
+      "leaderboard_submission_date": "2026-08-13T14:22:15.396Z",
+      "submission_id": 55485291,
+      "submission_public_score": "919.2",
+      "submission_date": "2026-08-13T14:22:15.397Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 11,
+      "n_episodes_public_completed": 10,
+      "sample_info": [
+        {
+          "episode_id": 92673468,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "prod1gy"
+        },
+        {
+          "episode_id": 92678159,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokopia"
+        },
+        {
+          "episode_id": 92680996,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokémon Day Care"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 2,
+      "team_id": 16380946,
+      "team_name": "flg",
+      "rating": "1217.0",
+      "leaderboard_submission_date": "2026-08-12T10:30:56.850Z",
+      "submission_id": 55456208,
+      "submission_public_score": "1151.8",
+      "submission_date": "2026-08-12T10:30:56.850Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 86,
+      "n_episodes_public_completed": 85,
+      "sample_info": [
+        {
+          "episode_id": 92285945,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Tardigrades"
+        },
+        {
+          "episode_id": 92320782,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yigit Kayali"
+        },
+        {
+          "episode_id": 92663446,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "palsystem"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 3,
+      "team_id": 16375635,
+      "team_name": "palsystem",
+      "rating": "1211.0",
+      "leaderboard_submission_date": "2026-08-13T10:49:23.776Z",
+      "submission_id": 55480973,
+      "submission_public_score": "1211.0",
+      "submission_date": "2026-08-13T10:49:23.777Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92623983,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Ardell Aghna Mahendra"
+        },
+        {
+          "episode_id": 92645662,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92665371,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "THIRD PTCG Club"
+        }
+      ],
+      "deck_hashes_seen": [
+        "6de33022ed33e4f5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "6de33022ed33e4f5": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:3;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 4,
+      "team_id": 16448747,
+      "team_name": "Luca",
+      "rating": "1197.5",
+      "leaderboard_submission_date": "2026-08-12T03:05:16.426Z",
+      "submission_id": 55447414,
+      "submission_public_score": "1197.5",
+      "submission_date": "2026-08-12T03:05:16.427Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 89,
+      "n_episodes_public_completed": 88,
+      "sample_info": [
+        {
+          "episode_id": 92181140,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "LP"
+        },
+        {
+          "episode_id": 92218995,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwa"
+        },
+        {
+          "episode_id": 92679225,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "eb1222900df9baf0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "eb1222900df9baf0": "6:13;673:2;674:2;675:2;676:3;677:3;678:4;1121:4;1123:2;1141:4;1142:4;1152:4;1159:1;1182:2;1213:4;1227:4;1229:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 5,
+      "team_id": 16411029,
+      "team_name": "ANDPAD kaggler team",
+      "rating": "1175.3",
+      "leaderboard_submission_date": "2026-08-12T10:46:32.120Z",
+      "submission_id": 55456501,
+      "submission_public_score": "1132.2",
+      "submission_date": "2026-08-12T10:46:32.120Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 85,
+      "n_episodes_public_completed": 84,
+      "sample_info": [
+        {
+          "episode_id": 92288780,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Can Kural"
+        },
+        {
+          "episode_id": 92326366,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FENGZHAOFAN"
+        },
+        {
+          "episode_id": 92667053,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 6,
+      "team_id": 16450476,
+      "team_name": "Thai",
+      "rating": "1157.7",
+      "leaderboard_submission_date": "2026-08-12T10:49:24.343Z",
+      "submission_id": 55456550,
+      "submission_public_score": "1157.7",
+      "submission_date": "2026-08-12T10:49:24.343Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 80,
+      "n_episodes_public_completed": 79,
+      "sample_info": [
+        {
+          "episode_id": 92289710,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "[Deleted] 87d00d5e-2534-45ed-b859-3d272112a525"
+        },
+        {
+          "episode_id": 92320775,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yopta"
+        },
+        {
+          "episode_id": 92671901,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Bart, Edwyn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb0918f74924ede3"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb0918f74924ede3": "5:4;19:4;115:1;140:1;144:4;156:1;162:4;163:4;183:2;184:2;224:1;756:3;1088:1;1097:4;1121:4;1146:3;1152:4;1188:3;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 7,
+      "team_id": 16425135,
+      "team_name": "Rmy",
+      "rating": "1155.0",
+      "leaderboard_submission_date": "2026-08-13T12:04:55.280Z",
+      "submission_id": 55482569,
+      "submission_public_score": "1155.0",
+      "submission_date": "2026-08-13T12:04:55.280Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 46,
+      "n_episodes_public_completed": 45,
+      "sample_info": [
+        {
+          "episode_id": 92641713,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Evex Developers"
+        },
+        {
+          "episode_id": 92659575,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "tennogh"
+        },
+        {
+          "episode_id": 92679415,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ANDPAD kaggler team"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 8,
+      "team_id": 16381624,
+      "team_name": "LumenLiquidity",
+      "rating": "1152.8",
+      "leaderboard_submission_date": "2026-08-13T10:47:20.756Z",
+      "submission_id": 55480943,
+      "submission_public_score": "1092.8",
+      "submission_date": "2026-08-13T10:47:20.757Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 50,
+      "n_episodes_public_completed": 49,
+      "sample_info": [
+        {
+          "episode_id": 92623974,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "nishikun"
+        },
+        {
+          "episode_id": 92643723,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Team KASA."
+        },
+        {
+          "episode_id": 92664418,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "wuyufan"
+        }
+      ],
+      "deck_hashes_seen": [
+        "cc84b1b9f1e05949"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "cc84b1b9f1e05949": "2:3;5:3;7:2;31:1;112:2;119:4;120:4;121:3;140:1;235:1;1071:1;1080:1;1086:4;1097:3;1120:4;1121:4;1152:4;1182:3;1197:1;1198:3;1213:1;1227:4;1246:1;1256:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 9,
+      "team_id": 16374395,
+      "team_name": "Majkel1337",
+      "rating": "1149.3",
+      "leaderboard_submission_date": "2026-08-08T01:03:19.113Z",
+      "submission_id": 55337430,
+      "submission_public_score": "1092.7",
+      "submission_date": "2026-08-08T01:03:19.113Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 233,
+      "n_episodes_public_completed": 232,
+      "sample_info": [
+        {
+          "episode_id": 90862241,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Leonardo03"
+        },
+        {
+          "episode_id": 91515131,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Jonathan Donham"
+        },
+        {
+          "episode_id": 92670866,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SebaMG"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 10,
+      "team_id": 16381823,
+      "team_name": "AlphaTCG",
+      "rating": "1140.2",
+      "leaderboard_submission_date": "2026-08-08T12:30:29.480Z",
+      "submission_id": 55350342,
+      "submission_public_score": "1140.2",
+      "submission_date": "2026-08-08T12:30:29.480Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 187,
+      "n_episodes_public_completed": 186,
+      "sample_info": [
+        {
+          "episode_id": 91006194,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "浦山拓樹"
+        },
+        {
+          "episode_id": 91604999,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "タニシ"
+        },
+        {
+          "episode_id": 92666984,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Petit Canard"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 11,
+      "team_id": 16375647,
+      "team_name": "James Cox & Henry Chao",
+      "rating": "1132.9",
+      "leaderboard_submission_date": "2026-08-12T23:49:46.776Z",
+      "submission_id": 55469101,
+      "submission_public_score": "1014.2",
+      "submission_date": "2026-08-12T23:49:46.777Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 62,
+      "n_episodes_public_completed": 61,
+      "sample_info": [
+        {
+          "episode_id": 92470308,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "I wanna be the very best"
+        },
+        {
+          "episode_id": 92495776,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "PKMN Trainers L & Brando"
+        },
+        {
+          "episode_id": 92680047,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Budew"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d27ab9465febb3da"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d27ab9465febb3da": "1:9;3:1;4:2;5:2;6:2;63:2;96:3;108:1;140:1;184:2;272:1;756:3;978:1;1071:3;1088:1;1097:2;1098:2;1116:4;1121:4;1182:2;1197:2;1198:4;1205:2;1250:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 12,
+      "team_id": 16374074,
+      "team_name": "Octavi Grau",
+      "rating": "1126.6",
+      "leaderboard_submission_date": "2026-08-13T12:51:53.300Z",
+      "submission_id": 55483528,
+      "submission_public_score": "898.9",
+      "submission_date": "2026-08-13T12:51:53.300Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 33,
+      "n_episodes_public_completed": 32,
+      "sample_info": [
+        {
+          "episode_id": 92652871,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FJMT"
+        },
+        {
+          "episode_id": 92668034,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "taiseiu"
+        },
+        {
+          "episode_id": 92681255,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Luca                        :)"
+        }
+      ],
+      "deck_hashes_seen": [
+        "e34dae96b1984485"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "e34dae96b1984485": "6:5;20:4;341:4;342:3;379:4;380:4;381:3;387:2;1080:1;1086:4;1097:2;1142:4;1152:4;1173:3;1182:2;1197:1;1203:1;1225:3;1227:4;1261:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 13,
+      "team_id": 16422241,
+      "team_name": "Raihan Ramadistra",
+      "rating": "1122.6",
+      "leaderboard_submission_date": "2026-08-13T04:58:26.713Z",
+      "submission_id": 55474573,
+      "submission_public_score": "835.3",
+      "submission_date": "2026-08-13T04:58:26.713Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 43,
+      "n_episodes_public_completed": 42,
+      "sample_info": [
+        {
+          "episode_id": 92541951,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kenshin Kikuchi"
+        },
+        {
+          "episode_id": 92558945,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Adastra"
+        },
+        {
+          "episode_id": 92658548,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Kyohei"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 14,
+      "team_id": 16372380,
+      "team_name": "THIRD PTCG Club",
+      "rating": "1121.7",
+      "leaderboard_submission_date": "2026-08-13T02:57:18.226Z",
+      "submission_id": 55472557,
+      "submission_public_score": "880.1",
+      "submission_date": "2026-08-13T02:57:18.227Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 53,
+      "n_episodes_public_completed": 52,
+      "sample_info": [
+        {
+          "episode_id": 92514130,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "nyanlinnmya"
+        },
+        {
+          "episode_id": 92538431,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "The Bitter Lesson"
+        },
+        {
+          "episode_id": 92662454,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kirderf"
+        }
+      ],
+      "deck_hashes_seen": [
+        "111d0a87c7071fde"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "111d0a87c7071fde": "1:17;93:2;96:4;140:1;149:1;150:2;346:1;709:1;710:2;917:2;918:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:1;1182:2;1184:1;1188:1;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 15,
+      "team_id": 16531497,
+      "team_name": "Bart, Edwyn",
+      "rating": "1120.0",
+      "leaderboard_submission_date": "2026-08-13T11:10:28.553Z",
+      "submission_id": 55481441,
+      "submission_public_score": "1120.0",
+      "submission_date": "2026-08-13T11:10:28.553Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 50,
+      "n_episodes_public_completed": 49,
+      "sample_info": [
+        {
+          "episode_id": 92633310,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shiro Sugawa"
+        },
+        {
+          "episode_id": 92653005,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "JB Bryant"
+        },
+        {
+          "episode_id": 92675657,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "你好哇"
+        }
+      ],
+      "deck_hashes_seen": [
+        "f68ccef625779ef7"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "f68ccef625779ef7": "5:2;13:1;19:4;66:3;140:1;305:3;741:4;742:4;743:3;1079:4;1081:4;1086:4;1097:3;1129:1;1152:4;1182:2;1184:1;1225:4;1231:4;1264:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 16,
+      "team_id": 16416261,
+      "team_name": "Petit Canard",
+      "rating": "1117.0",
+      "leaderboard_submission_date": "2026-08-13T13:32:51.676Z",
+      "submission_id": 55484297,
+      "submission_public_score": "999.7",
+      "submission_date": "2026-08-13T13:32:51.677Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 19,
+      "n_episodes_public_completed": 18,
+      "sample_info": [
+        {
+          "episode_id": 92664081,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "ANIMA SQUAD"
+        },
+        {
+          "episode_id": 92672592,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "kumk"
+        },
+        {
+          "episode_id": 92680138,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "szlachetny snieg"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 17,
+      "team_id": 16404352,
+      "team_name": "Oshbocker",
+      "rating": "1115.0",
+      "leaderboard_submission_date": "2026-08-12T21:27:36.683Z",
+      "submission_id": 55467430,
+      "submission_public_score": "1115.0",
+      "submission_date": "2026-08-12T21:27:36.683Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 70,
+      "n_episodes_public_completed": 69,
+      "sample_info": [
+        {
+          "episode_id": 92437936,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kohei"
+        },
+        {
+          "episode_id": 92465817,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Majkel1337"
+        },
+        {
+          "episode_id": 92661458,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "tera358"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b8e2515051817ff7"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b8e2515051817ff7": "7:9;112:2;235:1;292:4;293:4;303:2;906:2;1080:1;1086:4;1097:2;1113:4;1121:3;1152:3;1176:2;1182:4;1188:1;1195:1;1197:1;1205:3;1227:4;1253:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 18,
+      "team_id": 16371829,
+      "team_name": "e-toppo + kurupical",
+      "rating": "1114.4",
+      "leaderboard_submission_date": "2026-08-13T10:54:26.690Z",
+      "submission_id": 55481059,
+      "submission_public_score": "1114.4",
+      "submission_date": "2026-08-13T10:54:26.690Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92624911,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ljkllucario"
+        },
+        {
+          "episode_id": 92645539,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92668038,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "nsytsqdtn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d27ab9465febb3da"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d27ab9465febb3da": "1:9;3:1;4:2;5:2;6:2;63:2;96:3;108:1;140:1;184:2;272:1;756:3;978:1;1071:3;1088:1;1097:2;1098:2;1116:4;1121:4;1182:2;1197:2;1198:4;1205:2;1250:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 19,
+      "team_id": 16371653,
+      "team_name": "213tubo",
+      "rating": "1114.3",
+      "leaderboard_submission_date": "2026-08-13T13:01:36.073Z",
+      "submission_id": 55483716,
+      "submission_public_score": "1114.3",
+      "submission_date": "2026-08-13T13:01:36.073Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 32,
+      "n_episodes_public_completed": 31,
+      "sample_info": [
+        {
+          "episode_id": 92654737,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Shunsuke Kurita"
+        },
+        {
+          "episode_id": 92668915,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Maximum Beltry"
+        },
+        {
+          "episode_id": 92681188,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "hatry"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 1,
+      "team_id": 16581741,
+      "team_name": "Dipam Chakraborty",
+      "rating": "1227.1",
+      "leaderboard_submission_date": "2026-08-13T14:22:15.396Z",
+      "submission_id": 55485291,
+      "submission_public_score": "919.2",
+      "submission_date": "2026-08-13T14:22:15.397Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 11,
+      "n_episodes_public_completed": 10,
+      "sample_info": [
+        {
+          "episode_id": 92673468,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "prod1gy"
+        },
+        {
+          "episode_id": 92678159,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokopia"
+        },
+        {
+          "episode_id": 92680996,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokémon Day Care"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 2,
+      "team_id": 16380946,
+      "team_name": "flg",
+      "rating": "1217.0",
+      "leaderboard_submission_date": "2026-08-12T10:30:56.850Z",
+      "submission_id": 55456208,
+      "submission_public_score": "1151.8",
+      "submission_date": "2026-08-12T10:30:56.850Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 86,
+      "n_episodes_public_completed": 85,
+      "sample_info": [
+        {
+          "episode_id": 92285945,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Tardigrades"
+        },
+        {
+          "episode_id": 92320782,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yigit Kayali"
+        },
+        {
+          "episode_id": 92663446,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "palsystem"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 3,
+      "team_id": 16375635,
+      "team_name": "palsystem",
+      "rating": "1211.0",
+      "leaderboard_submission_date": "2026-08-13T10:49:23.776Z",
+      "submission_id": 55480973,
+      "submission_public_score": "1211.0",
+      "submission_date": "2026-08-13T10:49:23.777Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92623983,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Ardell Aghna Mahendra"
+        },
+        {
+          "episode_id": 92645662,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92665371,
+          "deck_hash": "6de33022ed33e4f5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "THIRD PTCG Club"
+        }
+      ],
+      "deck_hashes_seen": [
+        "6de33022ed33e4f5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "6de33022ed33e4f5": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:3;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 4,
+      "team_id": 16448747,
+      "team_name": "Luca",
+      "rating": "1197.5",
+      "leaderboard_submission_date": "2026-08-12T03:05:16.426Z",
+      "submission_id": 55447414,
+      "submission_public_score": "1197.5",
+      "submission_date": "2026-08-12T03:05:16.427Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 89,
+      "n_episodes_public_completed": 88,
+      "sample_info": [
+        {
+          "episode_id": 92181140,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "LP"
+        },
+        {
+          "episode_id": 92218995,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwa"
+        },
+        {
+          "episode_id": 92679225,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "eb1222900df9baf0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "eb1222900df9baf0": "6:13;673:2;674:2;675:2;676:3;677:3;678:4;1121:4;1123:2;1141:4;1142:4;1152:4;1159:1;1182:2;1213:4;1227:4;1229:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 5,
+      "team_id": 16411029,
+      "team_name": "ANDPAD kaggler team",
+      "rating": "1175.3",
+      "leaderboard_submission_date": "2026-08-12T10:46:32.120Z",
+      "submission_id": 55456501,
+      "submission_public_score": "1132.2",
+      "submission_date": "2026-08-12T10:46:32.120Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 85,
+      "n_episodes_public_completed": 84,
+      "sample_info": [
+        {
+          "episode_id": 92288780,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Can Kural"
+        },
+        {
+          "episode_id": 92326366,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FENGZHAOFAN"
+        },
+        {
+          "episode_id": 92667053,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 6,
+      "team_id": 16450476,
+      "team_name": "Thai",
+      "rating": "1157.7",
+      "leaderboard_submission_date": "2026-08-12T10:49:24.343Z",
+      "submission_id": 55456550,
+      "submission_public_score": "1157.7",
+      "submission_date": "2026-08-12T10:49:24.343Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 80,
+      "n_episodes_public_completed": 79,
+      "sample_info": [
+        {
+          "episode_id": 92289710,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "[Deleted] 87d00d5e-2534-45ed-b859-3d272112a525"
+        },
+        {
+          "episode_id": 92320775,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yopta"
+        },
+        {
+          "episode_id": 92671901,
+          "deck_hash": "fb0918f74924ede3",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Bart, Edwyn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb0918f74924ede3"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb0918f74924ede3": "5:4;19:4;115:1;140:1;144:4;156:1;162:4;163:4;183:2;184:2;224:1;756:3;1088:1;1097:4;1121:4;1146:3;1152:4;1188:3;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 7,
+      "team_id": 16425135,
+      "team_name": "Rmy",
+      "rating": "1155.0",
+      "leaderboard_submission_date": "2026-08-13T12:04:55.280Z",
+      "submission_id": 55482569,
+      "submission_public_score": "1155.0",
+      "submission_date": "2026-08-13T12:04:55.280Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 46,
+      "n_episodes_public_completed": 45,
+      "sample_info": [
+        {
+          "episode_id": 92641713,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Evex Developers"
+        },
+        {
+          "episode_id": 92659575,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "tennogh"
+        },
+        {
+          "episode_id": 92679415,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ANDPAD kaggler team"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 8,
+      "team_id": 16381624,
+      "team_name": "LumenLiquidity",
+      "rating": "1152.8",
+      "leaderboard_submission_date": "2026-08-13T10:47:20.756Z",
+      "submission_id": 55480943,
+      "submission_public_score": "1092.8",
+      "submission_date": "2026-08-13T10:47:20.757Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 50,
+      "n_episodes_public_completed": 49,
+      "sample_info": [
+        {
+          "episode_id": 92623974,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "nishikun"
+        },
+        {
+          "episode_id": 92643723,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Team KASA."
+        },
+        {
+          "episode_id": 92664418,
+          "deck_hash": "cc84b1b9f1e05949",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "wuyufan"
+        }
+      ],
+      "deck_hashes_seen": [
+        "cc84b1b9f1e05949"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "cc84b1b9f1e05949": "2:3;5:3;7:2;31:1;112:2;119:4;120:4;121:3;140:1;235:1;1071:1;1080:1;1086:4;1097:3;1120:4;1121:4;1152:4;1182:3;1197:1;1198:3;1213:1;1227:4;1246:1;1256:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 9,
+      "team_id": 16374395,
+      "team_name": "Majkel1337",
+      "rating": "1149.3",
+      "leaderboard_submission_date": "2026-08-08T01:03:19.113Z",
+      "submission_id": 55337430,
+      "submission_public_score": "1092.7",
+      "submission_date": "2026-08-08T01:03:19.113Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 233,
+      "n_episodes_public_completed": 232,
+      "sample_info": [
+        {
+          "episode_id": 90862241,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Leonardo03"
+        },
+        {
+          "episode_id": 91515131,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Jonathan Donham"
+        },
+        {
+          "episode_id": 92670866,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SebaMG"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 10,
+      "team_id": 16381823,
+      "team_name": "AlphaTCG",
+      "rating": "1140.2",
+      "leaderboard_submission_date": "2026-08-08T12:30:29.480Z",
+      "submission_id": 55350342,
+      "submission_public_score": "1140.2",
+      "submission_date": "2026-08-08T12:30:29.480Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 187,
+      "n_episodes_public_completed": 186,
+      "sample_info": [
+        {
+          "episode_id": 91006194,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "浦山拓樹"
+        },
+        {
+          "episode_id": 91604999,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "タニシ"
+        },
+        {
+          "episode_id": 92666984,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Petit Canard"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 11,
+      "team_id": 16375647,
+      "team_name": "James Cox & Henry Chao",
+      "rating": "1132.9",
+      "leaderboard_submission_date": "2026-08-12T23:49:46.776Z",
+      "submission_id": 55469101,
+      "submission_public_score": "1014.2",
+      "submission_date": "2026-08-12T23:49:46.777Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 62,
+      "n_episodes_public_completed": 61,
+      "sample_info": [
+        {
+          "episode_id": 92470308,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "I wanna be the very best"
+        },
+        {
+          "episode_id": 92495776,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "PKMN Trainers L & Brando"
+        },
+        {
+          "episode_id": 92680047,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Budew"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d27ab9465febb3da"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d27ab9465febb3da": "1:9;3:1;4:2;5:2;6:2;63:2;96:3;108:1;140:1;184:2;272:1;756:3;978:1;1071:3;1088:1;1097:2;1098:2;1116:4;1121:4;1182:2;1197:2;1198:4;1205:2;1250:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 12,
+      "team_id": 16374074,
+      "team_name": "Octavi Grau",
+      "rating": "1126.6",
+      "leaderboard_submission_date": "2026-08-13T12:51:53.300Z",
+      "submission_id": 55483528,
+      "submission_public_score": "898.9",
+      "submission_date": "2026-08-13T12:51:53.300Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 33,
+      "n_episodes_public_completed": 32,
+      "sample_info": [
+        {
+          "episode_id": 92652871,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FJMT"
+        },
+        {
+          "episode_id": 92668034,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "taiseiu"
+        },
+        {
+          "episode_id": 92681255,
+          "deck_hash": "e34dae96b1984485",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Luca                        :)"
+        }
+      ],
+      "deck_hashes_seen": [
+        "e34dae96b1984485"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "e34dae96b1984485": "6:5;20:4;341:4;342:3;379:4;380:4;381:3;387:2;1080:1;1086:4;1097:2;1142:4;1152:4;1173:3;1182:2;1197:1;1203:1;1225:3;1227:4;1261:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 13,
+      "team_id": 16422241,
+      "team_name": "Raihan Ramadistra",
+      "rating": "1122.6",
+      "leaderboard_submission_date": "2026-08-13T04:58:26.713Z",
+      "submission_id": 55474573,
+      "submission_public_score": "835.3",
+      "submission_date": "2026-08-13T04:58:26.713Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 43,
+      "n_episodes_public_completed": 42,
+      "sample_info": [
+        {
+          "episode_id": 92541951,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kenshin Kikuchi"
+        },
+        {
+          "episode_id": 92558945,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Adastra"
+        },
+        {
+          "episode_id": 92658548,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Kyohei"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 14,
+      "team_id": 16372380,
+      "team_name": "THIRD PTCG Club",
+      "rating": "1121.7",
+      "leaderboard_submission_date": "2026-08-13T02:57:18.226Z",
+      "submission_id": 55472557,
+      "submission_public_score": "880.1",
+      "submission_date": "2026-08-13T02:57:18.227Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 53,
+      "n_episodes_public_completed": 52,
+      "sample_info": [
+        {
+          "episode_id": 92514130,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "nyanlinnmya"
+        },
+        {
+          "episode_id": 92538431,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "The Bitter Lesson"
+        },
+        {
+          "episode_id": 92662454,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kirderf"
+        }
+      ],
+      "deck_hashes_seen": [
+        "111d0a87c7071fde"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "111d0a87c7071fde": "1:17;93:2;96:4;140:1;149:1;150:2;346:1;709:1;710:2;917:2;918:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:1;1182:2;1184:1;1188:1;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 15,
+      "team_id": 16531497,
+      "team_name": "Bart, Edwyn",
+      "rating": "1120.0",
+      "leaderboard_submission_date": "2026-08-13T11:10:28.553Z",
+      "submission_id": 55481441,
+      "submission_public_score": "1120.0",
+      "submission_date": "2026-08-13T11:10:28.553Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 50,
+      "n_episodes_public_completed": 49,
+      "sample_info": [
+        {
+          "episode_id": 92633310,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shiro Sugawa"
+        },
+        {
+          "episode_id": 92653005,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "JB Bryant"
+        },
+        {
+          "episode_id": 92675657,
+          "deck_hash": "f68ccef625779ef7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "你好哇"
+        }
+      ],
+      "deck_hashes_seen": [
+        "f68ccef625779ef7"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "f68ccef625779ef7": "5:2;13:1;19:4;66:3;140:1;305:3;741:4;742:4;743:3;1079:4;1081:4;1086:4;1097:3;1129:1;1152:4;1182:2;1184:1;1225:4;1231:4;1264:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 16,
+      "team_id": 16416261,
+      "team_name": "Petit Canard",
+      "rating": "1117.0",
+      "leaderboard_submission_date": "2026-08-13T13:32:51.676Z",
+      "submission_id": 55484297,
+      "submission_public_score": "999.7",
+      "submission_date": "2026-08-13T13:32:51.677Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 19,
+      "n_episodes_public_completed": 18,
+      "sample_info": [
+        {
+          "episode_id": 92664081,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "ANIMA SQUAD"
+        },
+        {
+          "episode_id": 92672592,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "kumk"
+        },
+        {
+          "episode_id": 92680138,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "szlachetny snieg"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 17,
+      "team_id": 16404352,
+      "team_name": "Oshbocker",
+      "rating": "1115.0",
+      "leaderboard_submission_date": "2026-08-12T21:27:36.683Z",
+      "submission_id": 55467430,
+      "submission_public_score": "1115.0",
+      "submission_date": "2026-08-12T21:27:36.683Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 70,
+      "n_episodes_public_completed": 69,
+      "sample_info": [
+        {
+          "episode_id": 92437936,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kohei"
+        },
+        {
+          "episode_id": 92465817,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Majkel1337"
+        },
+        {
+          "episode_id": 92661458,
+          "deck_hash": "b8e2515051817ff7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "tera358"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b8e2515051817ff7"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b8e2515051817ff7": "7:9;112:2;235:1;292:4;293:4;303:2;906:2;1080:1;1086:4;1097:2;1113:4;1121:3;1152:3;1176:2;1182:4;1188:1;1195:1;1197:1;1205:3;1227:4;1253:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 18,
+      "team_id": 16371829,
+      "team_name": "e-toppo + kurupical",
+      "rating": "1114.4",
+      "leaderboard_submission_date": "2026-08-13T10:54:26.690Z",
+      "submission_id": 55481059,
+      "submission_public_score": "1114.4",
+      "submission_date": "2026-08-13T10:54:26.690Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92624911,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ljkllucario"
+        },
+        {
+          "episode_id": 92645539,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92668038,
+          "deck_hash": "d27ab9465febb3da",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "nsytsqdtn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d27ab9465febb3da"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d27ab9465febb3da": "1:9;3:1;4:2;5:2;6:2;63:2;96:3;108:1;140:1;184:2;272:1;756:3;978:1;1071:3;1088:1;1097:2;1098:2;1116:4;1121:4;1182:2;1197:2;1198:4;1205:2;1250:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 19,
+      "team_id": 16371653,
+      "team_name": "213tubo",
+      "rating": "1114.3",
+      "leaderboard_submission_date": "2026-08-13T13:01:36.073Z",
+      "submission_id": 55483716,
+      "submission_public_score": "1114.3",
+      "submission_date": "2026-08-13T13:01:36.073Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 32,
+      "n_episodes_public_completed": 31,
+      "sample_info": [
+        {
+          "episode_id": 92654737,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Shunsuke Kurita"
+        },
+        {
+          "episode_id": 92668915,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Maximum Beltry"
+        },
+        {
+          "episode_id": 92681188,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "hatry"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 20,
+      "team_id": 16536318,
+      "team_name": "李秉叡（ntumlnoob）",
+      "rating": "1113.8",
+      "leaderboard_submission_date": "2026-08-13T00:27:17.816Z",
+      "submission_id": 55470068,
+      "submission_public_score": "1113.8",
+      "submission_date": "2026-08-13T00:27:17.817Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 69,
+      "n_episodes_public_completed": 68,
+      "sample_info": [
+        {
+          "episode_id": 92479707,
+          "deck_hash": "2026f6adb448abd3",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "marc_town"
+        },
+        {
+          "episode_id": 92508768,
+          "deck_hash": "2026f6adb448abd3",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "ropeadope"
+        },
+        {
+          "episode_id": 92678492,
+          "deck_hash": "2026f6adb448abd3",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Rmy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2026f6adb448abd3"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2026f6adb448abd3": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1133:1;1152:4;1182:3;1198:3;1213:1;1227:4;1256:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 21,
+      "team_id": 16387915,
+      "team_name": "tw_shin",
+      "rating": "1103.6",
+      "leaderboard_submission_date": "2026-08-12T17:40:56.976Z",
+      "submission_id": 55464332,
+      "submission_public_score": "1103.6",
+      "submission_date": "2026-08-12T17:40:56.977Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 86,
+      "n_episodes_public_completed": 85,
+      "sample_info": [
+        {
+          "episode_id": 92387797,
+          "deck_hash": "bb4234176fdec6ff",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Nicolai Karcher"
+        },
+        {
+          "episode_id": 92425066,
+          "deck_hash": "bb4234176fdec6ff",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Eason0203"
+        },
+        {
+          "episode_id": 92678366,
+          "deck_hash": "bb4234176fdec6ff",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "213tubo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "bb4234176fdec6ff"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "bb4234176fdec6ff": "1:15;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:1;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 22,
+      "team_id": 16371280,
+      "team_name": "loIzpo + emonga",
+      "rating": "1102.8",
+      "leaderboard_submission_date": "2026-08-12T15:33:04.583Z",
+      "submission_id": 55462060,
+      "submission_public_score": "977.1",
+      "submission_date": "2026-08-12T15:33:04.583Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 76,
+      "n_episodes_public_completed": 75,
+      "sample_info": [
+        {
+          "episode_id": 92355088,
+          "deck_hash": "9dfcab39e3ed21bf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "mgn"
+        },
+        {
+          "episode_id": 92395385,
+          "deck_hash": "9dfcab39e3ed21bf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "xamad"
+        },
+        {
+          "episode_id": 92679335,
+          "deck_hash": "9dfcab39e3ed21bf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SebaMG"
+        }
+      ],
+      "deck_hashes_seen": [
+        "9dfcab39e3ed21bf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "9dfcab39e3ed21bf": "1:13;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:2;1071:2;1080:1;1094:4;1097:2;1121:4;1152:1;1182:2;1184:1;1197:2;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 23,
+      "team_id": 16569286,
+      "team_name": "Kh0a",
+      "rating": "1097.5",
+      "leaderboard_submission_date": "2026-08-13T10:36:43.486Z",
+      "submission_id": 55480748,
+      "submission_public_score": "1058.3",
+      "submission_date": "2026-08-13T10:36:43.487Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 49,
+      "n_episodes_public_completed": 48,
+      "sample_info": [
+        {
+          "episode_id": 92621193,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shoh Son"
+        },
+        {
+          "episode_id": 92641881,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "James Cox & Henry Chao"
+        },
+        {
+          "episode_id": 92660692,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "MTamago"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 24,
+      "team_id": 16400014,
+      "team_name": "__Taichicchi__",
+      "rating": "1095.7",
+      "leaderboard_submission_date": "2026-08-12T22:49:32.170Z",
+      "submission_id": 55468387,
+      "submission_public_score": "841.8",
+      "submission_date": "2026-08-12T22:49:32.170Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92456404,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shingo Kotake"
+        },
+        {
+          "episode_id": 92479110,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yuuri"
+        },
+        {
+          "episode_id": 92655820,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "keidroid"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 25,
+      "team_id": 16531787,
+      "team_name": "hatry",
+      "rating": "1091.1",
+      "leaderboard_submission_date": "2026-08-11T05:55:37.970Z",
+      "submission_id": 55424871,
+      "submission_public_score": "1059.7",
+      "submission_date": "2026-08-11T05:55:37.970Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 123,
+      "n_episodes_public_completed": 122,
+      "sample_info": [
+        {
+          "episode_id": 91886018,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "shota"
+        },
+        {
+          "episode_id": 92117535,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwa"
+        },
+        {
+          "episode_id": 92681188,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "213tubo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 26,
+      "team_id": 16438680,
+      "team_name": "想要成为kaggle大师",
+      "rating": "1088.8",
+      "leaderboard_submission_date": "2026-08-12T01:11:40.503Z",
+      "submission_id": 55445713,
+      "submission_public_score": "1088.8",
+      "submission_date": "2026-08-12T01:11:40.503Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 100,
+      "n_episodes_public_completed": 99,
+      "sample_info": [
+        {
+          "episode_id": 92155065,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "MYOUCER"
+        },
+        {
+          "episode_id": 92225440,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Meghana284"
+        },
+        {
+          "episode_id": 92670990,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "JB Bryant"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 27,
+      "team_id": 16385817,
+      "team_name": "M Sato",
+      "rating": "1088.7",
+      "leaderboard_submission_date": "2026-08-13T11:29:37.980Z",
+      "submission_id": 55481866,
+      "submission_public_score": "1088.7",
+      "submission_date": "2026-08-13T11:29:37.980Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 46,
+      "n_episodes_public_completed": 45,
+      "sample_info": [
+        {
+          "episode_id": 92633327,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Pied Pie, LLC"
+        },
+        {
+          "episode_id": 92653038,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "タニシ"
+        },
+        {
+          "episode_id": 92672707,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "denden12"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 28,
+      "team_id": 16408505,
+      "team_name": "JZ",
+      "rating": "1088.5",
+      "leaderboard_submission_date": "2026-08-10T02:15:39.170Z",
+      "submission_id": 55394382,
+      "submission_public_score": "1088.5",
+      "submission_date": "2026-08-10T02:15:39.170Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 158,
+      "n_episodes_public_completed": 157,
+      "sample_info": [
+        {
+          "episode_id": 91507563,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "mackerel is all you need"
+        },
+        {
+          "episode_id": 91896462,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "ANDPAD kaggler team"
+        },
+        {
+          "episode_id": 92680162,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Petit Canard"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b43a53d96da0f0b5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b43a53d96da0f0b5": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1152:4;1161:2;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 29,
+      "team_id": 16594494,
+      "team_name": "Yopta",
+      "rating": "1084.6",
+      "leaderboard_submission_date": "2026-08-13T10:54:23.683Z",
+      "submission_id": 55481058,
+      "submission_public_score": "1084.6",
+      "submission_date": "2026-08-13T10:54:23.683Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92624910,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "AMIBEN"
+        },
+        {
+          "episode_id": 92645611,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "AlphaTCG"
+        },
+        {
+          "episode_id": 92675644,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Rmy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 30,
+      "team_id": 16505652,
+      "team_name": "Mahog",
+      "rating": "1084.0",
+      "leaderboard_submission_date": "2026-08-13T12:12:55.056Z",
+      "submission_id": 55482753,
+      "submission_public_score": "933.5",
+      "submission_date": "2026-08-13T12:12:55.057Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 40,
+      "n_episodes_public_completed": 39,
+      "sample_info": [
+        {
+          "episode_id": 92643557,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shingo Kotake"
+        },
+        {
+          "episode_id": 92658627,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Eric Han Wang"
+        },
+        {
+          "episode_id": 92680231,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Egypt first class"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b43a53d96da0f0b5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b43a53d96da0f0b5": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1152:4;1161:2;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 31,
+      "team_id": 16421871,
+      "team_name": "Redi_",
+      "rating": "1083.1",
+      "leaderboard_submission_date": "2026-08-11T06:25:01.340Z",
+      "submission_id": 55425377,
+      "submission_public_score": "1083.1",
+      "submission_date": "2026-08-11T06:25:01.340Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 117,
+      "n_episodes_public_completed": 116,
+      "sample_info": [
+        {
+          "episode_id": 91891630,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "bacon4423"
+        },
+        {
+          "episode_id": 92011350,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "palsystem"
+        },
+        {
+          "episode_id": 92670828,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Naoki Yamada"
+        }
+      ],
+      "deck_hashes_seen": [
+        "393e490e6960de29"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "393e490e6960de29": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1264:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 32,
+      "team_id": 16462035,
+      "team_name": "Аzat Akhtyamov",
+      "rating": "1082.9",
+      "leaderboard_submission_date": "2026-08-13T00:02:49.550Z",
+      "submission_id": 55469451,
+      "submission_public_score": "1051.0",
+      "submission_date": "2026-08-13T00:02:49.550Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 56,
+      "n_episodes_public_completed": 55,
+      "sample_info": [
+        {
+          "episode_id": 92474164,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pika Pika"
+        },
+        {
+          "episode_id": 92497607,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Mint120"
+        },
+        {
+          "episode_id": 92681259,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SebaMG"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 33,
+      "team_id": 16668226,
+      "team_name": "kanno",
+      "rating": "1081.6",
+      "leaderboard_submission_date": "2026-08-13T13:24:23.946Z",
+      "submission_id": 55484114,
+      "submission_public_score": "1065.1",
+      "submission_date": "2026-08-13T13:24:23.947Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 24,
+      "n_episodes_public_completed": 23,
+      "sample_info": [
+        {
+          "episode_id": 92661264,
+          "deck_hash": "19a01ac1cebb1e8b",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "情理とこうせい"
+        },
+        {
+          "episode_id": 92670733,
+          "deck_hash": "19a01ac1cebb1e8b",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "rmizuta"
+        },
+        {
+          "episode_id": 92681106,
+          "deck_hash": "19a01ac1cebb1e8b",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Boseiju"
+        }
+      ],
+      "deck_hashes_seen": [
+        "19a01ac1cebb1e8b"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "19a01ac1cebb1e8b": "11:4;13:1;14:3;66:4;174:1;305:4;848:4;849:3;1086:4;1121:4;1122:4;1152:4;1174:4;1182:3;1197:1;1225:4;1227:4;1229:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 34,
+      "team_id": 16422381,
+      "team_name": "JB Bryant",
+      "rating": "1080.1",
+      "leaderboard_submission_date": "2026-08-13T11:51:09.390Z",
+      "submission_id": 55485999,
+      "submission_public_score": "600.0",
+      "submission_date": "2026-08-13T14:58:30.823Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 1,
+      "n_episodes_public_completed": 0,
+      "status": "NO_PUBLIC_EPISODES"
+    },
+    {
+      "rank": 35,
+      "team_id": 16421599,
+      "team_name": "熱異常",
+      "rating": "1076.7",
+      "leaderboard_submission_date": "2026-08-13T10:54:55.310Z",
+      "submission_id": 55481069,
+      "submission_public_score": "1076.7",
+      "submission_date": "2026-08-13T10:54:55.310Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92625838,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "HirotaSaurus"
+        },
+        {
+          "episode_id": 92644663,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "da da"
+        },
+        {
+          "episode_id": 92672555,
+          "deck_hash": "8100e95271eb24bc",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "keithtyser"
+        }
+      ],
+      "deck_hashes_seen": [
+        "8100e95271eb24bc"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "8100e95271eb24bc": "1:14;92:2;93:2;96:4;140:1;150:2;709:2;710:2;917:2;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:2;1182:2;1184:1;1213:1;1227:4;1231:2;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 36,
+      "team_id": 16474254,
+      "team_name": "fishcat",
+      "rating": "1075.8",
+      "leaderboard_submission_date": "2026-08-13T14:43:29.200Z",
+      "submission_id": 55485728,
+      "submission_public_score": "713.8",
+      "submission_date": "2026-08-13T14:43:29.200Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 4,
+      "n_episodes_public_completed": 3,
+      "sample_info": [
+        {
+          "episode_id": 92679064,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "沼里太誠"
+        },
+        {
+          "episode_id": 92679998,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "yu lesui"
+        },
+        {
+          "episode_id": 92680944,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "DarkLayer"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 37,
+      "team_id": 16443122,
+      "team_name": "motono0223",
+      "rating": "1074.8",
+      "leaderboard_submission_date": "2026-08-13T12:58:32.370Z",
+      "submission_id": 55483654,
+      "submission_public_score": "639.1",
+      "submission_date": "2026-08-13T12:58:32.370Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 26,
+      "n_episodes_public_completed": 25,
+      "sample_info": [
+        {
+          "episode_id": 92653816,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Y2Dex"
+        },
+        {
+          "episode_id": 92665198,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yotsuba_4848"
+        },
+        {
+          "episode_id": 92681885,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Pokésonic"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 38,
+      "team_id": 16385537,
+      "team_name": "keithtyser",
+      "rating": "1074.4",
+      "leaderboard_submission_date": "2026-08-13T13:38:24.120Z",
+      "submission_id": 55484422,
+      "submission_public_score": "1049.2",
+      "submission_date": "2026-08-13T13:38:24.120Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 20,
+      "n_episodes_public_completed": 19,
+      "sample_info": [
+        {
+          "episode_id": 92664084,
+          "deck_hash": "888826866a5bccdd",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Daewoo Myoung"
+        },
+        {
+          "episode_id": 92672555,
+          "deck_hash": "888826866a5bccdd",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "熱異常"
+        },
+        {
+          "episode_id": 92681055,
+          "deck_hash": "888826866a5bccdd",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "wuyufan"
+        }
+      ],
+      "deck_hashes_seen": [
+        "888826866a5bccdd"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "888826866a5bccdd": "1:1;11:4;14:3;18:4;20:2;117:1;344:4;345:3;756:2;1086:2;1121:3;1122:4;1123:1;1147:4;1159:1;1177:1;1182:4;1187:1;1194:2;1197:1;1219:4;1225:2;1227:4;1242:1;1257:1"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 39,
+      "team_id": 16379316,
+      "team_name": "yumizu",
+      "rating": "1071.0",
+      "leaderboard_submission_date": "2026-08-13T11:28:53.346Z",
+      "submission_id": 55481856,
+      "submission_public_score": "1021.6",
+      "submission_date": "2026-08-13T11:28:53.347Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 43,
+      "n_episodes_public_completed": 42,
+      "sample_info": [
+        {
+          "episode_id": 92633323,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Nicholas Chen"
+        },
+        {
+          "episode_id": 92651023,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "DeeSaa"
+        },
+        {
+          "episode_id": 92677422,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "213tubo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 40,
+      "team_id": 16556346,
+      "team_name": "sadwat",
+      "rating": "1063.1",
+      "leaderboard_submission_date": "2026-08-13T09:07:48.820Z",
+      "submission_id": 55479013,
+      "submission_public_score": "988.4",
+      "submission_date": "2026-08-13T09:07:48.820Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 47,
+      "n_episodes_public_completed": 46,
+      "sample_info": [
+        {
+          "episode_id": 92600665,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ゼミ費ください。"
+        },
+        {
+          "episode_id": 92622302,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "tangai1"
+        },
+        {
+          "episode_id": 92662386,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Rmy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "eb1222900df9baf0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "eb1222900df9baf0": "6:13;673:2;674:2;675:2;676:3;677:3;678:4;1121:4;1123:2;1141:4;1142:4;1152:4;1159:1;1182:2;1213:4;1227:4;1229:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 41,
+      "team_id": 16375320,
+      "team_name": "カントー地方マスター(KantoRegionMaster)",
+      "rating": "1059.1",
+      "leaderboard_submission_date": "2026-08-13T14:42:55.626Z",
+      "submission_id": 55485718,
+      "submission_public_score": "840.3",
+      "submission_date": "2026-08-13T14:42:55.627Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 6,
+      "n_episodes_public_completed": 5,
+      "sample_info": [
+        {
+          "episode_id": 92678147,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Jonathan Effect"
+        },
+        {
+          "episode_id": 92679999,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "KatoYui"
+        },
+        {
+          "episode_id": 92681926,
+          "deck_hash": "eb1222900df9baf0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "gakki"
+        }
+      ],
+      "deck_hashes_seen": [
+        "eb1222900df9baf0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "eb1222900df9baf0": "6:13;673:2;674:2;675:2;676:3;677:3;678:4;1121:4;1123:2;1141:4;1142:4;1152:4;1159:1;1182:2;1213:4;1227:4;1229:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 42,
+      "team_id": 16445258,
+      "team_name": "MTamago",
+      "rating": "1058.3",
+      "leaderboard_submission_date": "2026-08-13T12:00:49.136Z",
+      "submission_id": 55482465,
+      "submission_public_score": "1058.3",
+      "submission_date": "2026-08-13T12:00:49.137Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 44,
+      "n_episodes_public_completed": 43,
+      "sample_info": [
+        {
+          "episode_id": 92640770,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "yuki #6"
+        },
+        {
+          "episode_id": 92658563,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SebaMG"
+        },
+        {
+          "episode_id": 92680108,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "keithtyser"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 43,
+      "team_id": 16431331,
+      "team_name": "insuperabilehart",
+      "rating": "1056.0",
+      "leaderboard_submission_date": "2026-08-12T16:36:30.200Z",
+      "submission_id": 55463281,
+      "submission_public_score": "994.6",
+      "submission_date": "2026-08-12T16:36:30.200Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 77,
+      "n_episodes_public_completed": 76,
+      "sample_info": [
+        {
+          "episode_id": 92371935,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dan Arreola"
+        },
+        {
+          "episode_id": 92405630,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Minh Hiếu Nguyễn filial"
+        },
+        {
+          "episode_id": 92660552,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Aji Samudra"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 44,
+      "team_id": 16668084,
+      "team_name": "dasfds",
+      "rating": "1055.9",
+      "leaderboard_submission_date": "2026-08-13T08:59:01.276Z",
+      "submission_id": 55478798,
+      "submission_public_score": "1055.9",
+      "submission_date": "2026-08-13T08:59:01.277Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92598801,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kenta matsumoto"
+        },
+        {
+          "episode_id": 92621414,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Urazalinov Baurzhan"
+        },
+        {
+          "episode_id": 92667986,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 45,
+      "team_id": 16514878,
+      "team_name": "哈基米南北绿豆",
+      "rating": "1054.9",
+      "leaderboard_submission_date": "2026-08-13T10:45:03.300Z",
+      "submission_id": 55480894,
+      "submission_public_score": "979.4",
+      "submission_date": "2026-08-13T10:45:03.300Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 43,
+      "n_episodes_public_completed": 42,
+      "sample_info": [
+        {
+          "episode_id": 92623050,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Anh Lam"
+        },
+        {
+          "episode_id": 92641898,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "@kdcyberdude"
+        },
+        {
+          "episode_id": 92675578,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "nsytsqdtn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 46,
+      "team_id": 16598812,
+      "team_name": "guruguru000",
+      "rating": "1054.4",
+      "leaderboard_submission_date": "2026-08-13T10:35:28.516Z",
+      "submission_id": 55480716,
+      "submission_public_score": "1054.4",
+      "submission_date": "2026-08-13T10:35:28.517Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92621180,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Kuuma5"
+        },
+        {
+          "episode_id": 92640005,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "insuperabilehart"
+        },
+        {
+          "episode_id": 92660496,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "tera358"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d83b61b3461e6f3d"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d83b61b3461e6f3d": "1:17;18:2;96:4;1094:4;1118:1;1119:2;1120:4;1122:3;1127:4;1147:3;1159:1;1182:2;1201:1;1213:4;1221:1;1223:1;1227:4;1251:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 47,
+      "team_id": 16373946,
+      "team_name": "KawattaTaido",
+      "rating": "1053.1",
+      "leaderboard_submission_date": "2026-08-10T14:49:39.766Z",
+      "submission_id": 55409731,
+      "submission_public_score": "969.1",
+      "submission_date": "2026-08-10T14:49:39.767Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 120,
+      "n_episodes_public_completed": 119,
+      "sample_info": [
+        {
+          "episode_id": 91679899,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "sato mozuku"
+        },
+        {
+          "episode_id": 91810846,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "masspeaks"
+        },
+        {
+          "episode_id": 92673515,
+          "deck_hash": "b43a53d96da0f0b5",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "IIDA"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b43a53d96da0f0b5"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b43a53d96da0f0b5": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1152:4;1161:2;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 48,
+      "team_id": 16381127,
+      "team_name": "Boss's Orders Are All You Need",
+      "rating": "1046.8",
+      "leaderboard_submission_date": "2026-08-13T07:37:55.220Z",
+      "submission_id": 55477282,
+      "submission_public_score": "981.9",
+      "submission_date": "2026-08-13T07:37:55.220Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 47,
+      "n_episodes_public_completed": 46,
+      "sample_info": [
+        {
+          "episode_id": 92579242,
+          "deck_hash": "712e7e9d851a570b",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Yxy2001"
+        },
+        {
+          "episode_id": 92599905,
+          "deck_hash": "712e7e9d851a570b",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Ra'uf Fauzan Rambe"
+        },
+        {
+          "episode_id": 92670927,
+          "deck_hash": "712e7e9d851a570b",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Rmy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "712e7e9d851a570b"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "712e7e9d851a570b": "1:14;93:2;96:4;140:1;149:1;150:2;346:1;655:1;709:1;710:2;917:2;918:1;920:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:1;1182:2;1184:1;1188:1;1201:1;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 49,
+      "team_id": 16440585,
+      "team_name": "Brahim",
+      "rating": "1045.4",
+      "leaderboard_submission_date": "2026-08-10T22:49:08.086Z",
+      "submission_id": 55417322,
+      "submission_public_score": "764.4",
+      "submission_date": "2026-08-10T22:49:08.087Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 69,
+      "n_episodes_public_completed": 68,
+      "sample_info": [
+        {
+          "episode_id": 91787230,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "No.3"
+        },
+        {
+          "episode_id": 91855444,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Gappy"
+        },
+        {
+          "episode_id": 92634472,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "sottnik"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 50,
+      "team_id": 16600240,
+      "team_name": "DavidFreelan",
+      "rating": "1043.6",
+      "leaderboard_submission_date": "2026-08-13T11:25:32.513Z",
+      "submission_id": 55481795,
+      "submission_public_score": "800.6",
+      "submission_date": "2026-08-13T11:25:32.513Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 35,
+      "n_episodes_public_completed": 34,
+      "sample_info": [
+        {
+          "episode_id": 92633313,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "nikechan"
+        },
+        {
+          "episode_id": 92649298,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "JS"
+        },
+        {
+          "episode_id": 92668163,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kenkoooo @ estie, inc."
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 51,
+      "team_id": 16464757,
+      "team_name": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "rating": "1041.7",
+      "leaderboard_submission_date": "2026-08-13T05:05:20.156Z",
+      "submission_id": 55474711,
+      "submission_public_score": "1041.7",
+      "submission_date": "2026-08-13T05:05:20.157Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 65,
+      "n_episodes_public_completed": 64,
+      "sample_info": [
+        {
+          "episode_id": 92546616,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "kuu🍣"
+        },
+        {
+          "episode_id": 92573835,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dries @ Tufa Labs"
+        },
+        {
+          "episode_id": 92675574,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "songxin"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 52,
+      "team_id": 16383701,
+      "team_name": "Phil_Hellmuth",
+      "rating": "1041.6",
+      "leaderboard_submission_date": "2026-08-12T09:20:25.223Z",
+      "submission_id": 55454605,
+      "submission_public_score": "1041.6",
+      "submission_date": "2026-08-12T09:20:25.223Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 79,
+      "n_episodes_public_completed": 78,
+      "sample_info": [
+        {
+          "episode_id": 92269192,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Zbida"
+        },
+        {
+          "episode_id": 92304865,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Rmy"
+        },
+        {
+          "episode_id": 92655777,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "MTamago"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 53,
+      "team_id": 16390101,
+      "team_name": "Pokopia",
+      "rating": "1039.4",
+      "leaderboard_submission_date": "2026-08-13T14:29:01.616Z",
+      "submission_id": 55485416,
+      "submission_public_score": "965.1",
+      "submission_date": "2026-08-13T14:29:01.617Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 10,
+      "n_episodes_public_completed": 9,
+      "sample_info": [
+        {
+          "episode_id": 92675314,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kenta matsumoto"
+        },
+        {
+          "episode_id": 92678159,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dipam Chakraborty"
+        },
+        {
+          "episode_id": 92681958,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "대여르"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 54,
+      "team_id": 16395413,
+      "team_name": "cocosu3434",
+      "rating": "1038.7",
+      "leaderboard_submission_date": "2026-08-13T12:47:05.986Z",
+      "submission_id": 55483428,
+      "submission_public_score": "1052.7",
+      "submission_date": "2026-08-13T12:47:05.987Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 35,
+      "n_episodes_public_completed": 34,
+      "sample_info": [
+        {
+          "episode_id": 92651939,
+          "deck_hash": "193b31bd05c881ae",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yawara"
+        },
+        {
+          "episode_id": 92667104,
+          "deck_hash": "193b31bd05c881ae",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Changyuan Chen"
+        },
+        {
+          "episode_id": 92682206,
+          "deck_hash": "193b31bd05c881ae",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "YIN"
+        }
+      ],
+      "deck_hashes_seen": [
+        "193b31bd05c881ae"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "193b31bd05c881ae": "5:7;16:4;19:4;24:1;112:4;117:2;184:1;343:1;414:2;745:4;746:3;747:3;848:1;849:1;1152:4;1182:3;1194:4;1197:2;1225:2;1227:3;1231:2;1249:1;1267:1"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 55,
+      "team_id": 16376653,
+      "team_name": "szlachetny snieg",
+      "rating": "1038.4",
+      "leaderboard_submission_date": "2026-08-09T05:12:18.600Z",
+      "submission_id": 55368707,
+      "submission_public_score": "1038.4",
+      "submission_date": "2026-08-09T05:12:18.600Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 188,
+      "n_episodes_public_completed": 187,
+      "sample_info": [
+        {
+          "episode_id": 91223074,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Ryos8515"
+        },
+        {
+          "episode_id": 91780205,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "PP kawada"
+        },
+        {
+          "episode_id": 92678396,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Reinforce Pokemons"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 56,
+      "team_id": 16407428,
+      "team_name": "{{ team_name }} 🏆",
+      "rating": "1038.4",
+      "leaderboard_submission_date": "2026-08-13T04:40:30.096Z",
+      "submission_id": 55474209,
+      "submission_public_score": "932.6",
+      "submission_date": "2026-08-13T04:40:30.097Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 51,
+      "n_episodes_public_completed": 50,
+      "sample_info": [
+        {
+          "episode_id": 92538240,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Riki Garcia"
+        },
+        {
+          "episode_id": 92561697,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "gagacrow"
+        },
+        {
+          "episode_id": 92682141,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "S.Aoki"
+        }
+      ],
+      "deck_hashes_seen": [
+        "37f2032236fb6baf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "37f2032236fb6baf": "1:1;11:4;14:4;18:4;343:1;344:4;345:4;756:4;1086:4;1087:1;1122:4;1123:4;1147:4;1159:1;1182:2;1197:4;1225:4;1227:4;1264:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 57,
+      "team_id": 16388364,
+      "team_name": "miya",
+      "rating": "1037.1",
+      "leaderboard_submission_date": "2026-08-13T00:46:57.930Z",
+      "submission_id": 55470413,
+      "submission_public_score": "1037.1",
+      "submission_date": "2026-08-13T00:46:57.930Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 65,
+      "n_episodes_public_completed": 64,
+      "sample_info": [
+        {
+          "episode_id": 92484352,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "YangQinwei"
+        },
+        {
+          "episode_id": 92511574,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kaileh57"
+        },
+        {
+          "episode_id": 92676442,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kyuhwan Cho"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 58,
+      "team_id": 16553454,
+      "team_name": "masspeaks",
+      "rating": "1035.4",
+      "leaderboard_submission_date": "2026-08-13T14:21:16.353Z",
+      "submission_id": 55485264,
+      "submission_public_score": "731.2",
+      "submission_date": "2026-08-13T14:21:16.353Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 11,
+      "n_episodes_public_completed": 10,
+      "sample_info": [
+        {
+          "episode_id": 92673451,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kuroneko"
+        },
+        {
+          "episode_id": 92678190,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "John Augustine Young"
+        },
+        {
+          "episode_id": 92681993,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Funky"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 59,
+      "team_id": 16373103,
+      "team_name": "tera358",
+      "rating": "1035.1",
+      "leaderboard_submission_date": "2026-08-13T11:44:40.006Z",
+      "submission_id": 55482149,
+      "submission_public_score": "1035.1",
+      "submission_date": "2026-08-13T11:44:40.007Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 44,
+      "n_episodes_public_completed": 43,
+      "sample_info": [
+        {
+          "episode_id": 92637032,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "うつせぎ"
+        },
+        {
+          "episode_id": 92656751,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "NIWATORI"
+        },
+        {
+          "episode_id": 92675379,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "keithtyser"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 60,
+      "team_id": 16602856,
+      "team_name": "GuerillaMoon",
+      "rating": "1034.9",
+      "leaderboard_submission_date": "2026-08-10T22:37:21.996Z",
+      "submission_id": 55417209,
+      "submission_public_score": "907.3",
+      "submission_date": "2026-08-10T22:37:21.997Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 120,
+      "n_episodes_public_completed": 119,
+      "sample_info": [
+        {
+          "episode_id": 91785385,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Teddy McBride"
+        },
+        {
+          "episode_id": 92001017,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "R_S_K"
+        },
+        {
+          "episode_id": 92680040,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "masspeaks"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 61,
+      "team_id": 16375942,
+      "team_name": "perrodawn",
+      "rating": "1032.1",
+      "leaderboard_submission_date": "2026-08-13T10:43:30.636Z",
+      "submission_id": 55480859,
+      "submission_public_score": "1032.1",
+      "submission_date": "2026-08-13T10:43:30.637Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92623048,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Team kuma"
+        },
+        {
+          "episode_id": 92643741,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Ghleii"
+        },
+        {
+          "episode_id": 92669927,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "nsytsqdtn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 62,
+      "team_id": 16384159,
+      "team_name": "DECEM",
+      "rating": "1030.9",
+      "leaderboard_submission_date": "2026-08-13T12:11:46.873Z",
+      "submission_id": 55482735,
+      "submission_public_score": "805.5",
+      "submission_date": "2026-08-13T12:11:46.873Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 34,
+      "n_episodes_public_completed": 33,
+      "sample_info": [
+        {
+          "episode_id": 92643555,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwsk0907"
+        },
+        {
+          "episode_id": 92658586,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Substitute99"
+        },
+        {
+          "episode_id": 92674470,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Priestess"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 63,
+      "team_id": 16372307,
+      "team_name": "Team KASA.",
+      "rating": "1030.3",
+      "leaderboard_submission_date": "2026-08-12T06:55:46.896Z",
+      "submission_id": 55451298,
+      "submission_public_score": "922.8",
+      "submission_date": "2026-08-12T06:55:46.897Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 74,
+      "n_episodes_public_completed": 73,
+      "sample_info": [
+        {
+          "episode_id": 92235562,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Jane Long"
+        },
+        {
+          "episode_id": 92269506,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Beyond"
+        },
+        {
+          "episode_id": 92672690,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Egypt first class"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 64,
+      "team_id": 16379930,
+      "team_name": "Louis & Emile",
+      "rating": "1029.8",
+      "leaderboard_submission_date": "2026-08-13T12:22:25.530Z",
+      "submission_id": 55482971,
+      "submission_public_score": "856.0",
+      "submission_date": "2026-08-13T12:22:25.530Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 38,
+      "n_episodes_public_completed": 37,
+      "sample_info": [
+        {
+          "episode_id": 92645428,
+          "deck_hash": "046b08911b282ad0",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "藤田　佑"
+        },
+        {
+          "episode_id": 92662363,
+          "deck_hash": "046b08911b282ad0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "gachichan"
+        },
+        {
+          "episode_id": 92675697,
+          "deck_hash": "046b08911b282ad0",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "RamenBoy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "046b08911b282ad0"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "046b08911b282ad0": "1:14;93:2;96:4;140:1;149:1;150:2;346:1;709:2;710:2;917:2;920:2;1071:1;1079:1;1080:1;1094:4;1097:1;1121:4;1152:1;1182:2;1184:1;1197:2;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 65,
+      "team_id": 16376997,
+      "team_name": "denden12",
+      "rating": "1029.7",
+      "leaderboard_submission_date": "2026-08-13T12:52:35.450Z",
+      "submission_id": 55483539,
+      "submission_public_score": "1011.1",
+      "submission_date": "2026-08-13T12:52:35.450Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 35,
+      "n_episodes_public_completed": 34,
+      "sample_info": [
+        {
+          "episode_id": 92653802,
+          "deck_hash": "d11306618e7ece62",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Muheng"
+        },
+        {
+          "episode_id": 92668938,
+          "deck_hash": "d11306618e7ece62",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Haixin Yue"
+        },
+        {
+          "episode_id": 92682181,
+          "deck_hash": "d11306618e7ece62",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "熱異常"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d11306618e7ece62"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d11306618e7ece62": "1:1;11:4;14:2;18:4;20:4;117:2;344:4;345:3;756:3;1086:3;1096:1;1120:4;1122:3;1147:4;1175:1;1182:1;1187:3;1197:2;1225:3;1227:4;1264:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 66,
+      "team_id": 16411874,
+      "team_name": "Juyong",
+      "rating": "1029.1",
+      "leaderboard_submission_date": "2026-08-07T23:11:11.983Z",
+      "submission_id": 55335480,
+      "submission_public_score": "1029.1",
+      "submission_date": "2026-08-07T23:11:11.983Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 224,
+      "n_episodes_public_completed": 223,
+      "sample_info": [
+        {
+          "episode_id": 90838815,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "makimakiver"
+        },
+        {
+          "episode_id": 91399863,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Luca                        :)"
+        },
+        {
+          "episode_id": 92672844,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "tera358"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 67,
+      "team_id": 16456612,
+      "team_name": "Eason0203",
+      "rating": "1028.8",
+      "leaderboard_submission_date": "2026-08-12T16:02:07.633Z",
+      "submission_id": 55462624,
+      "submission_public_score": "1028.8",
+      "submission_date": "2026-08-12T16:02:07.633Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 78,
+      "n_episodes_public_completed": 77,
+      "sample_info": [
+        {
+          "episode_id": 92362586,
+          "deck_hash": "b1513b47b94933fa",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "SB Kaggle"
+        },
+        {
+          "episode_id": 92395322,
+          "deck_hash": "b1513b47b94933fa",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "NoOneAhead"
+        },
+        {
+          "episode_id": 92673607,
+          "deck_hash": "b1513b47b94933fa",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "b1513b47b94933fa"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "b1513b47b94933fa": "1:17;18:2;96:4;920:1;1094:4;1118:1;1119:2;1120:3;1122:3;1127:4;1147:3;1159:1;1182:2;1201:1;1213:4;1221:1;1223:1;1227:4;1251:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 68,
+      "team_id": 16383960,
+      "team_name": "宝糕手",
+      "rating": "1027.1",
+      "leaderboard_submission_date": "2026-08-13T02:50:12.376Z",
+      "submission_id": 55472436,
+      "submission_public_score": "950.6",
+      "submission_date": "2026-08-13T02:50:12.377Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 57,
+      "n_episodes_public_completed": 56,
+      "sample_info": [
+        {
+          "episode_id": 92513183,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "ばずにゃん"
+        },
+        {
+          "episode_id": 92536568,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "The Debauchery Tea Party"
+        },
+        {
+          "episode_id": 92679140,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "snowsapphire"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 69,
+      "team_id": 16395646,
+      "team_name": "KatR",
+      "rating": "1026.6",
+      "leaderboard_submission_date": "2026-08-13T00:01:36.836Z",
+      "submission_id": 55485965,
+      "submission_public_score": "522.8",
+      "submission_date": "2026-08-13T14:56:47.833Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 2,
+      "n_episodes_public_completed": 1,
+      "sample_info": [
+        {
+          "episode_id": 92681876,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "yt0914"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d83b61b3461e6f3d"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d83b61b3461e6f3d": "1:17;18:2;96:4;1094:4;1118:1;1119:2;1120:4;1122:3;1127:4;1147:3;1159:1;1182:2;1201:1;1213:4;1221:1;1223:1;1227:4;1251:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 70,
+      "team_id": 16378476,
+      "team_name": "aaa",
+      "rating": "1026.6",
+      "leaderboard_submission_date": "2026-08-12T13:05:32.993Z",
+      "submission_id": 55459130,
+      "submission_public_score": "1026.6",
+      "submission_date": "2026-08-12T13:05:32.993Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 80,
+      "n_episodes_public_completed": 79,
+      "sample_info": [
+        {
+          "episode_id": 92321438,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Henri Upton"
+        },
+        {
+          "episode_id": 92355398,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "NorthStar"
+        },
+        {
+          "episode_id": 92664392,
+          "deck_hash": "393e490e6960de29",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "haggle"
+        }
+      ],
+      "deck_hashes_seen": [
+        "393e490e6960de29"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "393e490e6960de29": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1264:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 71,
+      "team_id": 16414053,
+      "team_name": "タニシ",
+      "rating": "1024.9",
+      "leaderboard_submission_date": "2026-08-13T10:24:53.750Z",
+      "submission_id": 55480533,
+      "submission_public_score": "1024.9",
+      "submission_date": "2026-08-13T10:24:53.750Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92618402,
+          "deck_hash": "1fa37c7db812938f",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "hiroswim"
+        },
+        {
+          "episode_id": 92638156,
+          "deck_hash": "1fa37c7db812938f",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "MoriBob"
+        },
+        {
+          "episode_id": 92677254,
+          "deck_hash": "1fa37c7db812938f",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "snowsapphire"
+        }
+      ],
+      "deck_hashes_seen": [
+        "1fa37c7db812938f"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "1fa37c7db812938f": "1:12;6:1;16:4;24:1;96:4;116:2;117:1;272:2;414:2;848:1;849:1;1094:4;1116:2;1121:4;1122:2;1127:2;1137:1;1152:2;1159:1;1182:3;1213:3;1226:1;1227:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 72,
+      "team_id": 16371945,
+      "team_name": "しんぴのしずく💧",
+      "rating": "1024.9",
+      "leaderboard_submission_date": "2026-08-13T10:51:21.253Z",
+      "submission_id": 55481007,
+      "submission_public_score": "992.1",
+      "submission_date": "2026-08-13T10:51:21.253Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92624904,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "PLLZ"
+        },
+        {
+          "episode_id": 92644679,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dragon Ball Z"
+        },
+        {
+          "episode_id": 92671660,
+          "deck_hash": "111d0a87c7071fde",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "tedo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "111d0a87c7071fde"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "111d0a87c7071fde": "1:17;93:2;96:4;140:1;149:1;150:2;346:1;709:1;710:2;917:2;918:1;1071:2;1080:1;1094:4;1097:1;1121:4;1152:1;1182:2;1184:1;1188:1;1227:4;1231:1;1261:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 73,
+      "team_id": 16372591,
+      "team_name": "Boseiju",
+      "rating": "1024.6",
+      "leaderboard_submission_date": "2026-08-13T11:09:27.400Z",
+      "submission_id": 55481404,
+      "submission_public_score": "1032.7",
+      "submission_date": "2026-08-13T11:09:27.400Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 45,
+      "n_episodes_public_completed": 44,
+      "sample_info": [
+        {
+          "episode_id": 92628654,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "taka548"
+        },
+        {
+          "episode_id": 92647449,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Shun"
+        },
+        {
+          "episode_id": 92681106,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 74,
+      "team_id": 16376582,
+      "team_name": "Arthurs Torres24",
+      "rating": "1024.4",
+      "leaderboard_submission_date": "2026-08-11T16:13:48.186Z",
+      "submission_id": 55437265,
+      "submission_public_score": "997.6",
+      "submission_date": "2026-08-11T16:13:48.187Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 109,
+      "n_episodes_public_completed": 108,
+      "sample_info": [
+        {
+          "episode_id": 92029958,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yawara"
+        },
+        {
+          "episode_id": 92118558,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "kuromoka"
+        },
+        {
+          "episode_id": 92669812,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "FlowerGarden"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 75,
+      "team_id": 16514272,
+      "team_name": "Dominic Peel & Rory Neville",
+      "rating": "1023.4",
+      "leaderboard_submission_date": "2026-08-13T08:42:22.860Z",
+      "submission_id": 55478531,
+      "submission_public_score": "1023.4",
+      "submission_date": "2026-08-13T08:42:22.860Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 52,
+      "n_episodes_public_completed": 51,
+      "sample_info": [
+        {
+          "episode_id": 92594169,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "James Cox & Henry Chao"
+        },
+        {
+          "episode_id": 92616706,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "motono0223"
+        },
+        {
+          "episode_id": 92679258,
+          "deck_hash": "37f2032236fb6baf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "213tubo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "37f2032236fb6baf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "37f2032236fb6baf": "1:1;11:4;14:4;18:4;343:1;344:4;345:4;756:4;1086:4;1087:1;1122:4;1123:4;1147:4;1159:1;1182:2;1197:4;1225:4;1227:4;1264:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 76,
+      "team_id": 16382386,
+      "team_name": "BarrelAged",
+      "rating": "1022.3",
+      "leaderboard_submission_date": "2026-08-13T00:47:29.063Z",
+      "submission_id": 55470423,
+      "submission_public_score": "1022.3",
+      "submission_date": "2026-08-13T00:47:29.063Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 60,
+      "n_episodes_public_completed": 59,
+      "sample_info": [
+        {
+          "episode_id": 92484356,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yamato498"
+        },
+        {
+          "episode_id": 92509635,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "S4nkurero"
+        },
+        {
+          "episode_id": 92671640,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Hitoshi Mochizuki"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 77,
+      "team_id": 16609576,
+      "team_name": "stnick",
+      "rating": "1020.8",
+      "leaderboard_submission_date": "2026-08-10T23:30:48.526Z",
+      "submission_id": 55417796,
+      "submission_public_score": "1020.8",
+      "submission_date": "2026-08-10T23:30:48.527Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 134,
+      "n_episodes_public_completed": 133,
+      "sample_info": [
+        {
+          "episode_id": 91798327,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Chris Woolgar"
+        },
+        {
+          "episode_id": 92011491,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "pokemon"
+        },
+        {
+          "episode_id": 92675511,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yoshitaka agent"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 78,
+      "team_id": 16606656,
+      "team_name": "Yaroslav",
+      "rating": "1018.9",
+      "leaderboard_submission_date": "2026-08-13T05:03:58.736Z",
+      "submission_id": 55474681,
+      "submission_public_score": "1018.9",
+      "submission_date": "2026-08-13T05:03:58.737Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 57,
+      "n_episodes_public_completed": 56,
+      "sample_info": [
+        {
+          "episode_id": 92543799,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shizk2205"
+        },
+        {
+          "episode_id": 92570170,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Sule-it"
+        },
+        {
+          "episode_id": 92672809,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Rmy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 79,
+      "team_id": 16490418,
+      "team_name": "tokk",
+      "rating": "1018.8",
+      "leaderboard_submission_date": "2026-08-13T02:51:05.366Z",
+      "submission_id": 55472456,
+      "submission_public_score": "706.0",
+      "submission_date": "2026-08-13T02:51:05.367Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 38,
+      "n_episodes_public_completed": 37,
+      "sample_info": [
+        {
+          "episode_id": 92513186,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "RMensinck"
+        },
+        {
+          "episode_id": 92530079,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Brent Krakel"
+        },
+        {
+          "episode_id": 92644624,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Igor V"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 80,
+      "team_id": 16446951,
+      "team_name": "NIWATORI",
+      "rating": "1017.4",
+      "leaderboard_submission_date": "2026-08-13T06:38:10.430Z",
+      "submission_id": 55476217,
+      "submission_public_score": "1017.4",
+      "submission_date": "2026-08-13T06:38:10.430Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 50,
+      "n_episodes_public_completed": 49,
+      "sample_info": [
+        {
+          "episode_id": 92565265,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "codebeforework"
+        },
+        {
+          "episode_id": 92585952,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Tagir Analyzes"
+        },
+        {
+          "episode_id": 92677297,
+          "deck_hash": "2655572b2591c7f6",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "keithtyser"
+        }
+      ],
+      "deck_hashes_seen": [
+        "2655572b2591c7f6"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "2655572b2591c7f6": "5:4;19:4;115:1;140:1;144:2;162:4;163:4;183:2;184:2;224:1;756:3;1071:1;1088:1;1097:4;1121:4;1123:1;1146:3;1152:4;1188:4;1194:1;1225:1;1227:4;1248:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 81,
+      "team_id": 16388654,
+      "team_name": "vvs",
+      "rating": "1014.5",
+      "leaderboard_submission_date": "2026-08-13T13:41:05.293Z",
+      "submission_id": 55484470,
+      "submission_public_score": "1000.0",
+      "submission_date": "2026-08-13T13:41:05.293Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 20,
+      "n_episodes_public_completed": 19,
+      "sample_info": [
+        {
+          "episode_id": 92664098,
+          "deck_hash": "69e64f37ad52847c",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yuki_h"
+        },
+        {
+          "episode_id": 92672576,
+          "deck_hash": "69e64f37ad52847c",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "POPCORN"
+        },
+        {
+          "episode_id": 92682073,
+          "deck_hash": "69e64f37ad52847c",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Oshbocker"
+        }
+      ],
+      "deck_hashes_seen": [
+        "69e64f37ad52847c"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "69e64f37ad52847c": "5:2;13:1;19:4;66:2;140:1;305:3;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:2;1225:4;1231:4;1264:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 82,
+      "team_id": 16395622,
+      "team_name": "TMTA",
+      "rating": "1013.7",
+      "leaderboard_submission_date": "2026-08-12T07:21:33.173Z",
+      "submission_id": 55451784,
+      "submission_public_score": "1013.7",
+      "submission_date": "2026-08-12T07:21:33.173Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 77,
+      "n_episodes_public_completed": 76,
+      "sample_info": [
+        {
+          "episode_id": 92243986,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Yohei Moriyasu"
+        },
+        {
+          "episode_id": 92275810,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dominic Peel & Rory Neville"
+        },
+        {
+          "episode_id": 92663337,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Matsu"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 83,
+      "team_id": 16675930,
+      "team_name": "Shang Bo",
+      "rating": "1013.5",
+      "leaderboard_submission_date": "2026-08-11T13:53:10.796Z",
+      "submission_id": 55434424,
+      "submission_public_score": "1013.5",
+      "submission_date": "2026-08-11T13:53:10.797Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 87,
+      "n_episodes_public_completed": 86,
+      "sample_info": [
+        {
+          "episode_id": 91997189,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Mallard Duck"
+        },
+        {
+          "episode_id": 92072497,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "yuto083"
+        },
+        {
+          "episode_id": 92675690,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "sobameshi"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 84,
+      "team_id": 16441839,
+      "team_name": "stardom",
+      "rating": "1013.3",
+      "leaderboard_submission_date": "2026-08-13T12:28:18.623Z",
+      "submission_id": 55483103,
+      "submission_public_score": "798.3",
+      "submission_date": "2026-08-13T12:28:18.623Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 32,
+      "n_episodes_public_completed": 31,
+      "sample_info": [
+        {
+          "episode_id": 92647283,
+          "deck_hash": "190bc396b75a038d",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Matteo Pintore"
+        },
+        {
+          "episode_id": 92660475,
+          "deck_hash": "190bc396b75a038d",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "asahi"
+        },
+        {
+          "episode_id": 92674744,
+          "deck_hash": "190bc396b75a038d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Hyun-woo Kim"
+        }
+      ],
+      "deck_hashes_seen": [
+        "190bc396b75a038d"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "190bc396b75a038d": "1:5;4:4;5:3;6:1;8:2;24:1;117:1;140:1;160:1;184:2;210:2;272:2;414:1;756:1;781:1;848:1;849:1;1006:1;1071:2;1097:1;1118:1;1119:2;1121:4;1126:1;1134:1;1172:1;1178:2;1182:2;1198:4;1205:1;1219:4;1227:1;1250:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 85,
+      "team_id": 16371723,
+      "team_name": "RtoABC",
+      "rating": "1013.3",
+      "leaderboard_submission_date": "2026-08-13T14:34:46.530Z",
+      "submission_id": 55485534,
+      "submission_public_score": "800.3",
+      "submission_date": "2026-08-13T14:34:46.530Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 5,
+      "n_episodes_public_completed": 4,
+      "sample_info": [
+        {
+          "episode_id": 92679061,
+          "deck_hash": "cad0e42d5a0a29dd",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Shigeki"
+        },
+        {
+          "episode_id": 92680921,
+          "deck_hash": "cad0e42d5a0a29dd",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Taimo"
+        },
+        {
+          "episode_id": 92681135,
+          "deck_hash": "cad0e42d5a0a29dd",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "quwon_000"
+        }
+      ],
+      "deck_hashes_seen": [
+        "cad0e42d5a0a29dd"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "cad0e42d5a0a29dd": "2:3;5:4;7:3;66:1;112:2;119:4;120:4;121:3;140:1;235:1;305:1;306:1;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:2;1198:3;1213:1;1227:4;1246:1;1260:1"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 86,
+      "team_id": 16372168,
+      "team_name": "goonew",
+      "rating": "1013.1",
+      "leaderboard_submission_date": "2026-08-13T12:23:22.053Z",
+      "submission_id": 55482994,
+      "submission_public_score": "868.5",
+      "submission_date": "2026-08-13T12:23:22.053Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 36,
+      "n_episodes_public_completed": 35,
+      "sample_info": [
+        {
+          "episode_id": 92649135,
+          "deck_hash": "de141cdc55266782",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "LCZ1996"
+        },
+        {
+          "episode_id": 92664291,
+          "deck_hash": "de141cdc55266782",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Zhenrui.Weng"
+        },
+        {
+          "episode_id": 92679425,
+          "deck_hash": "de141cdc55266782",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Haumea"
+        }
+      ],
+      "deck_hashes_seen": [
+        "de141cdc55266782"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "de141cdc55266782": "2:3;5:4;7:3;65:1;66:1;112:2;119:4;120:4;121:3;140:1;235:1;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1260:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 87,
+      "team_id": 16384286,
+      "team_name": "S. B.",
+      "rating": "1012.6",
+      "leaderboard_submission_date": "2026-08-13T06:07:35.153Z",
+      "submission_id": 55475711,
+      "submission_public_score": "812.7",
+      "submission_date": "2026-08-13T06:07:35.153Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 47,
+      "n_episodes_public_completed": 46,
+      "sample_info": [
+        {
+          "episode_id": 92558718,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Kazuya Hirose"
+        },
+        {
+          "episode_id": 92579473,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Veniamin Nelin"
+        },
+        {
+          "episode_id": 92676266,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Mathieu W"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 88,
+      "team_id": 16382190,
+      "team_name": "nsytsqdtn",
+      "rating": "1012.5",
+      "leaderboard_submission_date": "2026-08-13T12:38:43.953Z",
+      "submission_id": 55485968,
+      "submission_public_score": "703.3",
+      "submission_date": "2026-08-13T14:56:53.130Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 2,
+      "n_episodes_public_completed": 1,
+      "sample_info": [
+        {
+          "episode_id": 92681878,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "match051"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 89,
+      "team_id": 16680070,
+      "team_name": "AReg",
+      "rating": "1012.3",
+      "leaderboard_submission_date": "2026-08-12T07:16:15.526Z",
+      "submission_id": 55451676,
+      "submission_public_score": "1012.3",
+      "submission_date": "2026-08-12T07:16:15.527Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 92,
+      "n_episodes_public_completed": 91,
+      "sample_info": [
+        {
+          "episode_id": 92240242,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Loss Volos"
+        },
+        {
+          "episode_id": 92283465,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "李秉叡（ntumlnoob）"
+        },
+        {
+          "episode_id": 92676438,
+          "deck_hash": "fcac695071c3f3cf",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fcac695071c3f3cf"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fcac695071c3f3cf": "5:2;13:1;19:4;66:2;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:4;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:3;1225:4;1231:4;1266:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 90,
+      "team_id": 16663985,
+      "team_name": "da da",
+      "rating": "1012.0",
+      "leaderboard_submission_date": "2026-08-13T10:01:50.476Z",
+      "submission_id": 55480057,
+      "submission_public_score": "1012.0",
+      "submission_date": "2026-08-13T10:01:50.477Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 46,
+      "n_episodes_public_completed": 45,
+      "sample_info": [
+        {
+          "episode_id": 92612793,
+          "deck_hash": "14db4b34cc8fbbb7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "jin ryoma"
+        },
+        {
+          "episode_id": 92632560,
+          "deck_hash": "14db4b34cc8fbbb7",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kwa"
+        },
+        {
+          "episode_id": 92661644,
+          "deck_hash": "14db4b34cc8fbbb7",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "タニシ"
+        }
+      ],
+      "deck_hashes_seen": [
+        "14db4b34cc8fbbb7"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "14db4b34cc8fbbb7": "1:1;11:4;14:4;18:4;344:4;345:4;756:4;1086:4;1087:2;1122:4;1123:4;1147:4;1159:1;1182:2;1197:4;1225:4;1227:4;1264:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 91,
+      "team_id": 16418498,
+      "team_name": "jamm1412",
+      "rating": "1011.6",
+      "leaderboard_submission_date": "2026-08-13T07:41:14.840Z",
+      "submission_id": 55477340,
+      "submission_public_score": "1011.6",
+      "submission_date": "2026-08-13T07:41:14.840Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 49,
+      "n_episodes_public_completed": 48,
+      "sample_info": [
+        {
+          "episode_id": 92580170,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "UmutUygurr"
+        },
+        {
+          "episode_id": 92602672,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "MarineYY"
+        },
+        {
+          "episode_id": 92674613,
+          "deck_hash": "d83b61b3461e6f3d",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "motono0223"
+        }
+      ],
+      "deck_hashes_seen": [
+        "d83b61b3461e6f3d"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "d83b61b3461e6f3d": "1:17;18:2;96:4;1094:4;1118:1;1119:2;1120:4;1122:3;1127:4;1147:3;1159:1;1182:2;1201:1;1213:4;1221:1;1223:1;1227:4;1251:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 92,
+      "team_id": 16381904,
+      "team_name": "NguyenThanhNhan",
+      "rating": "1011.6",
+      "leaderboard_submission_date": "2026-08-13T10:38:36.640Z",
+      "submission_id": 55480783,
+      "submission_public_score": "1011.6",
+      "submission_date": "2026-08-13T10:38:36.640Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 46,
+      "n_episodes_public_completed": 45,
+      "sample_info": [
+        {
+          "episode_id": 92622108,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Hammad Zahid"
+        },
+        {
+          "episode_id": 92641912,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Let's PK"
+        },
+        {
+          "episode_id": 92674742,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "sobameshi"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 93,
+      "team_id": 16676325,
+      "team_name": "huaiyuyoung",
+      "rating": "1011.1",
+      "leaderboard_submission_date": "2026-08-11T07:53:26.270Z",
+      "submission_id": 55427034,
+      "submission_public_score": "994.7",
+      "submission_date": "2026-08-11T07:53:26.270Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 107,
+      "n_episodes_public_completed": 106,
+      "sample_info": [
+        {
+          "episode_id": 91913127,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "dfgcc534"
+        },
+        {
+          "episode_id": 92048180,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "SORA"
+        },
+        {
+          "episode_id": 92674588,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "213tubo"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 94,
+      "team_id": 16371434,
+      "team_name": "Budew",
+      "rating": "1010.7",
+      "leaderboard_submission_date": "2026-08-13T14:21:48.793Z",
+      "submission_id": 55485278,
+      "submission_public_score": "975.2",
+      "submission_date": "2026-08-13T14:21:48.793Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 10,
+      "n_episodes_public_completed": 9,
+      "sample_info": [
+        {
+          "episode_id": 92673461,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Dmytro Rakovskyi"
+        },
+        {
+          "episode_id": 92677216,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "pokeca2018"
+        },
+        {
+          "episode_id": 92680990,
+          "deck_hash": "058f82abd5449e39",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Roman Nesterov"
+        }
+      ],
+      "deck_hashes_seen": [
+        "058f82abd5449e39"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "058f82abd5449e39": "2:4;5:4;7:2;112:2;119:4;120:4;121:3;140:1;235:2;1071:1;1080:1;1086:4;1097:2;1120:4;1121:4;1152:4;1182:3;1198:3;1213:1;1227:4;1231:1;1246:2"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 95,
+      "team_id": 16512241,
+      "team_name": "giacomovin",
+      "rating": "1010.7",
+      "leaderboard_submission_date": "2026-08-12T19:19:26.553Z",
+      "submission_id": 55465965,
+      "submission_public_score": "1010.7",
+      "submission_date": "2026-08-12T19:19:26.553Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 82,
+      "n_episodes_public_completed": 81,
+      "sample_info": [
+        {
+          "episode_id": 92408162,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Roo333"
+        },
+        {
+          "episode_id": 92440855,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Masatoshi Hidaka"
+        },
+        {
+          "episode_id": 92671620,
+          "deck_hash": "fb6542fd45093b86",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "keithtyser"
+        }
+      ],
+      "deck_hashes_seen": [
+        "fb6542fd45093b86"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "fb6542fd45093b86": "3:3;11:4;13:1;66:3;174:1;305:4;848:2;849:2;860:2;861:2;1086:4;1087:3;1121:4;1122:2;1152:4;1174:3;1182:2;1225:3;1227:4;1229:4;1264:3"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 96,
+      "team_id": 16595297,
+      "team_name": "Evgeniy Zdoronok",
+      "rating": "1010.2",
+      "leaderboard_submission_date": "2026-08-13T08:13:18.066Z",
+      "submission_id": 55477977,
+      "submission_public_score": "1010.2",
+      "submission_date": "2026-08-13T08:13:18.067Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 54,
+      "n_episodes_public_completed": 53,
+      "sample_info": [
+        {
+          "episode_id": 92587635,
+          "deck_hash": "078708f3a363ad2e",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "prime"
+        },
+        {
+          "episode_id": 92608310,
+          "deck_hash": "078708f3a363ad2e",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Laura"
+        },
+        {
+          "episode_id": 92680036,
+          "deck_hash": "078708f3a363ad2e",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Infernape"
+        }
+      ],
+      "deck_hashes_seen": [
+        "078708f3a363ad2e"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "078708f3a363ad2e": "5:2;13:1;19:4;66:3;140:1;305:3;343:1;741:4;742:4;743:4;1079:3;1081:2;1086:4;1097:1;1129:1;1152:4;1182:3;1184:1;1197:2;1225:4;1231:4;1264:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 97,
+      "team_id": 16566110,
+      "team_name": "你好哇",
+      "rating": "1008.9",
+      "leaderboard_submission_date": "2026-08-11T12:19:49.090Z",
+      "submission_id": 55432468,
+      "submission_public_score": "1008.9",
+      "submission_date": "2026-08-11T12:19:49.090Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 100,
+      "n_episodes_public_completed": 99,
+      "sample_info": [
+        {
+          "episode_id": 91974737,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "LingLingToshite"
+        },
+        {
+          "episode_id": 92077464,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Dipam Chakraborty"
+        },
+        {
+          "episode_id": 92675657,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Bart, Edwyn"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 98,
+      "team_id": 16531269,
+      "team_name": "Dries @ Tufa Labs",
+      "rating": "1008.9",
+      "leaderboard_submission_date": "2026-08-13T11:08:15.540Z",
+      "submission_id": 55481356,
+      "submission_public_score": "1006.6",
+      "submission_date": "2026-08-13T11:08:15.540Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 43,
+      "n_episodes_public_completed": 42,
+      "sample_info": [
+        {
+          "episode_id": 92628645,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "青学技術開発チーム"
+        },
+        {
+          "episode_id": 92645692,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "Yoshihiko Suzuki"
+        },
+        {
+          "episode_id": 92662512,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "pokemon"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 99,
+      "team_id": 16514259,
+      "team_name": "Pioneer 2",
+      "rating": "1008.0",
+      "leaderboard_submission_date": "2026-08-13T14:08:41.150Z",
+      "submission_id": 55485037,
+      "submission_public_score": "757.6",
+      "submission_date": "2026-08-13T14:08:41.150Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 14,
+      "n_episodes_public_completed": 13,
+      "sample_info": [
+        {
+          "episode_id": 92670651,
+          "deck_hash": "c4ebaf6e42fc8a2a",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Ilham Sadewa"
+        },
+        {
+          "episode_id": 92676348,
+          "deck_hash": "c4ebaf6e42fc8a2a",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Nikita Babych"
+        },
+        {
+          "episode_id": 92682013,
+          "deck_hash": "c4ebaf6e42fc8a2a",
+          "deck_source": "action",
+          "my_index": 1,
+          "opponent_team": "Aurora wy"
+        }
+      ],
+      "deck_hashes_seen": [
+        "c4ebaf6e42fc8a2a"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "c4ebaf6e42fc8a2a": "1:7;89:4;90:4;92:4;93:4;140:1;1080:1;1086:4;1094:4;1097:3;1122:4;1129:1;1137:1;1152:4;1175:3;1197:1;1227:4;1231:2;1245:4"
+      },
+      "status": "OK"
+    },
+    {
+      "rank": 100,
+      "team_id": 16395439,
+      "team_name": "YumeNeko",
+      "rating": "1007.4",
+      "leaderboard_submission_date": "2026-08-10T03:34:14.790Z",
+      "submission_id": 55395787,
+      "submission_public_score": "1007.4",
+      "submission_date": "2026-08-10T03:34:14.790Z",
+      "n_submissions_on_record": 2,
+      "n_episodes_total": 143,
+      "n_episodes_public_completed": 142,
+      "sample_info": [
+        {
+          "episode_id": 91524988,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "NU"
+        },
+        {
+          "episode_id": 91904036,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "DavidFreelan"
+        },
+        {
+          "episode_id": 92674501,
+          "deck_hash": "dc2ce39b94cbbb38",
+          "deck_source": "action",
+          "my_index": 0,
+          "opponent_team": "kanno"
+        }
+      ],
+      "deck_hashes_seen": [
+        "dc2ce39b94cbbb38"
+      ],
+      "deck_consistent": true,
+      "deck_compositions": {
+        "dc2ce39b94cbbb38": "7:10;104:2;112:4;646:4;647:3;648:3;860:2;1079:3;1080:1;1086:4;1097:3;1122:1;1137:1;1152:4;1182:2;1219:4;1227:4;1231:1;1259:4"
+      },
+      "status": "OK"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "series": "meta_mega_kangaskhan_ex",
+    "games": 20,
+    "v23_wins": 14,
+    "v23_losses": 6,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Mega Kangaskhan ex",
+    "v6_control_wins_of_20": 11,
+    "v17_wins_of_20": 9
+  },
+  {
+    "series": "meta_fezandipiti_ex",
+    "games": 20,
+    "v23_wins": 14,
+    "v23_losses": 6,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Fezandipiti ex",
+    "v6_control_wins_of_20": 17,
+    "v17_wins_of_20": 17
+  },
+  {
+    "series": "meta_marnie_s_grimmsnarl_ex",
+    "games": 20,
+    "v23_wins": 19,
+    "v23_losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Marnie's Grimmsnarl ex",
+    "v6_control_wins_of_20": 18,
+    "v17_wins_of_20": 18
+  }
+]

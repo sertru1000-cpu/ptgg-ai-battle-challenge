@@ -1,0 +1,5 @@
+agent,abomasnow_agent,dragapult_agent,iono_agent,random_agent
+abomasnow_agent,-,0.440 (n=200),0.185 (n=200),0.915 (n=200)
+dragapult_agent,0.560 (n=200),-,0.655 (n=200),0.975 (n=200)
+iono_agent,0.815 (n=200),0.345 (n=200),-,0.985 (n=200)
+random_agent,0.085 (n=200),0.025 (n=200),0.015 (n=200),-

@@ -1,0 +1,21 @@
+{
+  "label": "v8",
+  "total_phantom_dive_attacks": 69,
+  "events_with_no_bench_targets_at_all": 1,
+  "events_with_bench_targets": 68,
+  "naive_ko_opportunity_count_ignoring_immunity": 33,
+  "immune_target_instances_total": 18,
+  "phantom_dive_with_no_immunity_adjusted_ko_opportunity": 38,
+  "phantom_dive_with_at_least_one_ko_opportunity": 30,
+  "ko_opportunities_converted_achieved_optimal_prize": 29,
+  "ko_opportunities_with_any_ko_landed": 29,
+  "ko_opportunities_missed_value": 1,
+  "opportunity_to_ko_conversion_rate": 0.9666666666666667,
+  "missed_ko_rate_when_ko_available": 0.03333333333333333,
+  "bench_kos_landed_total": 32,
+  "one_prize_kos_landed": 29,
+  "two_prize_kos_landed": 0,
+  "multi_ko_opportunities_available": 0,
+  "multi_ko_actually_achieved": 0,
+  "prize_value_lost_to_missed_kos": 1
+}

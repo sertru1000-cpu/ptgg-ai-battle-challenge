@@ -1,0 +1,80 @@
+[
+  {
+    "opponent": "abomasnow_agent",
+    "condition": "dragapult_heuristic_only",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 283,
+    "win_rate": 0.566,
+    "search_stats": null
+  },
+  {
+    "opponent": "abomasnow_agent",
+    "condition": "dragapult_plus_search",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 237,
+    "win_rate": 0.474,
+    "search_stats": {
+      "attack_decisions_seen": 1317,
+      "searches_attempted": 2634,
+      "searches_succeeded": 2634,
+      "searches_failed": 0,
+      "search_changed_choice": 808
+    }
+  },
+  {
+    "opponent": "iono_agent",
+    "condition": "dragapult_heuristic_only",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 333,
+    "win_rate": 0.666,
+    "search_stats": null
+  },
+  {
+    "opponent": "iono_agent",
+    "condition": "dragapult_plus_search",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 149,
+    "win_rate": 0.298,
+    "search_stats": {
+      "attack_decisions_seen": 1681,
+      "searches_attempted": 3362,
+      "searches_succeeded": 3362,
+      "searches_failed": 0,
+      "search_changed_choice": 1539
+    }
+  },
+  {
+    "opponent": "lucario_ex_agent",
+    "condition": "dragapult_heuristic_only",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 244,
+    "win_rate": 0.488,
+    "search_stats": null
+  },
+  {
+    "opponent": "lucario_ex_agent",
+    "condition": "dragapult_plus_search",
+    "games": 500,
+    "aborted": 0,
+    "decided": 500,
+    "wins": 185,
+    "win_rate": 0.37,
+    "search_stats": {
+      "attack_decisions_seen": 1295,
+      "searches_attempted": 2590,
+      "searches_succeeded": 2590,
+      "searches_failed": 0,
+      "search_changed_choice": 854
+    }
+  }
+]

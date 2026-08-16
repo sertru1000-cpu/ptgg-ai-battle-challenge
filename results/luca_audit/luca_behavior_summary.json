@@ -1,0 +1,89 @@
+{
+  "target_submission_id": 55447414,
+  "leaderboard_score_at_pull_time": 1232.4,
+  "validation_episodes_excluded": 1,
+  "games_total": 69,
+  "wins": 51,
+  "losses": 18,
+  "draws": 0,
+  "errors_or_timeouts": 0,
+  "win_rate_decisive": 0.7391304347826086,
+  "win_rate_going_first": 0.7428571428571429,
+  "n_going_first": 35,
+  "win_rate_going_second": 0.7352941176470589,
+  "n_going_second": 34,
+  "deck_archetypes_played": {
+    "Mega Lucario ex": 69
+  },
+  "opponent_archetype_distribution": {
+    "Teal Mask Ogerpon ex": 8,
+    "Dragapult ex": 22,
+    "Mega Lucario ex": 6,
+    "Mega Kangaskhan ex": 6,
+    "Mega Abomasnow ex": 1,
+    "Fezandipiti ex": 10,
+    "UNLABELED": 2,
+    "Mega Lopunny ex": 4,
+    "Marnie's Grimmsnarl ex": 9,
+    "Cynthia's Garchomp ex": 1
+  },
+  "win_rate_by_opponent_archetype": {
+    "Teal Mask Ogerpon ex": {
+      "n": 8,
+      "luca_win_rate": 0.625
+    },
+    "Dragapult ex": {
+      "n": 22,
+      "luca_win_rate": 0.6363636363636364
+    },
+    "Mega Lucario ex": {
+      "n": 6,
+      "luca_win_rate": 0.8333333333333334
+    },
+    "Mega Kangaskhan ex": {
+      "n": 6,
+      "luca_win_rate": 0.8333333333333334
+    },
+    "Mega Abomasnow ex": {
+      "n": 1,
+      "luca_win_rate": 1.0
+    },
+    "Fezandipiti ex": {
+      "n": 10,
+      "luca_win_rate": 1.0
+    },
+    "UNLABELED": {
+      "n": 2,
+      "luca_win_rate": 1.0
+    },
+    "Mega Lopunny ex": {
+      "n": 4,
+      "luca_win_rate": 0.75
+    },
+    "Marnie's Grimmsnarl ex": {
+      "n": 9,
+      "luca_win_rate": 0.6666666666666666
+    },
+    "Cynthia's Garchomp ex": {
+      "n": 1,
+      "luca_win_rate": 0.0
+    }
+  },
+  "retreat_rate_per_decision": 0.010160880609652836,
+  "retreat_rate_when_available": 0.1867704280155642,
+  "attack_conversion_rate_per_decision": 0.15501519756838905,
+  "attack_conversion_rate_per_turn": 0.8121019108280255,
+  "missed_ko_confirmed_total": 0,
+  "missed_ko_possible_total": 110,
+  "avg_turns_all": 10.768115942028986,
+  "avg_turns_wins": 10.901960784313726,
+  "avg_turns_losses": 10.38888888888889,
+  "comebacks_from_2plus_prize_deficit": 5,
+  "games_where_luca_faced_2plus_prize_deficit": 14,
+  "avg_max_prize_deficit_faced_wins": 0.27450980392156865,
+  "avg_max_prize_deficit_faced_losses": 1.8888888888888888,
+  "avg_final_prize_margin_wins_positive_means_behind": -1.8235294117647058,
+  "avg_final_prize_margin_losses_positive_means_behind": 1.6111111111111112,
+  "unique_opponents_faced": 43,
+  "n_games_analyzed_for_opponent_rating": 69
+}

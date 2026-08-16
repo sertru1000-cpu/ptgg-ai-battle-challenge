@@ -1,0 +1,2 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+dragapult_fix_v1,iono_agent,500,0,0,331,169,0.662,0.696,0.628,250,250

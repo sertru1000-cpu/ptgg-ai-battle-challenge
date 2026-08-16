@@ -1,0 +1,2 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+abomasnow_corrected,lucario_ex_agent,200,0,0,101,99,0.505,0.55,0.46,100,100

@@ -1,0 +1,41 @@
+[
+  {
+    "series": "vs_v6",
+    "games": 40,
+    "v19_wins": 24,
+    "v19_losses": 16,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "V6 head-to-head (deck A/B)"
+  },
+  {
+    "series": "meta_mega_kangaskhan_ex",
+    "games": 20,
+    "v19_wins": 17,
+    "v19_losses": 3,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Mega Kangaskhan ex",
+    "v6_control_wins_of_20": 11
+  },
+  {
+    "series": "meta_fezandipiti_ex",
+    "games": 20,
+    "v19_wins": 16,
+    "v19_losses": 4,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Fezandipiti ex",
+    "v6_control_wins_of_20": 17
+  },
+  {
+    "series": "meta_marnie_s_grimmsnarl_ex",
+    "games": 20,
+    "v19_wins": 19,
+    "v19_losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "deck_label": "Marnie's Grimmsnarl ex",
+    "v6_control_wins_of_20": 18
+  }
+]

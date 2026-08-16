@@ -1,0 +1,13 @@
+variant_type,variant_value,selected_archetype,expected_win_rate,changed_from_default
+training_window,7d,Teal Mask Ogerpon ex,0.6285,False
+training_window,14d,Teal Mask Ogerpon ex,0.6503,False
+training_window,30d,Teal Mask Ogerpon ex,0.6444,False
+training_window,full,Teal Mask Ogerpon ex,0.6339,False
+matchup_min_sample_threshold,20,Teal Mask Ogerpon ex,0.5721,False
+matchup_min_sample_threshold,50,Teal Mask Ogerpon ex,0.6339,False
+matchup_min_sample_threshold,100,Teal Mask Ogerpon ex,0.5515,False
+uncertainty_handling,raw_with_fallback,Teal Mask Ogerpon ex,0.6339,False
+uncertainty_handling,conservative_wilson_lower,Teal Mask Ogerpon ex,0.4189,False
+meta_prior_type,rolling_full_history,Teal Mask Ogerpon ex,0.6339,False
+meta_prior_type,exp_weighted_halflife_7d,Teal Mask Ogerpon ex,0.6466,False
+meta_prior_type,exp_weighted_halflife_14d,Teal Mask Ogerpon ex,0.6463,False

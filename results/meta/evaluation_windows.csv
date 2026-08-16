@@ -1,0 +1,10 @@
+window_id,scheme,train_weeks,test_weeks
+ROLL_W2,rolling_weekly,1,2
+ROLL_W3,rolling_weekly,"1,2",3
+ROLL_W4,rolling_weekly,"1,2,3",4
+ROLL_W5,rolling_weekly,"1,2,3,4",5
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5"
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8"

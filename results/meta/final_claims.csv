@@ -1,0 +1,18 @@
+claim_id,proven,claim,tag,evidence_level,source_artifact
+P1,YES,Marnie's Grimmsnarl ex became the dominant archetype in the recent meta (8.5% -> 44.3% share early-to-recent; 43.47% at the dataset's current end),verified fact,A,archetype_features.csv;meta_prior.csv
+P2,YES,Some matchup asymmetries are very strong and statistically credible (e.g. Mewtwo ex vs Fezandipiti ex 76.5% n=85; Ogerpon ex vs Grimmsnarl ex 81.8% n=77),measured result,A/B,archetype_matchups.csv
+P3,YES,Team Rocket's Mewtwo ex -> Fezandipiti ex passed the pre-registered OOS counter-validation gate (n=25 OOS 84.0% wilson_lo 65.35%; extended to n=26 84.62%),measured result,A,counter_registry.csv;counter_oos_extended.csv
+P4,YES,Mega Kangaskhan ex -> Marnie's Grimmsnarl ex failed OOS validation despite a detection-time signal statistically similar in strength to the real Mewtwo counter,measured result,D (rejection),counter_registry.csv
+P5,YES,Historical/detection-time counter detection alone is insufficient to identify a real predictive counter -- OOS confirmation is what discriminates real signal from false positive,verified fact,A,counter_registry.csv;validated_counter_model_v1.md
+P6,YES,Simple Recent Win Rate (14-day) is difficult for any tested strategy to beat reliably; no strategy showed statistically convincing superiority over the simplest baseline at weekly resolution,measured result,A,strategy_comparison.csv
+P7,YES,Oracle (best-in-hindsight) performance demonstrates substantial theoretical headroom over every deployable strategy (~60.9-61.4% vs ~51.3% best deployable),measured result,A,window_comparison.csv;counter_aware_comparison_extended.csv
+P8,YES,Rating/opponent-identity resolution from this data source is structurally unreliable (~49-53% labeled-check accuracy, indistinguishable from chance),measured result,D (reliability rejected),rating_analysis.csv;real_meta_v2.md
+P9,YES,Fezandipiti ex and Mega Kangaskhan ex show large credible short-game win-rate deltas (+18.1pp / -25.9pp) versus their overall win rate,measured result,B,archetype_features.csv
+P10,YES,Conservative Meta-Aware selection shows a small but statistically significant advantage over Most-Popular at daily resolution (3 of 4 training windows),measured result,B,high_resolution_sensitivity.csv
+N1,NO,A general opponent-aware agent is justified by the current evidence,hypothesis,N/A,validated_counter_model_v1.md;counter_aware_deck_selection_v1.md
+N2,NO,A general counter model (beyond the single OOS_CONFIRMED pair) is justified for production use,hypothesis,N/A,counter_registry.csv
+N3,NO,RL/MCTS/search would recover a demonstrated advantage from this evidence base (the Oracle gap shows theoretical headroom exists, not that it is recoverable this way),hypothesis,N/A,window_comparison.csv
+N4,NO,A reliable rating-aware strategy can be built from this dataset's rating signal,measured result,D,rating_analysis.csv
+N5,NO,General meta-aware deck selection is reliably/robustly superior to Recent Win Rate as a universal default,measured result,UNRESOLVED,strategy_comparison.csv;window_comparison.csv
+N6,NO,Counter-Aware selection is proven superior in aggregate (the strict deployable experiment had zero counter-triggered decisions; the null result is a data-timing artifact, not a disproof),measured result,UNRESOLVED,counter_trigger_analysis.csv;counter_aware_comparison_extended.csv
+N7,NO,Teal Mask Ogerpon ex -> Marnie's Grimmsnarl ex is validated for production use as a counter (OOS_PENDING; the high win rate itself is not validation without sufficient post-detection exposure),measured result,B (insufficient),counter_registry.csv

@@ -1,0 +1,5 @@
+tier,n_teams_resolved,n_unique_archetypes,n_unknown,pct_unknown,avg_rating,median_rating,top_archetype,top_archetype_share_pct
+TOP100,100,11,1,1.0,1063.19,1042.65,Dragapult ex,19.0
+TOP50,50,10,1,2.0,1103.95,1089.95,Dragapult ex,24.0
+TOP20,20,8,0,0.0,1149.06,1136.55,Mega Kangaskhan ex,30.0
+TOP10,10,5,0,0.0,1178.29,1166.5,Mega Kangaskhan ex,30.0

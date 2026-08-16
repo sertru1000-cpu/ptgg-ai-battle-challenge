@@ -1,0 +1,4481 @@
+[
+  {
+    "episode_id": 92549421,
+    "opponent_archetype": "Mega Lucario ex",
+    "opponent_score": 599.2,
+    "went_first": true,
+    "n_turns": 11,
+    "turn_trajectory": [
+      [
+        0,
+        6,
+        6,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        6,
+        0
+      ],
+      [
+        5,
+        6,
+        6,
+        0
+      ],
+      [
+        6,
+        6,
+        5,
+        1
+      ],
+      [
+        7,
+        6,
+        5,
+        1
+      ],
+      [
+        8,
+        6,
+        3,
+        3
+      ],
+      [
+        9,
+        6,
+        3,
+        3
+      ],
+      [
+        10,
+        5,
+        1,
+        4
+      ],
+      [
+        11,
+        5,
+        1,
+        4
+      ]
+    ],
+    "first_behind_turn": 6,
+    "first_2plus_deficit_turn": 8,
+    "decisive_turn": 8,
+    "final_deficit": 4,
+    "phantom_dive_available_turns": [
+      7,
+      9
+    ],
+    "phantom_dive_used_turns": [
+      7,
+      9
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [
+      {
+        "decision_index": 33,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 35,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 37,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 39,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 40,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 42,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 43,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      }
+    ],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 8,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 13,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 2,
+        "discard_after": 3,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 18,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 4,
+        "hand_after": 8,
+        "discard_before": 3,
+        "discard_after": 4,
+        "hand_delta": 4,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 22,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 4,
+        "discard_after": 4,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 31,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 6,
+        "discard_after": 6,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 35,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 43,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 6,
+        "hand_after": 8,
+        "discard_before": 8,
+        "discard_after": 9,
+        "hand_delta": 2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 44,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 9,
+        "discard_after": 9,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 48,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 58,
+        "turn": 7,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 15,
+        "discard_after": 15,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 62,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 16,
+        "discard_after": 16,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 80,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 25,
+        "discard_after": 26,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 83,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 26,
+        "discard_after": 26,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 88,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 26,
+        "discard_after": 26,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 93,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 5,
+        "hand_after": 8,
+        "discard_before": 29,
+        "discard_after": 30,
+        "hand_delta": 3,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 94,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 30,
+        "discard_after": 31,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 106,
+        "turn": 11,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 36,
+        "discard_after": 36,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": null,
+    "all_candidate_bad_decisions": []
+  },
+  {
+    "episode_id": 92552245,
+    "opponent_archetype": "UNLABELED",
+    "opponent_score": 681.2,
+    "went_first": true,
+    "n_turns": 15,
+    "turn_trajectory": [
+      [
+        0,
+        6,
+        6,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        2,
+        6,
+        5,
+        1
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        5,
+        6,
+        5,
+        1
+      ],
+      [
+        6,
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        6,
+        4,
+        2
+      ],
+      [
+        9,
+        6,
+        4,
+        2
+      ],
+      [
+        10,
+        6,
+        2,
+        4
+      ],
+      [
+        11,
+        4,
+        2,
+        2
+      ],
+      [
+        12,
+        2,
+        2,
+        0
+      ],
+      [
+        13,
+        2,
+        2,
+        0
+      ],
+      [
+        15,
+        1,
+        2,
+        -1
+      ]
+    ],
+    "first_behind_turn": 2,
+    "first_2plus_deficit_turn": 6,
+    "decisive_turn": null,
+    "final_deficit": -1,
+    "phantom_dive_available_turns": [
+      7,
+      9,
+      11,
+      13,
+      15
+    ],
+    "phantom_dive_used_turns": [
+      7,
+      9,
+      11,
+      13,
+      15
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 4,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 11,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 18,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 5,
+        "hand_after": 8,
+        "discard_before": 5,
+        "discard_after": 6,
+        "hand_delta": 3,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 20,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1080,
+        "card_name": "Unfair Stamp",
+        "hand_before": 7,
+        "hand_after": 5,
+        "discard_before": 6,
+        "discard_after": 7,
+        "hand_delta": -2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 21,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 35,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 7,
+        "hand_after": 8,
+        "discard_before": 8,
+        "discard_after": 9,
+        "hand_delta": 1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 37,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 9,
+        "discard_after": 9,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 40,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 45,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 13,
+        "discard_after": 13,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 49,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 16,
+        "discard_after": 16,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 54,
+        "turn": 7,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 58,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 18,
+        "discard_after": 18,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 73,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1182,
+        "card_name": "Boss\u2019s Orders",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 21,
+        "discard_after": 21,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 85,
+        "turn": 11,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 6,
+        "hand_after": 8,
+        "discard_before": 27,
+        "discard_after": 28,
+        "hand_delta": 2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 98,
+        "turn": 13,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 4,
+        "hand_after": 6,
+        "discard_before": 37,
+        "discard_after": 38,
+        "hand_delta": 2,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [
+      {
+        "decision_index": 72,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 73,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 75,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 107,
+        "turn": 15,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "critical_situations_stayed": [
+      {
+        "decision_index": 72,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 73,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 75,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 107,
+        "turn": 15,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 100,
+        "opp_best_attack_damage": 220,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "first_bad_decision": {
+      "turn": 9,
+      "decision_index": 72,
+      "category": "E_RETREAT_SURVIVAL",
+      "description": "Stayed active at 100hp facing a lethal 220dmg attack with retreat legal and 2 ready bench attacker(s) available"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 9,
+        "decision_index": 72,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 100hp facing a lethal 220dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 9,
+        "decision_index": 73,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 100hp facing a lethal 220dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 9,
+        "decision_index": 75,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 100hp facing a lethal 220dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 15,
+        "decision_index": 107,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 100hp facing a lethal 220dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      }
+    ]
+  },
+  {
+    "episode_id": 92553251,
+    "opponent_archetype": "Mega Kangaskhan ex",
+    "opponent_score": 607.0,
+    "went_first": true,
+    "n_turns": 11,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        6,
+        0
+      ],
+      [
+        5,
+        6,
+        6,
+        0
+      ],
+      [
+        6,
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        6,
+        4,
+        2
+      ],
+      [
+        8,
+        6,
+        3,
+        3
+      ],
+      [
+        9,
+        6,
+        3,
+        3
+      ],
+      [
+        10,
+        6,
+        1,
+        5
+      ],
+      [
+        11,
+        6,
+        1,
+        5
+      ]
+    ],
+    "first_behind_turn": 6,
+    "first_2plus_deficit_turn": 6,
+    "decisive_turn": 6,
+    "final_deficit": 5,
+    "phantom_dive_available_turns": [
+      5
+    ],
+    "phantom_dive_used_turns": [],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 4,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 6,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 11,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1210,
+        "card_name": "Brock\u2019s Scouting",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 4,
+        "discard_after": 4,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 22,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 31,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 33,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1079,
+        "card_name": "Rare Candy",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 39,
+        "turn": 11,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 3,
+        "hand_after": 8,
+        "discard_before": 16,
+        "discard_after": 17,
+        "hand_delta": 5,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": null,
+    "all_candidate_bad_decisions": []
+  },
+  {
+    "episode_id": 92555101,
+    "opponent_archetype": "Mega Lucario ex",
+    "opponent_score": 617.1,
+    "went_first": false,
+    "n_turns": 10,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        4,
+        6,
+        5,
+        1
+      ],
+      [
+        5,
+        6,
+        4,
+        2
+      ],
+      [
+        6,
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        6,
+        2,
+        4
+      ],
+      [
+        8,
+        6,
+        2,
+        4
+      ],
+      [
+        10,
+        6,
+        2,
+        4
+      ]
+    ],
+    "first_behind_turn": 3,
+    "first_2plus_deficit_turn": 5,
+    "decisive_turn": 5,
+    "final_deficit": 4,
+    "phantom_dive_available_turns": [
+      6,
+      8,
+      10
+    ],
+    "phantom_dive_used_turns": [
+      6,
+      8,
+      10
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [
+      {
+        "decision_index": 28,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 29,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 30,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 32,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 33,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 36,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 86,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 88,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 90,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 93,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "bench_lock_never_resolved": [
+      {
+        "decision_index": 28,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 29,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 30,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 32,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 33,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 36,
+        "turn": 4,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 86,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 88,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 90,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 93,
+        "turn": 10,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "supporter_item_events": [
+      {
+        "decision_index": 5,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 7,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 13,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 4,
+        "discard_after": 4,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 15,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 5,
+        "discard_after": 6,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 19,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1080,
+        "card_name": "Unfair Stamp",
+        "hand_before": 3,
+        "hand_after": 5,
+        "discard_before": 6,
+        "discard_after": 7,
+        "hand_delta": 2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 20,
+        "turn": 4,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 40,
+        "turn": 6,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1079,
+        "card_name": "Rare Candy",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 10,
+        "discard_after": 10,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 46,
+        "turn": 6,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 11,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 48,
+        "turn": 6,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 10,
+        "hand_after": 9,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 52,
+        "turn": 6,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 15,
+        "discard_after": 15,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 63,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 70,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 74,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 20,
+        "discard_after": 20,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 76,
+        "turn": 8,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1182,
+        "card_name": "Boss\u2019s Orders",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 21,
+        "discard_after": 21,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 90,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 22,
+        "discard_after": 22,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 93,
+        "turn": 10,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 7,
+        "hand_after": 8,
+        "discard_before": 25,
+        "discard_after": 26,
+        "hand_delta": 1,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": {
+      "turn": 4,
+      "decision_index": 28,
+      "category": "L_BENCH_SPACE",
+      "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 4,
+        "decision_index": 28,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 4,
+        "decision_index": 29,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 4,
+        "decision_index": 30,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 4,
+        "decision_index": 32,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 4,
+        "decision_index": 33,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 4,
+        "decision_index": 36,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 10,
+        "decision_index": 86,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 10,
+        "decision_index": 88,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 10,
+        "decision_index": 90,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 10,
+        "decision_index": 93,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      }
+    ]
+  },
+  {
+    "episode_id": 92558848,
+    "opponent_archetype": "Mega Lucario ex",
+    "opponent_score": 674.5,
+    "went_first": false,
+    "n_turns": 12,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        6,
+        -6
+      ],
+      [
+        2,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        4,
+        6,
+        5,
+        1
+      ],
+      [
+        5,
+        6,
+        4,
+        2
+      ],
+      [
+        6,
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        6,
+        3,
+        3
+      ],
+      [
+        8,
+        6,
+        3,
+        3
+      ],
+      [
+        9,
+        6,
+        2,
+        4
+      ],
+      [
+        10,
+        6,
+        2,
+        4
+      ],
+      [
+        12,
+        6,
+        2,
+        4
+      ]
+    ],
+    "first_behind_turn": 3,
+    "first_2plus_deficit_turn": 5,
+    "decisive_turn": 5,
+    "final_deficit": 4,
+    "phantom_dive_available_turns": [
+      10,
+      12
+    ],
+    "phantom_dive_used_turns": [
+      10,
+      12
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [
+      {
+        "episode_id": "92558848",
+        "turn": "12",
+        "game_result": "LOSS",
+        "opponent_bench_pre_attack": "slot0:Lunatone hp=110/110 prize=1 immune=False(None); slot1:Solrock hp=110/110 prize=1 immune=False(None); slot2:Hariyama hp=150/150 prize=1 immune=False(None); slot3:Mega Lucario ex hp=110/340 prize=3 immune=False(None); slot4:Riolu hp=20/80 prize=1 immune=False(None)",
+        "v6_actual_allocation_by_slot": "{0: 0, 1: 0, 2: 0, 3: 6, 4: 0}",
+        "v6_actual_kos": "[]",
+        "v6_actual_prize": "0",
+        "optimal_allocation_by_slot": "{0: 0, 1: 0, 2: 0, 3: 0, 4: 6}",
+        "optimal_kos": "['Riolu']",
+        "optimal_prize": "1",
+        "prize_difference": "1"
+      }
+    ],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 3,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 8,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 21,
+        "turn": 8,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 4,
+        "hand_after": 8,
+        "discard_before": 6,
+        "discard_after": 7,
+        "hand_delta": 4,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 22,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 25,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 8,
+        "discard_after": 8,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 31,
+        "turn": 10,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 10,
+        "discard_after": 10,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 48,
+        "turn": 12,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1182,
+        "card_name": "Boss\u2019s Orders",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [
+      {
+        "decision_index": 46,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 48,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 50,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "critical_situations_stayed": [
+      {
+        "decision_index": 46,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 48,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 50,
+        "turn": 12,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 20,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "first_bad_decision": {
+      "turn": 12,
+      "decision_index": 46,
+      "category": "E_RETREAT_SURVIVAL",
+      "description": "Stayed active at 20hp facing a lethal 270dmg attack with retreat legal and 1 ready bench attacker(s) available"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 12,
+        "decision_index": 46,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 20hp facing a lethal 270dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      },
+      {
+        "turn": 12,
+        "decision_index": 48,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 20hp facing a lethal 270dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      },
+      {
+        "turn": 12,
+        "decision_index": 50,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 20hp facing a lethal 270dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      },
+      {
+        "turn": 12,
+        "decision_index": null,
+        "category": "B_PHANTOM_DIVE_ALLOCATION",
+        "description": "Phantom Dive misallocated 6 counters: actual={0: 0, 1: 0, 2: 0, 3: 6, 4: 0} (kos=[]) vs optimal={0: 0, 1: 0, 2: 0, 3: 0, 4: 6} (kos=['Riolu'], +1 prize)"
+      }
+    ]
+  },
+  {
+    "episode_id": 92560743,
+    "opponent_archetype": "UNLABELED",
+    "opponent_score": 585.7,
+    "went_first": true,
+    "n_turns": 9,
+    "turn_trajectory": [
+      [
+        0,
+        6,
+        6,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        2,
+        6,
+        5,
+        1
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        4,
+        6,
+        4,
+        2
+      ],
+      [
+        5,
+        6,
+        4,
+        2
+      ],
+      [
+        6,
+        6,
+        3,
+        3
+      ],
+      [
+        7,
+        6,
+        3,
+        3
+      ],
+      [
+        8,
+        6,
+        2,
+        4
+      ],
+      [
+        9,
+        6,
+        2,
+        4
+      ]
+    ],
+    "first_behind_turn": 2,
+    "first_2plus_deficit_turn": 4,
+    "decisive_turn": 4,
+    "final_deficit": 4,
+    "phantom_dive_available_turns": [],
+    "phantom_dive_used_turns": [],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 7,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 10,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 17,
+        "turn": 3,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 4,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 18,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 30,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 38,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 15,
+        "discard_after": 15,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 43,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 5,
+        "hand_after": 8,
+        "discard_before": 18,
+        "discard_after": 19,
+        "hand_delta": 3,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 44,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 19,
+        "discard_after": 19,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 47,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 19,
+        "discard_after": 19,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 49,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1080,
+        "card_name": "Unfair Stamp",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 20,
+        "discard_after": 21,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 50,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 21,
+        "discard_after": 21,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": null,
+    "all_candidate_bad_decisions": []
+  },
+  {
+    "episode_id": 92562643,
+    "opponent_archetype": "Mega Lucario ex",
+    "opponent_score": 556.0,
+    "went_first": true,
+    "n_turns": 13,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        6,
+        -6
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        6,
+        0
+      ],
+      [
+        4,
+        6,
+        5,
+        1
+      ],
+      [
+        5,
+        6,
+        5,
+        1
+      ],
+      [
+        7,
+        6,
+        5,
+        1
+      ],
+      [
+        9,
+        6,
+        5,
+        1
+      ],
+      [
+        10,
+        5,
+        3,
+        2
+      ],
+      [
+        11,
+        5,
+        3,
+        2
+      ],
+      [
+        12,
+        5,
+        1,
+        4
+      ],
+      [
+        13,
+        5,
+        1,
+        4
+      ]
+    ],
+    "first_behind_turn": 4,
+    "first_2plus_deficit_turn": 10,
+    "decisive_turn": 10,
+    "final_deficit": 4,
+    "phantom_dive_available_turns": [
+      9,
+      11,
+      13
+    ],
+    "phantom_dive_used_turns": [
+      9,
+      11,
+      13
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [
+      {
+        "episode_id": "92562643",
+        "turn": "13",
+        "game_result": "LOSS",
+        "opponent_bench_pre_attack": "slot0:Solrock hp=110/110 prize=1 immune=False(None); slot1:Lunatone hp=110/110 prize=1 immune=False(None); slot2:Mega Lucario ex hp=80/340 prize=3 immune=False(None); slot3:Makuhita hp=20/80 prize=1 immune=False(None); slot4:Makuhita hp=80/80 prize=1 immune=False(None)",
+        "v6_actual_allocation_by_slot": "{0: 0, 1: 0, 2: 6, 3: 0, 4: 0}",
+        "v6_actual_kos": "[]",
+        "v6_actual_prize": "0",
+        "optimal_allocation_by_slot": "{0: 0, 1: 0, 2: 0, 3: 2, 4: 4}",
+        "optimal_kos": "['Makuhita']",
+        "optimal_prize": "1",
+        "prize_difference": "1"
+      }
+    ],
+    "bench_lock_events": [
+      {
+        "decision_index": 16,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 17,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 19,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 20,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 22,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "bench_lock_never_resolved": [
+      {
+        "decision_index": 16,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 17,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 19,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 20,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 22,
+        "turn": 3,
+        "hand_pokemon_ids": [
+          1071
+        ],
+        "hand_pokemon_names": [
+          "Meowth ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "supporter_item_events": [
+      {
+        "decision_index": 4,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 6,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 8,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 12,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1210,
+        "card_name": "Brock\u2019s Scouting",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 3,
+        "discard_after": 3,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 27,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 34,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 6,
+        "discard_after": 6,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 37,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1080,
+        "card_name": "Unfair Stamp",
+        "hand_before": 7,
+        "hand_after": 5,
+        "discard_before": 7,
+        "discard_after": 8,
+        "hand_delta": -2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 38,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 8,
+        "discard_after": 8,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 43,
+        "turn": 5,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 9,
+        "discard_after": 10,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 51,
+        "turn": 7,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 8,
+        "hand_after": 8,
+        "discard_before": 10,
+        "discard_after": 11,
+        "hand_delta": 0,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 54,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 61,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 14,
+        "discard_after": 14,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 78,
+        "turn": 11,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 20,
+        "discard_after": 20,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 84,
+        "turn": 11,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1182,
+        "card_name": "Boss\u2019s Orders",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 20,
+        "discard_after": 20,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 95,
+        "turn": 13,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 27,
+        "discard_after": 28,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 98,
+        "turn": 13,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 28,
+        "discard_after": 28,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 104,
+        "turn": 13,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 9,
+        "hand_after": 6,
+        "discard_before": 28,
+        "discard_after": 29,
+        "hand_delta": -3,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [
+      {
+        "decision_index": 59,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 61,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 65,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 66,
+        "turn": 9,
+        "retreated": true,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 77,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 220,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 78,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 80,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 81,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 82,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 84,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      }
+    ],
+    "critical_situations_stayed": [
+      {
+        "decision_index": 59,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 61,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 65,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 140,
+        "our_active_hp": 70,
+        "opp_best_attack_damage": 70,
+        "bench_ready_attackers": 2
+      },
+      {
+        "decision_index": 77,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 220,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 78,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 80,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 81,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 82,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      },
+      {
+        "decision_index": 84,
+        "turn": 11,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 250,
+        "opp_best_attack_damage": 270,
+        "bench_ready_attackers": 0
+      }
+    ],
+    "first_bad_decision": {
+      "turn": 3,
+      "decision_index": 16,
+      "category": "L_BENCH_SPACE",
+      "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 3,
+        "decision_index": 16,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 3,
+        "decision_index": 17,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 3,
+        "decision_index": 19,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 3,
+        "decision_index": 20,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 3,
+        "decision_index": 22,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Meowth ex'] in hand; never played this game"
+      },
+      {
+        "turn": 9,
+        "decision_index": 59,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 70hp facing a lethal 70dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 9,
+        "decision_index": 61,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 70hp facing a lethal 70dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 9,
+        "decision_index": 65,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 70hp facing a lethal 70dmg attack with retreat legal and 2 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 77,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 220hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 78,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 250hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 80,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 250hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 81,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 250hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 82,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 250hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 11,
+        "decision_index": 84,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 250hp facing a lethal 270dmg attack with retreat legal and 0 ready bench attacker(s) available"
+      },
+      {
+        "turn": 13,
+        "decision_index": null,
+        "category": "B_PHANTOM_DIVE_ALLOCATION",
+        "description": "Phantom Dive misallocated 6 counters: actual={0: 0, 1: 0, 2: 6, 3: 0, 4: 0} (kos=[]) vs optimal={0: 0, 1: 0, 2: 0, 3: 2, 4: 4} (kos=['Makuhita'], +1 prize)"
+      }
+    ]
+  },
+  {
+    "episode_id": 92565477,
+    "opponent_archetype": "Fezandipiti ex",
+    "opponent_score": 738.0,
+    "went_first": false,
+    "n_turns": 28,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        4,
+        5,
+        5,
+        0
+      ],
+      [
+        5,
+        4,
+        5,
+        -1
+      ],
+      [
+        6,
+        4,
+        5,
+        -1
+      ],
+      [
+        8,
+        4,
+        5,
+        -1
+      ],
+      [
+        10,
+        3,
+        5,
+        -2
+      ],
+      [
+        12,
+        3,
+        5,
+        -2
+      ],
+      [
+        14,
+        3,
+        5,
+        -2
+      ],
+      [
+        16,
+        3,
+        5,
+        -2
+      ],
+      [
+        18,
+        3,
+        5,
+        -2
+      ],
+      [
+        20,
+        3,
+        5,
+        -2
+      ],
+      [
+        22,
+        3,
+        5,
+        -2
+      ],
+      [
+        24,
+        3,
+        5,
+        -2
+      ],
+      [
+        25,
+        3,
+        3,
+        0
+      ],
+      [
+        26,
+        3,
+        3,
+        0
+      ],
+      [
+        27,
+        3,
+        2,
+        1
+      ]
+    ],
+    "first_behind_turn": 3,
+    "first_2plus_deficit_turn": null,
+    "decisive_turn": null,
+    "final_deficit": 1,
+    "phantom_dive_available_turns": [
+      4
+    ],
+    "phantom_dive_used_turns": [
+      4
+    ],
+    "confirmed_missed_kos": [
+      {
+        "episode_id": 92565477,
+        "decision_index": 46,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "episode_id": 92565477,
+        "decision_index": 48,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "episode_id": 92565477,
+        "decision_index": 50,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "episode_id": 92565477,
+        "decision_index": 51,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "episode_id": 92565477,
+        "decision_index": 53,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "episode_id": 92565477,
+        "decision_index": 54,
+        "turn": 6,
+        "evidence_level": "CONFIRMED",
+        "target_removed_via_switch": false,
+        "description": "[(153, 'Jet Headbutt', 70)] not chosen"
+      }
+    ],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 4,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 6,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 9,
+        "turn": 2,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 4,
+        "hand_after": 8,
+        "discard_before": 2,
+        "discard_after": 3,
+        "hand_delta": 4,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 10,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 3,
+        "discard_after": 3,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 13,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 4,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 14,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 18,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1079,
+        "card_name": "Rare Candy",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 8,
+        "discard_after": 8,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 24,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1080,
+        "card_name": "Unfair Stamp",
+        "hand_before": 3,
+        "hand_after": 5,
+        "discard_before": 9,
+        "discard_after": 10,
+        "hand_delta": 2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 26,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 10,
+        "discard_after": 10,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 28,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 30,
+        "turn": 4,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 48,
+        "turn": 6,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 15,
+        "discard_after": 15,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 63,
+        "turn": 8,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 6,
+        "hand_after": 6,
+        "discard_before": 17,
+        "discard_after": 18,
+        "hand_delta": 0,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 71,
+        "turn": 10,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 18,
+        "discard_after": 18,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 73,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 19,
+        "discard_after": 19,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 82,
+        "turn": 12,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 23,
+        "discard_after": 24,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 89,
+        "turn": 14,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 25,
+        "discard_after": 25,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 93,
+        "turn": 14,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 6,
+        "hand_after": 6,
+        "discard_before": 28,
+        "discard_after": 29,
+        "hand_delta": 0,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 95,
+        "turn": 14,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 29,
+        "discard_after": 29,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 103,
+        "turn": 18,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 33,
+        "discard_after": 33,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 110,
+        "turn": 26,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 36,
+        "discard_after": 36,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": {
+      "turn": 6,
+      "decision_index": 46,
+      "category": "D_ACTIVE_SELECTION_MISSED_KO",
+      "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 6,
+        "decision_index": 46,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "turn": 6,
+        "decision_index": 48,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "turn": 6,
+        "decision_index": 50,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "turn": 6,
+        "decision_index": 51,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "turn": 6,
+        "decision_index": 53,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      },
+      {
+        "turn": 6,
+        "decision_index": 54,
+        "category": "D_ACTIVE_SELECTION_MISSED_KO",
+        "description": "Confirmed missed active-Pokemon knockout: [(153, 'Jet Headbutt', 70)] not chosen"
+      }
+    ]
+  },
+  {
+    "episode_id": 92571127,
+    "opponent_archetype": "Dragapult ex",
+    "opponent_score": 673.9,
+    "went_first": true,
+    "n_turns": 11,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        6,
+        0
+      ],
+      [
+        5,
+        6,
+        6,
+        0
+      ],
+      [
+        7,
+        5,
+        6,
+        -1
+      ],
+      [
+        9,
+        5,
+        6,
+        -1
+      ],
+      [
+        10,
+        4,
+        2,
+        2
+      ],
+      [
+        11,
+        4,
+        2,
+        2
+      ]
+    ],
+    "first_behind_turn": 10,
+    "first_2plus_deficit_turn": 10,
+    "decisive_turn": 10,
+    "final_deficit": 2,
+    "phantom_dive_available_turns": [
+      9
+    ],
+    "phantom_dive_used_turns": [
+      9
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 5,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 8,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1210,
+        "card_name": "Brock\u2019s Scouting",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 18,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 29,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 34,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 6,
+        "discard_after": 6,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 50,
+        "turn": 11,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 3,
+        "hand_after": 6,
+        "discard_before": 15,
+        "discard_after": 16,
+        "hand_delta": 3,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 53,
+        "turn": 11,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 16,
+        "discard_after": 16,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 55,
+        "turn": 11,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [
+      {
+        "decision_index": 38,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 110,
+        "opp_best_attack_damage": 200,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 39,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 110,
+        "opp_best_attack_damage": 200,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "critical_situations_stayed": [
+      {
+        "decision_index": 38,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 110,
+        "opp_best_attack_damage": 200,
+        "bench_ready_attackers": 1
+      },
+      {
+        "decision_index": 39,
+        "turn": 9,
+        "retreated": false,
+        "our_active_id": 121,
+        "our_active_hp": 110,
+        "opp_best_attack_damage": 200,
+        "bench_ready_attackers": 1
+      }
+    ],
+    "first_bad_decision": {
+      "turn": 9,
+      "decision_index": 38,
+      "category": "E_RETREAT_SURVIVAL",
+      "description": "Stayed active at 110hp facing a lethal 200dmg attack with retreat legal and 1 ready bench attacker(s) available"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 9,
+        "decision_index": 38,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 110hp facing a lethal 200dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      },
+      {
+        "turn": 9,
+        "decision_index": 39,
+        "category": "E_RETREAT_SURVIVAL",
+        "description": "Stayed active at 110hp facing a lethal 200dmg attack with retreat legal and 1 ready bench attacker(s) available"
+      }
+    ]
+  },
+  {
+    "episode_id": 92571771,
+    "opponent_archetype": "Fezandipiti ex",
+    "opponent_score": 797.6,
+    "went_first": true,
+    "n_turns": 9,
+    "turn_trajectory": [
+      [
+        0,
+        6,
+        6,
+        0
+      ],
+      [
+        1,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        6,
+        0
+      ],
+      [
+        5,
+        6,
+        6,
+        0
+      ],
+      [
+        6,
+        5,
+        4,
+        1
+      ],
+      [
+        7,
+        5,
+        4,
+        1
+      ],
+      [
+        8,
+        5,
+        2,
+        3
+      ],
+      [
+        9,
+        5,
+        2,
+        3
+      ]
+    ],
+    "first_behind_turn": 6,
+    "first_2plus_deficit_turn": 8,
+    "decisive_turn": 8,
+    "final_deficit": 3,
+    "phantom_dive_available_turns": [
+      5,
+      7
+    ],
+    "phantom_dive_used_turns": [
+      5,
+      7
+    ],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [
+      {
+        "decision_index": 30,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 34,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 35,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 37,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 38,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 40,
+        "turn": 5,
+        "hand_pokemon_ids": [
+          140
+        ],
+        "hand_pokemon_names": [
+          "Fezandipiti ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": true
+      },
+      {
+        "decision_index": 50,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 52,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 54,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 55,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 87,
+        "turn": 9,
+        "hand_pokemon_ids": [
+          184
+        ],
+        "hand_pokemon_names": [
+          "Latias ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "bench_lock_never_resolved": [
+      {
+        "decision_index": 50,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 52,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 54,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 55,
+        "turn": 7,
+        "hand_pokemon_ids": [
+          235
+        ],
+        "hand_pokemon_names": [
+          "Budew"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      },
+      {
+        "decision_index": 87,
+        "turn": 9,
+        "hand_pokemon_ids": [
+          184
+        ],
+        "hand_pokemon_names": [
+          "Latias ex"
+        ],
+        "bench_n": 5,
+        "eventually_played": false
+      }
+    ],
+    "supporter_item_events": [
+      {
+        "decision_index": 7,
+        "turn": 1,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 0,
+        "discard_after": 0,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 12,
+        "turn": 3,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1210,
+        "card_name": "Brock\u2019s Scouting",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 30,
+        "turn": 5,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 55,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1121,
+        "card_name": "Ultra Ball",
+        "hand_before": 9,
+        "hand_after": 8,
+        "discard_before": 8,
+        "discard_after": 8,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 58,
+        "turn": 7,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1079,
+        "card_name": "Rare Candy",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 61,
+        "turn": 7,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1182,
+        "card_name": "Boss\u2019s Orders",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 73,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 76,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 3,
+        "hand_after": 2,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 79,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 2,
+        "hand_after": 1,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 83,
+        "turn": 9,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 2,
+        "hand_after": 1,
+        "discard_before": 18,
+        "discard_after": 18,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 86,
+        "turn": 9,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 5,
+        "hand_after": 6,
+        "discard_before": 19,
+        "discard_after": 20,
+        "hand_delta": 1,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": {
+      "turn": 7,
+      "decision_index": 50,
+      "category": "L_BENCH_SPACE",
+      "description": "Bench at cap (5/5) while holding ['Budew'] in hand; never played this game"
+    },
+    "all_candidate_bad_decisions": [
+      {
+        "turn": 7,
+        "decision_index": 50,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Budew'] in hand; never played this game"
+      },
+      {
+        "turn": 7,
+        "decision_index": 52,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Budew'] in hand; never played this game"
+      },
+      {
+        "turn": 7,
+        "decision_index": 54,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Budew'] in hand; never played this game"
+      },
+      {
+        "turn": 7,
+        "decision_index": 55,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Budew'] in hand; never played this game"
+      },
+      {
+        "turn": 9,
+        "decision_index": 87,
+        "category": "L_BENCH_SPACE",
+        "description": "Bench at cap (5/5) while holding ['Latias ex'] in hand; never played this game"
+      }
+    ]
+  },
+  {
+    "episode_id": 92572051,
+    "opponent_archetype": "Mega Lucario ex",
+    "opponent_score": 673.4,
+    "went_first": false,
+    "n_turns": 10,
+    "turn_trajectory": [
+      [
+        0,
+        6,
+        6,
+        0
+      ],
+      [
+        2,
+        6,
+        6,
+        0
+      ],
+      [
+        3,
+        6,
+        5,
+        1
+      ],
+      [
+        4,
+        6,
+        5,
+        1
+      ],
+      [
+        5,
+        6,
+        4,
+        2
+      ],
+      [
+        6,
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        6,
+        2,
+        4
+      ],
+      [
+        8,
+        6,
+        2,
+        4
+      ],
+      [
+        9,
+        6,
+        1,
+        5
+      ],
+      [
+        10,
+        6,
+        1,
+        5
+      ]
+    ],
+    "first_behind_turn": 3,
+    "first_2plus_deficit_turn": 5,
+    "decisive_turn": 5,
+    "final_deficit": 5,
+    "phantom_dive_available_turns": [],
+    "phantom_dive_used_turns": [],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 5,
+        "turn": 2,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 5,
+        "hand_after": 8,
+        "discard_before": 0,
+        "discard_after": 1,
+        "hand_delta": 3,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 9,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 8,
+        "hand_after": 7,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 12,
+        "turn": 4,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 2,
+        "discard_after": 2,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 14,
+        "turn": 4,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 3,
+        "discard_after": 3,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 22,
+        "turn": 6,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 5,
+        "discard_after": 6,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 25,
+        "turn": 8,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 7,
+        "discard_after": 7,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 33,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 10,
+        "discard_after": 10,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 38,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 11,
+        "discard_after": 11,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 43,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 12,
+        "discard_after": 12,
+        "hand_delta": -1,
+        "discard_delta": 0
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": null,
+    "all_candidate_bad_decisions": []
+  },
+  {
+    "episode_id": 92583351,
+    "opponent_archetype": "Marnie's Grimmsnarl ex",
+    "opponent_score": 610.2,
+    "went_first": false,
+    "n_turns": 12,
+    "turn_trajectory": [
+      [
+        0,
+        0,
+        6,
+        -6
+      ],
+      [
+        2,
+        6,
+        6,
+        0
+      ],
+      [
+        4,
+        6,
+        6,
+        0
+      ],
+      [
+        5,
+        6,
+        5,
+        1
+      ],
+      [
+        6,
+        6,
+        5,
+        1
+      ],
+      [
+        8,
+        6,
+        5,
+        1
+      ],
+      [
+        9,
+        6,
+        3,
+        3
+      ],
+      [
+        10,
+        6,
+        3,
+        3
+      ],
+      [
+        11,
+        6,
+        1,
+        5
+      ],
+      [
+        12,
+        6,
+        1,
+        5
+      ]
+    ],
+    "first_behind_turn": 5,
+    "first_2plus_deficit_turn": 9,
+    "decisive_turn": 9,
+    "final_deficit": 5,
+    "phantom_dive_available_turns": [],
+    "phantom_dive_used_turns": [],
+    "confirmed_missed_kos": [],
+    "phantom_dive_missed_events": [],
+    "bench_lock_events": [],
+    "bench_lock_never_resolved": [],
+    "supporter_item_events": [
+      {
+        "decision_index": 4,
+        "turn": 2,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 6,
+        "hand_after": 8,
+        "discard_before": 0,
+        "discard_after": 1,
+        "hand_delta": 2,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 7,
+        "turn": 2,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1086,
+        "card_name": "Buddy-Buddy Poffin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 1,
+        "discard_after": 1,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 14,
+        "turn": 4,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 3,
+        "discard_after": 3,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 21,
+        "turn": 6,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 24,
+        "turn": 6,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 5,
+        "discard_after": 5,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 40,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 12,
+        "discard_after": 13,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 42,
+        "turn": 10,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1227,
+        "card_name": "Lillie's Determination",
+        "hand_before": 3,
+        "hand_after": 8,
+        "discard_before": 13,
+        "discard_after": 14,
+        "hand_delta": 5,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 44,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1152,
+        "card_name": "Pok\u00e9 Pad",
+        "hand_before": 7,
+        "hand_after": 6,
+        "discard_before": 14,
+        "discard_after": 14,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 47,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1097,
+        "card_name": "Night Stretcher",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 15,
+        "discard_after": 15,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 50,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 15,
+        "discard_after": 16,
+        "hand_delta": -1,
+        "discard_delta": 1
+      },
+      {
+        "decision_index": 51,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 4,
+        "hand_after": 3,
+        "discard_before": 16,
+        "discard_after": 16,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 61,
+        "turn": 10,
+        "action_class": "PLAY_ITEM",
+        "card_id": 1120,
+        "card_name": "Crushing Hammer",
+        "hand_before": 5,
+        "hand_after": 4,
+        "discard_before": 17,
+        "discard_after": 17,
+        "hand_delta": -1,
+        "discard_delta": 0
+      },
+      {
+        "decision_index": 72,
+        "turn": 12,
+        "action_class": "PLAY_SUPPORTER",
+        "card_id": 1198,
+        "card_name": "Crispin",
+        "hand_before": 6,
+        "hand_after": 5,
+        "discard_before": 23,
+        "discard_after": 24,
+        "hand_delta": -1,
+        "discard_delta": 1
+      }
+    ],
+    "critical_situations": [],
+    "critical_situations_stayed": [],
+    "first_bad_decision": null,
+    "all_candidate_bad_decisions": []
+  }
+]

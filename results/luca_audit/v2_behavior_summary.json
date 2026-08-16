@@ -1,0 +1,22 @@
+{
+  "source": "results/agent/v2_v5_experiments/games/1786510596_f5677d5e_decisions.jsonl (V1 vs V2, session 18)",
+  "games_total": 150,
+  "wins": 86,
+  "losses": 64,
+  "win_rate_overall": 0.5733333333333334,
+  "win_rate_going_first": 0.49333333333333335,
+  "n_going_first": 75,
+  "win_rate_going_second": 0.6533333333333333,
+  "n_going_second": 75,
+  "retreat_rate_per_decision": 0.015378115758343896,
+  "retreat_rate_per_MAIN_decision": 0.03248839700107105,
+  "turn_attack_rate_approx": 0.7880133185349611,
+  "avg_turns_all": 11.94,
+  "avg_turns_wins": 11.94186046511628,
+  "avg_turns_losses": 11.9375,
+  "comebacks_from_2plus_prize_deficit": 12,
+  "games_where_v2_faced_2plus_prize_deficit": 56,
+  "avg_max_prize_deficit_faced_wins": 0.7209302325581395,
+  "avg_max_prize_deficit_faced_losses": 2.390625,
+  "note_missed_ko_not_computed": "local decision log lacks per-option attack-id/damage detail; not comparable to Luca-side CONFIRMED/POSSIBLE knockout metric"
+}

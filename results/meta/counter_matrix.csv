@@ -1,0 +1,43 @@
+counter_archetype,target_archetype,status,historical_win_rate,historical_games,historical_confidence,oos_win_rate,oos_games,target_relevance_at_detection,target_relevance_current
+Fezandipiti ex,Cynthia's Garchomp ex,UNKNOWN,,,,,,,LOW
+Marnie's Grimmsnarl ex,Cynthia's Garchomp ex,UNKNOWN,,,,,,,LOW
+Mega Kangaskhan ex,Cynthia's Garchomp ex,UNKNOWN,,,,,,,LOW
+Team Rocket's Mewtwo ex,Cynthia's Garchomp ex,UNKNOWN,,,,,,,LOW
+Fezandipiti ex,Dragapult ex,UNKNOWN,,,,,,,MEDIUM
+Marnie's Grimmsnarl ex,Dragapult ex,UNKNOWN,,,,,,,MEDIUM
+Mega Kangaskhan ex,Dragapult ex,UNKNOWN,,,,,,,MEDIUM
+Cynthia's Garchomp ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Dragapult ex,Fezandipiti ex,OOS_PENDING,0.6557,61.0,USABLE,0.6,15.0,MEDIUM,MEDIUM
+Marnie's Grimmsnarl ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Mega Kangaskhan ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Mega Lopunny ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Mega Lucario ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Teal Mask Ogerpon ex,Fezandipiti ex,UNKNOWN,,,,,,,MEDIUM
+Team Rocket's Mewtwo ex,Fezandipiti ex,OOS_CONFIRMED,0.7288,59.0,USABLE,0.84,25.0,HIGH,MEDIUM
+Cynthia's Garchomp ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Dragapult ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Fezandipiti ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Mega Kangaskhan ex,Marnie's Grimmsnarl ex,OOS_FAILED,0.7255,51.0,USABLE,0.52,25.0,HIGH,HIGH
+Mega Lopunny ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Mega Lucario ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Teal Mask Ogerpon ex,Marnie's Grimmsnarl ex,OOS_PENDING,0.8167,60.0,USABLE,0.8235,17.0,HIGH,HIGH
+Team Rocket's Mewtwo ex,Marnie's Grimmsnarl ex,UNKNOWN,,,,,,,HIGH
+Cynthia's Garchomp ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Dragapult ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Fezandipiti ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Marnie's Grimmsnarl ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Mega Lopunny ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Team Rocket's Mewtwo ex,Mega Kangaskhan ex,UNKNOWN,,,,,,,MEDIUM
+Fezandipiti ex,Mega Lopunny ex,UNKNOWN,,,,,,,MEDIUM
+Marnie's Grimmsnarl ex,Mega Lopunny ex,UNKNOWN,,,,,,,MEDIUM
+Mega Kangaskhan ex,Mega Lopunny ex,UNKNOWN,,,,,,,MEDIUM
+Teal Mask Ogerpon ex,Mega Lopunny ex,UNKNOWN,,,,,,,MEDIUM
+Fezandipiti ex,Mega Lucario ex,UNKNOWN,,,,,,,LOW
+Marnie's Grimmsnarl ex,Mega Lucario ex,UNKNOWN,,,,,,,LOW
+Fezandipiti ex,Teal Mask Ogerpon ex,UNKNOWN,,,,,,,MEDIUM
+Marnie's Grimmsnarl ex,Teal Mask Ogerpon ex,UNKNOWN,,,,,,,MEDIUM
+Mega Lopunny ex,Teal Mask Ogerpon ex,UNKNOWN,,,,,,,MEDIUM
+Cynthia's Garchomp ex,Team Rocket's Mewtwo ex,UNKNOWN,,,,,,,LOW
+Fezandipiti ex,Team Rocket's Mewtwo ex,UNKNOWN,,,,,,,LOW
+Marnie's Grimmsnarl ex,Team Rocket's Mewtwo ex,OOS_FAILED,0.7213,61.0,USABLE,0.44,25.0,MEDIUM,LOW
+Mega Kangaskhan ex,Team Rocket's Mewtwo ex,UNKNOWN,,,,,,,LOW

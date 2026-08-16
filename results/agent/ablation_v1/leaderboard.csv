@@ -1,0 +1,16 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+A_variant,abomasnow_agent,20,0,0,13,7,0.65,0.6,0.7,10,10
+A_variant,iono_agent,20,0,0,10,10,0.5,0.5,0.5,10,10
+A_variant,lucario_ex_agent,20,0,0,12,8,0.6,0.5,0.7,10,10
+B_variant,abomasnow_agent,20,0,0,13,7,0.65,0.7,0.6,10,10
+B_variant,iono_agent,20,0,0,12,8,0.6,0.6,0.6,10,10
+B_variant,lucario_ex_agent,20,0,0,7,13,0.35,0.0,0.7,10,10
+C_variant,abomasnow_agent,20,0,0,15,5,0.75,0.7,0.8,10,10
+C_variant,iono_agent,20,0,0,11,9,0.55,0.4,0.7,10,10
+C_variant,lucario_ex_agent,20,0,0,8,12,0.4,0.5,0.3,10,10
+D_variant,abomasnow_agent,20,0,0,12,8,0.6,0.6,0.6,10,10
+D_variant,iono_agent,20,0,0,13,7,0.65,0.6,0.7,10,10
+D_variant,lucario_ex_agent,20,0,0,9,11,0.45,0.7,0.2,10,10
+E_variant,abomasnow_agent,20,0,0,7,13,0.35,0.3,0.4,10,10
+E_variant,iono_agent,20,0,0,13,7,0.65,0.5,0.8,10,10
+E_variant,lucario_ex_agent,20,0,0,11,9,0.55,0.5,0.6,10,10

@@ -1,0 +1,45 @@
+{
+  "n_games": 3,
+  "crashed": false,
+  "games": [
+    {
+      "game_index": 0,
+      "v11_slot0": true,
+      "outcome": "v11_win",
+      "steps": 157,
+      "turns": 13,
+      "elapsed_s": 2.3232101999456063,
+      "rss_mb": 40.0703125
+    },
+    {
+      "game_index": 1,
+      "v11_slot0": false,
+      "outcome": "v11_win",
+      "steps": 155,
+      "turns": 10,
+      "elapsed_s": 1.6658834000118077,
+      "rss_mb": 40.38671875
+    },
+    {
+      "game_index": 2,
+      "v11_slot0": true,
+      "outcome": "v11_loss",
+      "steps": 145,
+      "turns": 10,
+      "elapsed_s": 1.6612478999886662,
+      "rss_mb": 40.6484375
+    }
+  ],
+  "rss_start_mb": 35.078125,
+  "rss_end_mb": 40.6484375,
+  "rss_delta_mb": 5.5703125,
+  "macro_decisions_total": 129,
+  "macro_used_count": 129,
+  "macro_fallback_count": 0,
+  "macro_latency_ms_median": 32.59820002131164,
+  "macro_latency_ms_p95": 96.4030500035733,
+  "macro_latency_ms_max": 222.1530000679195,
+  "macro_latency_ms_mean": 41.43228914765569,
+  "macro_chain_lengths_max": 28,
+  "macro_chain_cap_hit": 0
+}

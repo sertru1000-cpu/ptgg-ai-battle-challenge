@@ -1,0 +1,32 @@
+{
+  "wins": {
+    "n_games": 18,
+    "mean_n_turns": 14.277777777777779,
+    "mean_n_decisions": 105.83333333333333,
+    "mean_turn_attack_rate": 0.7297619047619048,
+    "mean_retreat_rate_when_available": 0.037487011970019156,
+    "pct_went_first": 0.8333333333333334,
+    "phantom_dive_attacks_used_total": 75,
+    "phantom_dive_missed_value_events_total": 4,
+    "mean_opponent_score": 648.7277777777778,
+    "mean_bench_lock_events": 2.6666666666666665,
+    "mean_supporter_plays": 5.666666666666667,
+    "mean_item_plays": 9.38888888888889,
+    "mean_energy_attach_plays": 5.888888888888889
+  },
+  "losses": {
+    "n_games": 12,
+    "mean_n_turns": 12.583333333333334,
+    "mean_n_decisions": 81.41666666666667,
+    "mean_turn_attack_rate": 0.40277777777777773,
+    "mean_retreat_rate_when_available": 0.08710308811702,
+    "pct_went_first": 0.5833333333333334,
+    "phantom_dive_attacks_used_total": 19,
+    "phantom_dive_missed_value_events_total": 2,
+    "mean_opponent_score": 651.15,
+    "mean_bench_lock_events": 2.75,
+    "mean_supporter_plays": 4.25,
+    "mean_item_plays": 8.416666666666666,
+    "mean_energy_attach_plays": 4.5
+  }
+}

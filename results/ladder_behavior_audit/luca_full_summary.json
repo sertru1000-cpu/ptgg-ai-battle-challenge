@@ -1,0 +1,131 @@
+{
+  "label": "luca",
+  "game_level": {
+    "games_total": 69,
+    "wins": 51,
+    "losses": 18,
+    "draws": 0,
+    "errors_or_timeouts": 0,
+    "win_rate": 0.7391304347826086,
+    "avg_game_length_turns": 10.768115942028986,
+    "median_game_length_turns": 10,
+    "n_going_first": 35,
+    "win_rate_going_first": 0.7428571428571429,
+    "n_going_second": 34,
+    "win_rate_going_second": 0.7352941176470589,
+    "games_with_2plus_prize_deficit": 14,
+    "frequency_2plus_prize_deficit": 0.2028985507246377,
+    "comeback_rate_when_2plus_behind": 0.35714285714285715,
+    "comebacks_from_2plus_deficit": 5,
+    "avg_max_deficit_faced": 0.6956521739130435,
+    "avg_final_prize_margin_wins_positive_means_behind": -1.8235294117647058,
+    "avg_final_prize_margin_losses_positive_means_behind": 1.6111111111111112
+  },
+  "action_level": {
+    "n_decisions": 4724,
+    "n_games": 69,
+    "action_counts_total": {
+      "PLAY_ITEM": 649,
+      "PLAY_POKEMON": 389,
+      "PLAY_SUPPORTER": 253,
+      "ABILITY": 276,
+      "ATTACH_ENERGY": 338,
+      "EVOLVE": 201,
+      "ATTACK": 255,
+      "RETREAT": 48
+    },
+    "action_rate_per_game": {
+      "PLAY_ITEM": 9.405797101449275,
+      "PLAY_POKEMON": 5.63768115942029,
+      "PLAY_SUPPORTER": 3.6666666666666665,
+      "ABILITY": 4.0,
+      "ATTACH_ENERGY": 4.898550724637682,
+      "EVOLVE": 2.9130434782608696,
+      "ATTACK": 3.6956521739130435,
+      "RETREAT": 0.6956521739130435
+    },
+    "attack_rate_per_turn_weighted": 0.8121019108280255,
+    "retreat_rate_per_decision": 0.010160880609652836,
+    "retreat_rate_when_available": 0.0564042303172738,
+    "ko_attempts_total": 255,
+    "successful_kos_total": 224,
+    "ko_success_rate_per_attack": 0.8784313725490196,
+    "missed_ko_confirmed_total": 0,
+    "missed_ko_possible_total": 110,
+    "retreat_categories": {
+      "1_all_retreats": {
+        "count": 48,
+        "rate_per_decision": 0.010160880609652836
+      },
+      "2_retreat_when_available": {
+        "count": 48,
+        "denominator_decisions_retreat_legal": 851,
+        "rate": 0.0564042303172738
+      },
+      "3_retreat_of_2plus_prize_pokemon": {
+        "count": 20,
+        "denominator_decisions_active_is_2plus_prize": 2555,
+        "rate": 0.007827788649706457
+      },
+      "4_retreat_of_damaged_pokemon": {
+        "count": 30,
+        "denominator_decisions_active_damaged": 1597,
+        "rate": 0.01878522229179712
+      },
+      "5_retreat_when_opp_lethal_now": {
+        "count": 16,
+        "denominator_decisions_opp_lethal_now": 566,
+        "rate": 0.028268551236749116
+      },
+      "5b_retreat_when_opp_lethal_now_or_one_energy_away": {
+        "count": 18
+      },
+      "6_retreat_when_bench_target_exists": {
+        "count": 48,
+        "denominator_decisions_bench_target_exists": 4293,
+        "rate": 0.011180992313067784
+      }
+    },
+    "conjunctive_condition_counts_marginal": {
+      "A_active_is_2plus_prize": 2555,
+      "B_active_damaged": 1597,
+      "C_opp_lethal_now": 566,
+      "D_retreat_legal": 851,
+      "E_bench_target_exists": 4293
+    }
+  },
+  "critical_situation_analysis": {
+    "n_critical_situations": 136,
+    "n_retreated": 11,
+    "n_stayed": 125,
+    "retreat_rate_in_critical_situations": 0.08088235294117647,
+    "stayed_outcomes_breakdown": {
+      "SURVIVED_TO_NEXT_DECISION": 120,
+      "CONFIRMED_KO_NEXT_DECISION": 1,
+      "GAME_ENDED_HERE": 4
+    },
+    "counterfactual": {
+      "n_confirmed_ko_after_staying": 1,
+      "avg_retreat_cost": 2.0,
+      "avg_energy_loss_if_had_retreated": 2.0,
+      "n_with_zero_ready_bench_attacker": 0,
+      "n_with_ready_bench_attacker": 1,
+      "avg_opp_best_attack_damage": 200.0,
+      "game_results_after_these_events": {
+        "LOSS": 1
+      }
+    }
+  },
+  "loss_patterns": {
+    "n_losses": 18,
+    "losses_going_first": 9,
+    "losses_going_second": 9,
+    "losses_with_2plus_deficit": 9,
+    "losses_where_retreat_was_available_late": 9,
+    "losses_where_bench_target_available_late": 17,
+    "losses_that_lost_a_2plus_prize_attacker": 15,
+    "losses_with_any_missed_ko_event": 5,
+    "avg_final_prize_margin": 1.6111111111111112,
+    "avg_energy_attach_per_turn": 0.460999185999186
+  }
+}

@@ -1,0 +1,82 @@
+window_id,scheme,train_weeks,test_weeks,train_games,test_total_games,n_candidates,strategy,selected_archetype,selection_time_expected_win_rate,selection_note,test_games,test_wins,test_win_rate,is_oracle
+ROLL_W2,rolling_weekly,1,2,336,336,1,A_most_popular,Mega Lucario ex,0.2946,argmax_usage_share,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,B_highest_historical_wr,Mega Lucario ex,0.4545,argmax_full_history_win_rate,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,C_recent_wr,Mega Lucario ex,0.4545,argmax_recent_window_win_rate,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,D_meta_aware_full_history,Mega Lucario ex,0.4788,argmax_EWR_full_history_prior_policy2_fallback,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,D_policy1_neutral_variant,Mega Lucario ex,0.5,argmax_EWR_full_history_prior_policy1_neutral,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,E_recent_meta_aware,Mega Lucario ex,0.4788,argmax_EWR_recent_prior,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,F_anti_meta,Mega Lucario ex,0.5,argmax_EWR_vs_dominant_set(['Mega Lucario ex']),68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,G_conservative_meta_aware,Mega Lucario ex,0.2519,argmax_conservative_EWR_wilson_lo_full_history_prior,68,34,0.5,False
+ROLL_W2,rolling_weekly,1,2,336,336,1,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Fezandipiti ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,23,14,0.6087,True
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,A_most_popular,Mega Lucario ex,0.2485,argmax_usage_share,8,4,0.5,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,B_highest_historical_wr,UNLABELED_CLUSTER_02,0.58,argmax_full_history_win_rate,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,C_recent_wr,UNLABELED_CLUSTER_02,0.58,argmax_recent_window_win_rate,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,D_meta_aware_full_history,UNLABELED_CLUSTER_02,0.5574,argmax_EWR_full_history_prior_policy2_fallback,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,D_policy1_neutral_variant,UNLABELED_CLUSTER_02,0.5,argmax_EWR_full_history_prior_policy1_neutral,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,E_recent_meta_aware,UNLABELED_CLUSTER_02,0.5518,argmax_EWR_recent_prior,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,F_anti_meta,UNLABELED_CLUSTER_02,0.5728,argmax_EWR_vs_dominant_set(['Mega Lucario ex']),37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,G_conservative_meta_aware,UNLABELED_CLUSTER_02,0.3395,argmax_conservative_EWR_wilson_lo_full_history_prior,37,14,0.3784,False
+ROLL_W3,rolling_weekly,"1,2",3,672,326,5,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Marnie's Grimmsnarl ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,85,52,0.6118,True
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,A_most_popular,Mega Lucario ex,0.1754,argmax_usage_share,26,14,0.5385,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,B_highest_historical_wr,Marnie's Grimmsnarl ex,0.6118,argmax_full_history_win_rate,161,74,0.4596,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,C_recent_wr,Marnie's Grimmsnarl ex,0.6118,argmax_recent_window_win_rate,161,74,0.4596,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,D_meta_aware_full_history,Marnie's Grimmsnarl ex,0.5843,argmax_EWR_full_history_prior_policy2_fallback,161,74,0.4596,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,D_policy1_neutral_variant,UNLABELED_CLUSTER_02,0.5,argmax_EWR_full_history_prior_policy1_neutral,31,10,0.3226,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,E_recent_meta_aware,Marnie's Grimmsnarl ex,0.565,argmax_EWR_recent_prior,161,74,0.4596,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,F_anti_meta,Marnie's Grimmsnarl ex,0.5,"argmax_EWR_vs_dominant_set([""Marnie's Grimmsnarl ex""])",161,74,0.4596,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,G_conservative_meta_aware,Mega Lucario ex,0.2889,argmax_conservative_EWR_wilson_lo_full_history_prior,26,14,0.5385,False
+ROLL_W4,rolling_weekly,"1,2,3",4,998,1006,7,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,UNLABELED_CLUSTER_08,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,22,16,0.7273,True
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,A_most_popular,Fezandipiti ex,0.1617,argmax_usage_share,360,157,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,B_highest_historical_wr,Mega Kangaskhan ex,0.5323,argmax_full_history_win_rate,133,58,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,C_recent_wr,Dragapult ex,0.5833,argmax_recent_window_win_rate,41,26,0.6341,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,D_meta_aware_full_history,Mega Kangaskhan ex,0.5275,argmax_EWR_full_history_prior_policy2_fallback,133,58,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,D_policy1_neutral_variant,Mega Lucario ex,0.5,argmax_EWR_full_history_prior_policy1_neutral,1,1,1.0,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,E_recent_meta_aware,Mega Kangaskhan ex,0.5214,argmax_EWR_recent_prior,133,58,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,F_anti_meta,Mega Kangaskhan ex,0.5154,"argmax_EWR_vs_dominant_set(['Fezandipiti ex', ""Marnie's Grimmsnarl ex"", 'Mega Kangaskhan ex'])",133,58,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,G_conservative_meta_aware,Mega Kangaskhan ex,0.3258,argmax_conservative_EWR_wilson_lo_full_history_prior,133,58,0.4361,False
+ROLL_W5,rolling_weekly,"1,2,3,4",5,2004,988,11,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Cynthia's Garchomp ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,48,32,0.6667,True
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,A_most_popular,Fezandipiti ex,0.2286,argmax_usage_share,277,127,0.4585,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,B_highest_historical_wr,Cynthia's Garchomp ex,0.5736,argmax_full_history_win_rate,94,47,0.5,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,C_recent_wr,Cynthia's Garchomp ex,0.6667,argmax_recent_window_win_rate,94,47,0.5,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,D_meta_aware_full_history,Team Rocket's Mewtwo ex,0.5811,argmax_EWR_full_history_prior_policy2_fallback,143,72,0.5035,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,D_policy1_neutral_variant,Team Rocket's Mewtwo ex,0.5515,argmax_EWR_full_history_prior_policy1_neutral,143,72,0.5035,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,E_recent_meta_aware,Team Rocket's Mewtwo ex,0.5983,argmax_EWR_recent_prior,143,72,0.5035,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,F_anti_meta,Team Rocket's Mewtwo ex,0.6542,"argmax_EWR_vs_dominant_set(['Fezandipiti ex', ""Marnie's Grimmsnarl ex""])",143,72,0.5035,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,G_conservative_meta_aware,Cynthia's Garchomp ex,0.3445,argmax_conservative_EWR_wilson_lo_full_history_prior,94,47,0.5,False
+ROLL_W6,rolling_weekly,"1,2,3,4,5",6,2992,1340,12,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Dragapult ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,48,28,0.5833,True
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,A_most_popular,Marnie's Grimmsnarl ex,0.2477,argmax_usage_share,731,368,0.5034,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,B_highest_historical_wr,Cynthia's Garchomp ex,0.5426,argmax_full_history_win_rate,49,22,0.449,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,C_recent_wr,Dragapult ex,0.5833,argmax_recent_window_win_rate,38,19,0.5,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,D_meta_aware_full_history,Cynthia's Garchomp ex,0.5534,argmax_EWR_full_history_prior_policy2_fallback,49,22,0.449,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,D_policy1_neutral_variant,Team Rocket's Mewtwo ex,0.5287,argmax_EWR_full_history_prior_policy1_neutral,61,26,0.4262,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,E_recent_meta_aware,Cynthia's Garchomp ex,0.561,argmax_EWR_recent_prior,49,22,0.449,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,F_anti_meta,Mega Kangaskhan ex,0.5887,"argmax_EWR_vs_dominant_set(['Fezandipiti ex', ""Marnie's Grimmsnarl ex""])",135,65,0.4815,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,G_conservative_meta_aware,Marnie's Grimmsnarl ex,0.3857,argmax_conservative_EWR_wilson_lo_full_history_prior,731,368,0.5034,False
+ROLL_W7,rolling_weekly,"1,2,3,4,5,6",7,4332,1328,12,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Mega Lopunny ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,94,58,0.617,True
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,A_most_popular,Marnie's Grimmsnarl ex,0.3187,argmax_usage_share,421,179,0.4252,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,B_highest_historical_wr,Mega Lopunny ex,0.5489,argmax_full_history_win_rate,156,87,0.5577,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,C_recent_wr,Mega Lopunny ex,0.617,argmax_recent_window_win_rate,156,87,0.5577,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,D_meta_aware_full_history,Dragapult ex,0.5481,argmax_EWR_full_history_prior_policy2_fallback,98,58,0.5918,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,D_policy1_neutral_variant,Dragapult ex,0.5363,argmax_EWR_full_history_prior_policy1_neutral,98,58,0.5918,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,E_recent_meta_aware,Cynthia's Garchomp ex,0.5331,argmax_EWR_recent_prior,24,13,0.5417,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,F_anti_meta,Cynthia's Garchomp ex,0.5667,"argmax_EWR_vs_dominant_set([""Marnie's Grimmsnarl ex""])",24,13,0.5417,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,G_conservative_meta_aware,Marnie's Grimmsnarl ex,0.4145,argmax_conservative_EWR_wilson_lo_full_history_prior,421,179,0.4252,False
+ROLL_W8,rolling_weekly,"1,2,3,4,5,6,7",8,5660,1322,14,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Mega Lucario ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,45,29,0.6444,True
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,A_most_popular,Mega Lucario ex,0.1754,argmax_usage_share,27,15,0.5556,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,B_highest_historical_wr,Marnie's Grimmsnarl ex,0.6118,argmax_full_history_win_rate,371,182,0.4906,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,C_recent_wr,Marnie's Grimmsnarl ex,0.6118,argmax_recent_window_win_rate,371,182,0.4906,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,D_meta_aware_full_history,Marnie's Grimmsnarl ex,0.5843,argmax_EWR_full_history_prior_policy2_fallback,371,182,0.4906,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,D_policy1_neutral_variant,UNLABELED_CLUSTER_02,0.5,argmax_EWR_full_history_prior_policy1_neutral,34,11,0.3235,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,E_recent_meta_aware,Marnie's Grimmsnarl ex,0.565,argmax_EWR_recent_prior,371,182,0.4906,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,F_anti_meta,Marnie's Grimmsnarl ex,0.5,"argmax_EWR_vs_dominant_set([""Marnie's Grimmsnarl ex""])",371,182,0.4906,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,G_conservative_meta_aware,Mega Lucario ex,0.2889,argmax_conservative_EWR_wilson_lo_full_history_prior,27,15,0.5556,False
+COARSE_A_early_to_middle,coarse_period,"1,2,3","4,5",998,1994,7,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,UNLABELED_CLUSTER_08,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,27,20,0.7407,True
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,A_most_popular,Fezandipiti ex,0.2286,argmax_usage_share,671,318,0.4739,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,B_highest_historical_wr,Cynthia's Garchomp ex,0.5736,argmax_full_history_win_rate,167,82,0.491,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,C_recent_wr,Cynthia's Garchomp ex,0.6667,argmax_recent_window_win_rate,167,82,0.491,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,D_meta_aware_full_history,Team Rocket's Mewtwo ex,0.5811,argmax_EWR_full_history_prior_policy2_fallback,221,108,0.4887,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,D_policy1_neutral_variant,Team Rocket's Mewtwo ex,0.5515,argmax_EWR_full_history_prior_policy1_neutral,221,108,0.4887,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,E_recent_meta_aware,Team Rocket's Mewtwo ex,0.5983,argmax_EWR_recent_prior,221,108,0.4887,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,F_anti_meta,Team Rocket's Mewtwo ex,0.6542,"argmax_EWR_vs_dominant_set(['Fezandipiti ex', ""Marnie's Grimmsnarl ex""])",221,108,0.4887,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,G_conservative_meta_aware,Cynthia's Garchomp ex,0.3445,argmax_conservative_EWR_wilson_lo_full_history_prior,167,82,0.491,False
+COARSE_B_earlymid_to_recent,coarse_period,"1,2,3,4,5","6,7,8",2992,3990,12,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,Mega Lucario ex,,ORACLE_NOT_AVAILABLE_AT_DECISION_TIME,60,37,0.6167,True

@@ -1,0 +1,463 @@
+
+=== V6 vs baseline piloting 'Cynthia's Garchomp ex' (20 games) ===
+  [1/20] a_slot0=True steps=119 turns=11 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=150 turns=12 winner=main_v6 reason=1
+  [3/20] a_slot0=True steps=41 turns=5 winner=main_v6 reason=3
+  [4/20] a_slot0=False steps=108 turns=10 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=96 turns=11 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=150 turns=12 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=144 turns=15 winner=main_v6 reason=1
+  [8/20] a_slot0=False steps=155 turns=20 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=53 turns=5 winner=main_v6 reason=3
+  [10/20] a_slot0=False steps=141 turns=12 winner=main_v6 reason=1
+  [11/20] a_slot0=True steps=20 turns=4 winner=baseline__meta_cynthia_s_garchomp_ex reason=3
+  [12/20] a_slot0=False steps=185 turns=16 winner=main_v6 reason=1
+  [13/20] a_slot0=True steps=62 turns=7 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=116 turns=14 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=65 turns=7 winner=main_v6 reason=3
+  [16/20] a_slot0=False steps=151 turns=14 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=99 turns=11 winner=main_v6 reason=3
+  [18/20] a_slot0=False steps=117 turns=10 winner=main_v6 reason=3
+  [19/20] a_slot0=True steps=107 turns=11 winner=main_v6 reason=3
+  [20/20] a_slot0=False steps=79 turns=8 winner=main_v6 reason=3
+  -> V6: 19W-1L-0D (0 aborted) vs 'Cynthia's Garchomp ex'
+
+=== V6 vs baseline piloting 'Dragapult ex' (20 games) ===
+  [1/20] a_slot0=True steps=57 turns=7 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=108 turns=10 winner=main_v6 reason=1
+  [3/20] a_slot0=True steps=112 turns=9 winner=main_v6 reason=1
+  [4/20] a_slot0=False steps=151 turns=12 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=179 turns=13 winner=main_v6 reason=1
+  [6/20] a_slot0=False steps=115 turns=12 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=132 turns=11 winner=main_v6 reason=1
+  [8/20] a_slot0=False steps=130 turns=16 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=163 turns=11 winner=main_v6 reason=1
+  [10/20] a_slot0=False steps=60 turns=6 winner=main_v6 reason=3
+  [11/20] a_slot0=True steps=126 turns=9 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=108 turns=8 winner=main_v6 reason=1
+  [13/20] a_slot0=True steps=44 turns=7 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=136 turns=10 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=133 turns=17 winner=main_v6 reason=1
+  [16/20] a_slot0=False steps=135 turns=10 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=109 turns=7 winner=main_v6 reason=1
+  [18/20] a_slot0=False steps=212 turns=28 winner=main_v6 reason=1
+  [19/20] a_slot0=True steps=143 turns=11 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=171 turns=16 winner=main_v6 reason=1
+  -> V6: 20W-0L-0D (0 aborted) vs 'Dragapult ex'
+
+=== V6 vs baseline piloting 'Fezandipiti ex' (20 games) ===
+  [1/20] a_slot0=True steps=132 turns=11 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=152 turns=17 winner=baseline__meta_fezandipiti_ex reason=1
+  [3/20] a_slot0=True steps=143 turns=15 winner=main_v6 reason=1
+  [4/20] a_slot0=False steps=134 turns=12 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=91 turns=7 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=37 turns=4 winner=main_v6 reason=3
+  [7/20] a_slot0=True steps=117 turns=15 winner=main_v6 reason=1
+  [8/20] a_slot0=False steps=150 turns=12 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=102 turns=9 winner=main_v6 reason=1
+  [10/20] a_slot0=False steps=158 turns=12 winner=main_v6 reason=1
+  [11/20] a_slot0=True steps=148 turns=13 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=148 turns=14 winner=main_v6 reason=1
+  [13/20] a_slot0=True steps=53 turns=7 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=131 turns=10 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=163 turns=26 winner=baseline__meta_fezandipiti_ex reason=1
+  [16/20] a_slot0=False steps=96 turns=10 winner=main_v6 reason=3
+  [17/20] a_slot0=True steps=170 turns=16 winner=baseline__meta_fezandipiti_ex reason=1
+  [18/20] a_slot0=False steps=174 turns=18 winner=main_v6 reason=1
+  [19/20] a_slot0=True steps=90 turns=7 winner=main_v6 reason=3
+  [20/20] a_slot0=False steps=88 turns=10 winner=main_v6 reason=3
+  -> V6: 17W-3L-0D (0 aborted) vs 'Fezandipiti ex'
+
+=== V6 vs baseline piloting 'Marnie's Grimmsnarl ex' (20 games) ===
+  [1/20] a_slot0=True steps=184 turns=13 winner=main_v6 reason=1
+  [2/20] a_slot0=False steps=168 turns=19 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [3/20] a_slot0=True steps=180 turns=13 winner=main_v6 reason=1
+  [4/20] a_slot0=False steps=196 turns=14 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=134 turns=11 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=187 turns=16 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=175 turns=17 winner=main_v6 reason=1
+  [8/20] a_slot0=False steps=128 turns=10 winner=main_v6 reason=3
+  [9/20] a_slot0=True steps=70 turns=7 winner=main_v6 reason=3
+  [10/20] a_slot0=False steps=96 turns=8 winner=main_v6 reason=3
+  [11/20] a_slot0=True steps=201 turns=17 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=154 turns=14 winner=main_v6 reason=3
+  [13/20] a_slot0=True steps=68 turns=9 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=172 turns=12 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=84 turns=9 winner=main_v6 reason=3
+  [16/20] a_slot0=False steps=147 turns=14 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=154 turns=11 winner=main_v6 reason=1
+  [18/20] a_slot0=False steps=165 turns=17 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [19/20] a_slot0=True steps=137 turns=9 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=184 turns=16 winner=main_v6 reason=1
+  -> V6: 18W-2L-0D (0 aborted) vs 'Marnie's Grimmsnarl ex'
+
+=== V6 vs baseline piloting 'Mega Kangaskhan ex' (20 games) ===
+  [1/20] a_slot0=True steps=208 turns=29 winner=baseline__meta_mega_kangaskhan_ex reason=2
+  [2/20] a_slot0=False steps=172 turns=20 winner=baseline__meta_mega_kangaskhan_ex reason=2
+  [3/20] a_slot0=True steps=159 turns=23 winner=baseline__meta_mega_kangaskhan_ex reason=2
+  [4/20] a_slot0=False steps=158 turns=23 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [5/20] a_slot0=True steps=164 turns=17 winner=main_v6 reason=1
+  [6/20] a_slot0=False steps=49 turns=11 winner=baseline__meta_mega_kangaskhan_ex reason=3
+  [7/20] a_slot0=True steps=163 turns=26 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [8/20] a_slot0=False steps=142 turns=12 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=137 turns=13 winner=main_v6 reason=1
+  [10/20] a_slot0=False steps=164 turns=25 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [11/20] a_slot0=True steps=156 turns=21 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=122 turns=19 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [13/20] a_slot0=True steps=179 turns=19 winner=main_v6 reason=1
+  [14/20] a_slot0=False steps=138 turns=14 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=189 turns=17 winner=main_v6 reason=1
+  [16/20] a_slot0=False steps=185 turns=27 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [17/20] a_slot0=True steps=137 turns=15 winner=main_v6 reason=1
+  [18/20] a_slot0=False steps=153 turns=16 winner=main_v6 reason=1
+  [19/20] a_slot0=True steps=119 turns=13 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=112 turns=10 winner=main_v6 reason=1
+  -> V6: 11W-9L-0D (0 aborted) vs 'Mega Kangaskhan ex'
+
+=== V6 vs baseline piloting 'Mega Lopunny ex' (20 games) ===
+  [1/20] a_slot0=True steps=109 turns=11 winner=main_v6 reason=1
+  [2/20] a_slot0=False steps=25 turns=3 winner=main_v6 reason=3
+  [3/20] a_slot0=True steps=103 turns=11 winner=main_v6 reason=1
+  [4/20] a_slot0=False steps=157 turns=12 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=69 turns=7 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=196 turns=14 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=60 turns=7 winner=main_v6 reason=3
+  [8/20] a_slot0=False steps=174 turns=14 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=215 turns=15 winner=main_v6 reason=1
+  [10/20] a_slot0=False steps=201 turns=33 winner=baseline__meta_mega_lopunny_ex reason=1
+  [11/20] a_slot0=True steps=161 turns=21 winner=main_v6 reason=3
+  [12/20] a_slot0=False steps=186 turns=24 winner=main_v6 reason=1
+  [13/20] a_slot0=True steps=128 turns=11 winner=main_v6 reason=1
+  [14/20] a_slot0=False steps=168 turns=14 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=89 turns=9 winner=main_v6 reason=3
+  [16/20] a_slot0=False steps=189 turns=16 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=145 turns=17 winner=main_v6 reason=1
+  [18/20] a_slot0=False steps=147 turns=18 winner=main_v6 reason=1
+  [19/20] a_slot0=True steps=106 turns=11 winner=main_v6 reason=3
+  [20/20] a_slot0=False steps=150 turns=14 winner=main_v6 reason=1
+  -> V6: 19W-1L-0D (0 aborted) vs 'Mega Lopunny ex'
+
+=== V6 vs baseline piloting 'Mega Lucario ex' (20 games) ===
+  [1/20] a_slot0=True steps=98 turns=9 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=161 turns=14 winner=main_v6 reason=1
+  [3/20] a_slot0=True steps=84 turns=7 winner=main_v6 reason=3
+  [4/20] a_slot0=False steps=155 turns=12 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=126 turns=13 winner=main_v6 reason=1
+  [6/20] a_slot0=False steps=137 turns=18 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=76 turns=9 winner=main_v6 reason=3
+  [8/20] a_slot0=False steps=136 turns=14 winner=main_v6 reason=1
+  [9/20] a_slot0=True steps=84 turns=9 winner=main_v6 reason=3
+  [10/20] a_slot0=False steps=78 turns=8 winner=main_v6 reason=3
+  [11/20] a_slot0=True steps=152 turns=15 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=112 turns=10 winner=main_v6 reason=3
+  [13/20] a_slot0=True steps=200 turns=19 winner=main_v6 reason=1
+  [14/20] a_slot0=False steps=52 turns=6 winner=main_v6 reason=3
+  [15/20] a_slot0=True steps=109 turns=11 winner=main_v6 reason=3
+  [16/20] a_slot0=False steps=135 turns=10 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=34 turns=5 winner=main_v6 reason=3
+  [18/20] a_slot0=False steps=26 turns=3 winner=baseline__meta_mega_lucario_ex reason=3
+  [19/20] a_slot0=True steps=122 turns=11 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=129 turns=10 winner=main_v6 reason=3
+  -> V6: 19W-1L-0D (0 aborted) vs 'Mega Lucario ex'
+
+=== V6 vs baseline piloting 'Teal Mask Ogerpon ex' (20 games) ===
+  [1/20] a_slot0=True steps=169 turns=17 winner=main_v6 reason=1
+  [2/20] a_slot0=False steps=124 turns=12 winner=main_v6 reason=1
+  [3/20] a_slot0=True steps=55 turns=7 winner=main_v6 reason=3
+  [4/20] a_slot0=False steps=72 turns=6 winner=main_v6 reason=3
+  [5/20] a_slot0=True steps=101 turns=9 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=135 turns=12 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=108 turns=11 winner=main_v6 reason=1
+  [8/20] a_slot0=False steps=73 turns=6 winner=main_v6 reason=3
+  [9/20] a_slot0=True steps=103 turns=9 winner=main_v6 reason=3
+  [10/20] a_slot0=False steps=116 turns=10 winner=main_v6 reason=1
+  [11/20] a_slot0=True steps=89 turns=9 winner=main_v6 reason=3
+  [12/20] a_slot0=False steps=14 turns=3 winner=baseline__meta_teal_mask_ogerpon_ex reason=3
+  [13/20] a_slot0=True steps=73 turns=7 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=150 turns=12 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=144 turns=14 winner=main_v6 reason=1
+  [16/20] a_slot0=False steps=140 turns=12 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=26 turns=4 winner=baseline__meta_teal_mask_ogerpon_ex reason=3
+  [18/20] a_slot0=False steps=116 turns=10 winner=main_v6 reason=3
+  [19/20] a_slot0=True steps=77 turns=7 winner=main_v6 reason=3
+  [20/20] a_slot0=False steps=161 turns=14 winner=main_v6 reason=1
+  -> V6: 18W-2L-0D (0 aborted) vs 'Teal Mask Ogerpon ex'
+
+=== V6 vs baseline piloting 'Team Rocket's Mewtwo ex' (20 games) ===
+  [1/20] a_slot0=True steps=201 turns=17 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=72 turns=8 winner=main_v6 reason=3
+  [3/20] a_slot0=True steps=146 turns=11 winner=main_v6 reason=1
+  [4/20] a_slot0=False steps=75 turns=6 winner=main_v6 reason=3
+  [5/20] a_slot0=True steps=97 turns=9 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=227 turns=18 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=151 turns=13 winner=main_v6 reason=3
+  [8/20] a_slot0=False steps=145 turns=12 winner=main_v6 reason=3
+  [9/20] a_slot0=True steps=178 turns=17 winner=main_v6 reason=1
+  [10/20] a_slot0=False steps=120 turns=17 winner=baseline__meta_team_rocket_s_mewtwo_ex reason=1
+  [11/20] a_slot0=True steps=209 turns=17 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=207 turns=16 winner=main_v6 reason=1
+  [13/20] a_slot0=True steps=183 turns=13 winner=main_v6 reason=1
+  [14/20] a_slot0=False steps=205 turns=16 winner=main_v6 reason=1
+  [15/20] a_slot0=True steps=166 turns=26 winner=baseline__meta_team_rocket_s_mewtwo_ex reason=1
+  [16/20] a_slot0=False steps=158 turns=18 winner=main_v6 reason=1
+  [17/20] a_slot0=True steps=167 turns=15 winner=main_v6 reason=1
+  [18/20] a_slot0=False steps=216 turns=18 winner=main_v6 reason=1
+  [19/20] a_slot0=True steps=171 turns=13 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=32 turns=4 winner=main_v6 reason=3
+  -> V6: 18W-2L-0D (0 aborted) vs 'Team Rocket's Mewtwo ex'
+
+=== V6 vs baseline piloting 'Abra/Kadabra/Alakazam (unlabeled cluster 01)' (20 games) ===
+  [1/20] a_slot0=True steps=165 turns=13 winner=main_v6 reason=3
+  [2/20] a_slot0=False steps=133 turns=10 winner=main_v6 reason=1
+  [3/20] a_slot0=True steps=173 turns=13 winner=main_v6 reason=3
+  [4/20] a_slot0=False steps=149 turns=12 winner=main_v6 reason=1
+  [5/20] a_slot0=True steps=101 turns=9 winner=main_v6 reason=3
+  [6/20] a_slot0=False steps=88 turns=8 winner=main_v6 reason=1
+  [7/20] a_slot0=True steps=178 turns=20 winner=baseline__meta_unlabeled_cluster01_abra_alakazam reason=1
+  [8/20] a_slot0=False steps=99 turns=8 winner=main_v6 reason=3
+  [9/20] a_slot0=True steps=59 turns=5 winner=main_v6 reason=3
+  [10/20] a_slot0=False steps=165 turns=14 winner=main_v6 reason=1
+  [11/20] a_slot0=True steps=201 turns=19 winner=main_v6 reason=1
+  [12/20] a_slot0=False steps=165 turns=27 winner=baseline__meta_unlabeled_cluster01_abra_alakazam reason=1
+  [13/20] a_slot0=True steps=91 turns=9 winner=main_v6 reason=3
+  [14/20] a_slot0=False steps=108 turns=16 winner=main_v6 reason=3
+  [15/20] a_slot0=True steps=166 turns=11 winner=main_v6 reason=1
+  [16/20] a_slot0=False steps=18 turns=3 winner=main_v6 reason=3
+  [17/20] a_slot0=True steps=132 turns=12 winner=baseline__meta_unlabeled_cluster01_abra_alakazam reason=1
+  [18/20] a_slot0=False steps=103 turns=10 winner=main_v6 reason=3
+  [19/20] a_slot0=True steps=224 turns=15 winner=main_v6 reason=1
+  [20/20] a_slot0=False steps=107 turns=8 winner=main_v6 reason=3
+  -> V6: 17W-3L-0D (0 aborted) vs 'Abra/Kadabra/Alakazam (unlabeled cluster 01)'
+
+=== V13 vs baseline piloting 'Cynthia's Garchomp ex' (20 games) ===
+  [1/20] a_slot0=True steps=152 turns=13 winner=main_v13 reason=3
+  [2/20] a_slot0=False steps=75 turns=8 winner=main_v13 reason=3
+  [3/20] a_slot0=True steps=97 turns=11 winner=main_v13 reason=3
+  [4/20] a_slot0=False steps=42 turns=6 winner=main_v13 reason=3
+  [5/20] a_slot0=True steps=164 turns=15 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=83 turns=10 winner=main_v13 reason=3
+  [7/20] a_slot0=True steps=118 turns=11 winner=main_v13 reason=1
+  [8/20] a_slot0=False steps=122 turns=12 winner=main_v13 reason=3
+  [9/20] a_slot0=True steps=157 turns=15 winner=main_v13 reason=3
+  [10/20] a_slot0=False steps=151 turns=14 winner=main_v13 reason=1
+  [11/20] a_slot0=True steps=91 turns=9 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=24 turns=4 winner=main_v13 reason=3
+  [13/20] a_slot0=True steps=158 turns=15 winner=main_v13 reason=1
+  [14/20] a_slot0=False steps=91 turns=10 winner=main_v13 reason=3
+  [15/20] a_slot0=True steps=135 turns=15 winner=main_v13 reason=1
+  [16/20] a_slot0=False steps=97 turns=10 winner=main_v13 reason=3
+  [17/20] a_slot0=True steps=163 turns=23 winner=main_v13 reason=3
+  [18/20] a_slot0=False steps=123 turns=12 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=120 turns=13 winner=main_v13 reason=3
+  [20/20] a_slot0=False steps=111 turns=12 winner=main_v13 reason=3
+  -> V13: 20W-0L-0D (0 aborted) vs 'Cynthia's Garchomp ex'
+
+=== V13 vs baseline piloting 'Dragapult ex' (20 games) ===
+  [1/20] a_slot0=True steps=118 turns=9 winner=main_v13 reason=1
+  [2/20] a_slot0=False steps=80 turns=10 winner=main_v13 reason=3
+  [3/20] a_slot0=True steps=138 turns=11 winner=main_v13 reason=1
+  [4/20] a_slot0=False steps=177 turns=14 winner=main_v13 reason=1
+  [5/20] a_slot0=True steps=157 turns=15 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=139 turns=10 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=195 turns=21 winner=main_v13 reason=1
+  [8/20] a_slot0=False steps=143 turns=12 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=114 turns=9 winner=main_v13 reason=1
+  [10/20] a_slot0=False steps=133 turns=14 winner=main_v13 reason=1
+  [11/20] a_slot0=True steps=50 turns=5 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=134 turns=10 winner=main_v13 reason=1
+  [13/20] a_slot0=True steps=145 turns=13 winner=main_v13 reason=1
+  [14/20] a_slot0=False steps=118 turns=10 winner=main_v13 reason=3
+  [15/20] a_slot0=True steps=40 turns=5 winner=main_v13 reason=3
+  [16/20] a_slot0=False steps=66 turns=8 winner=main_v13 reason=3
+  [17/20] a_slot0=True steps=112 turns=11 winner=main_v13 reason=1
+  [18/20] a_slot0=False steps=114 turns=10 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=189 turns=19 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=175 turns=14 winner=main_v13 reason=1
+  -> V13: 20W-0L-0D (0 aborted) vs 'Dragapult ex'
+
+=== V13 vs baseline piloting 'Fezandipiti ex' (20 games) ===
+  [1/20] a_slot0=True steps=148 turns=12 winner=baseline__meta_fezandipiti_ex reason=1
+  [2/20] a_slot0=False steps=156 turns=17 winner=baseline__meta_fezandipiti_ex reason=1
+  [3/20] a_slot0=True steps=136 turns=16 winner=baseline__meta_fezandipiti_ex reason=1
+  [4/20] a_slot0=False steps=87 turns=10 winner=main_v13 reason=3
+  [5/20] a_slot0=True steps=168 turns=20 winner=baseline__meta_fezandipiti_ex reason=1
+  [6/20] a_slot0=False steps=172 turns=14 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=48 turns=5 winner=main_v13 reason=3
+  [8/20] a_slot0=False steps=91 turns=10 winner=main_v13 reason=3
+  [9/20] a_slot0=True steps=200 turns=18 winner=baseline__meta_fezandipiti_ex reason=1
+  [10/20] a_slot0=False steps=164 turns=17 winner=baseline__meta_fezandipiti_ex reason=1
+  [11/20] a_slot0=True steps=169 turns=20 winner=baseline__meta_fezandipiti_ex reason=1
+  [12/20] a_slot0=False steps=150 turns=13 winner=baseline__meta_fezandipiti_ex reason=1
+  [13/20] a_slot0=True steps=29 turns=5 winner=main_v13 reason=3
+  [14/20] a_slot0=False steps=122 turns=10 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=20 turns=3 winner=main_v13 reason=3
+  [16/20] a_slot0=False steps=157 turns=12 winner=main_v13 reason=1
+  [17/20] a_slot0=True steps=122 turns=9 winner=main_v13 reason=3
+  [18/20] a_slot0=False steps=133 turns=10 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=98 turns=10 winner=baseline__meta_fezandipiti_ex reason=1
+  [20/20] a_slot0=False steps=163 turns=17 winner=baseline__meta_fezandipiti_ex reason=1
+  -> V13: 10W-10L-0D (0 aborted) vs 'Fezandipiti ex'
+
+=== V13 vs baseline piloting 'Marnie's Grimmsnarl ex' (20 games) ===
+  [1/20] a_slot0=True steps=168 turns=13 winner=main_v13 reason=1
+  [2/20] a_slot0=False steps=145 turns=14 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=170 turns=15 winner=main_v13 reason=3
+  [4/20] a_slot0=False steps=59 turns=6 winner=main_v13 reason=3
+  [5/20] a_slot0=True steps=191 turns=16 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [6/20] a_slot0=False steps=175 turns=14 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [7/20] a_slot0=True steps=198 turns=18 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [8/20] a_slot0=False steps=173 turns=16 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=176 turns=14 winner=baseline__meta_marnie_s_grimmsnarl_ex reason=1
+  [10/20] a_slot0=False steps=148 turns=12 winner=main_v13 reason=1
+  [11/20] a_slot0=True steps=141 turns=11 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=151 turns=12 winner=main_v13 reason=1
+  [13/20] a_slot0=True steps=66 turns=7 winner=main_v13 reason=3
+  [14/20] a_slot0=False steps=154 turns=12 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=94 turns=13 winner=main_v13 reason=3
+  [16/20] a_slot0=False steps=161 turns=18 winner=main_v13 reason=1
+  [17/20] a_slot0=True steps=176 turns=13 winner=main_v13 reason=1
+  [18/20] a_slot0=False steps=182 turns=12 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=140 turns=11 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=158 turns=12 winner=main_v13 reason=1
+  -> V13: 16W-4L-0D (0 aborted) vs 'Marnie's Grimmsnarl ex'
+
+=== V13 vs baseline piloting 'Mega Kangaskhan ex' (20 games) ===
+  [1/20] a_slot0=True steps=152 turns=24 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [2/20] a_slot0=False steps=82 turns=10 winner=main_v13 reason=3
+  [3/20] a_slot0=True steps=219 turns=25 winner=main_v13 reason=1
+  [4/20] a_slot0=False steps=189 turns=27 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [5/20] a_slot0=True steps=121 turns=11 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=176 turns=18 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=168 turns=15 winner=main_v13 reason=1
+  [8/20] a_slot0=False steps=208 turns=18 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=217 turns=32 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [10/20] a_slot0=False steps=63 turns=8 winner=main_v13 reason=3
+  [11/20] a_slot0=True steps=227 turns=26 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [12/20] a_slot0=False steps=135 turns=12 winner=main_v13 reason=1
+  [13/20] a_slot0=True steps=87 turns=11 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [14/20] a_slot0=False steps=142 turns=25 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [15/20] a_slot0=True steps=148 turns=24 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [16/20] a_slot0=False steps=226 turns=29 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  [17/20] a_slot0=True steps=190 turns=29 winner=baseline__meta_mega_kangaskhan_ex reason=2
+  [18/20] a_slot0=False steps=207 turns=24 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=200 turns=19 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=144 turns=19 winner=baseline__meta_mega_kangaskhan_ex reason=1
+  -> V13: 10W-10L-0D (0 aborted) vs 'Mega Kangaskhan ex'
+
+=== V13 vs baseline piloting 'Mega Lopunny ex' (20 games) ===
+  [1/20] a_slot0=True steps=158 turns=11 winner=main_v13 reason=1
+  [2/20] a_slot0=False steps=152 turns=12 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=124 turns=11 winner=main_v13 reason=1
+  [4/20] a_slot0=False steps=211 turns=16 winner=main_v13 reason=1
+  [5/20] a_slot0=True steps=169 turns=15 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=220 turns=20 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=108 turns=15 winner=main_v13 reason=3
+  [8/20] a_slot0=False steps=132 turns=12 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=204 turns=17 winner=main_v13 reason=1
+  [10/20] a_slot0=False steps=109 turns=10 winner=main_v13 reason=3
+  [11/20] a_slot0=True steps=98 turns=9 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=136 turns=12 winner=main_v13 reason=1
+  [13/20] a_slot0=True steps=158 turns=17 winner=main_v13 reason=1
+  [14/20] a_slot0=False steps=174 turns=16 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=115 turns=13 winner=main_v13 reason=1
+  [16/20] a_slot0=False steps=206 turns=16 winner=main_v13 reason=1
+  [17/20] a_slot0=True steps=133 turns=13 winner=main_v13 reason=1
+  [18/20] a_slot0=False steps=164 turns=18 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=151 turns=15 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=83 turns=8 winner=main_v13 reason=1
+  -> V13: 20W-0L-0D (0 aborted) vs 'Mega Lopunny ex'
+
+=== V13 vs baseline piloting 'Mega Lucario ex' (20 games) ===
+  [1/20] a_slot0=True steps=116 turns=11 winner=main_v13 reason=3
+  [2/20] a_slot0=False steps=120 turns=12 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=88 turns=7 winner=main_v13 reason=3
+  [4/20] a_slot0=False steps=94 turns=10 winner=main_v13 reason=3
+  [5/20] a_slot0=True steps=48 turns=7 winner=main_v13 reason=3
+  [6/20] a_slot0=False steps=152 turns=14 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=49 turns=7 winner=main_v13 reason=3
+  [8/20] a_slot0=False steps=148 turns=12 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=122 turns=11 winner=main_v13 reason=1
+  [10/20] a_slot0=False steps=130 turns=12 winner=main_v13 reason=1
+  [11/20] a_slot0=True steps=142 turns=15 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=78 turns=8 winner=main_v13 reason=3
+  [13/20] a_slot0=True steps=104 turns=11 winner=main_v13 reason=1
+  [14/20] a_slot0=False steps=138 turns=14 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=166 turns=17 winner=main_v13 reason=1
+  [16/20] a_slot0=False steps=158 turns=12 winner=main_v13 reason=1
+  [17/20] a_slot0=True steps=40 turns=5 winner=main_v13 reason=3
+  [18/20] a_slot0=False steps=169 turns=12 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=138 turns=13 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=119 turns=12 winner=main_v13 reason=1
+  -> V13: 20W-0L-0D (0 aborted) vs 'Mega Lucario ex'
+
+=== V13 vs baseline piloting 'Teal Mask Ogerpon ex' (20 games) ===
+  [1/20] a_slot0=True steps=62 turns=7 winner=main_v13 reason=3
+  [2/20] a_slot0=False steps=114 turns=8 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=96 turns=15 winner=main_v13 reason=3
+  [4/20] a_slot0=False steps=156 turns=14 winner=main_v13 reason=1
+  [5/20] a_slot0=True steps=128 turns=11 winner=main_v13 reason=3
+  [6/20] a_slot0=False steps=140 turns=12 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=127 turns=15 winner=main_v13 reason=3
+  [8/20] a_slot0=False steps=73 turns=8 winner=main_v13 reason=3
+  [9/20] a_slot0=True steps=115 turns=9 winner=main_v13 reason=3
+  [10/20] a_slot0=False steps=125 turns=10 winner=main_v13 reason=3
+  [11/20] a_slot0=True steps=69 turns=7 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=71 turns=6 winner=main_v13 reason=3
+  [13/20] a_slot0=True steps=74 turns=7 winner=main_v13 reason=3
+  [14/20] a_slot0=False steps=69 turns=8 winner=main_v13 reason=3
+  [15/20] a_slot0=True steps=130 turns=9 winner=main_v13 reason=3
+  [16/20] a_slot0=False steps=65 turns=6 winner=main_v13 reason=3
+  [17/20] a_slot0=True steps=105 turns=11 winner=main_v13 reason=3
+  [18/20] a_slot0=False steps=153 turns=12 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=142 turns=13 winner=main_v13 reason=3
+  [20/20] a_slot0=False steps=110 turns=10 winner=main_v13 reason=3
+  -> V13: 20W-0L-0D (0 aborted) vs 'Teal Mask Ogerpon ex'
+
+=== V13 vs baseline piloting 'Team Rocket's Mewtwo ex' (20 games) ===
+  [1/20] a_slot0=True steps=137 turns=13 winner=main_v13 reason=3
+  [2/20] a_slot0=False steps=229 turns=22 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=229 turns=19 winner=main_v13 reason=1
+  [4/20] a_slot0=False steps=190 turns=14 winner=main_v13 reason=1
+  [5/20] a_slot0=True steps=195 turns=19 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=197 turns=16 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=174 turns=15 winner=main_v13 reason=1
+  [8/20] a_slot0=False steps=55 turns=6 winner=main_v13 reason=3
+  [9/20] a_slot0=True steps=51 turns=5 winner=main_v13 reason=3
+  [10/20] a_slot0=False steps=168 turns=16 winner=main_v13 reason=1
+  [11/20] a_slot0=True steps=70 turns=9 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=157 turns=14 winner=main_v13 reason=1
+  [13/20] a_slot0=True steps=34 turns=3 winner=main_v13 reason=3
+  [14/20] a_slot0=False steps=261 turns=22 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=200 turns=20 winner=baseline__meta_team_rocket_s_mewtwo_ex reason=1
+  [16/20] a_slot0=False steps=162 turns=15 winner=baseline__meta_team_rocket_s_mewtwo_ex reason=1
+  [17/20] a_slot0=True steps=175 turns=17 winner=main_v13 reason=1
+  [18/20] a_slot0=False steps=175 turns=16 winner=main_v13 reason=1
+  [19/20] a_slot0=True steps=202 turns=17 winner=main_v13 reason=1
+  [20/20] a_slot0=False steps=61 turns=6 winner=main_v13 reason=3
+  -> V13: 18W-2L-0D (0 aborted) vs 'Team Rocket's Mewtwo ex'
+
+=== V13 vs baseline piloting 'Abra/Kadabra/Alakazam (unlabeled cluster 01)' (20 games) ===
+  [1/20] a_slot0=True steps=51 turns=7 winner=main_v13 reason=3
+  [2/20] a_slot0=False steps=227 turns=16 winner=main_v13 reason=1
+  [3/20] a_slot0=True steps=184 turns=13 winner=main_v13 reason=1
+  [4/20] a_slot0=False steps=63 turns=6 winner=main_v13 reason=3
+  [5/20] a_slot0=True steps=169 turns=11 winner=main_v13 reason=1
+  [6/20] a_slot0=False steps=153 turns=12 winner=main_v13 reason=1
+  [7/20] a_slot0=True steps=129 turns=11 winner=main_v13 reason=1
+  [8/20] a_slot0=False steps=170 turns=14 winner=main_v13 reason=1
+  [9/20] a_slot0=True steps=101 turns=11 winner=main_v13 reason=3
+  [10/20] a_slot0=False steps=101 turns=10 winner=main_v13 reason=3
+  [11/20] a_slot0=True steps=75 turns=7 winner=main_v13 reason=3
+  [12/20] a_slot0=False steps=23 turns=3 winner=main_v13 reason=3
+  [13/20] a_slot0=True steps=159 turns=13 winner=main_v13 reason=1
+  [14/20] a_slot0=False steps=132 turns=10 winner=main_v13 reason=1
+  [15/20] a_slot0=True steps=151 turns=13 winner=main_v13 reason=1
+  [16/20] a_slot0=False steps=123 turns=12 winner=main_v13 reason=3
+  [17/20] a_slot0=True steps=149 turns=14 winner=baseline__meta_unlabeled_cluster01_abra_alakazam reason=1
+  [18/20] a_slot0=False steps=39 turns=6 winner=main_v13 reason=3
+  [19/20] a_slot0=True steps=45 turns=5 winner=main_v13 reason=3
+  [20/20] a_slot0=False steps=104 turns=9 winner=main_v13 reason=3
+  -> V13: 19W-1L-0D (0 aborted) vs 'Abra/Kadabra/Alakazam (unlabeled cluster 01)'
+
+Wrote summary: results\meta_gauntlet_v6_v13\summary.json
+ELAPSED: 00:00:39.2087987

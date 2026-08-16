@@ -1,0 +1,4 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+abomasnow_agent,generic_dragapult_agent,2,0,0,2,0,1.0,1.0,1.0,1,1
+abomasnow_agent,generic_mewtwo_agent,2,0,0,1,1,0.5,1.0,0.0,1,1
+mewtwo_A,mewtwo_B,2,0,0,1,1,0.5,1.0,0.0,1,1

@@ -1,0 +1,222 @@
+[
+  {
+    "agent_label": "V6",
+    "deck_label": "Cynthia's Garchomp ex",
+    "deck_slug": "meta_cynthia_s_garchomp_ex",
+    "games": 20,
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_cynthia_s_garchomp_ex__1786734238_c14ab70e.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Dragapult ex",
+    "deck_slug": "meta_dragapult_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_dragapult_ex__1786734239_6cbd98ef.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Fezandipiti ex",
+    "deck_slug": "meta_fezandipiti_ex",
+    "games": 20,
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_fezandipiti_ex__1786734241_5fe97b5d.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Marnie's Grimmsnarl ex",
+    "deck_slug": "meta_marnie_s_grimmsnarl_ex",
+    "games": 20,
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_marnie_s_grimmsnarl_ex__1786734243_cbb8e416.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Mega Kangaskhan ex",
+    "deck_slug": "meta_mega_kangaskhan_ex",
+    "games": 20,
+    "wins": 11,
+    "losses": 9,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_mega_kangaskhan_ex__1786734245_a806716e.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Mega Lopunny ex",
+    "deck_slug": "meta_mega_lopunny_ex",
+    "games": 20,
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_mega_lopunny_ex__1786734247_fd436216.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Mega Lucario ex",
+    "deck_slug": "meta_mega_lucario_ex",
+    "games": 20,
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_mega_lucario_ex__1786734249_c3233935.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Teal Mask Ogerpon ex",
+    "deck_slug": "meta_teal_mask_ogerpon_ex",
+    "games": 20,
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_teal_mask_ogerpon_ex__1786734251_866095db.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Team Rocket's Mewtwo ex",
+    "deck_slug": "meta_team_rocket_s_mewtwo_ex",
+    "games": 20,
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_team_rocket_s_mewtwo_ex__1786734252_37f7a5a4.jsonl"
+  },
+  {
+    "agent_label": "V6",
+    "deck_label": "Abra/Kadabra/Alakazam (unlabeled cluster 01)",
+    "deck_slug": "meta_unlabeled_cluster01_abra_alakazam",
+    "games": 20,
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V6__vs__meta_unlabeled_cluster01_abra_alakazam__1786734254_09c749c1.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Cynthia's Garchomp ex",
+    "deck_slug": "meta_cynthia_s_garchomp_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_cynthia_s_garchomp_ex__1786734256_05b6630d.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Dragapult ex",
+    "deck_slug": "meta_dragapult_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_dragapult_ex__1786734258_27ccadd4.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Fezandipiti ex",
+    "deck_slug": "meta_fezandipiti_ex",
+    "games": 20,
+    "wins": 10,
+    "losses": 10,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_fezandipiti_ex__1786734260_f52c521e.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Marnie's Grimmsnarl ex",
+    "deck_slug": "meta_marnie_s_grimmsnarl_ex",
+    "games": 20,
+    "wins": 16,
+    "losses": 4,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_marnie_s_grimmsnarl_ex__1786734262_610ff19c.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Mega Kangaskhan ex",
+    "deck_slug": "meta_mega_kangaskhan_ex",
+    "games": 20,
+    "wins": 10,
+    "losses": 10,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_mega_kangaskhan_ex__1786734264_e41d9318.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Mega Lopunny ex",
+    "deck_slug": "meta_mega_lopunny_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_mega_lopunny_ex__1786734267_929de017.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Mega Lucario ex",
+    "deck_slug": "meta_mega_lucario_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_mega_lucario_ex__1786734269_6976d6ee.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Teal Mask Ogerpon ex",
+    "deck_slug": "meta_teal_mask_ogerpon_ex",
+    "games": 20,
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_teal_mask_ogerpon_ex__1786734271_f67c87bc.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Team Rocket's Mewtwo ex",
+    "deck_slug": "meta_team_rocket_s_mewtwo_ex",
+    "games": 20,
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_team_rocket_s_mewtwo_ex__1786734272_3d4b2544.jsonl"
+  },
+  {
+    "agent_label": "V13",
+    "deck_label": "Abra/Kadabra/Alakazam (unlabeled cluster 01)",
+    "deck_slug": "meta_unlabeled_cluster01_abra_alakazam",
+    "games": 20,
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "aborted": 0,
+    "jsonl_path": "results\\meta_gauntlet_v6_v13\\games\\V13__vs__meta_unlabeled_cluster01_abra_alakazam__1786734275_4e1a711d.jsonl"
+  }
+]

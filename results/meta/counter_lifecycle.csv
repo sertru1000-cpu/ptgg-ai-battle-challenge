@@ -1,0 +1,2 @@
+counter_archetype,target_archetype,detection_date,cumulative_horizon_games,win_rate,wilson_lo,wilson_hi,trend_classification
+Team Rocket's Mewtwo ex,Fezandipiti ex,2026-07-22,25,0.84,0.6535,0.936,INSUFFICIENT_HORIZONS_FOR_TREND

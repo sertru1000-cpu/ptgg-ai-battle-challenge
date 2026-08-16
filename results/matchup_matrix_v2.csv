@@ -1,0 +1,6 @@
+agent,random_agent,abomasnow_corrected,dragapult_agent_fix_v1,iono_agent,lucario_ex_agent
+random_agent,-,0.038 (n=500),0.016 (n=500),0.000 (n=500),0.034 (n=500)
+abomasnow_corrected,0.962 (n=500),-,0.456 (n=500),0.204 (n=500),0.486 (n=500)
+dragapult_agent_fix_v1,0.984 (n=500),0.544 (n=500),-,0.654 (n=500),0.528 (n=500)
+iono_agent,1.000 (n=500),0.796 (n=500),0.346 (n=500),-,0.218 (n=500)
+lucario_ex_agent,0.966 (n=500),0.514 (n=500),0.472 (n=500),0.782 (n=500),-

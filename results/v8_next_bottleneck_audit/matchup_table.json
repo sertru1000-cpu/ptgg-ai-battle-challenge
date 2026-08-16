@@ -1,0 +1,50 @@
+[
+  {
+    "archetype": "UNLABELED",
+    "games": 11,
+    "wins": 5,
+    "losses": 6,
+    "draws": 0,
+    "win_rate": 0.45454545454545453
+  },
+  {
+    "archetype": "Mega Lucario ex",
+    "games": 5,
+    "wins": 2,
+    "losses": 3,
+    "draws": 0,
+    "win_rate": 0.4
+  },
+  {
+    "archetype": "Marnie's Grimmsnarl ex",
+    "games": 3,
+    "wins": 2,
+    "losses": 1,
+    "draws": 0,
+    "win_rate": 0.6666666666666666
+  },
+  {
+    "archetype": "Fezandipiti ex",
+    "games": 2,
+    "wins": 1,
+    "losses": 1,
+    "draws": 0,
+    "win_rate": 0.5
+  },
+  {
+    "archetype": "Mega Lopunny ex",
+    "games": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "win_rate": 0.0
+  },
+  {
+    "archetype": "Mega Abomasnow ex",
+    "games": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "win_rate": 0.0
+  }
+]

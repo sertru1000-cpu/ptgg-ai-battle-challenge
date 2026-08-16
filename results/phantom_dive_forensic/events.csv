@@ -1,0 +1,150 @@
+episode_id,turn,game_result,n_bench_targets,bench_targets,counters_observed,best_prize_achievable,best_kos_slots,actual_kos_slots,actual_prize,prize_shortfall,n_max_equivalent_allocations
+92216869,7,WIN,2,"Duskull(hp=60/60,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92216869,9,WIN,1,"Dreepy(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92216869,11,WIN,0,,0,0,[],[],0,0,0
+92217792,7,LOSS,2,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92217792,9,LOSS,2,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92217792,11,LOSS,2,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92217792,13,LOSS,2,"Crustle(hp=150/150,prize=1,immune=True); Crustle(hp=150/170,prize=1,immune=True)",6,0,[],[],0,0,0
+92217792,15,LOSS,1,"Crustle(hp=150/150,prize=1,immune=True)",6,0,[],[],0,0,0
+92218741,5,WIN,3,"Teal Mask Ogerpon ex(hp=210/210,prize=2,immune=False); Smoliv(hp=60/60,prize=1,immune=False); Meowth ex(hp=170/170,prize=2,immune=False)",6,1,[1],[1],1,0,1
+92218741,7,WIN,2,"Meowth ex(hp=170/170,prize=2,immune=False); Chikorita(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92218741,9,WIN,4,"Meowth ex(hp=170/170,prize=2,immune=False); Meganium(hp=100/160,prize=1,immune=False); Smoliv(hp=60/60,prize=1,immune=False); Budew(hp=30/30,prize=1,immune=False)",6,1,[3],[2],1,0,2
+92219700,9,WIN,3,"Marnie's Morpeko(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Morpeko(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92219700,11,WIN,3,"Marnie's Morpeko(hp=10/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92219700,13,WIN,2,"Marnie's Impidimp(hp=20/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,1,[0],[],0,1,1
+92219700,15,WIN,4,"Marnie's Morgrem(hp=40/100,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92220638,5,WIN,2,"Kyogre(hp=140/150,prize=1,immune=False); Kyogre(hp=150/150,prize=1,immune=False)",6,0,[],[],0,0,0
+92220638,7,WIN,3,"Kyogre(hp=80/150,prize=1,immune=False); Kyogre(hp=150/150,prize=1,immune=False); Snover(hp=90/90,prize=1,immune=False)",6,0,[],[],0,0,0
+92220638,9,WIN,2,"Kyogre(hp=20/150,prize=1,immune=False); Kyogre(hp=150/150,prize=1,immune=False)",6,1,[0],[],0,1,1
+92220638,11,WIN,3,"Kyogre(hp=10/150,prize=1,immune=False); Kyogre(hp=100/150,prize=1,immune=False); Snover(hp=90/90,prize=1,immune=False)",6,1,[0],[],0,1,1
+92221582,9,LOSS,4,"Lunatone(hp=110/110,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Riolu(hp=80/80,prize=1,immune=False)",6,0,[],[],0,0,0
+92221582,11,LOSS,5,"Lunatone(hp=110/110,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Mega Lucario ex(hp=120/340,prize=3,immune=False); Solrock(hp=110/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92222547,5,WIN,0,,0,0,[],[],0,0,0
+92222547,7,WIN,0,,0,0,[],[],0,0,0
+92223466,9,LOSS,4,"Makuhita(hp=80/80,prize=1,immune=False); Lunatone(hp=110/110,prize=1,immune=False); Mega Lucario ex(hp=440/440,prize=3,immune=False); Makuhita(hp=80/80,prize=1,immune=False)",6,0,[],[],0,0,0
+92223466,11,LOSS,5,"Makuhita(hp=20/80,prize=1,immune=False); Lunatone(hp=110/110,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Solrock(hp=110/110,prize=1,immune=False); Riolu(hp=80/80,prize=1,immune=False)",6,1,[0],[],0,1,1
+92224429,7,WIN,4,"Budew(hp=10/30,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92224429,9,WIN,3,"Budew(hp=30/30,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False); Dreepy(hp=20/70,prize=1,immune=False)",6,2,"[0, 2]","[0, 2]",2,0,1
+92224429,11,WIN,3,"Fezandipiti ex(hp=210/210,prize=2,immune=False); Dreepy(hp=60/70,prize=1,immune=False); Latias ex(hp=210/210,prize=2,immune=False)",6,1,[1],[],0,1,1
+92225365,9,LOSS,5,"Lunatone(hp=110/110,prize=1,immune=False); Mega Lucario ex(hp=340/340,prize=3,immune=False); Solrock(hp=110/110,prize=1,immune=False); Hariyama(hp=150/150,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False)",6,0,[],[],0,0,0
+92226320,10,WIN,5,"Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Wattrel(hp=60/60,prize=1,immune=False); Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Wattrel(hp=60/60,prize=1,immune=False); Iono’s Wattrel(hp=60/60,prize=1,immune=False)",6,1,[4],[],0,1,3
+92226320,12,WIN,5,"Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Wattrel(hp=10/60,prize=1,immune=False); Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Wattrel(hp=50/60,prize=1,immune=False); Iono’s Wattrel(hp=60/60,prize=1,immune=False)",6,2,"[1, 3]","[1, 3]",2,0,1
+92226320,14,WIN,4,"Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Kilowattrel(hp=120/120,prize=1,immune=False); Iono’s Wattrel(hp=60/60,prize=1,immune=False); Iono’s Tadbulb(hp=60/60,prize=1,immune=False)",6,1,[3],[],0,1,2
+92226320,16,WIN,4,"Iono’s Bellibolt ex(hp=280/280,prize=2,immune=False); Iono’s Kilowattrel(hp=120/120,prize=1,immune=False); Iono’s Wattrel(hp=10/60,prize=1,immune=False); Iono’s Tadbulb(hp=50/60,prize=1,immune=False)",6,2,"[2, 3]",[],0,2,1
+92227252,7,WIN,3,"Marnie's Morgrem(hp=100/100,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92227252,9,WIN,4,"Marnie's Grimmsnarl ex(hp=310/320,prize=2,immune=False); Froslass(hp=30/90,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,1,[1],[1],1,0,1
+92227252,11,WIN,4,"Snorunt(hp=40/70,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False)",6,1,[0],[],0,1,1
+92227252,13,WIN,4,"Snorunt(hp=10/70,prize=1,immune=False); Munkidori(hp=70/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92228172,6,WIN,4,"Fezandipiti ex(hp=200/210,prize=2,immune=True); Kadabra(hp=80/80,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True)",6,0,[],[2],1,-1,0
+92228172,8,WIN,3,"Fezandipiti ex(hp=200/210,prize=2,immune=True); Kadabra(hp=80/80,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True)",6,0,[],[2],1,-1,0
+92228172,10,WIN,4,"Fezandipiti ex(hp=200/210,prize=2,immune=True); Kadabra(hp=80/80,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True); Genesect(hp=110/110,prize=1,immune=True)",6,0,[],[2],1,-1,0
+92228172,12,WIN,3,"Fezandipiti ex(hp=200/210,prize=2,immune=True); Alakazam(hp=140/140,prize=1,immune=True); Genesect(hp=110/110,prize=1,immune=True)",6,0,[],[],0,0,0
+92228172,14,WIN,2,"Alakazam(hp=140/140,prize=1,immune=False); Genesect(hp=110/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92229131,8,LOSS,5,"Munkidori(hp=110/110,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92229131,10,LOSS,5,"Marnie's Morgrem(hp=100/100,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92229131,12,LOSS,4,"Snorunt(hp=70/70,prize=1,immune=False); Marnie's Morgrem(hp=70/100,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92229131,14,LOSS,4,"Froslass(hp=90/90,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92230119,16,WIN,5,"Kadabra(hp=80/80,prize=1,immune=False); Abra(hp=40/50,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Genesect(hp=110/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[2],[],0,1,2
+92230119,18,WIN,5,"Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=100/140,prize=1,immune=False); Alakazam(hp=110/140,prize=1,immune=False); Genesect(hp=110/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92230119,20,WIN,4,"Alakazam(hp=40/140,prize=1,immune=False); Alakazam(hp=110/140,prize=1,immune=False); Genesect(hp=110/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92231060,5,WIN,3,"Kadabra(hp=80/80,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True); Abra(hp=50/50,prize=1,immune=True)",6,0,[],[1],1,-1,0
+92231060,7,WIN,3,"Alakazam(hp=140/140,prize=1,immune=True); Kadabra(hp=80/80,prize=1,immune=True); Psyduck(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92231060,9,WIN,3,"Alakazam(hp=140/140,prize=1,immune=False); Psyduck(hp=70/70,prize=1,immune=False); Lillie’s Clefairy ex(hp=190/190,prize=2,immune=False)",6,0,[],[],0,0,0
+92231060,11,WIN,3,"Psyduck(hp=10/70,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92232003,6,WIN,1,"Mega Starmie ex(hp=330/330,prize=3,immune=False)",6,0,[],[],0,0,0
+92232003,8,WIN,4,"Mega Starmie ex(hp=270/330,prize=3,immune=False); Staryu(hp=70/70,prize=1,immune=False); Staryu(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92232003,10,WIN,4,"Staryu(hp=70/70,prize=1,immune=False); Staryu(hp=10/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,1,[1],[],0,1,1
+92232003,12,WIN,4,"Staryu(hp=10/70,prize=1,immune=False); Staryu(hp=10/70,prize=1,immune=False); Mega Froslass ex(hp=310/310,prize=3,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,2,"[0, 1]",[],0,2,1
+92232944,6,LOSS,5,"Latias ex(hp=210/210,prize=2,immune=False); Teal Mask Ogerpon ex(hp=210/210,prize=2,immune=False); Teal Mask Ogerpon ex(hp=210/210,prize=2,immune=False); Lillie’s Clefairy ex(hp=190/190,prize=2,immune=False); Lillie’s Clefairy ex(hp=170/190,prize=2,immune=False)",6,0,[],[],0,0,0
+92233918,8,WIN,4,"Dunsparce(hp=60/60,prize=1,immune=False); Hop's Trevenant(hp=140/140,prize=1,immune=False); Hop's Trevenant(hp=140/140,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[3],[0],1,0,2
+92233918,10,WIN,5,"Hop's Trevenant(hp=140/140,prize=1,immune=False); Hop’s Snorlax(hp=150/150,prize=1,immune=False); Hop's Phantump(hp=70/70,prize=1,immune=False); Hop’s Snorlax(hp=150/150,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[4],[],0,1,1
+92233918,12,WIN,5,"Hop’s Snorlax(hp=150/150,prize=1,immune=False); Hop's Trevenant(hp=130/140,prize=1,immune=False); Hop’s Snorlax(hp=150/150,prize=1,immune=False); Dunsparce(hp=10/60,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[4],[],0,1,2
+92233918,14,WIN,5,"Hop’s Snorlax(hp=150/150,prize=1,immune=False); Hop’s Snorlax(hp=150/150,prize=1,immune=False); Dunsparce(hp=10/60,prize=1,immune=False); Dunsparce(hp=10/60,prize=1,immune=False); Hop's Phantump(hp=70/70,prize=1,immune=False)",6,2,"[2, 3]",[2],1,1,1
+92234853,5,WIN,1,"Duraludon(hp=130/130,prize=1,immune=False)",6,0,[],[],0,0,0
+92234853,7,WIN,1,"Duraludon(hp=70/130,prize=1,immune=False)",6,0,[],[],0,0,0
+92234853,9,WIN,1,"Duraludon(hp=10/130,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92235791,7,WIN,5,"Lunatone(hp=110/110,prize=1,immune=False); Solrock(hp=90/110,prize=1,immune=False); Lunatone(hp=110/110,prize=1,immune=False); Makuhita(hp=80/80,prize=1,immune=False); Riolu(hp=80/80,prize=1,immune=False)",6,0,[],[],0,0,0
+92235791,9,WIN,5,"Lunatone(hp=110/110,prize=1,immune=False); Solrock(hp=90/110,prize=1,immune=False); Lunatone(hp=110/110,prize=1,immune=False); Makuhita(hp=20/80,prize=1,immune=False); Mega Lucario ex(hp=340/340,prize=3,immune=False)",6,1,[3],[3],1,0,1
+92235791,11,WIN,4,"Mega Lucario ex(hp=340/340,prize=3,immune=False); Solrock(hp=50/110,prize=1,immune=False); Lunatone(hp=110/110,prize=1,immune=False); Riolu(hp=80/80,prize=1,immune=False)",6,1,[1],[1],1,0,1
+92236755,5,WIN,5,"Snorunt(hp=70/70,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92236755,7,WIN,5,"Froslass(hp=30/90,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92236755,9,WIN,5,"Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92236755,11,WIN,5,"Munkidori(hp=110/110,prize=1,immune=False); Snorunt(hp=10/70,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,1,[1],[1],1,0,1
+92238642,7,LOSS,5,"Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92238642,11,LOSS,4,"Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92238642,13,LOSS,4,"Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=80/140,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92239608,6,WIN,4,"Lunatone(hp=110/110,prize=1,immune=False); Solrock(hp=110/110,prize=1,immune=False); Drilbur(hp=70/70,prize=1,immune=False); Charcadet(hp=80/80,prize=1,immune=False)",6,0,[],[],0,0,0
+92239608,8,WIN,4,"Lunatone(hp=110/110,prize=1,immune=False); Solrock(hp=110/110,prize=1,immune=False); Drilbur(hp=10/70,prize=1,immune=False); Ceruledge ex(hp=60/270,prize=2,immune=False)",6,2,[3],[3],2,0,1
+92239608,10,WIN,3,"Lunatone(hp=110/110,prize=1,immune=False); Solrock(hp=110/110,prize=1,immune=False); Drilbur(hp=10/70,prize=1,immune=False)",6,1,[2],[],0,1,1
+92239608,12,WIN,3,"Lunatone(hp=50/110,prize=1,immune=False); Drilbur(hp=10/70,prize=1,immune=False); Charcadet(hp=80/80,prize=1,immune=False)",6,2,"[0, 1]",[0],1,1,1
+92240528,5,WIN,3,"Froslass(hp=90/90,prize=1,immune=False); Marnie's Grimmsnarl ex(hp=310/320,prize=2,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92240528,7,WIN,2,"Froslass(hp=90/90,prize=1,immune=False); Marnie's Grimmsnarl ex(hp=250/320,prize=2,immune=False)",6,0,[],[],0,0,0
+92240528,9,WIN,3,"Froslass(hp=90/90,prize=1,immune=False); Marnie's Grimmsnarl ex(hp=170/320,prize=2,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92240528,11,WIN,5,"Froslass(hp=30/90,prize=1,immune=False); Munkidori(hp=80/110,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92241477,13,LOSS,4,"Dreepy(hp=60/70,prize=1,immune=False); Budew(hp=30/30,prize=1,immune=False); Drakloak(hp=90/90,prize=1,immune=False); Dragapult ex(hp=310/320,prize=2,immune=False)",6,1,[1],[0],1,0,2
+92252769,6,WIN,4,"Dragapult ex(hp=310/320,prize=2,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92252769,8,WIN,4,"Dragapult ex(hp=320/320,prize=2,immune=False); Drakloak(hp=90/90,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dreepy(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92252769,10,WIN,5,"Dragapult ex(hp=320/320,prize=2,immune=False); Dragapult ex(hp=320/320,prize=2,immune=False); Drakloak(hp=90/90,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92252769,12,WIN,3,"Dragapult ex(hp=320/320,prize=2,immune=False); Drakloak(hp=90/90,prize=1,immune=False); Munkidori(hp=80/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92252769,14,WIN,4,"Dragapult ex(hp=320/320,prize=2,immune=False); Drakloak(hp=90/90,prize=1,immune=False); Munkidori(hp=50/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[2],[2],1,0,1
+92275122,9,WIN,3,"Alakazam(hp=140/140,prize=1,immune=True); Alakazam(hp=140/140,prize=1,immune=True); Dunsparce(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92275122,11,WIN,3,"Alakazam(hp=140/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[2],[2],1,0,1
+92275122,13,WIN,1,"Dudunsparce(hp=140/140,prize=1,immune=False)",6,0,[],[],0,0,0
+92275122,15,WIN,0,,0,0,[],[],0,0,0
+92278623,5,WIN,5,"Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Genesect(hp=110/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[2],[2],1,0,1
+92278623,7,WIN,5,"Genesect(hp=110/110,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[3],[],0,1,2
+92278623,9,WIN,5,"Genesect(hp=110/110,prize=1,immune=False); Kadabra(hp=40/80,prize=1,immune=False); Kadabra(hp=60/80,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[4],[],0,1,3
+92278623,11,WIN,5,"Genesect(hp=110/110,prize=1,immune=False); Alakazam(hp=90/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92278623,13,WIN,5,"Genesect(hp=110/110,prize=1,immune=True); Alakazam(hp=30/140,prize=1,immune=True); Dudunsparce(hp=140/140,prize=1,immune=True); Dudunsparce(hp=140/140,prize=1,immune=True); Fezandipiti ex(hp=210/210,prize=2,immune=True)",6,0,[],[],0,0,0
+92289688,7,WIN,2,"Teal Mask Ogerpon ex(hp=300/310,prize=2,immune=False); Teal Mask Ogerpon ex(hp=210/210,prize=2,immune=False)",6,0,[],[],0,0,0
+92289688,9,WIN,2,"Teal Mask Ogerpon ex(hp=150/210,prize=2,immune=False); Teal Mask Ogerpon ex(hp=210/210,prize=2,immune=False)",6,0,[],[],0,0,0
+92289688,11,WIN,2,"Teal Mask Ogerpon ex(hp=100/210,prize=2,immune=False); Teal Mask Ogerpon ex(hp=100/310,prize=2,immune=False)",6,0,[],[],0,0,0
+92289688,13,WIN,1,"Teal Mask Ogerpon ex(hp=100/210,prize=2,immune=False)",6,0,[],[],0,0,0
+92309614,5,WIN,3,"Dunsparce(hp=70/70,prize=1,immune=False); Mega Lopunny ex(hp=330/330,prize=3,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92309614,7,WIN,3,"Dunsparce(hp=10/70,prize=1,immune=False); Mega Lopunny ex(hp=330/330,prize=3,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[0],[],0,1,1
+92309614,9,WIN,3,"Dudunsparce(hp=80/140,prize=1,immune=False); Mega Froslass ex(hp=310/310,prize=3,immune=False); Dunsparce(hp=10/70,prize=1,immune=False)",6,1,[2],[],0,1,1
+92309614,11,WIN,4,"Dudunsparce(hp=20/140,prize=1,immune=False); Mega Lopunny ex(hp=330/330,prize=3,immune=False); Dunsparce(hp=10/70,prize=1,immune=False); Meowth ex(hp=170/170,prize=2,immune=False)",6,2,"[0, 2]","[0, 2]",2,0,1
+92309614,13,WIN,2,"Mega Froslass ex(hp=110/310,prize=3,immune=False); Meowth ex(hp=140/170,prize=2,immune=False)",6,0,[],[],0,0,0
+92309614,15,WIN,4,"Mega Lopunny ex(hp=230/430,prize=3,immune=False); Meowth ex(hp=140/170,prize=2,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[3],[3],1,0,1
+92316974,5,LOSS,2,"Marnie's Morgrem(hp=100/100,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92316974,7,LOSS,5,"Froslass(hp=60/90,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Snorunt(hp=70/70,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,1,[0],[],0,1,1
+92316974,9,LOSS,5,"Froslass(hp=10/90,prize=1,immune=False); Marnie's Grimmsnarl ex(hp=290/320,prize=2,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Froslass(hp=90/90,prize=1,immune=False); Munkidori(hp=70/110,prize=1,immune=False)",6,1,[0],[0],1,0,1
+92347825,11,WIN,4,"Dudunsparce(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False)",6,0,[],[],0,0,0
+92347825,13,WIN,4,"Dudunsparce(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92347825,15,WIN,3,"Dudunsparce(hp=140/140,prize=1,immune=False); Dudunsparce(hp=140/140,prize=1,immune=False); Dunsparce(hp=10/70,prize=1,immune=False)",6,1,[2],[],0,1,1
+92347825,17,WIN,2,"Dudunsparce(hp=80/140,prize=1,immune=False); Dudunsparce(hp=80/140,prize=1,immune=False)",6,0,[],[],0,0,0
+92347825,19,WIN,1,"Dudunsparce(hp=80/140,prize=1,immune=False)",6,0,[],[],0,0,0
+92350502,6,WIN,4,"Abra(hp=50/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[3],[0],1,0,3
+92350502,8,WIN,5,"Kadabra(hp=70/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[2],[],0,1,1
+92350502,10,WIN,2,"Alakazam(hp=100/140,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[1],[],0,1,1
+92350502,12,WIN,4,"Kadabra(hp=40/80,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[1],[0],1,0,2
+92355171,5,WIN,4,"Shaymin(hp=80/80,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92355171,7,WIN,3,"Shaymin(hp=80/80,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92355171,9,WIN,4,"Shaymin(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[3],[],0,1,2
+92355171,11,WIN,4,"Shaymin(hp=80/80,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=30/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[2],[],0,1,1
+92355171,13,WIN,4,"Shaymin(hp=80/80,prize=1,immune=False); Dunsparce(hp=30/70,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False)",6,1,[1],[1],1,0,1
+92387111,6,LOSS,2,"Dwebble(hp=70/70,prize=1,immune=True); Mega Kangaskhan ex(hp=300/300,prize=3,immune=True)",6,0,[],[],0,0,0
+92387111,8,LOSS,2,"Dwebble(hp=70/70,prize=1,immune=True); Mega Kangaskhan ex(hp=300/300,prize=3,immune=True)",6,0,[],[],0,0,0
+92387111,10,LOSS,2,"Dwebble(hp=70/70,prize=1,immune=True); Mega Kangaskhan ex(hp=300/300,prize=3,immune=True)",6,0,[],[],0,0,0
+92387111,12,LOSS,4,"Crustle(hp=150/150,prize=1,immune=True); Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92387111,14,LOSS,4,"Crustle(hp=150/150,prize=1,immune=True); Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92387111,16,LOSS,3,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=True)",6,0,[],[],0,0,0
+92387111,18,LOSS,3,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=70/70,prize=1,immune=False); Dwebble(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92387111,20,LOSS,3,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=10/70,prize=1,immune=False); Dwebble(hp=70/70,prize=1,immune=False)",6,1,[1],[],0,1,1
+92387111,22,LOSS,3,"Crustle(hp=150/150,prize=1,immune=True); Dwebble(hp=10/70,prize=1,immune=False); Dwebble(hp=10/70,prize=1,immune=False)",6,2,"[1, 2]","[1, 2]",2,0,1
+92415836,7,WIN,1,"Teal Mask Ogerpon ex(hp=240/240,prize=2,immune=False)",6,0,[],[],0,0,0
+92415836,9,WIN,1,"Teal Mask Ogerpon ex(hp=180/240,prize=2,immune=False)",6,0,[],[],0,0,0
+92415836,11,WIN,0,,0,0,[],[],0,0,0
+92428800,5,LOSS,5,"Munkidori(hp=110/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92428800,7,LOSS,5,"Munkidori(hp=80/110,prize=1,immune=False); Munkidori(hp=110/110,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Marnie's Grimmsnarl ex(hp=320/320,prize=2,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False)",6,0,[],[],0,0,0
+92447449,7,LOSS,4,"Abra(hp=50/50,prize=1,immune=False); Dunsparce(hp=70/70,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False); Abra(hp=50/50,prize=1,immune=False)",6,1,[3],[0],1,0,3
+92447449,9,LOSS,2,"Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[1],[],0,1,1
+92447449,15,LOSS,5,"Dudunsparce(hp=140/140,prize=1,immune=False); Alakazam(hp=140/140,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Kadabra(hp=80/80,prize=1,immune=False); Dunsparce(hp=60/60,prize=1,immune=False)",6,1,[4],[],0,1,1
+92461081,8,LOSS,5,"Munkidori(hp=80/110,prize=1,immune=False); Froslass(hp=80/90,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Munkidori(hp=80/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92461081,10,LOSS,4,"Munkidori(hp=60/110,prize=1,immune=False); Froslass(hp=80/90,prize=1,immune=False); Marnie's Impidimp(hp=70/70,prize=1,immune=False); Munkidori(hp=60/110,prize=1,immune=False)",6,1,[3],[3],1,0,2
+92461081,12,LOSS,4,"Munkidori(hp=70/110,prize=1,immune=False); Froslass(hp=80/90,prize=1,immune=False); Marnie's Morgrem(hp=100/100,prize=1,immune=False); Munkidori(hp=100/110,prize=1,immune=False)",6,0,[],[],0,0,0
+92466796,5,LOSS,5,"Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Cinderace(hp=160/160,prize=1,immune=False)",6,0,[],[],0,0,0
+92466796,7,LOSS,4,"Cinderace(hp=160/160,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False)",6,0,[],[],0,0,0
+92466796,9,LOSS,4,"Cinderace(hp=160/160,prize=1,immune=False); Duraludon(hp=70/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False)",6,0,[],[],0,0,0
+92466796,11,LOSS,3,"Duraludon(hp=130/130,prize=1,immune=False); Cinderace(hp=160/160,prize=1,immune=False); Duraludon(hp=130/130,prize=1,immune=False)",6,0,[],[],0,0,0

@@ -1,0 +1,8 @@
+agent_x,agent_y,games,aborted,draws,x_wins,y_wins,x_win_rate_overall,x_win_rate_as_slot0,x_win_rate_as_slot1,x_games_as_slot0,x_games_as_slot1
+A_existing_dragapult,C_generic_mewtwo,20,0,0,18,2,0.9,0.9,0.9,10,10
+A_existing_dragapult,abomasnow_agent,25,0,0,16,9,0.64,0.6923,0.5833,13,12
+A_existing_dragapult,iono_agent,20,0,0,11,9,0.55,0.5,0.6,10,10
+B_generic_dragapult,abomasnow_agent,25,0,0,0,25,0.0,0.0,0.0,13,12
+C_generic_mewtwo,abomasnow_agent,25,0,0,3,22,0.12,0.2308,0.0,13,12
+D_final_candidate,abomasnow_agent,20,0,0,12,8,0.6,0.5,0.7,10,10
+generic_dragapult_selfA,generic_dragapult_selfB,20,0,0,12,8,0.6,0.7,0.5,10,10

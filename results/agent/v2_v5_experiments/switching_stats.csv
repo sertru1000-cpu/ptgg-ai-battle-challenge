@@ -1,0 +1,6 @@
+agent,games,decisions,retreats_chosen,retreat_rate,avg_battle_length_turns
+V1_baseline,600,45604,697,0.0153,11.6
+V2_balanced,150,11835,182,0.0154,11.51
+V3_aggressive,150,11776,178,0.0151,11.86
+V4_defensive,150,11484,182,0.0158,11.67
+V5_adaptive,150,11602,172,0.0148,11.54

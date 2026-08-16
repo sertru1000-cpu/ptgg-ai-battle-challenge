@@ -1,0 +1,1041 @@
+episode_id,date,week,quintile,sample_type,size_bytes,team0,team1,winner,outcome_type,first_player,n_steps,final_turn_p0,final_turn_p1,deck0_hash,deck1_hash,deck0_ncards,deck1_ncards,deck0_source,deck1_source
+81004110,2026-06-21,0,0,stratified,355883,Kendamarron,みずあめ,0,DECISIVE,1,19,2,3,6948b9208b17fad2,831fd3a04060c7c2,60,60,action,action
+81196890,2026-06-21,0,0,stratified,481487,keidroid,The Debauchery Tea Party,1,DECISIVE,0,25,1,2,aa2398e69a3549ad,6948b9208b17fad2,60,60,action,action
+80188997,2026-06-16,0,0,stratified,830216,실험용생쥐,shyGnome3,0,DECISIVE,0,41,7,6,da2a64c2ecaab66a,da2a64c2ecaab66a,60,60,action,action
+80998179,2026-06-21,0,0,stratified,539927,tw_shin,InkCartridge,0,DECISIVE,0,29,3,2,272e341949227f9c,2fa84cd9495ec752,60,60,action,action
+80354430,2026-06-17,0,0,stratified,1449493,iwashi,suk1yak1,1,DECISIVE,0,65,5,6,59aefb1a7dfb20a9,0d651d7ecc471d41,60,60,action,action
+80793830,2026-06-20,0,0,stratified,789982,Angus Chang,blue0620,0,DECISIVE,0,37,3,2,6a5ea46694ab74f1,831fd3a04060c7c2,60,60,action,action
+80628440,2026-06-19,0,0,stratified,1634252,Kohta.F,sakimyto,1,DECISIVE,1,68,4,5,c9eba9795f3be059,8e69a0e7db2dd8a7,60,60,action,action
+80769258,2026-06-20,0,0,stratified,733253,ゆとり,pokeka_ryo,1,DECISIVE,0,36,3,4,0e7a9c48c0fbb1bb,ccd41f8554b530ab,60,60,action,action
+80218686,2026-06-16,0,0,stratified,1500534,daniel,takuyay,1,DECISIVE,0,66,17,18,70bab7cb8c68f6d0,2b2e5439cf9cc23e,60,60,action,action
+80394369,2026-06-18,0,0,stratified,440529,Suzuki Mari,Danny,1,DECISIVE,0,24,3,4,9e806ea24e98166b,59aefb1a7dfb20a9,60,60,action,action
+80384356,2026-06-17,0,0,stratified,1064593,Ten Uchikawa,Paras Sharma,1,DECISIVE,1,48,8,9,59aefb1a7dfb20a9,4164643d1cfb5694,60,60,action,action
+80215827,2026-06-16,0,0,stratified,867132,WOOSUNG YOON,Julian,1,DECISIVE,1,46,6,7,59138a345c6b933a,da2a64c2ecaab66a,60,60,action,action
+80910128,2026-06-20,0,0,stratified,481142,TOMOYA Tsunakawa,tomatomato,1,DECISIVE,1,26,2,3,59138a345c6b933a,ad9eb15621c47305,60,60,action,action
+80349937,2026-06-17,0,0,stratified,1375992,uehara riki,persn,0,DECISIVE,0,62,15,14,7b8dec20710c5b73,99ee137d28bac0f3,60,60,action,action
+80385231,2026-06-17,0,0,stratified,806741,Aaron Fletcher,Dakuma,0,DECISIVE,0,43,9,8,59aefb1a7dfb20a9,9c9bdd6f955942f8,60,60,action,action
+81184163,2026-06-21,0,0,stratified,1319294,charmq,NecromanAlbert,1,DECISIVE,0,59,5,6,a847f32547a773fd,59138a345c6b933a,60,60,action,action
+80328449,2026-06-17,0,0,stratified,691463,Atom McCree,shikisoukan,1,DECISIVE,0,36,3,4,da2a64c2ecaab66a,48dd52a2dbec2f58,60,60,action,action
+80183503,2026-06-16,0,0,stratified,398921,Ravindra,okadayuki,1,DECISIVE,0,22,5,6,3aff49e27d78ff81,4911d251036bbddc,60,60,action,action
+80331943,2026-06-17,0,0,stratified,1659178,Awajima,nakusnakus,1,DECISIVE,1,67,8,9,6620d7bcbd15b965,48462cea7bb2adca,60,60,action,action
+80190786,2026-06-16,0,0,stratified,628387,Maxim,SpeedSci,1,DECISIVE,0,32,1,2,4911d251036bbddc,6c534f1524e51c74,60,60,action,action
+80384357,2026-06-17,0,0,stratified,462198,Tanupro,Heisei,0,DECISIVE,0,23,3,2,20ba66c22462a120,41e645122e9d59c6,60,60,action,action
+80355879,2026-06-17,0,0,stratified,1360356,Chattso-GPT (Yasuhito Yanagisawa),Praxel,1,DECISIVE,0,63,5,6,e8cc78ff2aca77a9,6c534f1524e51c74,60,60,action,action
+80437288,2026-06-18,0,0,stratified,1057098,Tsubasa Kanno,kaggle_bbgg,1,DECISIVE,0,52,10,10,c560f1caa3468d1c,4164643d1cfb5694,60,60,action,action
+80283660,2026-06-17,0,0,stratified,812419,kidekikish,sshang,0,DECISIVE,0,40,5,4,4911d251036bbddc,70bab7cb8c68f6d0,60,60,action,action
+80484486,2026-06-18,0,0,stratified,488107,ADS,dmiyabe,1,DECISIVE,0,27,1,2,59aefb1a7dfb20a9,3c1906459f149732,60,60,action,action
+80687738,2026-06-19,0,1,stratified,3193969,SO0529,Mudkip's Machines,0,DECISIVE,0,120,13,12,6c534f1524e51c74,6c534f1524e51c74,60,60,action,action
+81061450,2026-06-21,0,1,stratified,2634793,みずあめ,Kendamarron,0,DECISIVE,0,105,15,14,04ecfe41e2898127,6948b9208b17fad2,60,60,action,action
+80257154,2026-06-17,0,1,stratified,2791106,Tensa.bit,Dan Ah Tou,0,DECISIVE,0,115,17,16,c560f1caa3468d1c,6c534f1524e51c74,60,60,action,action
+80377744,2026-06-17,0,1,stratified,2399476,mands,parthenos,0,DECISIVE,0,96,15,14,c560f1caa3468d1c,b25e7963304a20a1,60,60,action,action
+80331440,2026-06-17,0,1,stratified,1981138,Ushimaru,Been Seo,1,DECISIVE,1,83,8,9,59aefb1a7dfb20a9,6c534f1524e51c74,60,60,action,action
+80446359,2026-06-18,0,1,stratified,2041360,tokawa2997,YUTO KOJIMA,0,DECISIVE,0,83,15,14,999a5669c80f5ad1,c32b0ee23a53e88a,60,60,action,action
+80453432,2026-06-18,0,1,stratified,2659719,ibushimaru,Tensa.bit,1,DECISIVE,0,109,17,18,6c534f1524e51c74,59aefb1a7dfb20a9,60,60,action,action
+81230802,2026-06-22,0,1,stratified,3078521,trail,Eigetuin,0,DECISIVE,0,115,11,10,6948b9208b17fad2,4a256a933ac66a7b,60,60,action,action
+81120019,2026-06-21,0,1,stratified,3068766,Akira-Ninth,みずあめ,1,DECISIVE,1,118,12,13,08243e2321f0e11e,04ecfe41e2898127,60,60,action,action
+80272071,2026-06-17,0,1,stratified,2950451,tahara shouki,Valkyrja,0,DECISIVE,0,118,11,10,2fcf79f31ecdb9ff,6c534f1524e51c74,60,60,action,action
+80923638,2026-06-20,0,1,stratified,2928585,【ＡＩと共に、ＡＩと戦う】tubotu,Robo Games,1,DECISIVE,0,115,21,22,d263d4de37a37f2b,cf54338b6b99acc3,60,60,action,action
+80544245,2026-06-18,0,1,stratified,2606534,Kuuma5,hookbook,0,DECISIVE,0,101,15,14,619c4f503791d5d8,8638514a3b38c1c8,60,60,action,action
+80432650,2026-06-18,0,1,stratified,2403882,西松大祐,dmiyabe,1,DECISIVE,1,94,12,13,4164643d1cfb5694,3c1906459f149732,60,60,action,action
+80376876,2026-06-17,0,1,stratified,2014117,denden12,Kohta.F,0,DECISIVE,0,82,13,12,4164643d1cfb5694,59aefb1a7dfb20a9,60,60,action,action
+80288245,2026-06-17,0,1,stratified,2377605,kurikuri54,Kohta.F,1,DECISIVE,0,91,14,14,6c534f1524e51c74,59aefb1a7dfb20a9,60,60,action,action
+80536655,2026-06-18,0,1,stratified,2975685,Hikaru Umeyama,umsyspokeka,0,DECISIVE,0,114,15,14,64e146b2133f7b99,1659ede5d05ada54,60,60,action,action
+80405188,2026-06-18,0,1,stratified,2641120,にゅーおじ,yuichiro miyamae,1,DECISIVE,0,101,11,12,6c534f1524e51c74,6143634cde029e33,60,60,action,action
+80826774,2026-06-20,0,1,stratified,2508233,神～卍ぴくるすうどん卍～最強「ミラティブ配信中」,SOUTA Sakurai,1,DECISIVE,0,104,9,10,64e146b2133f7b99,64e146b2133f7b99,60,60,action,action
+80553298,2026-06-18,0,1,stratified,2421913,Arda Karakaş,Shiva,0,DECISIVE,1,93,18,17,59aefb1a7dfb20a9,64e146b2133f7b99,60,60,action,action
+80345105,2026-06-17,0,1,stratified,2476696,Naoki Okuda,Nikukyu,1,DECISIVE,0,97,9,10,6c534f1524e51c74,59aefb1a7dfb20a9,60,60,action,action
+80302235,2026-06-17,0,1,stratified,3054738,currypurin,Ushimaru,0,DECISIVE,1,119,31,31,59aefb1a7dfb20a9,59aefb1a7dfb20a9,60,60,action,action
+80298133,2026-06-17,0,1,stratified,2977951,MizoTake,くりたんとたけちゃん,1,DECISIVE,1,114,26,27,8b02f194cdf581d4,4164643d1cfb5694,60,60,action,action
+81278895,2026-06-22,0,1,stratified,2090632,Jaga,Angus Chang,0,DECISIVE,0,88,7,6,7e126a3431e21d4d,2a57f95a0978f0cc,60,60,action,action
+80360233,2026-06-17,0,1,stratified,2585045,TMiki,yusuke0723,1,DECISIVE,0,96,10,10,6c534f1524e51c74,07ff69c74632b4c4,60,60,action,action
+80316419,2026-06-17,0,1,stratified,2232586,mewworldorder,CatPurrgramming,0,DECISIVE,0,90,19,18,06382fe8bcef5212,59aefb1a7dfb20a9,60,60,action,action
+81273046,2026-06-22,0,2,stratified,4066985,TG_Aetheryx,suwat513,0,DECISIVE,1,152,12,11,59138a345c6b933a,f95d704202ebc6d7,60,60,action,action
+81306127,2026-06-22,0,2,stratified,3751458,Kazuhiro Masuyama,tokawa2997,1,DECISIVE,0,135,9,10,64e146b2133f7b99,6c534f1524e51c74,60,60,action,action
+80695278,2026-06-19,0,2,stratified,3902384,Xunden,nogu,0,DECISIVE,0,141,11,12,4a256a933ac66a7b,2768139fe1eb6d0b,60,60,action,action
+81076967,2026-06-21,0,2,stratified,3226385,[RU] Nikita Kuznetsov,Kendamarron,1,DECISIVE,0,116,13,14,4a256a933ac66a7b,6948b9208b17fad2,60,60,action,action
+80519585,2026-06-18,0,2,stratified,3721631,dmiyabe,skorry,1,DECISIVE,0,141,17,18,3c1906459f149732,59aefb1a7dfb20a9,60,60,action,action
+81265008,2026-06-22,0,2,stratified,4095165,fujiborozoukin,Shunji Minode,1,DECISIVE,0,143,17,18,52bf12478558b725,48dcbf6680fdded7,60,60,action,action
+80825431,2026-06-20,0,2,stratified,4017455,tk,daiki_pyonkichi,0,DECISIVE,0,137,17,16,cf54338b6b99acc3,6c534f1524e51c74,60,60,action,action
+80280862,2026-06-17,0,2,stratified,3720301,jeruman,Finlay Anderson,1,DECISIVE,0,129,13,14,bb2006b5432dd110,4911d251036bbddc,60,60,action,action
+80192640,2026-06-16,0,2,stratified,3794986,iwashi,Manato TAKAI,0,DECISIVE,1,152,12,11,59138a345c6b933a,59138a345c6b933a,60,60,action,action
+80369817,2026-06-17,0,2,stratified,4088425,Mitudru Dutta,sakimyto,0,DECISIVE,0,150,11,10,6c534f1524e51c74,59138a345c6b933a,60,60,action,action
+80512367,2026-06-18,0,2,stratified,3496179,vibechu,A.T.,1,DECISIVE,0,132,9,10,fa628b3fd76fd4c1,6c534f1524e51c74,60,60,action,action
+80761674,2026-06-19,0,2,stratified,3551118,nogu,木村太陽,1,DECISIVE,1,136,12,11,2768139fe1eb6d0b,eb1222900df9baf0,60,60,action,action
+81196907,2026-06-21,0,2,stratified,3305500,blue0620,yomogi mochi,0,DECISIVE,0,125,15,14,cf54338b6b99acc3,633a6e693834e6a7,60,60,action,action
+81036917,2026-06-21,0,2,stratified,3972124,fttp,yasu,0,DECISIVE,0,141,15,14,cf54338b6b99acc3,6c534f1524e51c74,60,60,action,action
+81130127,2026-06-21,0,2,stratified,3844226,FirstSS-Sub,hikaru_ishihara46,1,DECISIVE,0,134,11,12,98df4170353e7c8e,b8a17357fd357b34,60,60,action,action
+80889891,2026-06-20,0,2,stratified,4117541,niyo,GENGARDEV,0,DECISIVE,1,142,14,14,cf54338b6b99acc3,6c534f1524e51c74,60,60,action,action
+81268149,2026-06-22,0,2,stratified,3996786,yamamekko,Pixegami,0,DECISIVE,0,143,15,14,598876e4552e2f81,25cfcf0100ef1145,60,60,action,action
+80750934,2026-06-19,0,2,stratified,3437202,shu,Shiro Sugawa,1,DECISIVE,0,125,11,12,81a40d929609bf7c,429baecf852e7cb3,60,60,action,action
+80246712,2026-06-17,0,2,stratified,3826655,ken4500,Chikuwabu,1,DECISIVE,0,139,9,10,8f4c6902beadfd10,6c534f1524e51c74,60,60,action,action
+80740793,2026-06-19,0,2,stratified,3275569,midnq,Takusato,0,DECISIVE,0,118,13,12,1780347646b3b151,f26c077f8702317c,60,60,action,action
+81311728,2026-06-22,0,2,stratified,3621743,Pixegami,yakiniku.nagoya,0,DECISIVE,0,135,15,14,48d55595933d4482,2e6ecf8381bfd901,60,60,action,action
+80966694,2026-06-20,0,2,stratified,3481654,rikakei_no_otoko,Aditya,1,DECISIVE,0,127,13,14,a5437fdb9a42f891,772413e4790654e2,60,60,action,action
+80909428,2026-06-20,0,2,stratified,3288166,suzume41,persn,1,DECISIVE,1,129,20,21,cf54338b6b99acc3,cf54338b6b99acc3,60,60,action,action
+81274943,2026-06-22,0,2,stratified,3346430,Shunji Minode,The Debauchery Tea Party,0,DECISIVE,0,129,19,18,48dcbf6680fdded7,c62b983d72cc9030,60,60,action,action
+80548899,2026-06-18,0,2,stratified,3962646,Shiva,umsyspokeka,1,DECISIVE,0,145,15,16,64e146b2133f7b99,1659ede5d05ada54,60,60,action,action
+80808800,2026-06-20,0,3,stratified,4807219,pankit kumar,graybackcat,1,DECISIVE,0,167,13,14,6c534f1524e51c74,cf54338b6b99acc3,60,60,action,action
+80714169,2026-06-19,0,3,stratified,4134403,YukihiroMaeda,ShinjiroKuroda,1,DECISIVE,0,143,15,16,b4469cd28d438fb3,64e146b2133f7b99,60,60,action,action
+80722556,2026-06-19,0,3,stratified,4609240,Misaka Mikoto,ゆんぼぼ,0,DECISIVE,0,152,21,20,6c534f1524e51c74,6c534f1524e51c74,60,60,action,action
+81247328,2026-06-22,0,3,stratified,4851124,みずあめ,t.eno,0,DECISIVE,0,175,19,18,9009f46efe8e7721,831fd3a04060c7c2,60,60,action,action
+81220762,2026-06-22,0,3,stratified,4640416,NecromanAlbert,LagrangianLocomotive,1,DECISIVE,1,174,10,11,59138a345c6b933a,59138a345c6b933a,60,60,action,action
+81318498,2026-06-22,0,3,stratified,4162409,BioMath,Orin,0,DECISIVE,0,142,15,14,86c088ba7b657377,6ceb5146e7203de6,60,60,action,action
+80844595,2026-06-20,0,3,stratified,4178028,Alyce Miki,Wisdom Dogah,0,DECISIVE,0,149,13,12,4a256a933ac66a7b,64e146b2133f7b99,60,60,action,action
+80719827,2026-06-19,0,3,stratified,4838827,midnq,Leocthl,0,DECISIVE,0,165,17,16,26bc83edcbd7dada,64e146b2133f7b99,60,60,action,action
+80514568,2026-06-18,0,3,stratified,4804986,hukuda222,hiroingk,1,DECISIVE,0,165,13,14,b04165f456e6f563,831fd3a04060c7c2,60,60,action,action
+81210332,2026-06-21,0,3,stratified,4835865,persn,カドラバ Kadoraba,1,DECISIVE,1,167,16,17,cf54338b6b99acc3,dec7cdaef424b950,60,60,action,action
+80924460,2026-06-20,0,3,stratified,4614290,YukihiroMaeda,holyholy,0,DECISIVE,0,163,21,20,7d49edaa78ac6f8c,6c534f1524e51c74,60,60,action,action
+81319005,2026-06-22,0,3,stratified,4571210,TomTom,sury,0,DECISIVE,1,164,12,11,c2e2a1d6f6290e71,cf54338b6b99acc3,60,60,action,action
+80262716,2026-06-17,0,3,stratified,4278129,Kazuyoshi SUZUKI,yanto,1,DECISIVE,0,153,11,12,6c534f1524e51c74,6c534f1524e51c74,60,60,action,action
+80790795,2026-06-20,0,3,stratified,4499673,Mogja J,Shakthi Kondamoni,0,DECISIVE,0,154,11,10,37f128dd13a7fe6c,6c534f1524e51c74,60,60,action,action
+80716331,2026-06-19,0,3,stratified,4868696,Joey Mckee,fumishiki,0,DECISIVE,0,166,19,19,18b76759876ddefa,6c534f1524e51c74,60,60,action,action
+81323830,2026-06-22,0,3,stratified,4282889,Magnus Artero,DENPA92,0,DECISIVE,0,156,15,14,cf6d10eb0b2ec055,2768139fe1eb6d0b,60,60,action,action
+80988361,2026-06-21,0,3,stratified,4242795,みずあめ,Emanuel Perez,1,DECISIVE,0,161,13,14,831fd3a04060c7c2,4a256a933ac66a7b,60,60,action,action
+81201932,2026-06-21,0,3,stratified,4239788,NecromanAlbert,blue0620,0,DECISIVE,1,151,12,11,59138a345c6b933a,cf54338b6b99acc3,60,60,action,action
+81090668,2026-06-21,0,3,stratified,4710613,blackseashark@gcvt,Shubham Choudhary,1,DECISIVE,0,158,15,16,4a256a933ac66a7b,4a256a933ac66a7b,60,60,action,action
+80691633,2026-06-19,0,3,stratified,4364054,ryoya,Egor Tkachenko,1,DECISIVE,0,160,17,18,d787bd2fa5f6c5e3,4a256a933ac66a7b,60,60,action,action
+81337960,2026-06-22,0,3,stratified,4175882,kawachi,tw_shin,0,DECISIVE,0,151,13,12,e219a37a1170ce98,272e341949227f9c,60,60,action,action
+80837582,2026-06-20,0,3,stratified,4893503,kashiwashira,Neko #2,0,DECISIVE,0,161,15,14,cb942fc9fc700141,6c534f1524e51c74,60,60,action,action
+80734266,2026-06-19,0,3,stratified,4277565,SkySell,kglctf,1,DECISIVE,0,142,11,12,4a256a933ac66a7b,4a256a933ac66a7b,60,60,action,action
+81285936,2026-06-22,0,3,stratified,4521533,charmq,EF,0,DECISIVE,0,153,21,20,a847f32547a773fd,6948b9208b17fad2,60,60,action,action
+80213062,2026-06-16,0,3,stratified,4380903,Kenshin Kikuchi,jaxroth,1,DECISIVE,0,161,23,24,59138a345c6b933a,da2a64c2ecaab66a,60,60,action,action
+80427161,2026-06-18,0,4,stratified,5080352,m333studio,Paras Sharma,0,DECISIVE,0,185,23,22,59aefb1a7dfb20a9,2768139fe1eb6d0b,60,60,action,action
+81325286,2026-06-22,0,4,stratified,6801068,InkCartridge,SH11235,0,DECISIVE,0,223,17,16,2fa84cd9495ec752,831fd3a04060c7c2,60,60,action,action
+81226618,2026-06-22,0,4,stratified,5069768,NecromanAlbert,LagrangianLocomotive,0,DECISIVE,1,186,12,11,59138a345c6b933a,59138a345c6b933a,60,60,action,action
+80663537,2026-06-19,0,4,stratified,5235958,Junichiro Morita,onechan1,0,DECISIVE,0,185,13,12,6c534f1524e51c74,bd3a5d98cf29cbc3,60,60,action,action
+81326624,2026-06-22,0,4,stratified,6150414,monnosuke,みずあめ,1,DECISIVE,0,203,21,22,d5e2e6b068b45bf0,04ecfe41e2898127,60,60,action,action
+80880752,2026-06-20,0,4,stratified,6822108,onechan1,mattsu2020,0,DECISIVE,0,242,15,14,bd3a5d98cf29cbc3,76d558d342480e95,60,60,action,action
+81255657,2026-06-22,0,4,stratified,5093979,Shunji Minode,graybackcat,0,DECISIVE,0,172,15,14,aa2fdb668e14e9c4,cf54338b6b99acc3,60,60,action,action
+80790715,2026-06-20,0,4,stratified,5298700,hiroingk,blue0620,1,DECISIVE,0,188,15,16,831fd3a04060c7c2,831fd3a04060c7c2,60,60,action,action
+80831769,2026-06-20,0,4,stratified,5929927,Pachuru,好吃拉麵,0,DECISIVE,0,215,15,14,bd3a5d98cf29cbc3,cf54338b6b99acc3,60,60,action,action
+80230780,2026-06-16,0,4,stratified,5534128,Wilson Mugabo,kakenn,0,DECISIVE,0,197,33,32,59138a345c6b933a,eac7d1e616d44bf4,60,60,action,action
+80701898,2026-06-19,0,4,stratified,8760959,Natalia Jaśkowska,matsurih,1,DECISIVE,0,285,13,14,bd3a5d98cf29cbc3,831fd3a04060c7c2,60,60,action,action
+81410656,2026-06-22,0,4,stratified,6603745,kenN2439,djschmit,1,DECISIVE,0,227,13,14,bd3a5d98cf29cbc3,4687026fcbc2d0cb,60,60,action,action
+80366361,2026-06-17,0,4,stratified,5030368,Zscorpio,Valkyrja,0,DECISIVE,0,167,15,14,8f4c6902beadfd10,fbce070f0c6c02f0,60,60,action,action
+80778438,2026-06-20,0,4,stratified,6898405,ポケポケマスター,ulaph4,1,DECISIVE,0,222,18,18,831fd3a04060c7c2,f2d7e132a10b9ad9,60,60,action,action
+80857666,2026-06-20,0,4,stratified,5541547,foo_foo,Naoshin,0,DECISIVE,0,184,17,16,cf54338b6b99acc3,4a256a933ac66a7b,60,60,action,action
+80932931,2026-06-20,0,4,stratified,7691076,H.Ito,Wasabi,0,DECISIVE,0,259,19,19,cf54338b6b99acc3,bd3a5d98cf29cbc3,60,60,action,action
+81211724,2026-06-21,0,4,stratified,5352229,Stagapult,TOMOYA Tsunakawa,0,DECISIVE,0,184,11,10,b114cc9bd6f2c80c,59138a345c6b933a,60,60,action,action
+81180378,2026-06-21,0,4,stratified,7425401,Terminal 7,DenisEdwards,1,DECISIVE,0,234,21,22,cf54338b6b99acc3,cf54338b6b99acc3,60,60,action,action
+80739148,2026-06-19,0,4,stratified,5514403,charmq,Junichiro Morita,0,DECISIVE,0,185,15,14,cf54338b6b99acc3,6c534f1524e51c74,60,60,action,action
+81322789,2026-06-22,0,4,stratified,5348617,PyJa,nyanlinnmya,0,DECISIVE,0,178,17,16,6c534f1524e51c74,cf54338b6b99acc3,60,60,action,action
+81317744,2026-06-22,0,4,stratified,5437294,Inlon Kou,TOMOYA Tsunakawa,1,DECISIVE,0,188,11,12,52bf12478558b725,59138a345c6b933a,60,60,action,action
+80950052,2026-06-20,0,4,stratified,5276837,H.Ito,トゲアリトゲナシトゲトゲ,0,DECISIVE,0,174,19,18,cf54338b6b99acc3,46becdc8f8899835,60,60,action,action
+81380598,2026-06-22,0,4,stratified,6259180,Team kuma,rinov321,1,DECISIVE,1,201,18,19,cf54338b6b99acc3,6c534f1524e51c74,60,60,action,action
+81407685,2026-06-22,0,4,stratified,5945358,Kevin Ramirez,Inlon Kou,1,DECISIVE,0,201,23,24,cf54338b6b99acc3,7eeb119d5acc4906,60,60,action,action
+80262427,2026-06-17,0,4,stratified,5086642,anthonychiang000,tsumuit,1,DECISIVE,0,166,12,12,6c534f1524e51c74,6c534f1524e51c74,60,60,action,action
+81434566,2026-06-23,1,0,stratified,470844,maniginam,kemurayama,1,DECISIVE,0,25,1,2,f62466cb40363d5e,6c534f1524e51c74,60,60,action,action
+82262472,2026-06-27,1,0,stratified,575114,github/shepsci/kaggle-skill,GarlicToday,0,DECISIVE,0,30,3,2,102eedd09a52a911,831fd3a04060c7c2,60,60,action,action
+82660651,2026-06-29,1,0,stratified,1212269,Pixegami,Civitas,0,DECISIVE,1,54,6,5,aa2398e69a3549ad,831fd3a04060c7c2,60,60,action,action
+82514776,2026-06-28,1,0,stratified,2174869,islet,CYLik,1,DECISIVE,0,90,11,12,4a256a933ac66a7b,cf54338b6b99acc3,60,60,action,action
+82268858,2026-06-27,1,0,stratified,1871747,hikarimaru,lark1115,0,DECISIVE,1,80,8,7,2b3108749e2032d7,6bcc792fc6e11051,60,60,action,action
+82533794,2026-06-29,1,0,stratified,2227046,Hayhay2323,Shun,0,DECISIVE,1,95,12,11,2b3108749e2032d7,ec75fde5aaa1daf0,60,60,action,action
+82271685,2026-06-27,1,0,stratified,371471,ichigotosakura,HIDEYO CHIBA,1,DECISIVE,0,20,1,2,4a256a933ac66a7b,f86ba61cccf3ccb1,60,60,action,action
+81442204,2026-06-23,1,0,stratified,967730,sunako24d,HoooosE,1,DECISIVE,1,47,4,5,e4465735c1f698e2,6c534f1524e51c74,60,60,action,action
+81828452,2026-06-25,1,0,stratified,802851,banana,Rintaro Moriwaki,0,DECISIVE,0,38,7,7,7398c8069a08a8d1,c560f1caa3468d1c,60,60,action,action
+82158052,2026-06-27,1,0,stratified,834844,Nozopo,FirstSS-Sub,1,DECISIVE,1,43,4,5,59138a345c6b933a,ec75fde5aaa1daf0,60,60,action,action
+82433416,2026-06-28,1,0,stratified,408289,Jack,Morim,1,DECISIVE,1,21,2,3,2b3108749e2032d7,ad9eb15621c47305,60,60,action,action
+81720837,2026-06-24,1,0,stratified,1067585,ShumpeiNomura,Kendamarron,1,DECISIVE,0,48,3,4,cf0f955995a47140,6948b9208b17fad2,60,60,action,action
+81517756,2026-06-23,1,0,stratified,820671,小山佳祐,Banjo,0,DECISIVE,0,40,3,2,6c534f1524e51c74,aa2398e69a3549ad,60,60,action,action
+81527927,2026-06-23,1,0,stratified,1988527,ZAOUI_Yassine,Team Rocket,1,DECISIVE,0,81,9,10,da2a64c2ecaab66a,1461973842ae99c3,60,60,action,action
+82204528,2026-06-27,1,0,stratified,863238,Shota Hirao,Takuto Nishimine,0,DECISIVE,0,42,3,4,6c534f1524e51c74,1a151591a6ec4386,60,60,action,action
+82183517,2026-06-27,1,0,stratified,2096375,1++++++++,aaa,1,DECISIVE,0,92,7,8,79181fc7b7433c70,aa2398e69a3549ad,60,60,action,action
+82131678,2026-06-27,1,0,stratified,2287650,gagacrow,Team Rocket,1,DECISIVE,0,95,13,14,633a6e693834e6a7,e7e6ae056098df1c,60,60,action,action
+82433242,2026-06-28,1,0,stratified,1723654,keidroid,e-toppo,1,DECISIVE,0,71,7,8,aa2398e69a3549ad,f12a75c0e5a5c261,60,60,action,action
+81503463,2026-06-23,1,0,stratified,1125054,Sumant V J,河村直樹,0,DECISIVE,0,52,5,4,f5c72d899ca8b632,2c9b6cbbab859256,60,60,action,action
+82265505,2026-06-27,1,0,stratified,1687944,Takaaki Matsuda,tetsuro731,0,DECISIVE,1,76,12,11,2b3108749e2032d7,aa2398e69a3549ad,60,60,action,action
+81524111,2026-06-23,1,0,stratified,1494069,NeckBeard,yoshi,0,DECISIVE,0,64,7,6,95cf523ef7febb46,4911d251036bbddc,60,60,action,action
+81454501,2026-06-23,1,0,stratified,1437784,baudo828,NuuNohjo,1,DECISIVE,0,67,7,8,c560f1caa3468d1c,6f11053c647355ae,60,60,action,action
+82344057,2026-06-28,1,0,stratified,2271850,Legend Brothers,reika555,0,DECISIVE,0,91,11,10,31235eddd9aefebc,2b3108749e2032d7,60,60,action,action
+82393986,2026-06-28,1,0,stratified,1489494,俺達何え?チームcudgk,haiy_qq,1,DECISIVE,0,65,7,8,6948b9208b17fad2,2b3108749e2032d7,60,60,action,action
+82064091,2026-06-26,1,0,stratified,1742123,Jaga,aaa,1,DECISIVE,0,79,9,10,7e126a3431e21d4d,aa2398e69a3549ad,60,60,action,action
+81439277,2026-06-23,1,1,stratified,2768284,S3R3Bii,kidekikish,1,DECISIVE,1,113,16,17,aa2398e69a3549ad,cf54338b6b99acc3,60,60,action,action
+82124111,2026-06-27,1,1,stratified,3063899,Bigree,habakan,0,DECISIVE,0,113,9,8,b8027dd41807d784,4a256a933ac66a7b,60,60,action,action
+81473435,2026-06-23,1,1,stratified,2351035,I wanna be the very best,NiaAtSyzd,0,DECISIVE,0,96,13,12,da2a64c2ecaab66a,6c534f1524e51c74,60,60,action,action
+82294990,2026-06-27,1,1,stratified,2704014,suraki0120,Matthew Huang,1,DECISIVE,0,110,11,12,aa2398e69a3549ad,4a256a933ac66a7b,60,60,action,action
+81961990,2026-06-26,1,1,stratified,2470624,MPGaming,lingyundev,1,DECISIVE,1,99,12,13,6948b9208b17fad2,2b3108749e2032d7,60,60,action,action
+82090157,2026-06-26,1,1,stratified,2760315,Kinf11,hikarimaru,1,DECISIVE,1,106,20,21,cf54338b6b99acc3,2b3108749e2032d7,60,60,action,action
+82707498,2026-06-29,1,1,stratified,2982299,Takaaki Matsuda,Shun,0,DECISIVE,1,118,14,13,890af7220ecf499d,ec75fde5aaa1daf0,60,60,action,action
+82481128,2026-06-28,1,1,stratified,2487437,THIRD PTCG Club,NukoNiko15,0,DECISIVE,0,101,9,8,6b960e3ec5086fd3,2b3108749e2032d7,60,60,action,action
+82385879,2026-06-28,1,1,stratified,2542703,Hexylab,Octavi Grau,1,DECISIVE,1,100,12,13,aa2398e69a3549ad,4a256a933ac66a7b,60,60,action,action
+82593206,2026-06-29,1,1,stratified,2682266,capbloo,iwashi,0,DECISIVE,0,104,9,8,22e465ba34de23db,2b3108749e2032d7,60,60,action,action
+82504514,2026-06-28,1,1,stratified,2987308,Aditya,soraemon,0,DECISIVE,0,112,9,8,bb2d316213f97f70,ad9eb15621c47305,60,60,action,action
+81591544,2026-06-24,1,1,stratified,3054343,Inlon Kou,Jed Mijares,0,DECISIVE,0,112,15,14,dec7cdaef424b950,f52b72943cdb12d7,60,60,action,action
+82301016,2026-06-27,1,1,stratified,2746773,Exodia,suzume41,1,DECISIVE,1,109,10,11,2b3108749e2032d7,831fd3a04060c7c2,60,60,action,action
+82263724,2026-06-27,1,1,stratified,3316266,KakuTakagawa,suwat513,0,DECISIVE,1,125,12,11,2b3108749e2032d7,272e624d9683e14e,60,60,action,action
+82039440,2026-06-26,1,1,stratified,3089500,Ajay_Rao_43,adakoda,1,DECISIVE,0,118,11,12,4a256a933ac66a7b,4a256a933ac66a7b,60,60,action,action
+81900526,2026-06-25,1,1,stratified,2637927,Masahiro Nagasawa,チームロスギラ,1,DECISIVE,1,108,10,11,4a4bdaa4cc799960,7436a436fd90a94d,60,60,action,action
+82411071,2026-06-28,1,1,stratified,2465137,monnu,Yusukey12,0,DECISIVE,0,100,15,14,aa2398e69a3549ad,815f539a0c57442e,60,60,action,action
+82492097,2026-06-28,1,1,stratified,2568367,Nomiyama　Yu,Banjo,0,DECISIVE,0,103,11,10,4a256a933ac66a7b,aa2398e69a3549ad,60,60,action,action
+82505463,2026-06-28,1,1,stratified,3312415,fujiborozoukin,ezreal77,1,DECISIVE,1,134,16,17,2b3108749e2032d7,48ce6cc5310e298f,60,60,action,action
+81764488,2026-06-25,1,1,stratified,3273916,カントー地方マスター,kouki__k_4869,1,DECISIVE,1,125,16,17,cf54338b6b99acc3,878d8d9ada634b46,60,60,action,action
+81713829,2026-06-24,1,1,stratified,2891290,Bektursyn Shaimerden,xue1213,1,DECISIVE,0,109,11,12,4a256a933ac66a7b,6948b9208b17fad2,60,60,action,action
+81464763,2026-06-23,1,1,stratified,3341241,sunako24d,holyholy,1,DECISIVE,1,128,10,11,e4465735c1f698e2,6c534f1524e51c74,60,60,action,action
+82010348,2026-06-26,1,1,stratified,3255793,TTU Thome,Team kuma,1,DECISIVE,0,123,15,16,a3f1d2935659226e,cf54338b6b99acc3,60,60,action,action
+82538218,2026-06-29,1,1,stratified,2815846,MtN,らすはる,1,DECISIVE,0,107,13,14,755af6541b064429,d97004b63104f708,60,60,action,action
+81471761,2026-06-23,1,1,stratified,2893040,koiwashi,Rushil Ramachandran,0,DECISIVE,1,118,14,13,01e3b9c098771ebd,aa2398e69a3549ad,60,60,action,action
+81556336,2026-06-24,1,2,stratified,3618898,TomTom,n=1,1,DECISIVE,0,132,9,10,247a5dc95aff7788,6948b9208b17fad2,60,60,action,action
+82077495,2026-06-26,1,2,stratified,3616341,sqrt4kaido,konaito,1,DECISIVE,1,135,10,11,2b3108749e2032d7,831fd3a04060c7c2,60,60,action,action
+81651541,2026-06-24,1,2,stratified,3976832,チームロスギラ,yue13,0,DECISIVE,0,145,15,14,a033289729234cd2,59138a345c6b933a,60,60,action,action
+81458475,2026-06-23,1,2,stratified,3880585,nowan,Chikuwabu,1,DECISIVE,1,145,10,11,59138a345c6b933a,9f7b10daf7dc00ca,60,60,action,action
+81672813,2026-06-24,1,2,stratified,4023229,Powerful Hands Is All You Need,Ricardo Nakadomari,0,DECISIVE,0,149,9,8,94a74a2b69d27207,d60bd450662912be,60,60,action,action
+81564026,2026-06-24,1,2,stratified,3932408,Brian,IIDA,0,DECISIVE,0,139,21,20,633a6e693834e6a7,6948b9208b17fad2,60,60,action,action
+82476624,2026-06-28,1,2,stratified,3989844,shimacos,GarlicToday,0,DECISIVE,1,144,16,15,d618f01afde0c0c5,2b3108749e2032d7,60,60,action,action
+82648398,2026-06-29,1,2,stratified,4041906,iwawawawa iwawa,dreamtear,1,DECISIVE,0,144,13,14,5d6516d5aaf4c75d,b166b6b93aa1670b,60,60,action,action
+82165922,2026-06-27,1,2,stratified,3520381,peeta pit,5.5,1,DECISIVE,1,130,12,13,2b3108749e2032d7,902b00d2b6f713c2,60,60,action,action
+81930209,2026-06-26,1,2,stratified,3934708,Shirag Maharaj,Inlon Kou,1,DECISIVE,0,137,15,16,cf54338b6b99acc3,dec7cdaef424b950,60,60,action,action
+81726038,2026-06-24,1,2,stratified,3744703,HiroyukiSasaki,datnt114,1,DECISIVE,0,136,15,16,948b0508c38b60ba,4a256a933ac66a7b,60,60,action,action
+82076453,2026-06-26,1,2,stratified,3452167,hayle60,Team Rocket,1,DECISIVE,0,131,13,14,cf54338b6b99acc3,e7e6ae056098df1c,60,60,action,action
+82259913,2026-06-27,1,2,stratified,3620551,Japanese Kaggle Newbie,Blacklions.,0,DECISIVE,1,138,12,11,2b3108749e2032d7,4a256a933ac66a7b,60,60,action,action
+81590260,2026-06-24,1,2,stratified,3441847,hideMonkey,ヌメルゴンex,1,DECISIVE,0,123,9,10,4a256a933ac66a7b,90c1a3f3163f9edd,60,60,action,action
+81714764,2026-06-24,1,2,stratified,3510072,djschmit,hiroyuki tahuma,0,DECISIVE,0,130,11,10,4687026fcbc2d0cb,c61a10379c017038,60,60,action,action
+82338494,2026-06-28,1,2,stratified,3847246,GarlicToday,Masatoshi Henmi,1,DECISIVE,0,136,23,24,831fd3a04060c7c2,94d15b6068715910,60,60,action,action
+81537138,2026-06-23,1,2,stratified,3935955,zoira,Haramball forever!,1,DECISIVE,0,147,13,14,59138a345c6b933a,4a256a933ac66a7b,60,60,action,action
+82634740,2026-06-29,1,2,stratified,3910986,yq line,Ajishio,0,DECISIVE,0,140,13,12,4a256a933ac66a7b,c51189f519cd1c07,60,60,action,action
+82319524,2026-06-28,1,2,stratified,4027291,Legend Brothers,RtoABC,1,DECISIVE,0,147,15,16,31235eddd9aefebc,a75a8d5778834ad9,60,60,action,action
+82475485,2026-06-28,1,2,stratified,3472023,klog,渡邊征央,1,DECISIVE,1,133,14,15,2b3108749e2032d7,2b3108749e2032d7,60,60,action,action
+82022071,2026-06-26,1,2,stratified,3550731,Nomiyama　Yu,c-number,1,DECISIVE,0,134,11,12,4a256a933ac66a7b,b76538df393ecad6,60,60,action,action
+82492634,2026-06-28,1,2,stratified,3646152,好吃的台灣拉麵,MooDerEchte,1,DECISIVE,0,138,15,14,cf54338b6b99acc3,2b3108749e2032d7,60,60,action,action
+82453338,2026-06-28,1,2,stratified,3659230,Fayche,fujiborozoukin,1,DECISIVE,0,140,13,14,2209c374c5fe2353,2b3108749e2032d7,60,60,action,action
+81528168,2026-06-23,1,2,stratified,3968176,Kurokawa,yuichiro miyamae,1,DECISIVE,0,141,23,24,6c534f1524e51c74,6143634cde029e33,60,60,action,action
+82150755,2026-06-27,1,2,stratified,3850025,Shunji Minode,Xander,1,DECISIVE,0,145,13,14,8be9c7c4fe9d0254,ec75fde5aaa1daf0,60,60,action,action
+81868134,2026-06-25,1,3,stratified,4222089,Blacklions.,Fran Milla,0,DECISIVE,0,152,11,10,4a256a933ac66a7b,2768139fe1eb6d0b,60,60,action,action
+81619373,2026-06-24,1,3,stratified,4732543,Pixegami,yoshimasak,1,DECISIVE,0,171,15,16,28e08086f5844701,59138a345c6b933a,60,60,action,action
+81707346,2026-06-24,1,3,stratified,4597111,Penguin,MPGaming,1,DECISIVE,0,159,22,22,64e146b2133f7b99,6948b9208b17fad2,60,60,action,action
+81674226,2026-06-24,1,3,stratified,4710641,XtraLearning,Ingenio,0,DECISIVE,1,163,24,23,cf54338b6b99acc3,52bf12478558b725,60,60,action,action
+81915492,2026-06-25,1,3,stratified,4701116,aidy,yoshimasak,0,DECISIVE,0,164,9,8,831fd3a04060c7c2,59138a345c6b933a,60,60,action,action
+82325923,2026-06-28,1,3,stratified,4393522,Naoshin,Anirudh K,0,DECISIVE,0,153,13,12,4a256a933ac66a7b,6c534f1524e51c74,60,60,action,action
+82298232,2026-06-27,1,3,stratified,4097697,kawachi,nsytsqdtn,1,DECISIVE,0,148,11,12,6a52f924c124b4df,2b3108749e2032d7,60,60,action,action
+82426980,2026-06-28,1,3,stratified,4311212,katsudon 421,mikelou1,0,DECISIVE,1,150,14,13,65c1c1667f96d6d8,596d814be92eab55,60,60,action,action
+81567859,2026-06-24,1,3,stratified,4649530,ebisu_ya,チームロスギラ,0,DECISIVE,0,157,15,14,ec6f84cdcccc913b,a033289729234cd2,60,60,action,action
+82373652,2026-06-28,1,3,stratified,4444600,ebisu_ya,Hiro Nomo,0,DECISIVE,0,164,13,12,aa2398e69a3549ad,60c3e5ab24904782,60,60,action,action
+81668110,2026-06-24,1,3,stratified,4862228,f.a.nina,門司 匡広,0,DECISIVE,0,164,13,12,4a256a933ac66a7b,6c534f1524e51c74,60,60,action,action
+82013446,2026-06-26,1,3,stratified,4431577,akahane,Legend Brothers,1,DECISIVE,0,157,15,16,9908e937128aa33b,31235eddd9aefebc,60,60,action,action
+82370369,2026-06-28,1,3,stratified,4223452,ne Artem Savchenko,Yxy2001,1,DECISIVE,0,146,11,12,4a256a933ac66a7b,2b3108749e2032d7,60,60,action,action
+82448783,2026-06-28,1,3,stratified,4751888,yiyu0716,チームロスギラ,1,DECISIVE,1,166,12,13,2b3108749e2032d7,7436a436fd90a94d,60,60,action,action
+82468380,2026-06-28,1,3,stratified,4362002,Yuiki,BackFiring,0,DECISIVE,0,162,13,12,753c7d1f9e30d5be,4a256a933ac66a7b,60,60,action,action
+81504338,2026-06-23,1,3,stratified,4230469,N.Y,Kazuhiro O,1,DECISIVE,0,167,7,8,ad9eb15621c47305,bd3a5d98cf29cbc3,60,60,action,action
+82579563,2026-06-29,1,3,stratified,4729178,mikelou1,taka,0,DECISIVE,1,169,14,13,713a673323897fef,59138a345c6b933a,60,60,action,action
+82082880,2026-06-26,1,3,stratified,4136679,ShumpeiNomura,harmo-miu,0,DECISIVE,0,151,13,12,a52543fc87a97ef2,6c534f1524e51c74,60,60,action,action
+82017775,2026-06-26,1,3,stratified,4246146,nsytsqdtn,Kyohei,0,DECISIVE,1,152,18,17,2b3108749e2032d7,cf54338b6b99acc3,60,60,action,action
+82181135,2026-06-27,1,3,stratified,4404633,Patrick Chan,Pixegami,1,DECISIVE,0,153,15,16,f2390a7e5d8e3c94,28e08086f5844701,60,60,action,action
+81484376,2026-06-23,1,3,stratified,4381317,yuu2704,和田竜一,0,DECISIVE,0,151,11,10,4a256a933ac66a7b,6c534f1524e51c74,60,60,action,action
+82444809,2026-06-28,1,3,stratified,4265670,ヌメルゴンex,THIRD PTCG Club,1,DECISIVE,0,152,15,16,a7ecb399eff72c6a,bf4fd9046cb2d210,60,60,action,action
+82628056,2026-06-29,1,3,stratified,4605644,ne Artem Savchenko,Gappy,0,DECISIVE,1,165,14,13,2b3108749e2032d7,433c63791dfad146,60,60,action,action
+81903963,2026-06-25,1,3,stratified,4276343,Testuo&Ryuji,東京旅行,0,DECISIVE,0,171,11,10,bd3a5d98cf29cbc3,08243e2321f0e11e,60,60,action,action
+81814983,2026-06-25,1,3,stratified,4447562,Bruno Escalhao,mmwstudy,0,DECISIVE,0,153,17,16,e4e79fcca78f4293,7452774657ad1444,60,60,action,action
+82600791,2026-06-29,1,4,stratified,5340885,Gotem Penguin,nattomaki,0,DECISIVE,0,190,11,10,f9b67c5efbba736e,215bc19f41007af0,60,60,action,action
+81618782,2026-06-24,1,4,stratified,7335867,Gotta catch 'em all,suis101,0,DECISIVE,1,261,12,11,59138a345c6b933a,bd3a5d98cf29cbc3,60,60,action,action
+81933930,2026-06-26,1,4,stratified,5624380,Aman Atar,kenkoooo,0,DECISIVE,0,185,15,14,64e146b2133f7b99,831fd3a04060c7c2,60,60,action,action
+81851846,2026-06-25,1,4,stratified,5349025,yoiki,GoodMorning,1,DECISIVE,0,178,15,16,831fd3a04060c7c2,831fd3a04060c7c2,60,60,action,action
+82368332,2026-06-28,1,4,stratified,6680231,好吃的台灣拉麵,ei8171,0,DECISIVE,0,212,27,26,cf54338b6b99acc3,2b3108749e2032d7,60,60,action,action
+81879205,2026-06-25,1,4,stratified,5034226,Natalia Jaśkowska,NecromanAlbert,1,DECISIVE,0,180,11,12,52bf12478558b725,59138a345c6b933a,60,60,action,action
+82096564,2026-06-26,1,4,stratified,4988877,TTT Is All You Need,Team,0,DECISIVE,0,183,13,12,46becdc8f8899835,59138a345c6b933a,60,60,action,action
+82049501,2026-06-26,1,4,stratified,5277152,pompom555,ne Artem Savchenko,1,DECISIVE,1,178,16,17,cf54338b6b99acc3,2b3108749e2032d7,60,60,action,action
+81973724,2026-06-26,1,4,stratified,5908483,aidy,Togo,0,DECISIVE,0,200,13,13,831fd3a04060c7c2,831fd3a04060c7c2,60,60,action,action
+81959165,2026-06-26,1,4,stratified,5787571,Tanupro,shimacos,0,DECISIVE,0,192,23,22,cf54338b6b99acc3,cf54338b6b99acc3,60,60,action,action
+82130501,2026-06-27,1,4,stratified,6616177,vibechu,daiki_pyonkichi,0,DECISIVE,0,222,15,14,72425533dadc98a1,831fd3a04060c7c2,60,60,action,action
+81837922,2026-06-25,1,4,stratified,4882797,pompom555,Cosmic Birefringence,1,DECISIVE,1,174,22,23,cf54338b6b99acc3,593615e603566f8f,60,60,action,action
+82050047,2026-06-26,1,4,stratified,6160191,hau,Kendamarron,1,DECISIVE,1,200,28,29,86499e4fd823b2f6,6948b9208b17fad2,60,60,action,action
+82102744,2026-06-26,1,4,stratified,4935522,Psychic Genesis,fufufufufuko,1,DECISIVE,0,170,13,14,78424bb7b3831f69,f575288d2b9f7bd3,60,60,action,action
+82584133,2026-06-29,1,4,stratified,7236902,monnosuke,btk15049,0,DECISIVE,0,231,19,18,d5e2e6b068b45bf0,0741acc7a0a81516,60,60,action,action
+82381311,2026-06-28,1,4,stratified,5651062,Y2Dex,Tanishi＆haru,1,DECISIVE,0,188,21,22,cf54338b6b99acc3,05e63c3f2a7ecec1,60,60,action,action
+81950270,2026-06-26,1,4,stratified,5425706,Ken Page,suwat513,0,DECISIVE,0,181,23,22,f519414181f507a2,f95d704202ebc6d7,60,60,action,action
+82027118,2026-06-26,1,4,stratified,6588143,Shirag Maharaj,NecromanAlbert,1,DECISIVE,0,220,17,18,cf54338b6b99acc3,59138a345c6b933a,60,60,action,action
+81455591,2026-06-23,1,4,stratified,5202736,Yuki Tani,Natalia Jaśkowska,1,DECISIVE,0,174,13,14,6c534f1524e51c74,52bf12478558b725,60,60,action,action
+81569069,2026-06-24,1,4,stratified,5309490,Xunden,Skyscraver,0,DECISIVE,0,189,9,8,4a256a933ac66a7b,bd3a5d98cf29cbc3,60,60,action,action
+82195776,2026-06-27,1,4,stratified,6785719,Ajishio,TOMOYA Tsunakawa,1,DECISIVE,0,242,17,18,ca8556aeaedd5e09,59138a345c6b933a,60,60,action,action
+81947637,2026-06-26,1,4,stratified,4987550,Lapra5,Katsuhito Muroi,0,DECISIVE,0,180,11,10,8d8af3b7021430ef,59138a345c6b933a,60,60,action,action
+82308289,2026-06-27,1,4,stratified,4997139,yuziri,Hawk,1,DECISIVE,0,179,15,16,cf54338b6b99acc3,74c27650b18b57e3,60,60,action,action
+82007536,2026-06-26,1,4,stratified,7606245,Ricardo Nakadomari,FirstSS-Sub,1,DECISIVE,1,241,28,29,d60bd450662912be,0b99dec21056b2f3,60,60,action,action
+81450604,2026-06-23,1,4,stratified,6963592,yuki #4,yanakatsu,0,DECISIVE,0,243,39,38,4164643d1cfb5694,36b9eec2910872dd,60,60,action,action
+83948597,2026-07-04,2,0,stratified,1310402,ikeyu,渡邊征央,1,DECISIVE,0,62,5,6,a88ac606b2d71a36,b43a53d96da0f0b5,60,60,action,action
+83038322,2026-07-01,2,0,stratified,2335149,Ajishio,Michael Krager,1,DECISIVE,0,95,15,16,c51189f519cd1c07,a88ac606b2d71a36,60,60,action,action
+83456057,2026-07-03,2,0,stratified,2642082,カドラバ Kadoraba,ykuroka,0,DECISIVE,0,108,13,12,c7200b56dc7c4c6f,7c58f3915e31351e,60,60,action,action
+83391351,2026-07-02,2,0,stratified,1728781,Yushin Ito,ezreal77,1,DECISIVE,0,74,7,8,aa2398e69a3549ad,48ce6cc5310e298f,60,60,action,action
+83887876,2026-07-04,2,0,stratified,2394006,zoroark190,Akira-Ninth,0,DECISIVE,0,99,9,8,7c0a454617fc9ab4,9d1dad39ec641aa0,60,60,action,action
+82923809,2026-06-30,2,0,stratified,2522783,Kunal Aarse,yiyu0716,1,DECISIVE,1,102,10,11,b166b6b93aa1670b,2b3108749e2032d7,60,60,action,action
+82906734,2026-06-30,2,0,stratified,1850372,Yasuo 0/10/0,Super Mippo,0,DECISIVE,1,82,10,9,59138a345c6b933a,7c58f3915e31351e,60,60,action,action
+84472463,2026-07-06,2,0,stratified,674594,渡邊征央,Yushin Ito,0,DECISIVE,0,34,3,2,b43a53d96da0f0b5,aa2398e69a3549ad,60,60,action,action
+84463034,2026-07-06,2,0,stratified,2114543,渡邊征央,Yushin Ito,0,DECISIVE,0,90,7,6,b43a53d96da0f0b5,aa2398e69a3549ad,60,60,action,action
+83282915,2026-07-02,2,0,stratified,1452557,S4nkurero,Michael Krager,0,DECISIVE,0,68,7,6,b43a53d96da0f0b5,a88ac606b2d71a36,60,60,action,action
+83681757,2026-07-03,2,0,stratified,2410679,Gappy,Yushin Ito,0,DECISIVE,0,104,11,10,433c63791dfad146,aa2398e69a3549ad,60,60,action,action
+84358436,2026-07-06,2,0,stratified,1609594,Pokkén,zoroark190,1,DECISIVE,1,71,6,7,50bffd8b08d6667c,0fb452788ceca249,60,60,action,action
+83589403,2026-07-03,2,0,stratified,1810413,tonakaiiii,Yushin Ito,1,DECISIVE,0,82,11,12,b43a53d96da0f0b5,aa2398e69a3549ad,60,60,action,action
+83744034,2026-07-04,2,0,stratified,2770635,WinDecks,kazuki0123,1,DECISIVE,0,110,7,8,27b307e62db35245,c9d8794e26a87fa3,60,60,action,action
+84423849,2026-07-06,2,0,stratified,2058106,aidy,WinDecks,1,DECISIVE,0,91,8,8,831fd3a04060c7c2,478924c6d1995606,60,60,action,action
+83661323,2026-07-03,2,0,stratified,2781354,Akira-Ninth,MR.h,1,DECISIVE,1,102,20,21,9d1dad39ec641aa0,7c58f3915e31351e,60,60,action,action
+83424943,2026-07-02,2,0,stratified,1104318,Gotem Penguin,Michael Krager,0,DECISIVE,0,48,5,4,f9b67c5efbba736e,a88ac606b2d71a36,60,60,action,action
+82805619,2026-06-30,2,0,stratified,2146710,tomatomato,カドラバ Kadoraba,0,DECISIVE,0,91,7,6,ad9eb15621c47305,dec7cdaef424b950,60,60,action,action
+83349448,2026-07-02,2,0,stratified,2248155,tonakaiiii,Issac Netero,0,DECISIVE,0,94,7,6,b43a53d96da0f0b5,e51fedf968c4efda,60,60,action,action
+82908268,2026-06-30,2,0,stratified,1056014,S4nkurero,anngle,1,DECISIVE,0,49,3,4,831fd3a04060c7c2,b166b6b93aa1670b,60,60,action,action
+84471784,2026-07-06,2,0,stratified,2149725,渡邊征央,zhan renyi,1,DECISIVE,0,95,9,10,b43a53d96da0f0b5,40fa447486e93faf,60,60,action,action
+83059679,2026-07-01,2,0,stratified,525113,Michael Krager,pokeka_ryo,1,DECISIVE,0,27,3,4,a88ac606b2d71a36,27b307e62db35245,60,60,action,action
+83387067,2026-07-02,2,0,stratified,1059089,Moegi,The Debauchery Tea Party,1,DECISIVE,1,52,4,5,98ecdbce8bd61a0f,910dcaefeb77a2f0,60,60,action,action
+84001921,2026-07-05,2,0,stratified,2348683,Dũng Đỗ,Oshbocker,1,DECISIVE,0,94,9,10,69252ea384766495,2b3108749e2032d7,60,60,action,action
+83943303,2026-07-04,2,0,stratified,394808,ShumpeiNomura,zoroark190,1,DECISIVE,0,21,1,2,5f973872992c4b08,7c0a454617fc9ab4,60,60,action,action
+82911159,2026-06-30,2,1,stratified,3446917,pztriatomic,The Debauchery Tea Party,0,DECISIVE,1,132,10,9,2b3108749e2032d7,910dcaefeb77a2f0,60,60,action,action
+83814650,2026-07-04,2,1,stratified,3435507,WinDecks,渡邊征央,1,DECISIVE,0,142,11,12,27b307e62db35245,b43a53d96da0f0b5,60,60,action,action
+83309743,2026-07-02,2,1,stratified,3094367,YIN,yamy893,1,DECISIVE,1,113,10,11,890af7220ecf499d,d9614beda9774552,60,60,action,action
+84426026,2026-07-06,2,1,stratified,3008431,WinDecks,Kotaro OKUYAMA,1,DECISIVE,0,123,7,8,478924c6d1995606,910dcaefeb77a2f0,60,60,action,action
+84433816,2026-07-06,2,1,stratified,3653466,payanotty,Bata09,0,DECISIVE,0,141,11,10,0078ce0f297a4597,b13b062a5e20bcf3,60,60,action,action
+83869050,2026-07-04,2,1,stratified,3493888,kazuki0123,Furkan Pirinc,1,DECISIVE,0,127,11,12,c9d8794e26a87fa3,2b3108749e2032d7,60,60,action,action
+82825067,2026-06-30,2,1,stratified,2869546,kami,romthpt,0,DECISIVE,0,110,11,10,831fd3a04060c7c2,2b3108749e2032d7,60,60,action,action
+83192485,2026-07-02,2,1,stratified,3579399,suguuuuu & hiehie,CardPilotLab,1,DECISIVE,0,131,15,16,dec7cdaef424b950,890af7220ecf499d,60,60,action,action
+83390712,2026-07-02,2,1,stratified,2938616,Kazuta MIZUTA,Dick Jessen William,1,DECISIVE,1,112,12,13,b166b6b93aa1670b,9c8099036f7d7f16,60,60,action,action
+84202850,2026-07-05,2,1,stratified,3538707,genki toyama,怒破餓鬼,0,DECISIVE,0,132,11,10,898f15c46cf94538,3da418017b237a5f,60,60,action,action
+83890594,2026-07-04,2,1,stratified,3436638,tonakaiiii,zoroark190,1,DECISIVE,0,131,9,10,b43a53d96da0f0b5,7c0a454617fc9ab4,60,60,action,action
+82900640,2026-06-30,2,1,stratified,2925873,Shun,カドラバ Kadoraba,1,DECISIVE,1,115,8,9,ec75fde5aaa1daf0,a08c00547af63ae9,60,60,action,action
+82905904,2026-06-30,2,1,stratified,3019235,kawachi,Legend Brothers,1,DECISIVE,0,119,15,16,9b0067512e7461eb,31235eddd9aefebc,60,60,action,action
+83699525,2026-07-03,2,1,stratified,3232546,pokeka_ryo,suguuuuu & hiehie,1,DECISIVE,0,125,11,12,27b307e62db35245,cf54338b6b99acc3,60,60,action,action
+84094237,2026-07-05,2,1,stratified,3460789,fksmaaaaa,Rmy,0,DECISIVE,0,136,9,9,b43a53d96da0f0b5,831fd3a04060c7c2,60,60,action,action
+82927663,2026-06-30,2,1,stratified,3128747,Pokkén,sqrt4kaido,1,DECISIVE,1,118,12,13,2dad2c302cbb4a32,da71c738ef47665c,60,60,action,action
+84282144,2026-07-06,2,1,stratified,2843171,zoroark190,Claude and codex suck ;),0,DECISIVE,0,114,9,8,7c0a454617fc9ab4,884c0683209ead35,60,60,action,action
+83116000,2026-07-01,2,1,stratified,3455212,Boss's Orders Are All You Need,ezreal77,0,DECISIVE,0,128,11,10,543ca4bbd0093585,22d3f669e8184599,60,60,action,action
+84146055,2026-07-05,2,1,stratified,3087270,Pokopia,hoshippi,0,DECISIVE,0,121,13,12,831fd3a04060c7c2,c8c8ca4e003ab163,60,60,action,action
+84312373,2026-07-06,2,1,stratified,3163827,zoroark190,hoshippi,0,DECISIVE,0,123,11,10,7c0a454617fc9ab4,c8c8ca4e003ab163,60,60,action,action
+83911279,2026-07-04,2,1,stratified,3262592,WinDecks,hoshippi,1,DECISIVE,0,126,7,8,27b307e62db35245,c8c8ca4e003ab163,60,60,action,action
+83063323,2026-07-01,2,1,stratified,3415518,yamy893,aidy,0,DECISIVE,0,121,11,10,d9614beda9774552,831fd3a04060c7c2,60,60,action,action
+84220343,2026-07-05,2,1,stratified,3511261,zoroark190,iwashi,0,DECISIVE,0,134,11,10,0fb452788ceca249,b43a53d96da0f0b5,60,60,action,action
+83859653,2026-07-04,2,1,stratified,3444522,Yushin Ito,渡邊征央,1,DECISIVE,0,142,11,12,aa2398e69a3549ad,b43a53d96da0f0b5,60,60,action,action
+83700163,2026-07-03,2,1,stratified,3259238,aidy,disgruntled.coffee,0,DECISIVE,0,128,13,12,831fd3a04060c7c2,69252ea384766495,60,60,action,action
+83271123,2026-07-02,2,2,stratified,4384066,kazuki0123,Akira-Ninth,1,DECISIVE,0,159,11,12,c9d8794e26a87fa3,9d1dad39ec641aa0,60,60,action,action
+83420302,2026-07-02,2,2,stratified,4181223,kazuki0123,atom1231,0,DECISIVE,0,153,23,22,c9d8794e26a87fa3,7c58f3915e31351e,60,60,action,action
+84416136,2026-07-06,2,2,stratified,3696435,tonakaiiii,5.5,0,DECISIVE,0,140,11,10,b43a53d96da0f0b5,0065b4cfff358aba,60,60,action,action
+83955800,2026-07-04,2,2,stratified,3931239,aidy,Ajishio,1,DECISIVE,0,145,9,10,831fd3a04060c7c2,8417597ea8879a72,60,60,action,action
+84227696,2026-07-05,2,2,stratified,3774863,Boss's Orders Are All You Need,WinDecks,0,DECISIVE,0,146,11,10,ae0a52064d430013,478924c6d1995606,60,60,action,action
+83741795,2026-07-04,2,2,stratified,3721421,tonakaiiii,Yushin Ito,0,DECISIVE,0,147,11,10,b43a53d96da0f0b5,aa2398e69a3549ad,60,60,action,action
+83382675,2026-07-02,2,2,stratified,4132826,Dick Jessen William,The Debauchery Tea Party,1,DECISIVE,0,142,11,12,9c8099036f7d7f16,910dcaefeb77a2f0,60,60,action,action
+82914291,2026-06-30,2,2,stratified,4312930,wangyuou,katsudon 421,1,DECISIVE,1,150,12,13,890af7220ecf499d,65c1c1667f96d6d8,60,60,action,action
+84195098,2026-07-05,2,2,stratified,4333085,Pokemon Siuuuu,The Debauchery Tea Party,1,DECISIVE,0,160,11,12,831fd3a04060c7c2,910dcaefeb77a2f0,60,60,action,action
+82756114,2026-06-30,2,2,stratified,4405472,lingyu07,Ajishio,0,DECISIVE,1,160,12,11,b166b6b93aa1670b,c51189f519cd1c07,60,60,action,action
+83047043,2026-07-01,2,2,stratified,3834409,kazuki0123,zoroark190,0,DECISIVE,0,145,13,12,c9d8794e26a87fa3,842972d3b3962877,60,60,action,action
+84052801,2026-07-05,2,2,stratified,3696871,渡邊征央,Rmy,1,DECISIVE,0,137,9,10,b43a53d96da0f0b5,831fd3a04060c7c2,60,60,action,action
+84386084,2026-07-06,2,2,stratified,3898242,nasuo445,vibechu,0,DECISIVE,0,141,9,8,e34dae96b1984485,8c6a91def4dd5f6c,60,60,action,action
+84359245,2026-07-06,2,2,stratified,4118856,Ketchum Alt,zoroark190,0,DECISIVE,1,148,12,11,cf3a7feaf2e07bff,7c0a454617fc9ab4,60,60,action,action
+83777803,2026-07-04,2,2,stratified,3985891,tonakaiiii,5.5,0,DECISIVE,0,154,11,11,b43a53d96da0f0b5,902b00d2b6f713c2,60,60,action,action
+82780427,2026-06-30,2,2,stratified,3724353,LowEffort,llkarill,1,DECISIVE,1,132,8,9,2b3108749e2032d7,6d7d4d82b45a1f8b,60,60,action,action
+84153044,2026-07-05,2,2,stratified,4023879,yt0914,aaa,1,DECISIVE,1,147,14,15,4a4c8fdc31bc148f,53f420cb63036c6b,60,60,action,action
+83409127,2026-07-02,2,2,stratified,4081048,Yushin Ito,btk15049,0,DECISIVE,0,158,19,18,aa2398e69a3549ad,dafa1e6efd85150e,60,60,action,action
+84444560,2026-07-06,2,2,stratified,4283546,koga_poke,payanotty,1,DECISIVE,1,153,13,13,8ff1e185fabb8099,0078ce0f297a4597,60,60,action,action
+82919014,2026-06-30,2,2,stratified,3890643,Akshay Punjabi,J.Moriuchi,0,DECISIVE,1,144,14,13,d97004b63104f708,2b3108749e2032d7,60,60,action,action
+83728859,2026-07-04,2,2,stratified,3727950,kazuki0123,zoroark190,0,DECISIVE,0,134,11,11,c9d8794e26a87fa3,842972d3b3962877,60,60,action,action
+82953288,2026-07-01,2,2,stratified,3688542,Psychic Genesis,aidy,1,DECISIVE,0,147,11,12,78424bb7b3831f69,831fd3a04060c7c2,60,60,action,action
+83984239,2026-07-05,2,2,stratified,4108223,Takaaki Matsuda,aidy,1,DECISIVE,1,151,10,11,ecb9fd41d48b6ccb,831fd3a04060c7c2,60,60,action,action
+83333211,2026-07-02,2,2,stratified,4205787,Ajishio,やる気元気ミワハルキ,1,DECISIVE,0,159,11,12,8417597ea8879a72,c80ecfa9fa17df43,60,60,action,action
+83208256,2026-07-02,2,2,stratified,4399582,mikelou1,kazuki0123,0,DECISIVE,1,160,14,13,e5766997074f72cb,c9d8794e26a87fa3,60,60,action,action
+84323530,2026-07-06,2,3,stratified,5015151,aaa,THIRD PTCG Club,0,DECISIVE,0,174,13,12,86f48729d55f8661,2da70d7f4cb16df3,60,60,action,action
+82930570,2026-06-30,2,3,stratified,4539360,f.a.nina,milix,1,DECISIVE,1,169,12,13,b166b6b93aa1670b,59138a345c6b933a,60,60,action,action
+83284213,2026-07-02,2,3,stratified,4633825,S4nkurero,ShumpeiNomura,1,DECISIVE,0,162,18,18,b43a53d96da0f0b5,e2db90241152a724,60,60,action,action
+82855894,2026-06-30,2,3,stratified,5185940,THIRD PTCG Club,dddmd,0,DECISIVE,0,178,15,14,bf4fd9046cb2d210,831fd3a04060c7c2,60,60,action,action
+83787152,2026-07-04,2,3,stratified,5333761,kazuki0123,tonakaiiii,1,DECISIVE,0,188,9,10,c9d8794e26a87fa3,b43a53d96da0f0b5,60,60,action,action
+83713735,2026-07-04,2,3,stratified,4961620,ZETADIVISION,THIRD PTCG Club,0,DECISIVE,0,176,11,10,7d3dd55013032486,6b960e3ec5086fd3,60,60,action,action
+84173796,2026-07-05,2,3,stratified,5149622,noikaret,Ruko,0,DECISIVE,0,179,13,12,fb8f0ed22caee7b4,6320e3b35bf45d3c,60,60,action,action
+82916994,2026-06-30,2,3,stratified,5305046,takuya noto,Team Rocket,0,DECISIVE,0,184,13,12,5c3b250ebbd0471c,1461973842ae99c3,60,60,action,action
+82909789,2026-06-30,2,3,stratified,5398786,カドラバ Kadoraba,Lapra5,1,DECISIVE,0,185,15,16,a08c00547af63ae9,8d8af3b7021430ef,60,60,action,action
+84029471,2026-07-05,2,3,stratified,4759133,みずあめ,ごんさくよねきち,1,DECISIVE,0,166,11,12,26c6379657a2c820,d8c9db09b2d04f55,60,60,action,action
+83510361,2026-07-03,2,3,stratified,4633684,Ajishio,kenkoooo,0,DECISIVE,0,163,11,10,8417597ea8879a72,23b16a1d79ac3afc,60,60,action,action
+83273265,2026-07-02,2,3,stratified,4677285,S4nkurero,The Debauchery Tea Party,0,DECISIVE,0,165,9,8,b43a53d96da0f0b5,910dcaefeb77a2f0,60,60,action,action
+84257031,2026-07-06,2,3,stratified,5403808,XP3RiX,aaa,0,DECISIVE,0,186,17,16,e6c8c8b46da53cae,86f48729d55f8661,60,60,action,action
+84302604,2026-07-06,2,3,stratified,4974869,怒破餓鬼,Kotaro OKUYAMA,1,DECISIVE,0,180,9,10,3da418017b237a5f,910dcaefeb77a2f0,60,60,action,action
+83091875,2026-07-01,2,3,stratified,4811675,TakamaruEX,ezreal77,0,DECISIVE,1,165,16,15,15b2a18ec6e238e1,22d3f669e8184599,60,60,action,action
+84364800,2026-07-06,2,3,stratified,4696831,nasuo445,Majkel1337,0,DECISIVE,0,166,15,14,e34dae96b1984485,831fd3a04060c7c2,60,60,action,action
+83953543,2026-07-04,2,3,stratified,5068654,tonakaiiii,aidy,1,DECISIVE,0,183,9,10,b43a53d96da0f0b5,831fd3a04060c7c2,60,60,action,action
+83216638,2026-07-02,2,3,stratified,4584860,yamy893,Huangxiayiluo,1,DECISIVE,0,160,15,16,d9614beda9774552,59138a345c6b933a,60,60,action,action
+84448901,2026-07-06,2,3,stratified,4910814,jiatu.l,豆本豆豆包,0,DECISIVE,0,173,13,13,b43a53d96da0f0b5,0065b4cfff358aba,60,60,action,action
+84452450,2026-07-06,2,3,stratified,4611552,kazuki0123,超级电老鼠,1,DECISIVE,0,160,11,12,c9d8794e26a87fa3,831fd3a04060c7c2,60,60,action,action
+83938854,2026-07-04,2,3,stratified,4681962,kashiwashira,213tubo,1,DECISIVE,0,172,11,12,b4b5a378368fad61,b43a53d96da0f0b5,60,60,action,action
+83237345,2026-07-02,2,3,stratified,5390349,THIRD PTCG Club,tonakaiiii,1,DECISIVE,0,184,11,12,bf4fd9046cb2d210,b43a53d96da0f0b5,60,60,action,action
+83955100,2026-07-04,2,3,stratified,4903541,zoroark190,nasuo445,1,DECISIVE,0,167,9,10,7c0a454617fc9ab4,e34dae96b1984485,60,60,action,action
+83239978,2026-07-02,2,3,stratified,4637385,チームロスギラ,Ajishio,0,DECISIVE,0,159,15,14,7436a436fd90a94d,8417597ea8879a72,60,60,action,action
+84475392,2026-07-06,2,3,stratified,4609348,Mykhailo Kalus,Yushin Ito,1,DECISIVE,0,172,9,10,c9d8794e26a87fa3,910dcaefeb77a2f0,60,60,action,action
+83400102,2026-07-02,2,4,stratified,6521070,Akira-Ninth,kawachi,0,DECISIVE,1,217,18,18,9d1dad39ec641aa0,b41dab6a922e3a11,60,60,action,action
+83056953,2026-07-01,2,4,stratified,6027928,djschmit,THIRD PTCG Club,1,DECISIVE,1,193,16,17,11b0a2d81e5449a3,bf4fd9046cb2d210,60,60,action,action
+83209057,2026-07-02,2,4,stratified,6631334,monnosuke,チームロスギラ,1,DECISIVE,0,213,15,16,2e79a10ee3ba9449,7436a436fd90a94d,60,60,action,action
+84478315,2026-07-06,2,4,stratified,6093809,ei ei ei yikuso,aaa,1,DECISIVE,0,206,15,16,831fd3a04060c7c2,fb85400b6df83aa3,60,60,action,action
+83540401,2026-07-03,2,4,stratified,7417551,aidy,ebisu_ya,0,DECISIVE,0,238,51,50,831fd3a04060c7c2,a88ac606b2d71a36,60,60,action,action
+82803633,2026-06-30,2,4,stratified,7481926,Takanori Kotama,mw,0,DECISIVE,0,244,19,18,831fd3a04060c7c2,9cf95f0d27401a58,60,60,action,action
+83840970,2026-07-04,2,4,stratified,6578979,kazuki0123,btk15049,0,DECISIVE,0,242,19,18,c9d8794e26a87fa3,dafa1e6efd85150e,60,60,action,action
+83682557,2026-07-03,2,4,stratified,6986538,kazuki0123,CCoffie,0,DECISIVE,0,225,15,14,c9d8794e26a87fa3,65c1c1667f96d6d8,60,60,action,action
+82927668,2026-06-30,2,4,stratified,6788107,Ryosei Kojima,takuya noto,0,DECISIVE,0,223,23,22,cf54338b6b99acc3,5c3b250ebbd0471c,60,60,action,action
+83949401,2026-07-04,2,4,stratified,6019904,iwashi,BluezLee,0,DECISIVE,0,221,33,32,b43a53d96da0f0b5,69d88f938f8b3f54,60,60,action,action
+83233009,2026-07-02,2,4,stratified,6612661,f.a.nina,kazuki0123,1,DECISIVE,1,222,14,15,b166b6b93aa1670b,c9d8794e26a87fa3,60,60,action,action
+84449715,2026-07-06,2,4,stratified,5546354,Shardul Gharat,Claude and codex suck ;),0,DECISIVE,0,199,15,14,e3d8207f64216ae8,884c0683209ead35,60,60,action,action
+84467238,2026-07-06,2,4,stratified,6429174,Rmy,junlee789,0,DECISIVE,0,217,15,14,831fd3a04060c7c2,afaa4ac744b28ee5,60,60,action,action
+83210387,2026-07-02,2,4,stratified,6795528,puraza,tonakaiiii,1,DECISIVE,1,226,12,13,11537082a1d27571,b43a53d96da0f0b5,60,60,action,action
+83995474,2026-07-05,2,4,stratified,5481289,easonyanyan,清水一希,0,DECISIVE,0,183,13,12,f4f9e0b2dfde5a5c,0b99dec21056b2f3,60,60,action,action
+84104589,2026-07-05,2,4,stratified,5918171,THIRD PTCG Club,nasuo445,0,DECISIVE,0,195,15,14,6b960e3ec5086fd3,e34dae96b1984485,60,60,action,action
+84192221,2026-07-05,2,4,stratified,6692804,tonakaiiii,hoshippi,0,DECISIVE,0,232,15,14,b43a53d96da0f0b5,c8c8ca4e003ab163,60,60,action,action
+82932068,2026-06-30,2,4,stratified,6181246,tonakaiiii,kazuki0123,1,DECISIVE,0,215,11,12,b43a53d96da0f0b5,c9d8794e26a87fa3,60,60,action,action
+83329601,2026-07-02,2,4,stratified,5613955,aidy,kazuki0123,1,DECISIVE,0,194,13,14,831fd3a04060c7c2,c9d8794e26a87fa3,60,60,action,action
+84184350,2026-07-05,2,4,stratified,5605779,Iwa Iwa,aaa,0,DECISIVE,1,190,14,13,831fd3a04060c7c2,53f420cb63036c6b,60,60,action,action
+82902644,2026-06-30,2,4,stratified,5731080,Hamu.py,S4nkurero,0,DECISIVE,0,200,19,18,101254ad244275c0,831fd3a04060c7c2,60,60,action,action
+83573039,2026-07-03,2,4,stratified,6990173,kazuki0123,ebisu_ya,1,DECISIVE,0,245,43,44,c9d8794e26a87fa3,a88ac606b2d71a36,60,60,action,action
+83230542,2026-07-02,2,4,stratified,5955202,kazuki0123,InkCartridge,0,DECISIVE,0,199,13,12,c9d8794e26a87fa3,2fa84cd9495ec752,60,60,action,action
+83317816,2026-07-02,2,4,stratified,5894347,tonakaiiii,ShumpeiNomura,0,DECISIVE,0,205,15,14,b43a53d96da0f0b5,0f8ded0dab3abdd6,60,60,action,action
+84183632,2026-07-05,2,4,stratified,5633871,TEAM NAME,nasuo445,0,DECISIVE,0,192,17,16,a38180053506b20f,e34dae96b1984485,60,60,action,action
+85818018,2026-07-13,3,0,stratified,1149887,LiamK,Budew,0,DECISIVE,0,51,5,5,3fc2cb03df5b2747,37f2032236fb6baf,60,60,action,action
+84589203,2026-07-07,3,0,stratified,2213377,Rmy,koga_poke,0,DECISIVE,0,88,13,12,831fd3a04060c7c2,8ff1e185fabb8099,60,60,action,action
+85304210,2026-07-11,3,0,stratified,1467218,taksai,bono,1,DECISIVE,0,63,5,6,45e8cc6322697f80,b20e3e96100a11d5,60,60,action,action
+85313021,2026-07-11,3,0,stratified,1402143,Budew,Yushin Ito,1,DECISIVE,0,61,5,6,37f2032236fb6baf,b20e3e96100a11d5,60,60,action,action
+85230880,2026-07-10,3,0,stratified,2716037,WinDecks,Majkel1337,1,DECISIVE,0,114,9,10,478924c6d1995606,fcac695071c3f3cf,60,60,action,action
+85385324,2026-07-11,3,0,stratified,885279,LiamK,youtube.com/@BigBugginnings,0,DECISIVE,0,42,5,4,3fc2cb03df5b2747,219bb78661ad6ccd,60,60,action,action
+85457836,2026-07-11,3,0,stratified,898454,Budew,Majkel1337,1,DECISIVE,0,40,3,4,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+85436450,2026-07-11,3,0,stratified,912538,giacomovin,kashiwashira,0,DECISIVE,0,45,5,4,831fd3a04060c7c2,c6970cfeed44b34d,60,60,action,action
+84922831,2026-07-08,3,0,stratified,2061055,Raihan Ramadistra,ZETADIVISION,1,DECISIVE,0,87,9,10,69252ea384766495,7d3dd55013032486,60,60,action,action
+84896767,2026-07-08,3,0,stratified,1774411,Dũng Đỗ,Ajishio,1,DECISIVE,0,77,9,10,147595d71b360f2c,c2ee4dbcdf7ec7e4,60,60,action,action
+85269179,2026-07-10,3,0,stratified,2125235,kashiwashira,hikaru_ishihara46,0,DECISIVE,0,89,13,12,1e1aceae4b6358f6,b303167d8f7d6113,60,60,action,action
+85088238,2026-07-09,3,0,stratified,1755450,bono,zoroark190,0,DECISIVE,0,75,9,8,b20e3e96100a11d5,0fb452788ceca249,60,60,action,action
+84796325,2026-07-08,3,0,stratified,2112319,WinDecks,ShumpeiNomura,0,DECISIVE,0,91,9,9,478924c6d1995606,156485fe400622e4,60,60,action,action
+84822266,2026-07-08,3,0,stratified,1746349,lmaffei,ZETADIVISION,0,DECISIVE,0,76,11,10,13ea47d998aa99fa,7d3dd55013032486,60,60,action,action
+85572821,2026-07-12,3,0,stratified,2077723,LiamK,lopunny's lovers,1,DECISIVE,0,87,11,12,3fc2cb03df5b2747,b20e3e96100a11d5,60,60,action,action
+84922322,2026-07-08,3,0,stratified,1753463,Rmy,Dũng Đỗ,0,DECISIVE,0,68,5,4,831fd3a04060c7c2,147595d71b360f2c,60,60,action,action
+85021267,2026-07-09,3,0,stratified,2563365,AyFukushima,Yushin Ito,0,DECISIVE,0,104,13,12,831fd3a04060c7c2,910dcaefeb77a2f0,60,60,action,action
+85459867,2026-07-11,3,0,stratified,2511931,junlee789,nasuo445,0,DECISIVE,0,103,13,12,e34dae96b1984485,e34dae96b1984485,60,60,action,action
+84930345,2026-07-09,3,0,stratified,1891049,capbloo,Majkel1337,0,DECISIVE,0,80,7,6,9e430faa7c831500,831fd3a04060c7c2,60,60,action,action
+85159320,2026-07-10,3,0,stratified,2528040,Majkel1337,taksai,0,DECISIVE,0,103,11,10,b20e3e96100a11d5,45e8cc6322697f80,60,60,action,action
+85414625,2026-07-11,3,0,stratified,1977222,Majkel1337,Budew,0,DECISIVE,0,78,9,8,fcac695071c3f3cf,37f2032236fb6baf,60,60,action,action
+84959500,2026-07-09,3,0,stratified,1236197,bono,ごんさくよねきち,0,DECISIVE,0,59,11,10,69252ea384766495,d8c9db09b2d04f55,60,60,action,action
+85271111,2026-07-10,3,0,stratified,2468517,Majkel1337,Budew,0,DECISIVE,0,94,11,10,fcac695071c3f3cf,37f2032236fb6baf,60,60,action,action
+85003072,2026-07-09,3,0,stratified,729358,nasuo445,ZETADIVISION,1,DECISIVE,0,37,3,4,e34dae96b1984485,7d3dd55013032486,60,60,action,action
+85263142,2026-07-10,3,0,stratified,2499958,WinDecks,The Debauchery Tea Party,1,DECISIVE,0,102,7,8,478924c6d1995606,910dcaefeb77a2f0,60,60,action,action
+85797730,2026-07-13,3,1,stratified,2856866,lmaffei,Rmy,1,DECISIVE,0,116,19,20,13ea47d998aa99fa,3fc2cb03df5b2747,60,60,action,action
+84996359,2026-07-09,3,1,stratified,2799852,WinDecks,bono,1,DECISIVE,0,111,13,14,478924c6d1995606,69252ea384766495,60,60,action,action
+84595806,2026-07-07,3,1,stratified,3267286,genki toyama,nasuo445,1,DECISIVE,0,122,13,14,898f15c46cf94538,e34dae96b1984485,60,60,action,action
+84521822,2026-07-07,3,1,stratified,3343374,Nghia Tran,Sota Uchiyama,1,DECISIVE,0,133,9,10,ae0d14ce9fa3b86f,875223feb861ca74,60,60,action,action
+85578942,2026-07-12,3,1,stratified,3090638,Majkel1337,bono,0,DECISIVE,0,116,11,10,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+84987636,2026-07-09,3,1,stratified,3058576,noikaret,WinDecks,1,DECISIVE,0,122,11,12,fb8f0ed22caee7b4,478924c6d1995606,60,60,action,action
+84981331,2026-07-09,3,1,stratified,3325431,Yushin Ito,nasuo445,0,DECISIVE,0,126,13,12,aa2398e69a3549ad,e34dae96b1984485,60,60,action,action
+85334347,2026-07-11,3,1,stratified,3183625,youtube.com/@BigBugginnings,Eggplanck,0,DECISIVE,0,128,13,12,219bb78661ad6ccd,b20e3e96100a11d5,60,60,action,action
+85477868,2026-07-11,3,1,stratified,3291347,CurveCowboy,Michael Long,0,DECISIVE,0,118,21,20,7c58f3915e31351e,bf4fd9046cb2d210,60,60,action,action
+84920697,2026-07-08,3,1,stratified,3142262,kuromoka,LiamK,1,DECISIVE,0,122,15,16,b7fe4794b7f5835b,40fa447486e93faf,60,60,action,action
+85305729,2026-07-11,3,1,stratified,3273174,wkonishi,MR.h,1,DECISIVE,0,120,19,20,b20e3e96100a11d5,7c58f3915e31351e,60,60,action,action
+85014580,2026-07-09,3,1,stratified,2948035,ZETADIVISION,e-toppo,0,DECISIVE,0,123,13,12,7d3dd55013032486,ed8af32e00d56c9a,60,60,action,action
+85482195,2026-07-12,3,1,stratified,3666614,Yushin Ito,Ruko,0,DECISIVE,0,140,13,12,910dcaefeb77a2f0,6320e3b35bf45d3c,60,60,action,action
+84588268,2026-07-07,3,1,stratified,2778071,Yushin Ito,zoroark190,1,DECISIVE,0,111,11,12,910dcaefeb77a2f0,0fb452788ceca249,60,60,action,action
+85490075,2026-07-12,3,1,stratified,3248363,MPGaming,youtube.com/@BigBugginnings,0,DECISIVE,0,120,11,11,14db4b34cc8fbbb7,219bb78661ad6ccd,60,60,action,action
+85099609,2026-07-09,3,1,stratified,3382521,Raihan Ramadistra,やる気元気ミワハルキ,0,DECISIVE,0,125,29,28,69252ea384766495,6e15dd0f2dd6c299,60,60,action,action
+85146965,2026-07-10,3,1,stratified,3017921,Raihan Ramadistra,flaty,0,DECISIVE,1,111,12,11,d9614beda9774552,01f31cfad9010e89,60,60,action,action
+85335733,2026-07-11,3,1,stratified,3506372,Raihan Ramadistra,Sota Uchiyama,0,DECISIVE,0,138,17,16,69252ea384766495,16eb558bab120cba,60,60,action,action
+84568305,2026-07-07,3,1,stratified,3498490,豆本豆豆包,tw_shin,0,DECISIVE,0,130,9,8,a38180053506b20f,7f16d36ae4847ce5,60,60,action,action
+85795660,2026-07-13,3,1,stratified,2759153,Raihan Ramadistra,bono,1,DECISIVE,0,106,11,12,69252ea384766495,b20e3e96100a11d5,60,60,action,action
+84545499,2026-07-07,3,1,stratified,2841745,vibechu,Majkel1337,0,DECISIVE,0,110,7,6,8c6a91def4dd5f6c,831fd3a04060c7c2,60,60,action,action
+84935638,2026-07-09,3,1,stratified,2899273,OsElCoUn,zoroark190,0,DECISIVE,0,112,11,10,b20e3e96100a11d5,0fb452788ceca249,60,60,action,action
+84509862,2026-07-07,3,1,stratified,2861494,vibechu,nasuo445,0,DECISIVE,0,114,9,8,8c6a91def4dd5f6c,e34dae96b1984485,60,60,action,action
+85533367,2026-07-12,3,1,stratified,3642688,mitomeat823,BluezLee,1,DECISIVE,0,123,29,30,7800c70ef460208a,0d2a3e2649f24fb1,60,60,action,action
+84755467,2026-07-08,3,1,stratified,3206008,koga_poke,5.5,1,DECISIVE,1,117,10,11,8ff1e185fabb8099,0065b4cfff358aba,60,60,action,action
+85475997,2026-07-11,3,2,stratified,3998551,Yushin Ito,MPGaming,1,DECISIVE,0,134,12,12,b20e3e96100a11d5,14db4b34cc8fbbb7,60,60,action,action
+85296990,2026-07-10,3,2,stratified,3871779,Raihan Ramadistra,LiamK,0,DECISIVE,0,145,21,21,69252ea384766495,3fc2cb03df5b2747,60,60,action,action
+85707507,2026-07-13,3,2,stratified,4054024,Yushin Ito,bono,0,DECISIVE,0,148,11,10,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+84631021,2026-07-07,3,2,stratified,4042982,Boss's Orders Are All You Need,Rmy,1,DECISIVE,1,146,14,15,795a6c78e1194ccd,831fd3a04060c7c2,60,60,action,action
+85523853,2026-07-12,3,2,stratified,4237245,WinDecks,youtube.com/@BigBugginnings,1,DECISIVE,0,170,13,14,478924c6d1995606,219bb78661ad6ccd,60,60,action,action
+85780785,2026-07-13,3,2,stratified,4024879,ごんさくよねきち,WinDecks,0,DECISIVE,0,156,15,14,8907612d396f895a,478924c6d1995606,60,60,action,action
+84487770,2026-07-07,3,2,stratified,4022839,Rojiomote,Kazama Yusuke,1,DECISIVE,1,143,10,11,2d0a90fa804b68f1,be3a8e357b9439ff,60,60,action,action
+84922853,2026-07-08,3,2,stratified,4151808,ごんさくよねきち,やる気元気ミワハルキ,1,DECISIVE,0,151,11,12,d8c9db09b2d04f55,6e15dd0f2dd6c299,60,60,action,action
+85404887,2026-07-11,3,2,stratified,3771344,firstbreak32,junlee789 - 이준,1,DECISIVE,0,145,15,16,49c73af4f8ad03d9,e34dae96b1984485,60,60,action,action
+84762809,2026-07-08,3,2,stratified,4316986,koga_poke,nasuo445,0,DECISIVE,1,146,14,13,8ff1e185fabb8099,e34dae96b1984485,60,60,action,action
+85274848,2026-07-10,3,2,stratified,3788109,Alberto Bonsanto,junlee789,0,DECISIVE,1,147,18,17,69252ea384766495,afaa4ac744b28ee5,60,60,action,action
+85617044,2026-07-12,3,2,stratified,4180853,Sota Uchiyama,懒惰的金枪鱼,1,DECISIVE,0,160,16,16,16eb558bab120cba,14db4b34cc8fbbb7,60,60,action,action
+84560234,2026-07-07,3,2,stratified,4104090,豆本豆豆包,Yushin Ito,0,DECISIVE,0,152,13,12,a38180053506b20f,910dcaefeb77a2f0,60,60,action,action
+85481108,2026-07-12,3,2,stratified,3806890,Dũng Đỗ,Majkel1337,1,DECISIVE,0,140,17,18,147595d71b360f2c,b20e3e96100a11d5,60,60,action,action
+85008845,2026-07-09,3,2,stratified,3933490,ShumpeiNomura,kuromoka,1,DECISIVE,0,143,11,12,156485fe400622e4,b7fe4794b7f5835b,60,60,action,action
+85824102,2026-07-13,3,2,stratified,4369396,tonakaiiii,Rmy,0,DECISIVE,0,157,9,9,b5d70706436c5264,3fc2cb03df5b2747,60,60,action,action
+84705441,2026-07-07,3,2,stratified,4356264,Star-mine,jiatu.l,1,DECISIVE,0,154,11,12,d9614beda9774552,b43a53d96da0f0b5,60,60,action,action
+84706071,2026-07-07,3,2,stratified,4255433,Star-mine,btk15049,1,DECISIVE,0,149,13,14,d9614beda9774552,dafa1e6efd85150e,60,60,action,action
+85012198,2026-07-09,3,2,stratified,3979069,wkonishi,Majkel1337,1,DECISIVE,0,145,9,10,831fd3a04060c7c2,c9d8794e26a87fa3,60,60,action,action
+84637928,2026-07-07,3,2,stratified,4122865,渡邊征央,wao zhang,1,DECISIVE,0,151,11,12,b43a53d96da0f0b5,2b3108749e2032d7,60,60,action,action
+85458413,2026-07-11,3,2,stratified,4383498,jiatu.l,tomo11111,0,DECISIVE,0,163,11,10,dc2ce39b94cbbb38,8be72bbfa0bafaff,60,60,action,action
+85070210,2026-07-09,3,2,stratified,4036289,OSELCOUN,nasuo445,0,DECISIVE,0,142,11,10,b20e3e96100a11d5,e34dae96b1984485,60,60,action,action
+85438964,2026-07-11,3,2,stratified,4207603,THIRD PTCG Club,kashiwashira,1,DECISIVE,0,150,27,28,fbbd8ac1e662e82c,c6970cfeed44b34d,60,60,action,action
+84814298,2026-07-08,3,2,stratified,4392275,Yushin Ito,Eduardo Rocha de Andrade,0,DECISIVE,0,165,11,10,910dcaefeb77a2f0,b43a53d96da0f0b5,60,60,action,action
+84527653,2026-07-07,3,2,stratified,4327081,nasuo445,iwashi,0,DECISIVE,0,150,11,10,e34dae96b1984485,b43a53d96da0f0b5,60,60,action,action
+85460365,2026-07-11,3,3,stratified,4602036,Yushin Ito,Majkel1337,0,DECISIVE,0,156,15,14,b20e3e96100a11d5,fcac695071c3f3cf,60,60,action,action
+84880457,2026-07-08,3,3,stratified,4565724,渡邊征央,Yushin Ito,1,DECISIVE,0,174,12,12,b43a53d96da0f0b5,910dcaefeb77a2f0,60,60,action,action
+84704649,2026-07-07,3,3,stratified,5136375,Akira-Ninth,THIRD PTCG Club,0,DECISIVE,1,178,12,11,9d1dad39ec641aa0,b43a53d96da0f0b5,60,60,action,action
+84788305,2026-07-08,3,3,stratified,4949537,btk15049,nasuo445,0,DECISIVE,1,172,12,11,dafa1e6efd85150e,e34dae96b1984485,60,60,action,action
+84564492,2026-07-07,3,3,stratified,5076866,iwashi,ei1333,0,DECISIVE,0,181,11,10,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+85249115,2026-07-10,3,3,stratified,4610048,bono,ei ei ei yikuso,1,DECISIVE,0,171,13,14,b20e3e96100a11d5,831fd3a04060c7c2,60,60,action,action
+85077142,2026-07-09,3,3,stratified,5003129,MPGaming,Majkel1337,0,DECISIVE,0,170,25,24,37f2032236fb6baf,831fd3a04060c7c2,60,60,action,action
+85624990,2026-07-12,3,3,stratified,5267811,junlee789,Melvin Low,0,DECISIVE,0,176,13,12,e34dae96b1984485,0e05ea288ae6e6a6,60,60,action,action
+85726698,2026-07-13,3,3,stratified,5018294,Majkel1337,LiamK,1,DECISIVE,0,168,11,12,fcac695071c3f3cf,3fc2cb03df5b2747,60,60,action,action
+84572671,2026-07-07,3,3,stratified,5026312,payanotty,mitomeat823,1,DECISIVE,0,178,13,14,0078ce0f297a4597,7800c70ef460208a,60,60,action,action
+85814832,2026-07-13,3,3,stratified,4570390,Yushin Ito,bono,0,DECISIVE,0,166,15,14,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+85472972,2026-07-11,3,3,stratified,5018676,tonakaiiii,MPGaming,1,DECISIVE,0,175,15,16,b43a53d96da0f0b5,14db4b34cc8fbbb7,60,60,action,action
+85745487,2026-07-13,3,3,stratified,4532808,Budew,bono,1,DECISIVE,0,165,15,16,37f2032236fb6baf,b43a53d96da0f0b5,60,60,action,action
+85563773,2026-07-12,3,3,stratified,4727178,soyukke,LiamK,0,DECISIVE,0,164,17,16,b20e3e96100a11d5,3fc2cb03df5b2747,60,60,action,action
+85348245,2026-07-11,3,3,stratified,4557170,youtube.com/@BigBugginnings,matsurih,0,DECISIVE,0,170,11,10,219bb78661ad6ccd,831fd3a04060c7c2,60,60,action,action
+85718783,2026-07-13,3,3,stratified,4829721,wkonishi,rick & shikitora,0,DECISIVE,0,166,21,20,37f2032236fb6baf,8417597ea8879a72,60,60,action,action
+85186563,2026-07-10,3,3,stratified,4813489,ヌメルゴンex,nasuo445,1,DECISIVE,0,171,13,14,b43a53d96da0f0b5,e34dae96b1984485,60,60,action,action
+85608483,2026-07-12,3,3,stratified,4961866,Majkel1337,Budew,1,DECISIVE,0,166,21,22,fcac695071c3f3cf,37f2032236fb6baf,60,60,action,action
+84719595,2026-07-07,3,3,stratified,5290964,bono,Gotem Penguin,1,DECISIVE,0,190,49,50,b20e3e96100a11d5,e69858a31af3698a,60,60,action,action
+84975065,2026-07-09,3,3,stratified,4916941,THIRD PTCG Club,ei1333,1,DECISIVE,0,167,15,16,2da70d7f4cb16df3,910dcaefeb77a2f0,60,60,action,action
+85025547,2026-07-09,3,3,stratified,4605581,AdrianWang2003,MPGaming,1,DECISIVE,1,159,28,29,4941578511f48d1e,37f2032236fb6baf,60,60,action,action
+84957556,2026-07-09,3,3,stratified,4937406,bono,Raihan Ramadistra,1,DECISIVE,0,181,39,40,69252ea384766495,69252ea384766495,60,60,action,action
+84805908,2026-07-08,3,3,stratified,4890008,kuromoka,bono,1,DECISIVE,0,167,21,22,b7fe4794b7f5835b,69252ea384766495,60,60,action,action
+85238705,2026-07-10,3,3,stratified,4545789,MPGaming,ZETADIVISION,0,DECISIVE,0,173,19,18,37f2032236fb6baf,7d3dd55013032486,60,60,action,action
+85732738,2026-07-13,3,3,stratified,4742658,bono,Majkel1337,0,DECISIVE,0,172,11,10,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+84718085,2026-07-07,3,4,stratified,6922219,やる気元気ミワハルキ,Yushin Ito,0,DECISIVE,0,225,19,18,6e15dd0f2dd6c299,910dcaefeb77a2f0,60,60,action,action
+84549209,2026-07-07,3,4,stratified,6671139,5.5,ei ei ei yikuso,0,DECISIVE,0,221,19,18,0065b4cfff358aba,831fd3a04060c7c2,60,60,action,action
+84689365,2026-07-07,3,4,stratified,5772088,bono,youtube.com/@BigBugginnings,0,DECISIVE,0,212,35,34,69252ea384766495,884c0683209ead35,60,60,action,action
+85229110,2026-07-10,3,4,stratified,5971388,Majkel1337,kazuki0123,1,DECISIVE,0,203,13,14,b20e3e96100a11d5,c9d8794e26a87fa3,60,60,action,action
+84706067,2026-07-07,3,4,stratified,6547857,kazuki0123,nasuo445,0,DECISIVE,0,208,13,12,c9d8794e26a87fa3,e34dae96b1984485,60,60,action,action
+85035583,2026-07-09,3,4,stratified,6156924,ごんさくよねきち,213tubo,0,DECISIVE,0,203,19,18,d8c9db09b2d04f55,b20e3e96100a11d5,60,60,action,action
+85376681,2026-07-11,3,4,stratified,5634409,junlee789 - 이준,AyFukushima,1,DECISIVE,0,196,13,14,e34dae96b1984485,e13fd1ccc84b095d,60,60,action,action
+85137645,2026-07-10,3,4,stratified,6414588,bono,Yushin Ito,0,DECISIVE,0,211,21,20,b20e3e96100a11d5,910dcaefeb77a2f0,60,60,action,action
+85536171,2026-07-12,3,4,stratified,5924912,Budew,LiamK,1,DECISIVE,0,197,39,40,37f2032236fb6baf,3371c6e0d2105401,60,60,action,action
+85016511,2026-07-09,3,4,stratified,6943174,ShumpeiNomura,213tubo,0,DECISIVE,0,231,59,58,156485fe400622e4,b20e3e96100a11d5,60,60,action,action
+84694946,2026-07-07,3,4,stratified,6344485,Xenon Soh,bono,1,DECISIVE,1,219,24,25,59138a345c6b933a,b20e3e96100a11d5,60,60,action,action
+85787307,2026-07-13,3,4,stratified,5443305,bono,matsurih,0,DECISIVE,0,180,17,16,b20e3e96100a11d5,fcac695071c3f3cf,60,60,action,action
+85710283,2026-07-13,3,4,stratified,5790016,Majkel1337,hpp sak,1,DECISIVE,0,199,13,14,fcac695071c3f3cf,c4401e2db5bd7036,60,60,action,action
+85741276,2026-07-13,3,4,stratified,7237905,e-toppo + kurupical,WinDecks,0,DECISIVE,1,243,70,69,449ba799a24fb205,478924c6d1995606,60,60,action,action
+84947520,2026-07-09,3,4,stratified,5861288,OsElCoUn,nasuo445,1,DECISIVE,0,194,17,18,b20e3e96100a11d5,e34dae96b1984485,60,60,action,action
+84560908,2026-07-07,3,4,stratified,5713532,payanotty,jiatu.l,1,DECISIVE,0,200,11,12,0078ce0f297a4597,b43a53d96da0f0b5,60,60,action,action
+84796891,2026-07-08,3,4,stratified,7309022,ごんさくよねきち,bono,0,DECISIVE,0,244,37,36,d8c9db09b2d04f55,69252ea384766495,60,60,action,action
+84530708,2026-07-07,3,4,stratified,5884439,shg195,bono,1,DECISIVE,0,205,22,22,e44a46bfcc0214e4,69252ea384766495,60,60,action,action
+84718042,2026-07-07,3,4,stratified,6514241,youtube.com/@BigBugginnings,btk15049,0,DECISIVE,0,218,13,12,884c0683209ead35,dafa1e6efd85150e,60,60,action,action
+84750852,2026-07-08,3,4,stratified,7262535,LiamK,tonakaiiii,1,DECISIVE,0,238,27,28,3371c6e0d2105401,b43a53d96da0f0b5,60,60,action,action
+84898988,2026-07-08,3,4,stratified,6486671,Mykhailo Kalus,nasuo445,1,DECISIVE,0,219,13,14,c9d8794e26a87fa3,e34dae96b1984485,60,60,action,action
+84976601,2026-07-09,3,4,stratified,5395225,bono,213tubo,1,DECISIVE,0,177,19,20,b20e3e96100a11d5,b20e3e96100a11d5,60,60,action,action
+85092921,2026-07-09,3,4,stratified,8168189,Rmy,THIRD PTCG Club,1,DECISIVE,0,267,33,34,831fd3a04060c7c2,3371c6e0d2105401,60,60,action,action
+85266361,2026-07-10,3,4,stratified,5894201,ごんさくよねきち,Yushin Ito,1,DECISIVE,0,204,11,12,8907612d396f895a,910dcaefeb77a2f0,60,60,action,action
+85446437,2026-07-11,3,4,stratified,6114739,Yushin Ito,youtube.com/@BigBugginnings,0,DECISIVE,0,220,13,12,910dcaefeb77a2f0,219bb78661ad6ccd,60,60,action,action
+86163833,2026-07-15,4,0,stratified,2625866,kashiwashira,WinDecks,0,DECISIVE,0,106,11,10,bd0509fb088518b1,478924c6d1995606,60,60,action,action
+86112638,2026-07-15,4,0,stratified,3037798,kashiwashira,Majkel1337,1,DECISIVE,0,115,19,20,bd0509fb088518b1,fcac695071c3f3cf,60,60,action,action
+86387993,2026-07-16,4,0,stratified,2472361,Jack,懒惰的金枪鱼,0,DECISIVE,0,96,9,8,abf375974152bc4e,14db4b34cc8fbbb7,60,60,action,action
+86467885,2026-07-17,4,0,stratified,3013873,Majkel1337,Oshbocker,0,DECISIVE,0,119,11,10,fcac695071c3f3cf,d19dd275a0b6998b,60,60,action,action
+86033494,2026-07-15,4,0,stratified,2225679,Majkel1337,MPGaming,0,DECISIVE,0,86,9,8,fcac695071c3f3cf,37f2032236fb6baf,60,60,action,action
+85989515,2026-07-14,4,0,stratified,3032003,ttmn,taksai,1,DECISIVE,0,121,13,14,fcac695071c3f3cf,cf827fff53a7d57b,60,60,action,action
+85984626,2026-07-14,4,0,stratified,1401823,taksai,懒惰的金枪鱼,0,DECISIVE,0,63,9,9,495b41c6bf629ba8,14db4b34cc8fbbb7,60,60,action,action
+85881412,2026-07-14,4,0,stratified,2448261,Rmy,THIRD PTCG Club,1,DECISIVE,0,98,9,10,5ef1f4c673271c4f,1e1aceae4b6358f6,60,60,action,action
+86853721,2026-07-19,4,0,stratified,2910386,junlee789,KawattaTaido,0,DECISIVE,0,116,11,10,e34dae96b1984485,b43a53d96da0f0b5,60,60,action,action
+86786744,2026-07-19,4,0,stratified,2512679,Yushin Ito,bono,0,DECISIVE,0,105,15,14,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+86399886,2026-07-17,4,0,stratified,2678778,KawattaTaido,Majkel1337,1,DECISIVE,0,105,11,12,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+86877389,2026-07-19,4,0,stratified,3082835,LumenLiquidity,jiatu.l,0,DECISIVE,0,129,11,10,2603936f8d49f47b,61f90c30a060ef40,60,60,action,action
+86622823,2026-07-18,4,0,stratified,1405905,Yushin Ito,__Taichicchi__,0,DECISIVE,0,61,7,6,b20e3e96100a11d5,37f2032236fb6baf,60,60,action,action
+86045732,2026-07-15,4,0,stratified,2987472,ei ei ei yikuso,Team Rot-Weiß,1,DECISIVE,0,109,13,14,f90d43e354d19683,b20e3e96100a11d5,60,60,action,action
+86240376,2026-07-16,4,0,stratified,3040699,aaa,Yushin Ito,1,DECISIVE,0,119,11,12,37f2032236fb6baf,b20e3e96100a11d5,60,60,action,action
+86682693,2026-07-18,4,0,stratified,3034550,kashiwashira,Dieter,0,DECISIVE,0,120,9,10,0fe5bb1f17b6b854,b20e3e96100a11d5,60,60,action,action
+86279475,2026-07-16,4,0,stratified,2574987,Oshbocker,kashiwashira,0,DECISIVE,0,106,13,12,d19dd275a0b6998b,bd0509fb088518b1,60,60,action,action
+86538934,2026-07-17,4,0,stratified,2816267,taksai,THIRD PTCG Club,0,DECISIVE,0,111,11,10,ac9855a643a150ea,58c4d89cf8edc355,60,60,action,action
+86590944,2026-07-18,4,0,stratified,1337120,Team Rot-Weiß,Majkel1337,1,DECISIVE,0,57,5,6,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+86671375,2026-07-18,4,0,stratified,3093838,Yushin Ito,Luca,0,DECISIVE,0,119,11,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+86556484,2026-07-17,4,0,stratified,2728058,Dieter,gecogeco,0,DECISIVE,0,105,15,14,fcac695071c3f3cf,995f93195aa795aa,60,60,action,action
+85889020,2026-07-14,4,0,stratified,2184934,vibechu,MPGaming,0,DECISIVE,0,85,9,8,37fabc1f62f64d07,37f2032236fb6baf,60,60,action,action
+86991635,2026-07-20,4,0,stratified,3051365,koala_bear “もりたにあん”,Oshbocker,1,DECISIVE,0,116,11,12,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+86969006,2026-07-19,4,0,stratified,2061588,Rmy,Oshbocker,0,DECISIVE,0,84,15,14,fcac695071c3f3cf,37f2032236fb6baf,60,60,action,action
+86358803,2026-07-16,4,0,stratified,1722082,Majkel1337,Oshbocker,0,DECISIVE,0,73,7,6,fcac695071c3f3cf,d19dd275a0b6998b,60,60,action,action
+86981237,2026-07-20,4,1,stratified,3876611,bono,Majkel1337,1,DECISIVE,0,139,9,10,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+86952302,2026-07-19,4,1,stratified,3239867,kashiwashira,THIRD PTCG Club,0,DECISIVE,0,124,11,10,a60edec4f2dfc3e5,58c4d89cf8edc355,60,60,action,action
+86712099,2026-07-18,4,1,stratified,3402590,RtoABC,Oshbocker,1,DECISIVE,1,130,8,9,63cc39b3cfe59c37,d19dd275a0b6998b,60,60,action,action
+86510329,2026-07-17,4,1,stratified,4021523,ごんさくよねきち,Majkel1337,1,DECISIVE,0,147,11,12,8907612d396f895a,fcac695071c3f3cf,60,60,action,action
+86368623,2026-07-16,4,1,stratified,3556917,youtube.com/@BigBugginnings,Rmy,0,DECISIVE,0,143,11,10,219bb78661ad6ccd,fcac695071c3f3cf,60,60,action,action
+85882019,2026-07-14,4,1,stratified,3696067,Budew,iwashi,1,DECISIVE,0,142,14,14,37f2032236fb6baf,b43a53d96da0f0b5,60,60,action,action
+87042577,2026-07-20,4,1,stratified,3995168,Oshbocker,Rmy,0,DECISIVE,0,144,25,24,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+85993062,2026-07-14,4,1,stratified,3548446,Yushin Ito,bono,1,DECISIVE,0,135,9,10,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+85893308,2026-07-14,4,1,stratified,3192768,Majkel1337,bono,0,DECISIVE,0,122,11,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+87021811,2026-07-20,4,1,stratified,3448074,Oshbocker,Majkel1337,1,DECISIVE,0,125,13,14,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+86002004,2026-07-14,4,1,stratified,3503925,WinDecks,懒惰的金枪鱼,0,DECISIVE,0,133,17,17,478924c6d1995606,14db4b34cc8fbbb7,60,60,action,action
+85997599,2026-07-14,4,1,stratified,3374055,THIRD PTCG Club,Takaaki Matsuda,1,DECISIVE,0,127,15,16,c8e3597d524a0e79,248f452e8b8aa953,60,60,action,action
+87152586,2026-07-20,4,1,stratified,3530954,Rafael,GUOHAOYANG,0,DECISIVE,0,142,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+86834185,2026-07-19,4,1,stratified,3455725,Yushin Ito,monnosuke,0,DECISIVE,0,134,13,12,fcac695071c3f3cf,46b184ae9968549d,60,60,action,action
+86876378,2026-07-19,4,1,stratified,3173868,Dieter,Luca,0,DECISIVE,0,121,11,10,b20e3e96100a11d5,dc2ce39b94cbbb38,60,60,action,action
+87154146,2026-07-20,4,1,stratified,3514610,monnosuke,THIRD PTCG Club,0,DECISIVE,0,132,9,8,00926e891310648e,58c4d89cf8edc355,60,60,action,action
+87031215,2026-07-20,4,1,stratified,3857573,KawattaTaido,Team KASA.,0,DECISIVE,0,147,11,10,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+85977807,2026-07-14,4,1,stratified,3602737,Rmy,Canon,0,DECISIVE,0,132,19,19,3fc2cb03df5b2747,156485fe400622e4,60,60,action,action
+86353826,2026-07-16,4,1,stratified,4021468,taksai,youtube.com/@BigBugginnings,0,DECISIVE,0,147,11,10,7a3dfdac5c420dd6,219bb78661ad6ccd,60,60,action,action
+85983088,2026-07-14,4,1,stratified,3258795,bono,WinDecks,0,DECISIVE,0,128,11,10,b43a53d96da0f0b5,478924c6d1995606,60,60,action,action
+86338191,2026-07-16,4,1,stratified,3530904,Majkel1337,Oshbocker,0,DECISIVE,0,130,23,22,fcac695071c3f3cf,1e1aceae4b6358f6,60,60,action,action
+86084814,2026-07-15,4,1,stratified,3336254,Yushin Ito,THIRD PTCG Club,1,DECISIVE,0,129,13,14,910dcaefeb77a2f0,0eb1f4f9633c4cd0,60,60,action,action
+86460984,2026-07-17,4,1,stratified,3953994,Dieter,Majkel1337,0,DECISIVE,0,144,13,12,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+86669280,2026-07-18,4,1,stratified,4030997,Majkel1337,KawattaTaido,1,DECISIVE,0,151,9,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+86260966,2026-07-16,4,1,stratified,3164667,bono,ei ei ei yikuso,1,DECISIVE,0,121,11,12,c9d8794e26a87fa3,f90d43e354d19683,60,60,action,action
+86919689,2026-07-19,4,2,stratified,4534119,齐乐,Yushin Ito,0,DECISIVE,0,153,13,12,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+86463973,2026-07-17,4,2,stratified,4113812,LiamK,Oshbocker,1,DECISIVE,0,147,17,18,3fc2cb03df5b2747,d19dd275a0b6998b,60,60,action,action
+87161640,2026-07-20,4,2,stratified,4253584,GUOHAOYANG,LumenLiquidity,1,DECISIVE,0,158,11,12,dc2ce39b94cbbb38,2603936f8d49f47b,60,60,action,action
+86467092,2026-07-17,4,2,stratified,4069942,xnx,齐乐,0,DECISIVE,0,145,27,26,fce93e7e9e521c17,fcac695071c3f3cf,60,60,action,action
+86551416,2026-07-17,4,2,stratified,4420020,Rmy,齐乐,0,DECISIVE,0,155,15,14,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+86849953,2026-07-19,4,2,stratified,4117647,Luca,Jack,0,DECISIVE,0,154,11,10,dc2ce39b94cbbb38,61c5f1394e265863,60,60,action,action
+85871252,2026-07-14,4,2,stratified,4560867,THIRD PTCG Club,Majkel1337,1,DECISIVE,0,151,11,12,fbbd8ac1e662e82c,fcac695071c3f3cf,60,60,action,action
+86037562,2026-07-15,4,2,stratified,4476396,Majkel1337,Yushin Ito,0,DECISIVE,0,155,13,12,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+86706183,2026-07-18,4,2,stratified,4507387,LumenLiquidity,Luca,0,DECISIVE,0,166,11,10,2603936f8d49f47b,dc2ce39b94cbbb38,60,60,action,action
+87164390,2026-07-20,4,2,stratified,4614887,齐乐,jiatu.l,0,DECISIVE,0,166,13,12,fcac695071c3f3cf,61f90c30a060ef40,60,60,action,action
+86370145,2026-07-16,4,2,stratified,4535627,懒惰的金枪鱼,junlee789,1,DECISIVE,0,164,19,20,14db4b34cc8fbbb7,e34dae96b1984485,60,60,action,action
+86500036,2026-07-17,4,2,stratified,4607855,Majkel1337,youtube.com/@BigBugginnings,0,DECISIVE,0,168,13,12,fcac695071c3f3cf,219bb78661ad6ccd,60,60,action,action
+86403313,2026-07-17,4,2,stratified,4411989,__Taichicchi__,Majkel1337,0,DECISIVE,0,152,29,28,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+86832509,2026-07-19,4,2,stratified,4328500,Luca,THIRD PTCG Club,1,DECISIVE,0,153,9,10,dc2ce39b94cbbb38,58c4d89cf8edc355,60,60,action,action
+86141953,2026-07-15,4,2,stratified,4199338,vibechu,jiatu.l,0,DECISIVE,0,150,11,10,37fabc1f62f64d07,61f90c30a060ef40,60,60,action,action
+86397217,2026-07-17,4,2,stratified,4625063,Majkel1337,KawattaTaido,1,DECISIVE,0,159,9,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+86859623,2026-07-19,4,2,stratified,4268370,THIRD PTCG Club,Luca,0,DECISIVE,0,150,11,10,58c4d89cf8edc355,dc2ce39b94cbbb38,60,60,action,action
+86863478,2026-07-19,4,2,stratified,4708498,Rmy,bono,1,DECISIVE,0,166,9,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+85984709,2026-07-14,4,2,stratified,4398724,fuga doggo,bono,1,DECISIVE,0,156,13,14,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+85967440,2026-07-14,4,2,stratified,4443680,Rmy,matsurih,0,DECISIVE,0,159,21,20,5ef1f4c673271c4f,fcac695071c3f3cf,60,60,action,action
+86778603,2026-07-18,4,2,stratified,4559474,THIRD PTCG Club,Luca,1,DECISIVE,0,166,11,12,58c4d89cf8edc355,dc2ce39b94cbbb38,60,60,action,action
+85914503,2026-07-14,4,2,stratified,4713895,vibechu,Rmy,0,DECISIVE,0,164,15,15,37fabc1f62f64d07,5ef1f4c673271c4f,60,60,action,action
+86169987,2026-07-15,4,2,stratified,4289311,THIRD PTCG Club,bono,1,DECISIVE,0,153,13,14,88739802da194717,b20e3e96100a11d5,60,60,action,action
+87028874,2026-07-20,4,2,stratified,4677240,junlee789,Majkel1337,1,DECISIVE,0,165,11,12,e34dae96b1984485,fcac695071c3f3cf,60,60,action,action
+86973760,2026-07-19,4,2,stratified,4344753,Rafael,rick & shikitora,1,DECISIVE,0,154,11,12,dc2ce39b94cbbb38,b20e3e96100a11d5,60,60,action,action
+85896664,2026-07-14,4,3,stratified,5056584,ei ei ei yikuso,Majkel1337,1,DECISIVE,0,170,15,16,f90d43e354d19683,fcac695071c3f3cf,60,60,action,action
+87082626,2026-07-20,4,3,stratified,5314752,jiatu.l,THIRD PTCG Club,1,DECISIVE,0,177,11,12,61f90c30a060ef40,58c4d89cf8edc355,60,60,action,action
+87123065,2026-07-20,4,3,stratified,5428807,THIRD PTCG Club,Oshbocker,1,DECISIVE,0,190,23,24,58c4d89cf8edc355,37f2032236fb6baf,60,60,action,action
+87156258,2026-07-20,4,3,stratified,5268241,__Taichicchi__,LumenLiquidity,0,DECISIVE,0,180,13,12,b43a53d96da0f0b5,2603936f8d49f47b,60,60,action,action
+86875297,2026-07-19,4,3,stratified,4794403,THIRD PTCG Club,Rmy,0,DECISIVE,0,165,25,24,58c4d89cf8edc355,fcac695071c3f3cf,60,60,action,action
+86156158,2026-07-15,4,3,stratified,5123534,__Taichicchi__,懒惰的金枪鱼,0,DECISIVE,0,172,35,34,37f2032236fb6baf,14db4b34cc8fbbb7,60,60,action,action
+86436921,2026-07-17,4,3,stratified,5204125,齐乐,Luca,1,DECISIVE,0,180,14,14,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+86961787,2026-07-19,4,3,stratified,4757638,koala_bear “もりたにあん”,齐乐,1,DECISIVE,0,167,21,22,37f2032236fb6baf,fcac695071c3f3cf,60,60,action,action
+86803939,2026-07-19,4,3,stratified,5019052,THIRD PTCG Club,LumenLiquidity,1,DECISIVE,0,178,12,12,58c4d89cf8edc355,2603936f8d49f47b,60,60,action,action
+86816287,2026-07-19,4,3,stratified,5381511,Yushin Ito,Luca,0,DECISIVE,0,186,15,14,b20e3e96100a11d5,dc2ce39b94cbbb38,60,60,action,action
+86967381,2026-07-19,4,3,stratified,5248577,THIRD PTCG Club,Abhyuday,0,DECISIVE,0,177,15,14,58c4d89cf8edc355,f5fadf03018935e6,60,60,action,action
+87016351,2026-07-20,4,3,stratified,4841096,Team KASA.,Yushin Ito,0,DECISIVE,0,166,13,12,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+86052630,2026-07-15,4,3,stratified,5205351,ei ei ei yikuso,bono,0,DECISIVE,0,173,15,14,f90d43e354d19683,b20e3e96100a11d5,60,60,action,action
+86908211,2026-07-19,4,3,stratified,4788310,Yushin Ito,THIRD PTCG Club,1,DECISIVE,0,165,21,22,fcac695071c3f3cf,58c4d89cf8edc355,60,60,action,action
+86008249,2026-07-14,4,3,stratified,4872206,ei ei ei yikuso,cocosu3434,1,DECISIVE,0,168,33,34,f90d43e354d19683,dc762c6de252f8b4,60,60,action,action
+86951771,2026-07-19,4,3,stratified,5392422,Majkel1337,THIRD PTCG Club,1,DECISIVE,0,185,15,16,fcac695071c3f3cf,58c4d89cf8edc355,60,60,action,action
+86954833,2026-07-19,4,3,stratified,4827195,junlee789,__Taichicchi__,0,DECISIVE,0,176,13,12,e34dae96b1984485,b43a53d96da0f0b5,60,60,action,action
+85972583,2026-07-14,4,3,stratified,4807318,taksai,monnosuke,1,DECISIVE,0,171,15,16,cf827fff53a7d57b,2e79a10ee3ba9449,60,60,action,action
+86793469,2026-07-19,4,3,stratified,5160234,Luca,junlee789,0,DECISIVE,0,188,13,13,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+86974296,2026-07-19,4,3,stratified,5001215,齐乐,wwwwwwwwwwwwwwwwwwww,1,DECISIVE,0,172,11,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+85984622,2026-07-14,4,3,stratified,5340487,THIRD PTCG Club,Yushin Ito,1,DECISIVE,0,180,15,16,88739802da194717,b20e3e96100a11d5,60,60,action,action
+86449454,2026-07-17,4,3,stratified,5240711,miya,xnx,1,DECISIVE,0,182,38,38,b20e3e96100a11d5,a88ac606b2d71a36,60,60,action,action
+86880842,2026-07-19,4,3,stratified,4962102,junlee789,Luca,0,DECISIVE,0,172,11,10,e34dae96b1984485,dc2ce39b94cbbb38,60,60,action,action
+87153656,2026-07-20,4,3,stratified,5239828,Rmy,Team Rot-Weiß,0,DECISIVE,0,176,15,14,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+85967294,2026-07-14,4,3,stratified,4853222,bono,Orion,0,DECISIVE,0,172,13,12,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+86099231,2026-07-15,4,4,stratified,7777606,Oshbocker,ToastUz,1,DECISIVE,0,268,26,26,910dcaefeb77a2f0,14db4b34cc8fbbb7,60,60,action,action
+87158406,2026-07-20,4,4,stratified,6446555,THIRD PTCG Club,KawattaTaido,1,DECISIVE,0,213,13,14,58c4d89cf8edc355,b43a53d96da0f0b5,60,60,action,action
+87144694,2026-07-20,4,4,stratified,5600953,Benarg,monnosuke,1,DECISIVE,0,200,15,16,fcac695071c3f3cf,00926e891310648e,60,60,action,action
+86947061,2026-07-19,4,4,stratified,6310229,junlee789,Kohecchi,0,DECISIVE,0,204,17,16,e34dae96b1984485,fcac695071c3f3cf,60,60,action,action
+86080771,2026-07-15,4,4,stratified,6259026,kashiwashira,LiamK,1,DECISIVE,0,206,29,30,bd0509fb088518b1,3fc2cb03df5b2747,60,60,action,action
+86372120,2026-07-16,4,4,stratified,5812625,__Taichicchi__,youtube.com/@BigBugginnings,0,DECISIVE,0,205,19,19,37f2032236fb6baf,219bb78661ad6ccd,60,60,action,action
+85948696,2026-07-14,4,4,stratified,8374603,Yushin Ito,Marshall Maximizer,0,DECISIVE,0,258,57,56,b20e3e96100a11d5,3371c6e0d2105401,60,60,action,action
+86825395,2026-07-19,4,4,stratified,7537273,THIRD PTCG Club,junlee789,1,DECISIVE,0,238,17,18,54454f5d1343798a,e34dae96b1984485,60,60,action,action
+87031666,2026-07-20,4,4,stratified,5466488,Kazama Yusuke,Majkel1337,0,DECISIVE,0,191,11,10,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+85868268,2026-07-14,4,4,stratified,5896202,capbloo,__Taichicchi__,0,DECISIVE,0,200,13,12,d2e1bedcf0288b4f,b20e3e96100a11d5,60,60,action,action
+86210040,2026-07-16,4,4,stratified,5858647,bono,Majkel1337,0,DECISIVE,0,201,11,10,afaa4ac744b28ee5,fcac695071c3f3cf,60,60,action,action
+86528341,2026-07-17,4,4,stratified,9469483,Majkel1337,kashiwashira,1,DECISIVE,0,287,31,32,fcac695071c3f3cf,bd0509fb088518b1,60,60,action,action
+85889114,2026-07-14,4,4,stratified,7793666,Marshall Maximizer,__Taichicchi__,0,DECISIVE,0,254,45,44,3371c6e0d2105401,b20e3e96100a11d5,60,60,action,action
+86796220,2026-07-19,4,4,stratified,6253859,kashiwashira,齐乐,0,DECISIVE,0,208,17,16,0fe5bb1f17b6b854,fcac695071c3f3cf,60,60,action,action
+87166054,2026-07-20,4,4,stratified,6012396,Majkel1337,Roman Stupin,,DRAW,0,206,13,13,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+86412859,2026-07-17,4,4,stratified,6036641,Majkel1337,Luca,1,DECISIVE,0,200,11,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+86200518,2026-07-16,4,4,stratified,10258938,THIRD PTCG Club,Team KASA.,0,DECISIVE,0,313,73,72,0eb1f4f9633c4cd0,b20e3e96100a11d5,60,60,action,action
+86843498,2026-07-19,4,4,stratified,7629562,wally0593,kashiwashira,0,DECISIVE,0,236,45,44,fcac695071c3f3cf,0fe5bb1f17b6b854,60,60,action,action
+86734754,2026-07-18,4,4,stratified,6944070,THIRD PTCG Club,Luca,1,DECISIVE,0,224,15,16,58c4d89cf8edc355,dc2ce39b94cbbb38,60,60,action,action
+86664936,2026-07-18,4,4,stratified,6522980,kashiwashira,miya,0,DECISIVE,0,207,37,36,0fe5bb1f17b6b854,b20e3e96100a11d5,60,60,action,action
+87087281,2026-07-20,4,4,stratified,7507055,Rafael,Raja Biswas,0,DECISIVE,0,239,17,16,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+86090384,2026-07-15,4,4,stratified,8220621,THIRD PTCG Club,wkonishi,0,DECISIVE,0,259,41,40,0eb1f4f9633c4cd0,fcac695071c3f3cf,60,60,action,action
+86056205,2026-07-15,4,4,stratified,6199530,Team_Rocket,Ebi,0,DECISIVE,0,209,15,14,d5a00cd9fec5560e,3fc2cb03df5b2747,60,60,action,action
+86781512,2026-07-18,4,4,stratified,5758485,kashiwashira,Yushin Ito,0,DECISIVE,0,189,17,16,0fe5bb1f17b6b854,b20e3e96100a11d5,60,60,action,action
+86205337,2026-07-16,4,4,stratified,12154315,lolzpo emonga,Bulba-Zero,0,DECISIVE,0,369,75,74,c6970cfeed44b34d,b20e3e96100a11d5,60,60,action,action
+88506860,2026-07-27,5,0,stratified,3408698,James Cox,Where is my orbit,0,DECISIVE,0,128,11,10,b78aa05e94236e10,5ef1f4c673271c4f,60,60,action,action
+87402208,2026-07-22,5,0,stratified,3491068,Majkel1337,Yushin Ito,1,DECISIVE,0,131,11,12,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+88239981,2026-07-26,5,0,stratified,2700953,Chua Zheng Wei Brian,Eduardo Rocha de Andrade,0,DECISIVE,0,107,11,10,dc2ce39b94cbbb38,1a6bef5759001c56,60,60,action,action
+88120129,2026-07-25,5,0,stratified,2874915,__Taichicchi__,bono,0,DECISIVE,0,118,9,8,b43a53d96da0f0b5,e34dae96b1984485,60,60,action,action
+87274698,2026-07-21,5,0,stratified,3575078,jiatu.l,kashiwashira,0,DECISIVE,0,135,9,8,61f90c30a060ef40,3fe56fcd5e43bce7,60,60,action,action
+87468693,2026-07-22,5,0,stratified,3259615,Lunariz,__Taichicchi__,0,DECISIVE,0,124,9,8,dc2ce39b94cbbb38,0eb1f4f9633c4cd0,60,60,action,action
+88401864,2026-07-27,5,0,stratified,2708061,e-toppo + kurupical,Yushin Ito,1,DECISIVE,0,113,11,12,0d18cb26af1f820a,fcac695071c3f3cf,60,60,action,action
+87731254,2026-07-23,5,0,stratified,2920992,jiatu.l,{{ team_name }},1,DECISIVE,0,109,9,10,61f90c30a060ef40,0eb1f4f9633c4cd0,60,60,action,action
+87275787,2026-07-21,5,0,stratified,565726,Majkel1337,GUOHAOYANG,0,DECISIVE,0,28,3,2,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+87202953,2026-07-21,5,0,stratified,744188,PP.TAKEHIRO_KAWADA,ポケカ前線,0,DECISIVE,0,36,3,3,50f4fed941e7bd61,dc2ce39b94cbbb38,60,60,action,action
+88409643,2026-07-27,5,0,stratified,3623567,Team Rot-Weiß,James Cox,1,DECISIVE,0,138,9,10,fcac695071c3f3cf,b78aa05e94236e10,60,60,action,action
+87399473,2026-07-22,5,0,stratified,3509895,Lunariz,Kotaro OKUYAMA,0,DECISIVE,0,130,13,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+87930411,2026-07-24,5,0,stratified,1366523,Where is my orbit,taksai,0,DECISIVE,0,61,11,10,5ef1f4c673271c4f,4511e2f8da72f777,60,60,action,action
+87365218,2026-07-22,5,0,stratified,3105229,iwashi,Yushin Ito,1,DECISIVE,0,116,11,12,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+88130008,2026-07-25,5,0,stratified,2753936,NIWATORI,bono,1,DECISIVE,0,109,17,18,b43a53d96da0f0b5,e34dae96b1984485,60,60,action,action
+87322450,2026-07-21,5,0,stratified,2215995,kashiwashira,Yushin Ito,0,DECISIVE,0,91,15,14,fb6d7f5767de6f81,fcac695071c3f3cf,60,60,action,action
+88122735,2026-07-25,5,0,stratified,2853209,Majkel1337,JZ,0,DECISIVE,0,110,9,8,4d503cd6c360c028,b43a53d96da0f0b5,60,60,action,action
+87364044,2026-07-22,5,0,stratified,3423726,Kotaro OKUYAMA,S4nkurero,0,DECISIVE,0,128,9,8,dc2ce39b94cbbb38,a60edec4f2dfc3e5,60,60,action,action
+88319488,2026-07-26,5,0,stratified,3551424,JZ,Dries @ Tufa Labs,0,DECISIVE,0,134,9,8,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+88312316,2026-07-26,5,0,stratified,3559452,LumenLiquidity,cununn,1,DECISIVE,0,132,11,12,2603936f8d49f47b,fcac695071c3f3cf,60,60,action,action
+87257486,2026-07-21,5,0,stratified,3334937,kashiwashira,jiatu.l,0,DECISIVE,0,123,9,8,3fe56fcd5e43bce7,61f90c30a060ef40,60,60,action,action
+88499608,2026-07-27,5,0,stratified,2860693,Majkel1337,Pokemon Fan,0,DECISIVE,0,108,9,8,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+87801201,2026-07-24,5,0,stratified,3521689,Jack,Xiangyu Liu,1,DECISIVE,0,126,7,8,e34dae96b1984485,61c5f1394e265863,60,60,action,action
+88282965,2026-07-26,5,0,stratified,2134558,Pokémon Day Care,flg,0,DECISIVE,0,95,9,9,dc2ce39b94cbbb38,058f82abd5449e39,60,60,action,action
+87571515,2026-07-23,5,0,stratified,3574121,HowardLeeTW,LumenLiquidity,0,DECISIVE,0,141,11,10,dc2ce39b94cbbb38,2603936f8d49f47b,60,60,action,action
+87933633,2026-07-24,5,1,stratified,3675447,213tubo,LiamK,1,DECISIVE,0,143,17,18,b43a53d96da0f0b5,14db4b34cc8fbbb7,60,60,action,action
+87836788,2026-07-24,5,1,stratified,4186249,Rmy,goonew,0,DECISIVE,0,166,15,14,dc2ce39b94cbbb38,888826866a5bccdd,60,60,action,action
+87537628,2026-07-22,5,1,stratified,3952747,Luca,Yushin Ito,0,DECISIVE,0,142,9,8,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+88159719,2026-07-26,5,1,stratified,4281673,西松大祐,JZ,1,DECISIVE,0,163,9,10,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+87767135,2026-07-24,5,1,stratified,4163677,Luca,Majkel1337,1,DECISIVE,0,156,11,12,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87741198,2026-07-23,5,1,stratified,4341524,goonew,HowardLeeTW,0,DECISIVE,0,153,13,12,a6449dd6b7ace502,dc2ce39b94cbbb38,60,60,action,action
+88038669,2026-07-25,5,1,stratified,3747979,LiamK,Kh0a,0,DECISIVE,0,134,11,10,1e1aceae4b6358f6,dc2ce39b94cbbb38,60,60,action,action
+87444531,2026-07-22,5,1,stratified,3703549,__Taichicchi__,懒惰的金枪鱼,0,DECISIVE,0,140,13,12,b43a53d96da0f0b5,14db4b34cc8fbbb7,60,60,action,action
+87764398,2026-07-24,5,1,stratified,3928229,Xiangyu Liu,tetsu2131,0,DECISIVE,0,139,9,8,61c5f1394e265863,dc2ce39b94cbbb38,60,60,action,action
+87227179,2026-07-21,5,1,stratified,4243304,Zachary Zhang,ei ei ei yikuso,1,DECISIVE,0,150,18,18,14db4b34cc8fbbb7,4fa2d13d3f52f835,60,60,action,action
+88501413,2026-07-27,5,1,stratified,3797369,junlee789,Pokopia,0,DECISIVE,0,137,9,9,e34dae96b1984485,dc2ce39b94cbbb38,60,60,action,action
+87367104,2026-07-22,5,1,stratified,3806843,Majkel1337,jiatu.l,0,DECISIVE,0,142,11,10,fcac695071c3f3cf,61f90c30a060ef40,60,60,action,action
+87401061,2026-07-22,5,1,stratified,4155172,齐乐,tw_shin,0,DECISIVE,0,145,11,10,fcac695071c3f3cf,fb6542fd45093b86,60,60,action,action
+88210283,2026-07-26,5,1,stratified,3942255,tetsu2131,msd0110,1,DECISIVE,0,144,11,12,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+88049419,2026-07-25,5,1,stratified,3792623,Benarg,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,DECISIVE,0,139,11,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+87404814,2026-07-22,5,1,stratified,3677437,vvhan,jiatu.l,1,DECISIVE,0,138,10,10,dc2ce39b94cbbb38,61f90c30a060ef40,60,60,action,action
+88287544,2026-07-26,5,1,stratified,4329098,e-toppo + kurupical,__Taichicchi__,0,DECISIVE,0,163,11,10,0d18cb26af1f820a,dc2ce39b94cbbb38,60,60,action,action
+87413574,2026-07-22,5,1,stratified,3801441,Yudai Ueno,junlee789,0,DECISIVE,0,144,17,16,e34dae96b1984485,e34dae96b1984485,60,60,action,action
+87828415,2026-07-24,5,1,stratified,4308588,NguyenThanhNhan,Team KASA.,0,DECISIVE,0,154,11,10,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+88331505,2026-07-26,5,1,stratified,4142357,junlee789,NIWATORI,0,DECISIVE,0,152,13,12,e34dae96b1984485,b43a53d96da0f0b5,60,60,action,action
+88392341,2026-07-27,5,1,stratified,3693696,Team Rot-Weiß,Dries @ Tufa Labs,0,DECISIVE,0,141,11,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+88156314,2026-07-26,5,1,stratified,4266460,denden12,less,1,DECISIVE,0,150,11,12,a60edec4f2dfc3e5,dc2ce39b94cbbb38,60,60,action,action
+87219160,2026-07-21,5,1,stratified,4312523,THIRD PTCG Club,S4nkurero,1,DECISIVE,0,150,11,12,58c4d89cf8edc355,a60edec4f2dfc3e5,60,60,action,action
+87562479,2026-07-23,5,1,stratified,4204392,Where is my orbit,THIRD PTCG Club,0,DECISIVE,0,149,17,16,5ef1f4c673271c4f,58c4d89cf8edc355,60,60,action,action
+88272753,2026-07-26,5,1,stratified,4353968,Luca,A. R. SEKKAT,0,DECISIVE,0,167,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87726428,2026-07-23,5,2,stratified,4722680,Yudai Ueno,Luca,0,DECISIVE,0,171,13,12,e34dae96b1984485,dc2ce39b94cbbb38,60,60,action,action
+88455398,2026-07-27,5,2,stratified,4716808,Pushu?,Dries @ Tufa Labs,1,DECISIVE,0,167,9,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+87174633,2026-07-21,5,2,stratified,4600966,jiatu.l,LumenLiquidity,1,DECISIVE,0,169,11,12,61f90c30a060ef40,2603936f8d49f47b,60,60,action,action
+87897636,2026-07-24,5,2,stratified,4678121,__Taichicchi__,{{ team_name }},0,DECISIVE,0,160,11,10,dc2ce39b94cbbb38,0eb1f4f9633c4cd0,60,60,action,action
+87954789,2026-07-25,5,2,stratified,4956970,THIRD PTCG Club,Rmy,0,DECISIVE,0,171,11,10,45ba6b3928b96ea0,dc2ce39b94cbbb38,60,60,action,action
+87750391,2026-07-24,5,2,stratified,4908301,NguyenThanhNhan,GUOHAOYANG,1,DECISIVE,0,181,9,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88010895,2026-07-25,5,2,stratified,4459088,NIWATORI,Rmy,0,DECISIVE,0,171,11,10,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+87446131,2026-07-22,5,2,stratified,4866679,Yudai Ueno,LiamK,0,DECISIVE,0,174,23,22,e34dae96b1984485,14db4b34cc8fbbb7,60,60,action,action
+87926241,2026-07-24,5,2,stratified,4770197,Eduardo Rocha de Andrade,junlee789,0,DECISIVE,0,178,11,10,1a6bef5759001c56,e34dae96b1984485,60,60,action,action
+88316916,2026-07-26,5,2,stratified,4828239,Benarg,Raja Biswas,1,DECISIVE,0,168,13,14,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+87526932,2026-07-22,5,2,stratified,4429019,THIRD PTCG Club,SQUIRTLE (prime),0,DECISIVE,0,151,19,18,58c4d89cf8edc355,14db4b34cc8fbbb7,60,60,action,action
+88121675,2026-07-25,5,2,stratified,4784699,zoroark190,213tubo,0,DECISIVE,0,168,11,10,b78aa05e94236e10,b43a53d96da0f0b5,60,60,action,action
+88062879,2026-07-25,5,2,stratified,4735996,Dieter,matheus,0,DECISIVE,0,163,9,8,fb6d7f5767de6f81,dc2ce39b94cbbb38,60,60,action,action
+88317945,2026-07-26,5,2,stratified,4428935,Benarg,Dries @ Tufa Labs,1,DECISIVE,0,166,9,10,fcac695071c3f3cf,b43a53d96da0f0b5,60,60,action,action
+87171103,2026-07-21,5,2,stratified,4834126,齐乐,miya,1,DECISIVE,0,170,17,18,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+87562474,2026-07-23,5,2,stratified,4410231,Rmy,Majkel1337,0,DECISIVE,0,155,9,9,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87331490,2026-07-21,5,2,stratified,4521493,LumenLiquidity,THIRD PTCG Club,0,DECISIVE,0,164,13,12,2603936f8d49f47b,58c4d89cf8edc355,60,60,action,action
+87318319,2026-07-21,5,2,stratified,4880973,junlee789,Team Rot-Weiß,1,DECISIVE,0,164,13,14,e34dae96b1984485,fcac695071c3f3cf,60,60,action,action
+88372411,2026-07-27,5,2,stratified,4895234,Dominic Peel,Hancang Mi,0,DECISIVE,0,183,11,10,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+87730147,2026-07-23,5,2,stratified,4660438,goonew,LiamK,1,DECISIVE,0,165,27,28,a6449dd6b7ace502,14db4b34cc8fbbb7,60,60,action,action
+87548230,2026-07-22,5,2,stratified,4758299,kashiwashira,junlee789,0,DECISIVE,0,160,13,12,fb6d7f5767de6f81,e34dae96b1984485,60,60,action,action
+87560312,2026-07-23,5,2,stratified,4456698,lmaffei,Battle Data Base,1,DECISIVE,0,162,11,12,13ea47d998aa99fa,71774939c0095e11,60,60,action,action
+88340335,2026-07-26,5,2,stratified,4624414,LiamK,Team Rot-Weiß,0,DECISIVE,0,162,17,16,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87443479,2026-07-22,5,2,stratified,4623179,懒惰的金枪鱼,Yushin Ito,0,DECISIVE,0,168,27,27,14db4b34cc8fbbb7,b20e3e96100a11d5,60,60,action,action
+87307690,2026-07-21,5,2,stratified,4673741,Abhiraj Singh,Yushin Ito,0,DECISIVE,0,166,11,10,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87549889,2026-07-22,5,3,stratified,5513659,__Taichicchi__,kashiwashira,1,DECISIVE,0,179,15,16,0eb1f4f9633c4cd0,fb6d7f5767de6f81,60,60,action,action
+87658532,2026-07-23,5,3,stratified,5107541,me and the lads,Pushu?,1,DECISIVE,0,180,11,12,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87927972,2026-07-24,5,3,stratified,5261675,Majkel1337,Pokemon Siuuuu,0,DECISIVE,0,179,15,14,fcac695071c3f3cf,fb85400b6df83aa3,60,60,action,action
+87751390,2026-07-24,5,3,stratified,5180598,haggle,LiamK,0,DECISIVE,0,174,11,11,dc2ce39b94cbbb38,1e1aceae4b6358f6,60,60,action,action
+88122305,2026-07-25,5,3,stratified,5645109,Dries @ Tufa Labs,Pokér-man,1,DECISIVE,0,204,11,12,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+87802243,2026-07-24,5,3,stratified,5133379,Team KASA.,Majkel1337,0,DECISIVE,0,172,13,12,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+87551548,2026-07-22,5,3,stratified,5648330,Lunariz,Yushin Ito,0,DECISIVE,0,193,11,11,dc2ce39b94cbbb38,b20e3e96100a11d5,60,60,action,action
+88463217,2026-07-27,5,3,stratified,5366599,koala_bear “もりたにあん”,Pokemon Siuuuu,0,DECISIVE,0,192,21,20,37f2032236fb6baf,dc2ce39b94cbbb38,60,60,action,action
+88526939,2026-07-27,5,3,stratified,5454580,Azat Akhtyamov,Dominic Peel,1,DECISIVE,0,195,11,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87458162,2026-07-22,5,3,stratified,5086318,LiamK,Rmy,1,DECISIVE,0,188,16,16,14db4b34cc8fbbb7,dc2ce39b94cbbb38,60,60,action,action
+87492260,2026-07-22,5,3,stratified,5254469,ei ei ei yikuso,Luca,1,DECISIVE,0,185,11,11,4fa2d13d3f52f835,dc2ce39b94cbbb38,60,60,action,action
+87953728,2026-07-25,5,3,stratified,5238074,Majkel1337,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,0,DECISIVE,0,183,13,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+88197330,2026-07-26,5,3,stratified,5178536,Dries @ Tufa Labs,THIRD PTCG Club,0,DECISIVE,0,181,11,10,b43a53d96da0f0b5,45ba6b3928b96ea0,60,60,action,action
+88516994,2026-07-27,5,3,stratified,5120709,Pokemon Fan,junlee789,1,DECISIVE,0,181,11,12,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+87558592,2026-07-23,5,3,stratified,5611529,iwashi,Lunariz,1,DECISIVE,0,195,15,16,b43a53d96da0f0b5,e34dae96b1984485,60,60,action,action
+87917104,2026-07-24,5,3,stratified,5398173,Pokemon Siuuuu,goonew,1,DECISIVE,0,182,11,12,fb85400b6df83aa3,1d0dee049c97c9e7,60,60,action,action
+88147202,2026-07-25,5,3,stratified,5209547,GUOHAOYANG,__Taichicchi__,1,DECISIVE,0,183,9,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87207246,2026-07-21,5,3,stratified,5365514,junlee789,kashiwashira,0,DECISIVE,0,177,13,12,e34dae96b1984485,3fe56fcd5e43bce7,60,60,action,action
+88328866,2026-07-26,5,3,stratified,5340902,想要成为kaggle大师,Majkel1337,1,DECISIVE,0,200,15,16,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+87724883,2026-07-23,5,3,stratified,5638502,SQUIRTLE (prime),Rmy,1,DECISIVE,0,210,15,16,14db4b34cc8fbbb7,dc2ce39b94cbbb38,60,60,action,action
+88139888,2026-07-25,5,3,stratified,5549662,KawattaTaido,213tubo,1,DECISIVE,0,197,12,12,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+87519665,2026-07-22,5,3,stratified,5399755,youtube.com/@BigBugginnings,aaa,0,DECISIVE,0,189,11,10,3a9221cdc7ce6934,fcac695071c3f3cf,60,60,action,action
+88303266,2026-07-26,5,3,stratified,5364710,Azat Akhtyamov,flg,1,DECISIVE,0,201,11,12,dc2ce39b94cbbb38,058f82abd5449e39,60,60,action,action
+88220655,2026-07-26,5,3,stratified,5158023,ktr,matheus,1,DECISIVE,0,180,11,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87728554,2026-07-23,5,3,stratified,5638240,SQUIRTLE (prime),Timmy Juicehouse,0,DECISIVE,0,203,11,10,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+87541302,2026-07-22,5,4,stratified,5808319,iwashi,SQUIRTLE (prime),1,DECISIVE,0,205,11,12,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+87731242,2026-07-23,5,4,stratified,7010899,__Taichicchi__,Rmy,1,DECISIVE,0,240,13,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87940918,2026-07-24,5,4,stratified,6333103,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,goonew,0,DECISIVE,0,209,13,12,dc2ce39b94cbbb38,079a59b4e50730a5,60,60,action,action
+88521837,2026-07-27,5,4,stratified,6225702,Pokemon Siuuuu,Dominic Peel,1,DECISIVE,0,219,13,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87735949,2026-07-23,5,4,stratified,5943393,SQUIRTLE (prime),jneums,0,DECISIVE,0,207,11,10,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+88511118,2026-07-27,5,4,stratified,8079183,A. R. SEKKAT,Pokemon Siuuuu,0,DECISIVE,0,275,17,16,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88312261,2026-07-26,5,4,stratified,7506341,Pokemon Siuuuu,JZ,1,DECISIVE,0,249,13,14,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+88162865,2026-07-26,5,4,stratified,6415873,zoroark190,Yushin Ito,1,DECISIVE,0,208,25,26,b78aa05e94236e10,fcac695071c3f3cf,60,60,action,action
+88363689,2026-07-27,5,4,stratified,6595595,Dominic Peel,Azat Akhtyamov,1,DECISIVE,0,227,13,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87980329,2026-07-25,5,4,stratified,5980386,Rafael,Dominic Peel,0,DECISIVE,0,215,13,12,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+87749275,2026-07-24,5,4,stratified,7130125,szlachetny snieg,Luca,0,DECISIVE,0,252,15,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88446792,2026-07-27,5,4,stratified,6136291,junseo lee,flg,0,DECISIVE,0,210,13,12,e34dae96b1984485,058f82abd5449e39,60,60,action,action
+87268757,2026-07-21,5,4,stratified,6052148,Benarg,kashiwashira,1,DECISIVE,0,202,17,18,fcac695071c3f3cf,3fe56fcd5e43bce7,60,60,action,action
+87658128,2026-07-23,5,4,stratified,6215438,junlee789,{{ team_name }},1,DECISIVE,0,199,19,20,e34dae96b1984485,0eb1f4f9633c4cd0,60,60,action,action
+87360889,2026-07-21,5,4,stratified,5850480,Kotaro OKUYAMA,jiatu.l,1,DECISIVE,0,213,11,12,dc2ce39b94cbbb38,61f90c30a060ef40,60,60,action,action
+88414305,2026-07-27,5,4,stratified,6642295,Dries @ Tufa Labs,NIWATORI,0,DECISIVE,0,236,13,13,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+87611962,2026-07-23,5,4,stratified,7727175,Lunariz,Rmy,0,DECISIVE,0,249,15,14,e34dae96b1984485,dc2ce39b94cbbb38,60,60,action,action
+87759102,2026-07-24,5,4,stratified,6405750,jneums,tetsu2131,0,DECISIVE,0,230,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+87815309,2026-07-24,5,4,stratified,7566451,Michael Long,Luca,1,DECISIVE,0,243,15,16,bf4fd9046cb2d210,dc2ce39b94cbbb38,60,60,action,action
+87340403,2026-07-21,5,4,stratified,6100484,Kohecchi,junlee789,1,DECISIVE,0,201,17,18,fcac695071c3f3cf,e34dae96b1984485,60,60,action,action
+88319483,2026-07-26,5,4,stratified,7589759,KawattaTaido,LumenLiquidity,0,DECISIVE,0,250,17,16,b43a53d96da0f0b5,2603936f8d49f47b,60,60,action,action
+88406012,2026-07-27,5,4,stratified,8626655,NIWATORI,szlachetny snieg,0,DECISIVE,0,294,17,16,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+88250634,2026-07-26,5,4,stratified,7958464,Luca,__Taichicchi__,0,DECISIVE,0,275,15,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88108815,2026-07-25,5,4,stratified,5786939,Team KASA.,bono,0,DECISIVE,0,208,17,16,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+87886382,2026-07-24,5,4,stratified,6015233,Luca,Eduardo Rocha de Andrade,1,DECISIVE,0,219,13,14,dc2ce39b94cbbb38,1a6bef5759001c56,60,60,action,action
+89405263,2026-08-01,6,0,stratified,3552359,THIRD PTCG Club,ANDPAD kaggler team,0,DECISIVE,0,134,11,10,8945c20fc38af9f1,b43a53d96da0f0b5,60,60,action,action
+89702234,2026-08-03,6,0,stratified,2458821,__Taichicchi__,Pokémon Day Care,0,DECISIVE,0,103,7,6,b43a53d96da0f0b5,2b38095c5eca59f6,60,60,action,action
+89413120,2026-08-01,6,0,stratified,1657819,miya,flg,0,DECISIVE,0,71,11,10,fcac695071c3f3cf,f1b53d2f908f682e,60,60,action,action
+89704585,2026-08-03,6,0,stratified,2502639,李秉叡（ntumlnoob）,perrodawn,0,DECISIVE,0,96,13,12,fb6542fd45093b86,766ca153ce8e65d8,60,60,action,action
+89025668,2026-07-30,6,0,stratified,2594086,masspeaks,Brahim,0,DECISIVE,0,105,11,10,fcac695071c3f3cf,13ea47d998aa99fa,60,60,action,action
+89521754,2026-08-02,6,0,stratified,3362574,@kdcyberdude,Rmy,1,DECISIVE,0,135,9,10,dc2ce39b94cbbb38,2b38095c5eca59f6,60,60,action,action
+89600298,2026-08-02,6,0,stratified,3014660,Gijs Smit,Majkel1337,0,DECISIVE,0,118,7,6,dc2ce39b94cbbb38,2b38095c5eca59f6,60,60,action,action
+89229414,2026-08-01,6,0,stratified,2941136,Rmy,James Cox & Henry Chao,1,DECISIVE,0,119,7,8,2b38095c5eca59f6,b78aa05e94236e10,60,60,action,action
+89730826,2026-08-03,6,0,stratified,2989383,서주영,Pokér-man,1,DECISIVE,0,120,9,10,2b38095c5eca59f6,fcac695071c3f3cf,60,60,action,action
+89657437,2026-08-03,6,0,stratified,2668644,Shuhan Yang,Majkel1337,1,DECISIVE,0,105,7,8,19a01ac1cebb1e8b,eb1222900df9baf0,60,60,action,action
+89264249,2026-08-01,6,0,stratified,1858386,Majkel1337,flg,0,DECISIVE,0,78,9,8,19a01ac1cebb1e8b,f1b53d2f908f682e,60,60,action,action
+88535286,2026-07-28,6,0,stratified,1951026,Iliamna,Dries @ Tufa Labs,1,DECISIVE,0,84,5,6,c4ebaf6e42fc8a2a,b43a53d96da0f0b5,60,60,action,action
+89495129,2026-08-02,6,0,stratified,2587253,Luca,keidroid,0,DECISIVE,0,102,7,6,fb6542fd45093b86,d83b61b3461e6f3d,60,60,action,action
+88867029,2026-07-29,6,0,stratified,2346915,宝糕手,Jack,0,DECISIVE,0,97,9,8,07ab87cf5acd3608,dc2ce39b94cbbb38,60,60,action,action
+89384187,2026-08-01,6,0,stratified,2775042,Octavi Grau,Majkel1337,1,DECISIVE,0,108,9,10,e34dae96b1984485,2b38095c5eca59f6,60,60,action,action
+89609248,2026-08-02,6,0,stratified,3555639,Bulba-Zero,Dominic Peel,1,DECISIVE,0,131,8,8,dc2ce39b94cbbb38,abf375974152bc4e,60,60,action,action
+89814136,2026-08-03,6,0,stratified,2824935,Pokér-man,ShumpeiNomura,0,DECISIVE,0,109,9,8,fcac695071c3f3cf,2655572b2591c7f6,60,60,action,action
+89432011,2026-08-02,6,0,stratified,2226114,Majkel1337,Azat Akhtyamov,1,DECISIVE,0,93,6,6,2b38095c5eca59f6,dc2ce39b94cbbb38,60,60,action,action
+89041758,2026-07-30,6,0,stratified,1772979,Majkel1337,Brahim,0,DECISIVE,0,76,13,12,7d6f431b88be3307,13ea47d998aa99fa,60,60,action,action
+88950744,2026-07-30,6,0,stratified,2151298,PP kawada,想要成为kaggle大师,0,DECISIVE,0,88,7,7,b42b2ee66670b06f,dc2ce39b94cbbb38,60,60,action,action
+89280888,2026-08-01,6,0,stratified,3235057,Iliamna,Octavi Grau,0,DECISIVE,0,125,9,8,c4ebaf6e42fc8a2a,e34dae96b1984485,60,60,action,action
+88688428,2026-07-28,6,0,stratified,3533374,Majkel1337,insuperabilehart,0,DECISIVE,0,130,9,8,4d503cd6c360c028,dc2ce39b94cbbb38,60,60,action,action
+89216843,2026-07-31,6,0,stratified,3149774,Iliamna,Azat Akhtyamov,0,DECISIVE,0,123,9,8,c4ebaf6e42fc8a2a,dc2ce39b94cbbb38,60,60,action,action
+89784248,2026-08-03,6,0,stratified,1154385,Boss's Orders Are All You Need,palsystem,1,DECISIVE,0,54,4,4,dc2ce39b94cbbb38,c4ebaf6e42fc8a2a,60,60,action,action
+89117889,2026-07-31,6,0,stratified,3004936,Gijs Smit,Pushu?,0,DECISIVE,0,116,9,9,c4ebaf6e42fc8a2a,dc2ce39b94cbbb38,60,60,action,action
+88678381,2026-07-28,6,1,stratified,3980993,Rmy,Zhenyu Zhang,0,DECISIVE,0,148,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89107015,2026-07-31,6,1,stratified,3883246,Xiangyu Liu,Team Rot-Weiß,1,DECISIVE,0,147,13,14,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+89033127,2026-07-30,6,1,stratified,4265135,SQUIRTLE (prime),junlee789,1,DECISIVE,0,151,11,12,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+89482563,2026-08-02,6,1,stratified,3868715,Thai,lolzpo + emonga,0,DECISIVE,0,143,13,12,e34dae96b1984485,c1bdf4d2201556a3,60,60,action,action
+89614758,2026-08-03,6,1,stratified,3763096,Cabrera Consulting Group,NguyenThanhNhan,0,DECISIVE,0,136,11,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+88704627,2026-07-29,6,1,stratified,4083287,Dries @ Tufa Labs,James Cox & Henry Chao,0,DECISIVE,0,159,9,8,dc2ce39b94cbbb38,b78aa05e94236e10,60,60,action,action
+89607081,2026-08-02,6,1,stratified,4239784,Amr Yasser,Tatsuya Kayama,1,DECISIVE,0,157,9,10,dc2ce39b94cbbb38,2b38095c5eca59f6,60,60,action,action
+89680553,2026-08-03,6,1,stratified,3622260,mojyaP,insuperabilehart,1,DECISIVE,0,132,21,22,7d6f431b88be3307,13ea47d998aa99fa,60,60,action,action
+89138436,2026-07-31,6,1,stratified,3905741,Gijs Smit,대답해드리는게인지상정,1,DECISIVE,0,145,9,10,c4ebaf6e42fc8a2a,dc2ce39b94cbbb38,60,60,action,action
+89416880,2026-08-01,6,1,stratified,3975736,e-toppo + kurupical,tonakaiiii,1,DECISIVE,0,149,9,10,0d18cb26af1f820a,102b0ac263351177,60,60,action,action
+89276215,2026-08-01,6,1,stratified,4137476,bono,insuperabilehart,0,DECISIVE,0,157,13,12,ffb78ce042dc36d9,dc2ce39b94cbbb38,60,60,action,action
+88664648,2026-07-28,6,1,stratified,4133329,gecogeco,cm391,0,DECISIVE,0,154,15,15,c5c2d4ee92fd71f5,61f90c30a060ef40,60,60,action,action
+89790301,2026-08-03,6,1,stratified,4271919,カントー地方マスター(KantoRegionMaster),Oshbocker,1,DECISIVE,0,161,15,16,dc2ce39b94cbbb38,37f2032236fb6baf,60,60,action,action
+88868019,2026-07-29,6,1,stratified,3885096,齐乐,gecogeco,1,DECISIVE,0,142,18,18,fcac695071c3f3cf,c5c2d4ee92fd71f5,60,60,action,action
+89046648,2026-07-30,6,1,stratified,4378452,szlachetny snieg,bono,1,DECISIVE,0,152,9,10,dc2ce39b94cbbb38,ffb78ce042dc36d9,60,60,action,action
+89142610,2026-07-31,6,1,stratified,3943324,Majkel1337,Gijs Smit,0,DECISIVE,0,148,15,14,7d6f431b88be3307,c4ebaf6e42fc8a2a,60,60,action,action
+89594369,2026-08-02,6,1,stratified,4208888,Octavi Grau,Majkel1337,1,DECISIVE,0,152,11,12,e34dae96b1984485,2b38095c5eca59f6,60,60,action,action
+89024897,2026-07-30,6,1,stratified,4340626,213tubo,Luca,1,DECISIVE,0,157,9,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89049689,2026-07-30,6,1,stratified,4103040,Zhenyu Zhang,Majkel1337,0,DECISIVE,0,153,11,10,dc2ce39b94cbbb38,4d503cd6c360c028,60,60,action,action
+88627843,2026-07-28,6,1,stratified,3780863,Thai,Boss's Orders Are All You Need,0,DECISIVE,0,149,15,14,6384bf64d82fbece,b3043b6d5221e93a,60,60,action,action
+88828865,2026-07-29,6,1,stratified,3735963,LiamK,typeIIIfairy,1,DECISIVE,0,134,9,10,1e1aceae4b6358f6,dc2ce39b94cbbb38,60,60,action,action
+88865412,2026-07-29,6,1,stratified,4084116,James Cox & Henry Chao,MtN,1,DECISIVE,0,158,9,10,b78aa05e94236e10,dc2ce39b94cbbb38,60,60,action,action
+89037206,2026-07-30,6,1,stratified,3864533,James Cox & Henry Chao,Azat Akhtyamov,1,DECISIVE,0,150,9,10,b78aa05e94236e10,dc2ce39b94cbbb38,60,60,action,action
+89321909,2026-08-01,6,1,stratified,3873860,Octavi Grau,Rmy,1,DECISIVE,0,140,11,12,e34dae96b1984485,2b38095c5eca59f6,60,60,action,action
+89414710,2026-08-01,6,1,stratified,4371625,Luca,Thai,1,DECISIVE,0,171,11,12,dc2ce39b94cbbb38,6384bf64d82fbece,60,60,action,action
+89672202,2026-08-03,6,2,stratified,4646962,Roman Nesterov,me and the lads,1,DECISIVE,0,167,11,12,e34dae96b1984485,dc2ce39b94cbbb38,60,60,action,action
+88910634,2026-07-30,6,2,stratified,4521034,cununn,カントー地方マスター(KantoRegionMaster),1,DECISIVE,0,158,11,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+89723734,2026-08-03,6,2,stratified,4561614,HCRL,やる気元気ミワハルキ,1,DECISIVE,0,158,15,16,fb6542fd45093b86,19a01ac1cebb1e8b,60,60,action,action
+89422231,2026-08-02,6,2,stratified,4860395,lolzpo+ emonga,hoshippi,0,DECISIVE,0,180,15,14,c1bdf4d2201556a3,db7e43390449b177,60,60,action,action
+89672640,2026-08-03,6,2,stratified,4999458,__Taichicchi__,Benarg,1,DECISIVE,0,186,9,10,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+88685994,2026-07-28,6,2,stratified,4666903,西松大祐,insuperabilehart,1,DECISIVE,0,174,9,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89052711,2026-07-31,6,2,stratified,5060102,Majkel1337,Team Rot-Weiß,0,DECISIVE,0,176,25,24,7d6f431b88be3307,fcac695071c3f3cf,60,60,action,action
+89042274,2026-07-30,6,2,stratified,5162976,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,Rmy,1,DECISIVE,0,186,10,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89402091,2026-08-01,6,2,stratified,4493649,lolzpo+ emonga,kashiwashira,0,DECISIVE,0,151,15,14,c1bdf4d2201556a3,8ce08ead92022fde,60,60,action,action
+89479308,2026-08-02,6,2,stratified,4668851,Jack,Thai,1,DECISIVE,0,170,11,12,058f82abd5449e39,e34dae96b1984485,60,60,action,action
+88898828,2026-07-30,6,2,stratified,4931822,cununn,서주영,1,DECISIVE,0,173,11,12,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+89670258,2026-08-03,6,2,stratified,4457877,EricYang03,PavelLiashkov,1,DECISIVE,0,169,39,40,e34dae96b1984485,37f2032236fb6baf,60,60,action,action
+89585587,2026-08-02,6,2,stratified,4561857,tonakaiiii,李秉叡（ntumlnoob）,1,DECISIVE,0,162,9,10,102b0ac263351177,fb6542fd45093b86,60,60,action,action
+89003546,2026-07-30,6,2,stratified,4819818,THIRD PTCG Club,NorthStar,0,DECISIVE,0,185,15,14,058f82abd5449e39,dc2ce39b94cbbb38,60,60,action,action
+89609414,2026-08-02,6,2,stratified,4753506,Tatsuya Kayama,flg,1,DECISIVE,0,164,11,12,2b38095c5eca59f6,3fe56fcd5e43bce7,60,60,action,action
+88707145,2026-07-29,6,2,stratified,4663233,flg,Luca,1,DECISIVE,0,158,9,10,3fe56fcd5e43bce7,dc2ce39b94cbbb38,60,60,action,action
+89810358,2026-08-03,6,2,stratified,4986401,S. B.,THIRD PTCG Club,1,DECISIVE,0,189,15,16,dc2ce39b94cbbb38,89c3e2c479a23d14,60,60,action,action
+89628389,2026-08-03,6,2,stratified,4658976,Jose Coronel,goonew,0,DECISIVE,1,157,14,14,9dfcab39e3ed21bf,079a59b4e50730a5,60,60,action,action
+89233517,2026-08-01,6,2,stratified,4932321,Oshbocker,JZ,1,DECISIVE,0,173,15,15,37f2032236fb6baf,b43a53d96da0f0b5,60,60,action,action
+89126415,2026-07-31,6,2,stratified,4531329,Gijs Smit,keidroid,0,DECISIVE,0,165,11,10,c4ebaf6e42fc8a2a,2b38095c5eca59f6,60,60,action,action
+88681386,2026-07-28,6,2,stratified,4577431,James Cox & Henry Chao,"Matheus, Dieter, Eduardo",0,DECISIVE,0,160,11,10,b78aa05e94236e10,fb6d7f5767de6f81,60,60,action,action
+88946407,2026-07-30,6,2,stratified,4835792,宝糕手,flxwld,1,DECISIVE,0,163,11,12,07ab87cf5acd3608,e34dae96b1984485,60,60,action,action
+89388472,2026-08-01,6,2,stratified,4524978,szlachetny snieg,Rmy,1,DECISIVE,0,160,9,10,dc2ce39b94cbbb38,2b38095c5eca59f6,60,60,action,action
+88587164,2026-07-28,6,2,stratified,4776371,Dominic Peel,A. R. SEKKAT,0,DECISIVE,0,174,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89415263,2026-08-01,6,2,stratified,4938787,sadwat,低消650元任你吃啊,0,DECISIVE,0,174,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89375116,2026-08-01,6,3,stratified,5532878,やる気元気ミワハルキ,e-toppo + kurupical,0,DECISIVE,0,199,11,10,dc2ce39b94cbbb38,0d18cb26af1f820a,60,60,action,action
+89309555,2026-08-01,6,3,stratified,5827709,lolzpo+emonga,haggle,0,DECISIVE,0,206,17,16,c1bdf4d2201556a3,b43a53d96da0f0b5,60,60,action,action
+89348014,2026-08-01,6,3,stratified,5445978,{{ team_name }} 🏆,MissingNo.,1,DECISIVE,0,198,35,36,0eb1f4f9633c4cd0,f1b53d2f908f682e,60,60,action,action
+89007434,2026-07-30,6,3,stratified,5190639,btk15049,Xiangyu Liu,1,DECISIVE,0,193,15,16,b43a53d96da0f0b5,14db4b34cc8fbbb7,60,60,action,action
+89219226,2026-07-31,6,3,stratified,5346094,sadwat,Raihan Ramadistra,0,DECISIVE,0,197,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88867038,2026-07-29,6,3,stratified,5526913,LiamK,szlachetny snieg,0,DECISIVE,0,204,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89788502,2026-08-03,6,3,stratified,5409699,李秉叡（ntumlnoob）,MissingNo.,0,DECISIVE,0,193,15,14,fb6542fd45093b86,2b38095c5eca59f6,60,60,action,action
+89028927,2026-07-30,6,3,stratified,5430989,JZ,masspeaks,0,DECISIVE,0,192,11,10,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+89689186,2026-08-03,6,3,stratified,5747674,flg,Raihan Ramadistra,1,DECISIVE,0,203,15,16,f1b53d2f908f682e,dc2ce39b94cbbb38,60,60,action,action
+89360902,2026-08-01,6,3,stratified,5225172,Yushin Ito,M Sato,1,DECISIVE,0,174,13,14,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+89043169,2026-07-30,6,3,stratified,5788564,213tubo,LumenLiquidity,,DRAW,0,199,10,10,dc2ce39b94cbbb38,bc913d2ec5e06497,60,60,action,action
+89810960,2026-08-03,6,3,stratified,5726691,カントー地方マスター(KantoRegionMaster),Raihan Ramadistra,0,DECISIVE,0,217,19,18,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88681048,2026-07-28,6,3,stratified,5610758,titako0000,JZ,1,DECISIVE,0,213,13,14,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+89040840,2026-07-30,6,3,stratified,5498992,Rmy,やる気元気ミワハルキ,0,DECISIVE,0,199,11,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89100569,2026-07-31,6,3,stratified,5743458,Xiangyu Liu,cm391,0,DECISIVE,0,208,11,10,dc2ce39b94cbbb38,61f90c30a060ef40,60,60,action,action
+89580775,2026-08-02,6,3,stratified,5723942,palsystem,Where is my orbit,1,DECISIVE,0,201,17,18,a7d5394d86394bcd,5ef1f4c673271c4f,60,60,action,action
+89700868,2026-08-03,6,3,stratified,5947896,payanotty,Chua Zheng Wei Brian,1,DECISIVE,0,209,11,12,05413f44dfa35d63,dc2ce39b94cbbb38,60,60,action,action
+88882450,2026-07-29,6,3,stratified,5418004,低消650元任你吃啊,Dries @ Tufa Labs,1,DECISIVE,0,199,11,12,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+89419474,2026-08-02,6,3,stratified,5712421,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,LiamK,0,DECISIVE,0,192,17,16,13ea47d998aa99fa,dc2ce39b94cbbb38,60,60,action,action
+89226372,2026-07-31,6,3,stratified,5942777,李秉叡（ntumlnoob）,szlachetny snieg,0,DECISIVE,0,213,11,10,b82361d3db04432f,dc2ce39b94cbbb38,60,60,action,action
+88681445,2026-07-28,6,3,stratified,5377639,Raja Biswas,Oshbocker,1,DECISIVE,0,196,16,16,dc2ce39b94cbbb38,37f2032236fb6baf,60,60,action,action
+89143555,2026-07-31,6,3,stratified,5978786,ANDPAD kaggler team,NorthStar,1,DECISIVE,0,219,14,14,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+89613745,2026-08-03,6,3,stratified,5666232,palsystem,Raihan Ramadistra,0,DECISIVE,0,209,11,10,a7d5394d86394bcd,dc2ce39b94cbbb38,60,60,action,action
+88703263,2026-07-29,6,3,stratified,5359465,e-toppo + kurupical,haggle,0,DECISIVE,0,189,11,11,0d18cb26af1f820a,dc2ce39b94cbbb38,60,60,action,action
+89425659,2026-08-02,6,3,stratified,5280940,lolzpo+ emonga,213tubo,1,DECISIVE,0,187,11,12,c1bdf4d2201556a3,dc2ce39b94cbbb38,60,60,action,action
+89793343,2026-08-03,6,4,stratified,6766587,Pokemon Siuuuu,THIRD PTCG Club,1,DECISIVE,0,236,29,30,dc2ce39b94cbbb38,89c3e2c479a23d14,60,60,action,action
+88946385,2026-07-30,6,4,stratified,7964163,LiamK,Dries @ Tufa Labs,1,DECISIVE,0,263,15,16,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88577542,2026-07-28,6,4,stratified,7983497,rick & shikitora,cm391,0,DECISIVE,0,267,15,14,b43a53d96da0f0b5,61f90c30a060ef40,60,60,action,action
+89689566,2026-08-03,6,4,stratified,7008264,Marshall Maximizer,clora,1,DECISIVE,0,236,15,16,e34dae96b1984485,b43a53d96da0f0b5,60,60,action,action
+89616078,2026-08-03,6,4,stratified,6607104,tonakaiiii,Raihan Ramadistra,1,DECISIVE,0,217,15,16,102b0ac263351177,dc2ce39b94cbbb38,60,60,action,action
+89630347,2026-08-03,6,4,stratified,6622418,懒惰的金枪鱼,Canon,1,DECISIVE,0,237,15,16,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89020201,2026-07-30,6,4,stratified,7735077,Pushu?,THIRD PTCG Club,0,DECISIVE,0,262,15,14,dc2ce39b94cbbb38,058f82abd5449e39,60,60,action,action
+89698325,2026-08-03,6,4,stratified,6001883,Iolzpo + emonga,Kh0a,1,DECISIVE,0,206,13,14,c1bdf4d2201556a3,dc2ce39b94cbbb38,60,60,action,action
+89032481,2026-07-30,6,4,stratified,6665409,hinox13,haggle,1,DECISIVE,0,230,15,16,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+89311705,2026-08-01,6,4,stratified,7586660,MissingNo.,lolzpo+emonga,0,DECISIVE,0,243,15,14,dc2ce39b94cbbb38,c1bdf4d2201556a3,60,60,action,action
+88900438,2026-07-30,6,4,stratified,7062333,ANDPAD kaggler team,JZ,1,DECISIVE,0,247,16,16,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+88886998,2026-07-29,6,4,stratified,8464168,Dries @ Tufa Labs,213tubo,0,DECISIVE,0,293,15,14,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+88879248,2026-07-29,6,4,stratified,7397239,Pokemon Siuuuu,szlachetny snieg,0,DECISIVE,0,254,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+89412094,2026-08-01,6,4,stratified,6315246,szlachetny snieg,Azat Akhtyamov,0,DECISIVE,0,223,17,16,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88531933,2026-07-28,6,4,stratified,6050031,lolzpo + emonga,Pokémon Day Care,0,DECISIVE,0,211,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88689860,2026-07-28,6,4,stratified,7365927,Zhenyu Zhang,想要成为kaggle大师,0,DECISIVE,0,248,15,14,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88913198,2026-07-30,6,4,stratified,6294237,insuperabilehart,JZ,1,DECISIVE,0,215,13,14,b20e3e96100a11d5,b43a53d96da0f0b5,60,60,action,action
+89394689,2026-08-01,6,4,stratified,6003120,pikachu,lolzpo+ emonga,1,DECISIVE,0,199,17,18,f459fe7a54523885,c1bdf4d2201556a3,60,60,action,action
+89728349,2026-08-03,6,4,stratified,5993549,lmaffei,HCRL,1,DECISIVE,0,201,13,14,13ea47d998aa99fa,fb6542fd45093b86,60,60,action,action
+89414718,2026-08-01,6,4,stratified,6923742,LumenLiquidity,flg,0,DECISIVE,0,246,27,26,bc913d2ec5e06497,f1b53d2f908f682e,60,60,action,action
+88530688,2026-07-28,6,4,stratified,6998117,懒惰的金枪鱼,saeNeko,0,DECISIVE,0,240,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+88685209,2026-07-28,6,4,stratified,6341812,e-toppo + kurupical,Azat Akhtyamov,0,DECISIVE,0,227,13,12,0d18cb26af1f820a,dc2ce39b94cbbb38,60,60,action,action
+89412098,2026-08-01,6,4,stratified,7326662,カントー地方マスター(KantoRegionMaster),Oshbocker,1,DECISIVE,0,264,35,36,dc2ce39b94cbbb38,37f2032236fb6baf,60,60,action,action
+88880114,2026-07-29,6,4,stratified,6485947,Dries @ Tufa Labs,Luca,0,DECISIVE,0,232,13,12,b43a53d96da0f0b5,dc2ce39b94cbbb38,60,60,action,action
+88584498,2026-07-28,6,4,stratified,7079881,懒惰的金枪鱼,__Taichicchi__,1,DECISIVE,0,240,17,18,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+90504684,2026-08-06,7,0,stratified,2287824,haruto,Marshall Maximizer,0,DECISIVE,0,91,9,8,fcac695071c3f3cf,7d6f431b88be3307,60,60,action,action
+91592154,2026-08-10,7,0,stratified,2187785,Ayanokoji Fan Club,Iliamna,0,DECISIVE,0,93,11,10,dc2ce39b94cbbb38,47e257e33ef5f5a6,60,60,action,action
+91487825,2026-08-10,7,0,stratified,2673992,Ars Noveau,goonew,1,DECISIVE,0,109,15,16,dc2ce39b94cbbb38,8646527a9765ecf5,60,60,action,action
+91393495,2026-08-09,7,0,stratified,2864315,Luca                        :),Budew,1,DECISIVE,0,113,10,10,dc2ce39b94cbbb38,0bf953f8612d58ea,60,60,action,action
+89934295,2026-08-04,7,0,stratified,2889211,MissingNo.,Iolzpo + emonga,1,DECISIVE,0,113,7,8,2b38095c5eca59f6,c1bdf4d2201556a3,60,60,action,action
+91539788,2026-08-10,7,0,stratified,1783841,{{ team_name }} 🏆,gecogeco,0,DECISIVE,0,75,7,6,fcac695071c3f3cf,057fd0ffbc716756,60,60,action,action
+91466558,2026-08-09,7,0,stratified,3273188,"Bart, Edwyn",gecogeco,0,DECISIVE,0,123,11,10,f68ccef625779ef7,057fd0ffbc716756,60,60,action,action
+90658616,2026-08-07,7,0,stratified,1640072,cyrus,哈基米南北绿豆,1,DECISIVE,0,73,7,8,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+90293113,2026-08-05,7,0,stratified,2459609,Team Rot-Weiß,MissingNo.,0,DECISIVE,0,97,9,8,fcac695071c3f3cf,eb1222900df9baf0,60,60,action,action
+90026260,2026-08-04,7,0,stratified,1916478,LumenLiquidity,M Sato,0,DECISIVE,0,87,9,8,f8261f22b9cd0c48,fcac695071c3f3cf,60,60,action,action
+90886909,2026-08-08,7,0,stratified,1098609,ANDPAD kaggler team,KouFu,0,DECISIVE,0,51,3,2,fb6542fd45093b86,6b0907ec35e835bd,60,60,action,action
+90826674,2026-08-07,7,0,stratified,3063378,ANDPAD kaggler team,LiamK,1,DECISIVE,0,118,7,8,2b38095c5eca59f6,fb6542fd45093b86,60,60,action,action
+91482900,2026-08-10,7,0,stratified,2170841,あなまか,ANDPAD kaggler team,1,DECISIVE,0,89,10,10,f1b53d2f908f682e,9dfcab39e3ed21bf,60,60,action,action
+90264510,2026-08-05,7,0,stratified,3051954,James Cox & Henry Chao,matsurih,0,DECISIVE,0,120,7,6,d27ab9465febb3da,13ea47d998aa99fa,60,60,action,action
+90065339,2026-08-05,7,0,stratified,3116917,vvs,DavidFreelan,0,DECISIVE,0,113,9,8,fcac695071c3f3cf,fb6542fd45093b86,60,60,action,action
+90128411,2026-08-05,7,0,stratified,1677568,miya,Xiangyu Liu,0,DECISIVE,0,70,11,10,fcac695071c3f3cf,f1b53d2f908f682e,60,60,action,action
+90480217,2026-08-06,7,0,stratified,3104147,Nghia Tran,Ruko,0,DECISIVE,0,126,13,12,d83b61b3461e6f3d,ec1564bfeb05c103,60,60,action,action
+90098479,2026-08-05,7,0,stratified,3134109,Saber,Roman Nesterov,0,DECISIVE,0,122,11,10,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+91382688,2026-08-09,7,0,stratified,2253889,BluesLeeTW,K.Yoshida,0,DECISIVE,0,91,9,8,ecf06b29e2a9ff12,b43a53d96da0f0b5,60,60,action,action
+89976307,2026-08-04,7,0,stratified,2193051,ShumpeiNomura,Marshall Maximizer,1,DECISIVE,0,89,7,8,2655572b2591c7f6,fb6542fd45093b86,60,60,action,action
+91172875,2026-08-09,7,0,stratified,2930746,PokeBot,takayosi,1,DECISIVE,0,118,7,8,2b38095c5eca59f6,2b38095c5eca59f6,60,60,action,action
+90020470,2026-08-04,7,0,stratified,1857612,tw_shin,Gyoukou,0,DECISIVE,0,84,7,6,9d6219ef6950f794,dcdb898bf51e0fb7,60,60,action,action
+90243125,2026-08-05,7,0,stratified,2673621,Pokemon Siuuuu,Battle Data Base,1,DECISIVE,0,109,9,10,dc2ce39b94cbbb38,1b63cff39ca1b990,60,60,action,action
+91752428,2026-08-10,7,0,stratified,2435255,🫣🤧,Team,1,DECISIVE,0,98,7,8,a6441a73d162c977,fcac695071c3f3cf,60,60,action,action
+90620575,2026-08-07,7,0,stratified,2852871,M Sato,hirune924,1,DECISIVE,0,112,7,8,dc2ce39b94cbbb38,14833e9b4c2389a3,60,60,action,action
+91660622,2026-08-10,7,1,stratified,3687926,cabbage patch,Alan_Nasibullin,0,DECISIVE,0,142,11,10,2b38095c5eca59f6,fcac695071c3f3cf,60,60,action,action
+91210977,2026-08-09,7,1,stratified,3492362,대답해드리는게인지상정,Ken Zhou,0,DECISIVE,0,137,13,12,eb1222900df9baf0,dc2ce39b94cbbb38,60,60,action,action
+90617340,2026-08-07,7,1,stratified,3492500,你好哇,yumizu,0,DECISIVE,0,133,11,10,dc2ce39b94cbbb38,f1b53d2f908f682e,60,60,action,action
+90014356,2026-08-04,7,1,stratified,3661295,cyrus,齐乐,0,DECISIVE,0,140,9,8,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+90307564,2026-08-06,7,1,stratified,3812955,flg,대답해드리는게인지상정,1,DECISIVE,0,138,9,10,8da9c9d12374effd,eb1222900df9baf0,60,60,action,action
+90774217,2026-08-07,7,1,stratified,3830795,vvs,flg,0,DECISIVE,0,142,9,8,fcac695071c3f3cf,450b46f82d284492,60,60,action,action
+89944815,2026-08-04,7,1,stratified,3886730,Xiangyu Liu,nasuo445,1,DECISIVE,0,139,10,10,19a01ac1cebb1e8b,a6449dd6b7ace502,60,60,action,action
+91747005,2026-08-10,7,1,stratified,4157357,PP kawada,Praxel,0,DECISIVE,0,143,15,14,42c823200429ac49,dc2ce39b94cbbb38,60,60,action,action
+90941431,2026-08-08,7,1,stratified,4060956,Luca,insuperabilehart,0,DECISIVE,0,141,11,10,b8e2515051817ff7,13ea47d998aa99fa,60,60,action,action
+90016981,2026-08-04,7,1,stratified,3544347,Majkel1337,James Cox & Henry Chao,0,DECISIVE,0,134,9,8,eb1222900df9baf0,b78aa05e94236e10,60,60,action,action
+90858232,2026-08-08,7,1,stratified,3924784,Challengestone,youtube.com/@BigBugginnings,0,DECISIVE,0,142,9,8,db6f0378eb8b85ba,7702f27dfc110b71,60,60,action,action
+90384998,2026-08-06,7,1,stratified,3702144,hyonu0620,NguyenThanhNhan,0,DECISIVE,0,152,11,10,d562e376a3d71d6b,dc2ce39b94cbbb38,60,60,action,action
+90870277,2026-08-08,7,1,stratified,3452133,Octavi Grau,Oleksandr_Savsunenko,1,DECISIVE,0,126,9,10,19a01ac1cebb1e8b,fb6542fd45093b86,60,60,action,action
+91642731,2026-08-10,7,1,stratified,4102244,motemen,Marshall Maximizer,0,DECISIVE,0,148,9,8,fcac695071c3f3cf,111d0a87c7071fde,60,60,action,action
+90035651,2026-08-04,7,1,stratified,4096005,RtoABC,Petit Canard,1,DECISIVE,0,152,9,10,63cc39b3cfe59c37,d83b61b3461e6f3d,60,60,action,action
+91468241,2026-08-09,7,1,stratified,3578382,TMTA,Dakuma,0,DECISIVE,0,137,13,12,dc2ce39b94cbbb38,fb6542fd45093b86,60,60,action,action
+90108084,2026-08-05,7,1,stratified,3513919,想要成为kaggle大师,Shuhan Yang,0,DECISIVE,0,129,9,8,fb6542fd45093b86,19a01ac1cebb1e8b,60,60,action,action
+90276479,2026-08-05,7,1,stratified,3852027,Raihan Ramadistra,flg,0,DECISIVE,0,146,11,10,dc2ce39b94cbbb38,8da9c9d12374effd,60,60,action,action
+90898439,2026-08-08,7,1,stratified,3585458,less,☕ Psyduck Needs Coffee,0,DECISIVE,0,135,9,8,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+91155362,2026-08-09,7,1,stratified,3744982,Luca,sadwat,1,DECISIVE,0,138,9,10,b1513b47b94933fa,fb6542fd45093b86,60,60,action,action
+89900770,2026-08-04,7,1,stratified,3794277,懒惰的金枪鱼,Dries @ Tufa Labs,0,DECISIVE,0,148,11,10,dc2ce39b94cbbb38,69b44e61ab6725cf,60,60,action,action
+90330220,2026-08-06,7,1,stratified,3737317,Kh0a,ANDPAD kaggler team,,DRAW,0,134,16,16,13ea47d998aa99fa,37f2032236fb6baf,60,60,action,action
+91307809,2026-08-09,7,1,stratified,3419105,Team KASA.,Shelgon,0,DECISIVE,0,132,17,16,19a01ac1cebb1e8b,680da0c6c840cf99,60,60,action,action
+90440065,2026-08-06,7,1,stratified,3743157,GuerillaMoon,mojyaP,1,DECISIVE,0,150,13,14,dc2ce39b94cbbb38,7d6f431b88be3307,60,60,action,action
+90306216,2026-08-06,7,1,stratified,3349796,Nghia Tran,Ars Noveau,0,DECISIVE,0,133,13,12,d83b61b3461e6f3d,dc2ce39b94cbbb38,60,60,action,action
+89819494,2026-08-04,7,2,stratified,4570954,tonakaiiii,Sixth Sense,0,DECISIVE,0,161,11,10,102b0ac263351177,dc2ce39b94cbbb38,60,60,action,action
+90107397,2026-08-05,7,2,stratified,4435526,Majkel1337,Marshall Maximizer,0,DECISIVE,0,161,15,14,eb1222900df9baf0,fb6542fd45093b86,60,60,action,action
+90988796,2026-08-08,7,2,stratified,4789133,想要成为kaggle大师,mamematcha,0,DECISIVE,0,176,14,14,dc2ce39b94cbbb38,3654c8b86446be5e,60,60,action,action
+90861423,2026-08-08,7,2,stratified,4208503,yalee,less,0,DECISIVE,0,149,11,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+90951261,2026-08-08,7,2,stratified,4838941,Team,ポケカ前線,0,DECISIVE,0,171,13,12,fcac695071c3f3cf,058f82abd5449e39,60,60,action,action
+90124386,2026-08-05,7,2,stratified,4799984,Yaroslav,ShumpeiNomura,1,DECISIVE,0,175,15,16,dc2ce39b94cbbb38,2655572b2591c7f6,60,60,action,action
+90131683,2026-08-05,7,2,stratified,4248939,nsytsqdtn,Saber,1,DECISIVE,0,165,9,10,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+90509336,2026-08-06,7,2,stratified,4479899,Ketchum Alt,loIzpo + emonga,0,DECISIVE,0,167,15,14,b0ac2e64118eeabf,c1bdf4d2201556a3,60,60,action,action
+90343401,2026-08-06,7,2,stratified,4218938,Pokopia,Canon,1,DECISIVE,0,162,11,12,dc2ce39b94cbbb38,200d57a432545513,60,60,action,action
+90576695,2026-08-07,7,2,stratified,4224976,Leonardo Viola10,隔壁老王,0,DECISIVE,0,160,13,12,dc2ce39b94cbbb38,3fc2cb03df5b2747,60,60,action,action
+90906285,2026-08-08,7,2,stratified,4299313,MissingNo.,ShumpeiNomura,1,DECISIVE,0,163,16,16,7d6f431b88be3307,2655572b2591c7f6,60,60,action,action
+90228158,2026-08-05,7,2,stratified,4595753,cununn,Lunariz,0,DECISIVE,0,156,13,12,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+91405282,2026-08-09,7,2,stratified,4735003,Luca                        :),llkarill,0,DECISIVE,0,176,15,14,dc2ce39b94cbbb38,a77981dc1b5cc27c,60,60,action,action
+90050344,2026-08-05,7,2,stratified,4271761,suguuuuu & hiehie,Canon,1,DECISIVE,1,165,14,15,55a418e3d6a8787d,dc2ce39b94cbbb38,60,60,action,action
+90091042,2026-08-05,7,2,stratified,4641534,Majkel1337,THIRD PTCG Club,0,DECISIVE,0,169,13,12,eb1222900df9baf0,89c3e2c479a23d14,60,60,action,action
+90388870,2026-08-06,7,2,stratified,4733960,junseo lee,Petit Canard,1,DECISIVE,0,173,31,32,e34dae96b1984485,5ef1f4c673271c4f,60,60,action,action
+91560723,2026-08-10,7,2,stratified,4587013,R_S_K,Jonathan Coletti,0,DECISIVE,0,167,12,12,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+90526151,2026-08-06,7,2,stratified,4331612,Ayanokoji Fan Club,ポケカ前線,1,DECISIVE,0,152,11,12,dc2ce39b94cbbb38,fb6542fd45093b86,60,60,action,action
+90476414,2026-08-06,7,2,stratified,4499944,Team KASA.,Vermillion City Pikachu,1,DECISIVE,0,155,19,20,fcac695071c3f3cf,74f419fc4f947422,60,60,action,action
+90878641,2026-08-08,7,2,stratified,4906814,Dipam Chakraborty,"Bart, Edwyn",0,DECISIVE,0,171,13,12,fcac695071c3f3cf,f68ccef625779ef7,60,60,action,action
+91137010,2026-08-08,7,2,stratified,4379781,Luca,Majkel1337,1,DECISIVE,0,159,11,12,b8e2515051817ff7,eb1222900df9baf0,60,60,action,action
+91714582,2026-08-10,7,2,stratified,4191615,Jose Coronel,Mint120,1,DECISIVE,1,160,10,11,9dfcab39e3ed21bf,dc2ce39b94cbbb38,60,60,action,action
+90016361,2026-08-04,7,2,stratified,4697185,THIRD PTCG Club,AlphaStarmie,0,DECISIVE,0,171,13,12,89c3e2c479a23d14,fcac695071c3f3cf,60,60,action,action
+89899877,2026-08-04,7,2,stratified,4458763,Lunariz,213tubo,1,DECISIVE,0,168,9,10,fcac695071c3f3cf,058f82abd5449e39,60,60,action,action
+91143214,2026-08-08,7,2,stratified,4771712,James Cox & Henry Chao,flg,0,DECISIVE,0,182,13,13,d27ab9465febb3da,f59e852fe5450580,60,60,action,action
+90831584,2026-08-07,7,3,stratified,5563455,junseo lee,kanno,1,DECISIVE,0,186,13,14,e34dae96b1984485,19a01ac1cebb1e8b,60,60,action,action
+91779029,2026-08-10,7,3,stratified,5577179,Raihan Ramadistra,Oshbocker,0,DECISIVE,0,192,13,12,dc2ce39b94cbbb38,eb1222900df9baf0,60,60,action,action
+90837287,2026-08-07,7,3,stratified,5043050,sadwat,Challengestone,0,DECISIVE,0,170,17,16,fb6542fd45093b86,db6f0378eb8b85ba,60,60,action,action
+90190787,2026-08-05,7,3,stratified,5287711,Evgeniy Zdoronok,insuperabilehart,0,DECISIVE,0,185,13,12,07ab87cf5acd3608,13ea47d998aa99fa,60,60,action,action
+91388044,2026-08-09,7,3,stratified,4926805,Sixth Sense,vvs,0,DECISIVE,0,172,11,10,54a81ccb36ebe329,fcac695071c3f3cf,60,60,action,action
+90851553,2026-08-08,7,3,stratified,5504814,Pokemon Fan,"Bart, Edwyn",1,DECISIVE,0,198,12,12,dc2ce39b94cbbb38,f68ccef625779ef7,60,60,action,action
+90021702,2026-08-04,7,3,stratified,5534608,THIRD PTCG Club,李秉叡（ntumlnoob）,1,DECISIVE,0,190,15,16,b9d645da110e5c06,19a01ac1cebb1e8b,60,60,action,action
+90283845,2026-08-05,7,3,stratified,5563641,Arthurs Torres24,matsurih,1,DECISIVE,0,207,15,16,dc2ce39b94cbbb38,13ea47d998aa99fa,60,60,action,action
+90372383,2026-08-06,7,3,stratified,5237608,Brahim,kashiwashira,0,DECISIVE,0,174,17,16,e34dae96b1984485,e97ea339c59eb7e9,60,60,action,action
+91196596,2026-08-09,7,3,stratified,5114441,miya,insuperabilehart,0,DECISIVE,0,181,13,12,fcac695071c3f3cf,13ea47d998aa99fa,60,60,action,action
+91773770,2026-08-10,7,3,stratified,5410555,Arthurs Torres24,Ghleii,1,DECISIVE,0,194,15,16,dc2ce39b94cbbb38,fcac695071c3f3cf,60,60,action,action
+90949905,2026-08-08,7,3,stratified,5366670,S4nkurero,Yudai Ueno,1,DECISIVE,0,193,13,14,f59e852fe5450580,e34dae96b1984485,60,60,action,action
+91304394,2026-08-09,7,3,stratified,5094827,Where is my orbit,Dipam Chakraborty,1,DECISIVE,0,176,17,18,5ef1f4c673271c4f,e9647ebbaa869e6b,60,60,action,action
+90155093,2026-08-05,7,3,stratified,5722233,bono,Marshall Maximizer,0,DECISIVE,0,186,13,12,c4ebaf6e42fc8a2a,712e7e9d851a570b,60,60,action,action
+90285853,2026-08-05,7,3,stratified,5451585,palsystem,Raihan Ramadistra,0,DECISIVE,0,203,13,12,a7d5394d86394bcd,dc2ce39b94cbbb38,60,60,action,action
+90331726,2026-08-06,7,3,stratified,5551293,shosemaru,ttmn,1,DECISIVE,0,183,15,16,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+90500076,2026-08-06,7,3,stratified,5606166,Majkel1337,rhythm master,1,DECISIVE,0,190,15,16,2e79a10ee3ba9449,fcac695071c3f3cf,60,60,action,action
+90615993,2026-08-07,7,3,stratified,5454672,Hancang Mi,fishcat,1,DECISIVE,0,183,14,14,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+91750460,2026-08-10,7,3,stratified,5646921,宝糕手,Abhyuday,1,DECISIVE,0,193,11,12,058f82abd5449e39,d5466d070c71fde7,60,60,action,action
+89869427,2026-08-04,7,3,stratified,5352967,JZ,KanaeKanae,0,DECISIVE,0,184,11,10,b43a53d96da0f0b5,fcac695071c3f3cf,60,60,action,action
+91344627,2026-08-09,7,3,stratified,5457534,szlachetny snieg,ANDPAD kaggler team,0,DECISIVE,0,203,15,14,dc2ce39b94cbbb38,b43a53d96da0f0b5,60,60,action,action
+90070714,2026-08-05,7,3,stratified,4945452,shyjin,Kosmostars,0,DECISIVE,0,182,11,10,a303839777316bee,dc2ce39b94cbbb38,60,60,action,action
+90411356,2026-08-06,7,3,stratified,5033083,Pokemon Fan,ヌメルゴンex,0,DECISIVE,0,186,13,12,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+90099086,2026-08-05,7,3,stratified,5749365,Meghana284,TTT Is All You Need,1,DECISIVE,0,206,11,12,0d18cb26af1f820a,b43a53d96da0f0b5,60,60,action,action
+90675160,2026-08-07,7,3,stratified,4925762,CroDoc,Yan,0,DECISIVE,0,181,15,14,fcac695071c3f3cf,b1513b47b94933fa,60,60,action,action
+90629097,2026-08-07,7,4,stratified,5938405,flg,Kh0a,0,DECISIVE,0,203,13,12,450b46f82d284492,058f82abd5449e39,60,60,action,action
+90557690,2026-08-06,7,4,stratified,7807384,Byer Script,neibyr,0,DECISIVE,0,259,23,22,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+90548582,2026-08-06,7,4,stratified,6126412,LumenLiquidity,kuromoka,0,DECISIVE,0,210,11,10,f8261f22b9cd0c48,dc2ce39b94cbbb38,60,60,action,action
+90547849,2026-08-06,7,4,stratified,6000482,KawattaTaido,JZ,1,DECISIVE,0,218,12,12,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+89884921,2026-08-04,7,4,stratified,5796505,ANDPAD kaggler team,HCRL,1,DECISIVE,0,201,15,16,b43a53d96da0f0b5,fb6542fd45093b86,60,60,action,action
+91137166,2026-08-08,7,4,stratified,6090473,S. B.,Pokemon Siuuuu,1,DECISIVE,0,217,13,14,dc2ce39b94cbbb38,058f82abd5449e39,60,60,action,action
+91607664,2026-08-10,7,4,stratified,6769896,"Bart, Edwyn",Decision Treecko,0,DECISIVE,0,220,13,12,f68ccef625779ef7,dc2ce39b94cbbb38,60,60,action,action
+90647378,2026-08-07,7,4,stratified,6736005,clora,DavidFreelan,0,DECISIVE,0,223,19,18,b43a53d96da0f0b5,fb6542fd45093b86,60,60,action,action
+90292346,2026-08-05,7,4,stratified,7594605,Raihan Ramadistra,想要成为kaggle大师,1,DECISIVE,0,256,15,16,dc2ce39b94cbbb38,fb6542fd45093b86,60,60,action,action
+90468951,2026-08-06,7,4,stratified,6073779,Roman Stupin,Raihan Ramadistra,1,DECISIVE,0,209,13,14,19a01ac1cebb1e8b,dc2ce39b94cbbb38,60,60,action,action
+90148181,2026-08-05,7,4,stratified,9512955,LumenLiquidity,LiamK,1,DECISIVE,0,306,19,20,f8261f22b9cd0c48,fb6542fd45093b86,60,60,action,action
+90759435,2026-08-07,7,4,stratified,6584237,Dipam Chakraborty,Yudai Ueno,1,DECISIVE,0,220,13,14,dc2ce39b94cbbb38,e34dae96b1984485,60,60,action,action
+91776574,2026-08-10,7,4,stratified,6168253,Arthurs Torres24,213tubo,1,DECISIVE,0,218,19,20,dc2ce39b94cbbb38,058f82abd5449e39,60,60,action,action
+90041277,2026-08-04,7,4,stratified,7378061,Kosmostars,MissingNo.,0,DECISIVE,0,255,27,26,dc2ce39b94cbbb38,dc2ce39b94cbbb38,60,60,action,action
+90667163,2026-08-07,7,4,stratified,6249623,haruto,Priestess,1,DECISIVE,0,207,10,10,fcac695071c3f3cf,dc2ce39b94cbbb38,60,60,action,action
+90040592,2026-08-04,7,4,stratified,6049017,Benarg,懒惰的金枪鱼,0,DECISIVE,0,208,13,12,058f82abd5449e39,dc2ce39b94cbbb38,60,60,action,action
+90833214,2026-08-07,7,4,stratified,6303809,カントー地方マスター(KantoRegionMaster),kanno,1,DECISIVE,0,218,13,14,dc2ce39b94cbbb38,19a01ac1cebb1e8b,60,60,action,action
+91657668,2026-08-10,7,4,stratified,6493667,perrodawn,"Bart, Edwyn",1,DECISIVE,0,214,13,14,17d163ba9b2ec58c,f68ccef625779ef7,60,60,action,action
+90373154,2026-08-06,7,4,stratified,5824160,THIRD PTCG Club,senkin13,1,DECISIVE,0,206,13,14,24d2f0bf0cee8dde,dc2ce39b94cbbb38,60,60,action,action
+91067123,2026-08-08,7,4,stratified,7233301,Dakuma,Yaroslav,0,DECISIVE,0,247,17,16,fb6542fd45093b86,dc2ce39b94cbbb38,60,60,action,action
+90299782,2026-08-06,7,4,stratified,6639482,Raihan Ramadistra,wwwwwwwwwwwwwwwwwwwwwwwwwwwwww,1,DECISIVE,0,229,15,16,dc2ce39b94cbbb38,19a01ac1cebb1e8b,60,60,action,action
+90373972,2026-08-06,7,4,stratified,5896688,Oshbocker,RL or RULE,0,DECISIVE,0,196,21,21,b43a53d96da0f0b5,b43a53d96da0f0b5,60,60,action,action
+91742238,2026-08-10,7,4,stratified,6000455,kwa,youtube.com/@BigBugginnings,0,DECISIVE,0,202,15,14,05eb715b17b613fe,058f82abd5449e39,60,60,action,action
+91177476,2026-08-09,7,4,stratified,9315181,MtN,kwa,0,DECISIVE,0,299,29,28,dc2ce39b94cbbb38,fb6542fd45093b86,60,60,action,action
+90076057,2026-08-05,7,4,stratified,6129369,Boss's Orders Are All You Need,대답해드리는게인지상정,0,DECISIVE,0,212,13,12,058f82abd5449e39,dc2ce39b94cbbb38,60,60,action,action
+84959495,2026-07-09,3,-1,anomaly_short,159627,Raihan Ramadistra,WinDecks,0,ERROR_OR_TIMEOUT,0,10,1,1,69252ea384766495,478924c6d1995606,60,60,action,action
+82905899,2026-06-30,2,-1,anomaly_short,192950,Shun,THIRD PTCG Club,0,DECISIVE,1,12,2,1,ec75fde5aaa1daf0,bf4fd9046cb2d210,60,60,action,action
+86203773,2026-07-16,4,-1,anomaly_short,197113,aaa,WinDecks,0,ERROR_OR_TIMEOUT,0,12,1,1,37f2032236fb6baf,478924c6d1995606,60,60,action,action
+82007106,2026-06-26,1,-1,anomaly_short,152619,Kyohei,TBBJason,0,DECISIVE,1,10,2,1,cf54338b6b99acc3,59138a345c6b933a,60,60,action,action
+80217284,2026-06-16,0,-1,anomaly_short,158318,"Pikachu, I choose you!",Brian Altan,0,DECISIVE,1,10,2,1,6c534f1524e51c74,59138a345c6b933a,60,60,action,action
+87636090,2026-07-23,5,-1,anomaly_short,192167,haggle,taksai,1,DECISIVE,0,12,1,2,fcac695071c3f3cf,4511e2f8da72f777,60,60,action,action
+85983080,2026-07-14,4,-1,anomaly_short,153621,懒惰的金枪鱼,WinDecks,0,ERROR_OR_TIMEOUT,0,11,1,1,14db4b34cc8fbbb7,478924c6d1995606,60,60,action,action
+81609985,2026-06-24,1,-1,anomaly_short,193211,nikechan,Kendamarron,1,DECISIVE,0,12,1,2,5bdb85fd73238ec0,6948b9208b17fad2,60,60,action,action
+83600915,2026-07-03,2,-1,anomaly_short,152189,Akira-Ninth,THIRD PTCG Club,0,DECISIVE,1,10,2,1,9d1dad39ec641aa0,bf4fd9046cb2d210,60,60,action,action
+81502336,2026-06-23,1,-1,anomaly_short,192343,おやつパンダ,Hayhay2323,1,DECISIVE,0,12,1,2,f3b7141eeb3bfd2a,cf54338b6b99acc3,60,60,action,action
+82232369,2026-06-27,1,-1,anomaly_short,199025,5.5,Dakuma,1,DECISIVE,0,13,1,2,902b00d2b6f713c2,4a256a933ac66a7b,60,60,action,action
+85804987,2026-07-13,3,-1,anomaly_short,152128,MPGaming,WinDecks,0,ERROR_OR_TIMEOUT,0,10,1,1,37f2032236fb6baf,478924c6d1995606,60,60,action,action
+85655243,2026-07-12,3,-1,anomaly_short,194073,MPGaming,WinDecks,0,ERROR_OR_TIMEOUT,0,12,1,1,14db4b34cc8fbbb7,478924c6d1995606,60,60,action,action
+85369831,2026-07-11,3,-1,anomaly_short,185705,Budew,WinDecks,0,ERROR_OR_TIMEOUT,0,11,1,1,37f2032236fb6baf,478924c6d1995606,60,60,action,action
+82917018,2026-06-30,2,-1,anomaly_short,193944,taka0808,Kimiaki Nakamura,0,DECISIVE,1,12,2,1,2b3108749e2032d7,bfe17f933d600385,60,60,action,action
+80338442,2026-06-17,0,-1,anomaly_short,184411,takanori-suzuki-desu,yousan,1,DECISIVE,0,12,1,2,da2a64c2ecaab66a,6c534f1524e51c74,60,60,action,action
+81565560,2026-06-24,1,-1,anomaly_short,185593,M093.jp,easonyanyan,1,DECISIVE,0,12,1,2,bd3a5d98cf29cbc3,4a256a933ac66a7b,60,60,action,action
+80222591,2026-06-16,0,-1,anomaly_short,196884,Chikuwabu,gosu.Kouts,1,DECISIVE,0,12,1,2,ce6d9d7c5d4624a8,b3b581381be3f9b8,60,60,action,action
+85801325,2026-07-13,3,-1,anomaly_short,148361,懒惰的金枪鱼,WinDecks,0,ERROR_OR_TIMEOUT,0,10,1,1,14db4b34cc8fbbb7,478924c6d1995606,60,60,action,action
+85307768,2026-07-11,3,-1,anomaly_short,158131,Raihan Ramadistra,WinDecks,0,ERROR_OR_TIMEOUT,0,10,1,1,69252ea384766495,478924c6d1995606,60,60,action,action
+85123042,2026-07-10,3,-1,anomaly_long,29041031,Yushin Ito,Majkel1337,1,ERROR_OR_TIMEOUT,0,826,133,132,b20e3e96100a11d5,b20e3e96100a11d5,60,60,action,action
+81619251,2026-06-24,1,-1,anomaly_long,109040626,monzblog,Pokemon Garı Gacıyo,,DRAW,0,2987,351,350,cf54338b6b99acc3,cf54338b6b99acc3,60,60,action,action
+85303244,2026-07-11,3,-1,anomaly_long,20974081,THIRD PTCG Club,wally0593,1,DECISIVE,0,632,141,142,3371c6e0d2105401,831fd3a04060c7c2,60,60,action,action
+83827789,2026-07-04,2,-1,anomaly_long,23322950,BluezLee,llkarill,1,DECISIVE,1,639,146,147,69d88f938f8b3f54,6d7d4d82b45a1f8b,60,60,action,action
+88833717,2026-07-29,6,-1,anomaly_long,25786518,NIWATORI,hotpotbro,1,DECISIVE,0,767,137,138,3371c6e0d2105401,fcac695071c3f3cf,60,60,action,action
+85789607,2026-07-13,3,-1,anomaly_long,24917518,Majkel1337,Yushin Ito,0,ERROR_OR_TIMEOUT,0,685,137,138,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+85999835,2026-07-14,4,-1,anomaly_long,52495323,Majkel1337,Yushin Ito,0,ERROR_OR_TIMEOUT,0,1396,233,234,fcac695071c3f3cf,b20e3e96100a11d5,60,60,action,action
+85089399,2026-07-09,3,-1,anomaly_long,20527700,e-toppo,THIRD PTCG Club,1,DECISIVE,1,653,152,153,4c938c6bf506dfd6,3371c6e0d2105401,60,60,action,action
+89833675,2026-08-04,7,-1,anomaly_long,37475769,Team KASA.,Abhyuday,0,ERROR_OR_TIMEOUT,0,1045,119,120,fcac695071c3f3cf,f5fadf03018935e6,60,60,action,action
+88841648,2026-07-29,6,-1,anomaly_long,23005241,想要成为kaggle大师,NIWATORI,0,DECISIVE,0,729,143,142,07ab87cf5acd3608,3371c6e0d2105401,60,60,action,action
+83680367,2026-07-03,2,-1,anomaly_long,30231800,ShumpeiNomura,aidy,1,DECISIVE,0,917,257,258,0f8ded0dab3abdd6,831fd3a04060c7c2,60,60,action,action
+86371189,2026-07-16,4,-1,anomaly_long,25628326,NoOne,Oshbocker,0,DECISIVE,0,744,183,183,b20e3e96100a11d5,1e1aceae4b6358f6,60,60,action,action
+86358838,2026-07-16,4,-1,anomaly_long,183559099,Luca,Kotaro OKUYAMA,1,ERROR_OR_TIMEOUT,0,4935,705,704,0065b4cfff358aba,fcac695071c3f3cf,60,60,action,action
+86521693,2026-07-17,4,-1,anomaly_long,260199940,Majkel1337,Rmy,1,ERROR_OR_TIMEOUT,0,6879,1035,1034,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+81300342,2026-06-22,0,-1,anomaly_long,111425685,Pixegami,西松大祐,,DRAW,0,2991,531,530,25cfcf0100ef1145,cf54338b6b99acc3,60,60,action,action
+86274822,2026-07-16,4,-1,anomaly_long,20307881,Luca,THIRD PTCG Club,1,DECISIVE,0,577,95,96,0065b4cfff358aba,0eb1f4f9633c4cd0,60,60,action,action
+87133751,2026-07-20,4,-1,anomaly_long,235300425,Majkel1337,齐乐,1,ERROR_OR_TIMEOUT,0,6553,815,814,fcac695071c3f3cf,fcac695071c3f3cf,60,60,action,action
+85304219,2026-07-11,3,-1,anomaly_long,21039926,THIRD PTCG Club,Rmy,0,DECISIVE,0,627,107,106,3371c6e0d2105401,831fd3a04060c7c2,60,60,action,action
+90542333,2026-08-06,7,-1,anomaly_long,25038089,"Bart, Edwyn",AlphaStarmie,0,ERROR_OR_TIMEOUT,0,687,135,136,f68ccef625779ef7,b20e3e96100a11d5,60,60,action,action
+86010463,2026-07-15,4,-1,anomaly_long,185471173,Rmy,Majkel1337,0,ERROR_OR_TIMEOUT,0,5005,1223,1224,3fc2cb03df5b2747,fcac695071c3f3cf,60,60,action,action

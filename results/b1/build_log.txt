@@ -1,0 +1,26 @@
+Episode files: 1002
+[50/1002] rows=18042 bad_files=0
+[100/1002] rows=35716 bad_files=0
+[150/1002] rows=53931 bad_files=0
+[200/1002] rows=72062 bad_files=0
+[250/1002] rows=89724 bad_files=0
+[300/1002] rows=106359 bad_files=0
+[350/1002] rows=125359 bad_files=0
+[400/1002] rows=143263 bad_files=0
+[450/1002] rows=161659 bad_files=0
+[500/1002] rows=179330 bad_files=0
+[550/1002] rows=198009 bad_files=0
+[600/1002] rows=215531 bad_files=0
+[650/1002] rows=233411 bad_files=0
+[700/1002] rows=250966 bad_files=0
+[750/1002] rows=266791 bad_files=0
+[800/1002] rows=281454 bad_files=0
+[850/1002] rows=295258 bad_files=0
+[900/1002] rows=310330 bad_files=0
+[950/1002] rows=325020 bad_files=0
+[1000/1002] rows=340534 bad_files=0
+Wrote C:\Users\sertru1000\Projects\PokemonGame\results\b1\dataset.parquet: 341302 rows, 1000 episodes, 170725 win-labeled, bad_files=0
+                  count      mean
+plays_dragapult                  
+False            183704  0.380977
+True             157598  0.639209

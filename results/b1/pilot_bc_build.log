@@ -1,0 +1,6 @@
+signature ids: {'grimmsnarl': 648, 'kangaskhan': 756, 'fezandipiti': 140}
+[200/1002] decisions: {'grimmsnarl': 2458, 'kangaskhan': 695, 'fezandipiti': 2220}
+[1000/1002] decisions: {'grimmsnarl': 16676, 'kangaskhan': 8011, 'fezandipiti': 12866}
+grimmsnarl: 16783 decisions, 99796 rows, 267 episodes -> C:\Users\sertru1000\Projects\PokemonGame\results\b1\pilot_bc_grimmsnarl.parquet
+kangaskhan: 8042 decisions, 59110 rows, 116 episodes -> C:\Users\sertru1000\Projects\PokemonGame\results\b1\pilot_bc_kangaskhan.parquet
+fezandipiti: 12905 decisions, 98982 rows, 254 episodes -> C:\Users\sertru1000\Projects\PokemonGame\results\b1\pilot_bc_fezandipiti.parquet

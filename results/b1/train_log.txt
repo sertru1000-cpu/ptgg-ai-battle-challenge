@@ -1,0 +1,21 @@
+rows=341302 episodes=1000 features=87 win_rate=0.500
+train: 274218 rows / 800 eps; valid: 67084 rows / 200 eps (episode-level split)
+[0]	validation_0-logloss:0.67843
+[50]	validation_0-logloss:0.51949
+[100]	validation_0-logloss:0.50547
+[150]	validation_0-logloss:0.50299
+[190]	validation_0-logloss:0.50260
+export parity max_err=0.009295
+# B1 P(win) training report
+
+rows=341302, episodes=1000, features=87
+valid AUC=0.8334  log_loss=0.5022  best_iteration=160
+
+## AUC by turn bucket (valid)
+- turns 0-2: AUC=0.6805 (n=10912)
+- turns 3-5: AUC=0.7442 (n=16138)
+- turns 6-9: AUC=0.8756 (n=21663)
+- turns 10-14: AUC=0.9013 (n=14477)
+- turns 15-99: AUC=0.9039 (n=3894)
+
+Wrote C:\Users\sertru1000\Projects\PokemonGame\results\b1\xgb_pwin.json, pwin_trees.py, train_report.md

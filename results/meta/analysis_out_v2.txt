@@ -1,0 +1,282 @@
+==============================================================================
+COMBINED DATASET: 1000 episodes (decisive=997, draw=3, error/timeout=0)
+Unique exact decks: 422
+By period: {'EARLY': 375, 'MIDDLE': 250, 'RECENT': 375}
+
+==============================================================================
+RATING RESOLUTION (deck-based alternating-assignment EM; see src/meta_analysis/rating_resolution.py for method)
+Decisive episodes with score data: 997/997
+'Confident' assignments (cost-gap heuristic): 517/997
+VALIDATION CHECK: higher-assigned-rating side win rate = 486/997 = 0.487 [0.457,0.518] (should be well above 0.5 if resolution is recovering real rating information; near 0.5 means NOT reliably resolved)
+Pooled logistic fit: intercept=0.00000 beta(rating_diff slope)=-0.001157
+  Implied P(win) at rating_diff=0: 0.500
+  Implied P(win) at rating_diff=+100: 0.471
+  Implied P(win) at rating_diff=-100: 0.529
+
+==============================================================================
+Wrote deck_stats.csv: 416 exact decks
+
+TOP 25 EXACT DECKS BY GAME COUNT:
+hash              label                       games  usage%  winrate   fp_wr   sp_wr
+dc2ce39b94cbbb38  Marnie's Grimmsnarl ex        252   12.64    0.452   0.527   0.372
+fcac695071c3f3cf  Fezandipiti ex                149    7.47    0.537   0.608   0.457
+b43a53d96da0f0b5  Marnie's Grimmsnarl ex        120    6.02    0.575   0.569   0.582
+e34dae96b1984485  Cynthia's Garchomp ex          67    3.36    0.537   0.543   0.531
+831fd3a04060c7c2  UNLABELED                      58    2.91    0.448   0.516   0.370
+b20e3e96100a11d5  Fezandipiti ex                 57    2.86    0.509   0.593   0.433
+6c534f1524e51c74  Mega Lucario ex                46    2.31    0.413   0.500   0.333
+cf54338b6b99acc3  UNLABELED                      42    2.11    0.476   0.522   0.421
+2b3108749e2032d7  UNLABELED                      36    1.80    0.583   0.714   0.552
+59138a345c6b933a  Dragapult ex                   33    1.66    0.485   0.375   0.520
+4a256a933ac66a7b  Mega Lucario ex                33    1.66    0.545   0.476   0.667
+37f2032236fb6baf  Mega Kangaskhan ex             33    1.66    0.455   0.450   0.462
+fb6542fd45093b86  Mega Lopunny ex                24    1.20    0.708   0.875   0.625
+aa2398e69a3549ad  UNLABELED                      23    1.15    0.348   0.364   0.333
+c9d8794e26a87fa3  Marnie's Grimmsnarl ex         22    1.10    0.591   0.471   1.000
+910dcaefeb77a2f0  Marnie's Grimmsnarl ex         22    1.10    0.591   0.500   0.643
+14db4b34cc8fbbb7  Mega Kangaskhan ex             20    1.00    0.450   0.333   0.500
+58c4d89cf8edc355  Team Rocket's Mewtwo ex        19    0.95    0.421   0.400   0.444
+2b38095c5eca59f6  Teal Mask Ogerpon ex           19    0.95    0.421   0.125   0.636
+59aefb1a7dfb20a9  UNLABELED                      16    0.80    0.562   0.400   0.636
+69252ea384766495  Mega Kangaskhan ex             16    0.80    0.625   0.556   0.714
+058f82abd5449e39  Dragapult ex                   15    0.75    0.467   0.600   0.400
+6948b9208b17fad2  UNLABELED                      14    0.70    0.643   0.667   0.636
+478924c6d1995606  UNLABELED                      14    0.70    0.286   0.250   0.333
+61f90c30a060ef40  Marnie's Grimmsnarl ex         14    0.70    0.214   0.250   0.200
+
+==============================================================================
+ARCHETYPE/CLUSTER-LEVEL FREQUENCY + WIN RATE (DECISIVE games, both sides pooled)
+label                           games  decks  usage%  raw_wr wilson_lo wilson_hi  adj_wr  avg_own  avg_opp
+Marnie's Grimmsnarl ex            485     32   24.32   0.491     0.446     0.535   0.489   1090.9   1096.3
+Fezandipiti ex                    328     62   16.45   0.503     0.449     0.557   0.505   1092.2   1087.2
+Mega Lucario ex                   145     38    7.27   0.497     0.416     0.577   0.499    984.2    976.1
+Mega Kangaskhan ex                139     22    6.97   0.482     0.401     0.564   0.485   1113.9   1103.0
+UNLABELED_CLUSTER_01              106     29    5.32   0.509     0.416     0.603   0.510   1069.0   1068.5
+Dragapult ex                      106     26    5.32   0.462     0.370     0.557   0.462   1041.3   1042.1
+Cynthia's Garchomp ex              79      7    3.96   0.532     0.423     0.638   0.527   1089.6   1104.9
+Team Rocket's Mewtwo ex            77     20    3.86   0.532     0.422     0.640   0.535   1119.9   1112.1
+UNLABELED_CLUSTER_02               74     24    3.71   0.514     0.402     0.624   0.512   1083.6   1089.2
+Mega Lopunny ex                    66     10    3.31   0.561     0.441     0.674   0.559   1069.2   1076.3
+UNLABELED_CLUSTER_03               57     11    2.86   0.456     0.334     0.584   0.456   1057.5   1057.7
+UNLABELED_CLUSTER_04               53      9    2.66   0.358     0.243     0.493   0.358   1065.6   1066.5
+Teal Mask Ogerpon ex               45     16    2.26   0.511     0.370     0.650   0.515   1064.1   1050.3
+UNLABELED_CLUSTER_05               31     11    1.55   0.484     0.320     0.652   0.480    882.3    895.0
+UNLABELED_CLUSTER_06               26      7    1.30   0.500     0.321     0.679     nan   1119.7   1099.2  [LOW-N]
+UNLABELED_CLUSTER_07               20      9    1.00   0.500     0.299     0.701     nan   1061.8   1063.0  [LOW-N]
+UNLABELED_CLUSTER_08               15      2    0.75   0.667     0.417     0.848     nan   1048.0   1041.6  [LOW-N]
+Mega Abomasnow ex                  15      4    0.75   0.467     0.248     0.699     nan    690.6    704.8  [LOW-N]
+Iono's (Bellibolt/Voltorb)         10      1    0.50   0.400     0.168     0.687     nan   1015.3    992.2  [LOW-N]
+UNLABELED_CLUSTER_09                8      3    0.40   0.750     0.409     0.929     nan    899.5    946.4  [LOW-N]
+UNLABELED_CLUSTER_10                8      2    0.40   0.500     0.215     0.785     nan   1111.3   1127.2  [LOW-N]
+UNLABELED_CLUSTER_11                7      5    0.35   0.571     0.250     0.842     nan   1080.9   1064.1  [LOW-N]
+UNLABELED_CLUSTER_14                6      2    0.30   0.833     0.436     0.970     nan   1084.2   1062.7  [LOW-N]
+UNLABELED_CLUSTER_13                6      2    0.30   0.333     0.097     0.700     nan   1097.8   1102.0  [LOW-N]
+UNLABELED_CLUSTER_12                6      1    0.30   0.500     0.188     0.812     nan   1088.9   1081.5  [LOW-N]
+UNLABELED_CLUSTER_16                4      2    0.20   0.250     0.046     0.699     nan   1057.6   1071.9  [LOW-N]
+UNLABELED_CLUSTER_15                4      1    0.20   0.250     0.046     0.699     nan   1062.5   1086.0  [LOW-N]
+UNLABELED_CLUSTER_24                3      3    0.15   0.667     0.208     0.939     nan    994.5    999.9  [LOW-N]
+UNLABELED_CLUSTER_25                3      3    0.15   0.667     0.208     0.939     nan   1011.6   1058.5  [LOW-N]
+UNLABELED_CLUSTER_20                3      2    0.15   0.333     0.061     0.792     nan   1047.8   1105.9  [LOW-N]
+UNLABELED_CLUSTER_19                3      2    0.15   1.000     0.438     1.000     nan   1002.5   1040.1  [LOW-N]
+UNLABELED_CLUSTER_26                3      3    0.15   1.000     0.438     1.000     nan   1080.2   1082.2  [LOW-N]
+UNLABELED_CLUSTER_23                3      2    0.15   0.333     0.061     0.792     nan   1123.8   1117.3  [LOW-N]
+UNLABELED_CLUSTER_21                3      2    0.15   0.667     0.208     0.939     nan   1077.9   1098.1  [LOW-N]
+UNLABELED_CLUSTER_22                3      3    0.15   0.667     0.208     0.939     nan   1118.2   1105.2  [LOW-N]
+UNLABELED_CLUSTER_17                3      1    0.15   1.000     0.438     1.000     nan   1143.7   1133.5  [LOW-N]
+UNLABELED_CLUSTER_18                3      1    0.15   0.667     0.208     0.939     nan   1173.4   1104.1  [LOW-N]
+UNLABELED_CLUSTER_29                2      2    0.10   1.000     0.342     1.000     nan    815.4    872.1  [LOW-N]
+UNLABELED_CLUSTER_30                2      2    0.10   0.500     0.095     0.905     nan    773.3    679.0  [LOW-N]
+UNLABELED_CLUSTER_27                2      1    0.10   0.500     0.095     0.905     nan   1189.6   1247.8  [LOW-N]
+UNLABELED_CLUSTER_31                2      2    0.10   1.000     0.342     1.000     nan   1000.8   1055.7  [LOW-N]
+UNLABELED_CLUSTER_32                2      2    0.10   0.500     0.095     0.905     nan   1125.4   1160.8  [LOW-N]
+UNLABELED_CLUSTER_28                2      1    0.10   0.500     0.095     0.905     nan   1032.0   1055.8  [LOW-N]
+UNLABELED_CLUSTER_34                1      1    0.05   0.000     0.000     0.793     nan    955.5    826.5  [LOW-N]
+UNLABELED_CLUSTER_35                1      1    0.05   1.000     0.207     1.000     nan    797.7    686.4  [LOW-N]
+UNLABELED_CLUSTER_36                1      1    0.05   0.000     0.000     0.793     nan   1022.0    995.9  [LOW-N]
+UNLABELED_CLUSTER_37                1      1    0.05   0.000     0.000     0.793     nan    954.2   1007.3  [LOW-N]
+UNLABELED_CLUSTER_38                1      1    0.05   0.000     0.000     0.793     nan   1014.6   1000.6  [LOW-N]
+UNLABELED_CLUSTER_39                1      1    0.05   1.000     0.207     1.000     nan    901.3    999.6  [LOW-N]
+UNLABELED_CLUSTER_40                1      1    0.05   1.000     0.207     1.000     nan   1098.0   1081.1  [LOW-N]
+UNLABELED_CLUSTER_41                1      1    0.05   0.000     0.000     0.793     nan    923.2   1018.3  [LOW-N]
+UNLABELED_CLUSTER_42                1      1    0.05   1.000     0.207     1.000     nan   1049.9   1118.1  [LOW-N]
+UNLABELED_CLUSTER_43                1      1    0.05   0.000     0.000     0.793     nan   1006.0   1013.2  [LOW-N]
+UNLABELED_CLUSTER_44                1      1    0.05   0.000     0.000     0.793     nan    992.0    969.5  [LOW-N]
+UNLABELED_CLUSTER_45                1      1    0.05   1.000     0.207     1.000     nan   1014.3   1077.6  [LOW-N]
+UNLABELED_CLUSTER_33                1      1    0.05   0.000     0.000     0.793     nan   1122.9   1088.5  [LOW-N]
+UNLABELED_CLUSTER_46                1      1    0.05   0.000     0.000     0.793     nan   1101.7   1059.4  [LOW-N]
+UNLABELED_CLUSTER_47                1      1    0.05   1.000     0.207     1.000     nan   1142.8   1005.3  [LOW-N]
+UNLABELED_CLUSTER_48                1      1    0.05   0.000     0.000     0.793     nan   1011.3   1133.2  [LOW-N]
+UNLABELED_CLUSTER_49                1      1    0.05   1.000     0.207     1.000     nan   1059.8   1040.5  [LOW-N]
+UNLABELED_CLUSTER_50                1      1    0.05   1.000     0.207     1.000     nan   1084.5   1126.4  [LOW-N]
+UNLABELED_CLUSTER_51                1      1    0.05   1.000     0.207     1.000     nan   1102.1   1115.0  [LOW-N]
+UNLABELED_CLUSTER_52                1      1    0.05   1.000     0.207     1.000     nan   1024.9   1099.7  [LOW-N]
+UNLABELED_CLUSTER_53                1      1    0.05   0.000     0.000     0.793     nan   1068.5   1001.3  [LOW-N]
+UNLABELED_CLUSTER_54                1      1    0.05   1.000     0.207     1.000     nan    982.0    983.4  [LOW-N]
+UNLABELED_CLUSTER_55                1      1    0.05   1.000     0.207     1.000     nan    947.6   1032.0  [LOW-N]
+UNLABELED_CLUSTER_56                1      1    0.05   0.000     0.000     0.793     nan   1009.3    985.6  [LOW-N]
+UNLABELED_CLUSTER_57                1      1    0.05   0.000     0.000     0.793     nan    980.4   1006.8  [LOW-N]
+UNLABELED_CLUSTER_58                1      1    0.05   0.000     0.000     0.793     nan   1093.5   1096.6  [LOW-N]
+
+Wrote rating_analysis.csv: 69 archetypes/clusters
+
+==============================================================================
+TEMPORAL: archetype/cluster share of games by period (ALL episodes incl. non-decisive, both sides)
+
+  EARLY (n=750 deck-slots):
+    Mega Lucario ex                     125  (16.7%)
+    UNLABELED_CLUSTER_01                 86  (11.5%)
+    UNLABELED_CLUSTER_02                 67  (8.9%)
+    Marnie's Grimmsnarl ex               67  (8.9%)
+    Fezandipiti ex                       61  (8.1%)
+    UNLABELED_CLUSTER_03                 57  (7.6%)
+    Dragapult ex                         48  (6.4%)
+    UNLABELED_CLUSTER_04                 41  (5.5%)
+    UNLABELED_CLUSTER_05                 31  (4.1%)
+    UNLABELED_CLUSTER_08                 15  (2.0%)
+    Mega Abomasnow ex                    15  (2.0%)
+    Mega Kangaskhan ex                   14  (1.9%)
+    Cynthia's Garchomp ex                11  (1.5%)
+    UNLABELED_CLUSTER_06                 11  (1.5%)
+    Iono's (Bellibolt/Voltorb)           10  (1.3%)
+
+  MIDDLE (n=500 deck-slots):
+    Fezandipiti ex                      150  (30.0%)
+    Marnie's Grimmsnarl ex               97  (19.4%)
+    Mega Kangaskhan ex                   63  (12.6%)
+    Team Rocket's Mewtwo ex              36  (7.2%)
+    Cynthia's Garchomp ex                28  (5.6%)
+    Dragapult ex                         26  (5.2%)
+    UNLABELED_CLUSTER_01                 20  (4.0%)
+    UNLABELED_CLUSTER_04                 12  (2.4%)
+    UNLABELED_CLUSTER_06                 12  (2.4%)
+    UNLABELED_CLUSTER_07                 10  (2.0%)
+    Mega Lucario ex                       9  (1.8%)
+    UNLABELED_CLUSTER_02                  7  (1.4%)
+    Mega Lopunny ex                       4  (0.8%)
+    UNLABELED_CLUSTER_15                  3  (0.6%)
+    UNLABELED_CLUSTER_10                  3  (0.6%)
+
+  RECENT (n=750 deck-slots):
+    Marnie's Grimmsnarl ex              323  (43.1%)
+    Fezandipiti ex                      118  (15.7%)
+    Mega Kangaskhan ex                   63  (8.4%)
+    Mega Lopunny ex                      61  (8.1%)
+    Teal Mask Ogerpon ex                 42  (5.6%)
+    Cynthia's Garchomp ex                40  (5.3%)
+    Team Rocket's Mewtwo ex              37  (4.9%)
+    Dragapult ex                         33  (4.4%)
+    Mega Lucario ex                      11  (1.5%)
+    UNLABELED_CLUSTER_06                  3  (0.4%)
+    UNLABELED_CLUSTER_18                  2  (0.3%)
+    UNLABELED_CLUSTER_21                  2  (0.3%)
+    UNLABELED_CLUSTER_07                  2  (0.3%)
+    UNLABELED_CLUSTER_23                  2  (0.3%)
+    UNLABELED_CLUSTER_51                  1  (0.1%)
+
+==============================================================================
+MATCHUP MATRIX (cluster_id vs cluster_id, DECISIVE games)
+Wrote matchup_matrix.csv: 198 pairs
+Pairs with n>=30 (not LOW-N): 3/198
+
+Top 25 highest-n matchup cells:
+  Fezandipiti ex vs Marnie's Grimmsnarl ex: n=84 row_wr=0.476 [0.373,0.582]
+  Marnie's Grimmsnarl ex vs Mega Kangaskhan ex: n=39 row_wr=0.410 [0.271,0.566]
+  Fezandipiti ex vs Mega Kangaskhan ex: n=38 row_wr=0.684 [0.525,0.809]
+  Marnie's Grimmsnarl ex vs Team Rocket's Mewtwo ex: n=29 row_wr=0.517 [0.344,0.686]  [LOW-N]
+  Cynthia's Garchomp ex vs Marnie's Grimmsnarl ex: n=27 row_wr=0.630 [0.442,0.785]  [LOW-N]
+  Dragapult ex vs Fezandipiti ex: n=20 row_wr=0.550 [0.342,0.742]  [LOW-N]
+  Dragapult ex vs Marnie's Grimmsnarl ex: n=20 row_wr=0.650 [0.433,0.819]  [LOW-N]
+  Fezandipiti ex vs Team Rocket's Mewtwo ex: n=20 row_wr=0.200 [0.081,0.416]  [LOW-N]
+  Marnie's Grimmsnarl ex vs Mega Lopunny ex: n=18 row_wr=0.444 [0.246,0.663]  [LOW-N]
+  Marnie's Grimmsnarl ex vs UNLABELED_CLUSTER_01: n=18 row_wr=0.556 [0.337,0.754]  [LOW-N]
+  Marnie's Grimmsnarl ex vs Teal Mask Ogerpon ex: n=14 row_wr=0.429 [0.214,0.674]  [LOW-N]
+  Mega Lucario ex vs UNLABELED_CLUSTER_03: n=14 row_wr=0.286 [0.117,0.546]  [LOW-N]
+  Mega Lucario ex vs UNLABELED_CLUSTER_05: n=14 row_wr=0.357 [0.163,0.612]  [LOW-N]
+  Marnie's Grimmsnarl ex vs UNLABELED_CLUSTER_04: n=13 row_wr=0.923 [0.667,0.986]  [LOW-N]
+  Mega Lucario ex vs UNLABELED_CLUSTER_01: n=13 row_wr=0.615 [0.355,0.823]  [LOW-N]
+  Cynthia's Garchomp ex vs Fezandipiti ex: n=12 row_wr=0.500 [0.254,0.746]  [LOW-N]
+  Fezandipiti ex vs UNLABELED_CLUSTER_01: n=11 row_wr=0.455 [0.213,0.720]  [LOW-N]
+  Fezandipiti ex vs UNLABELED_CLUSTER_02: n=11 row_wr=0.545 [0.280,0.787]  [LOW-N]
+  Fezandipiti ex vs Mega Lucario ex: n=10 row_wr=0.400 [0.168,0.687]  [LOW-N]
+  Cynthia's Garchomp ex vs Mega Kangaskhan ex: n=9 row_wr=0.444 [0.189,0.733]  [LOW-N]
+  Fezandipiti ex vs Mega Lopunny ex: n=9 row_wr=0.667 [0.354,0.879]  [LOW-N]
+  Fezandipiti ex vs Teal Mask Ogerpon ex: n=9 row_wr=0.667 [0.354,0.879]  [LOW-N]
+  Marnie's Grimmsnarl ex vs Mega Lucario ex: n=9 row_wr=0.222 [0.063,0.547]  [LOW-N]
+  Marnie's Grimmsnarl ex vs UNLABELED_CLUSTER_02: n=9 row_wr=0.444 [0.189,0.733]  [LOW-N]
+  Mega Lopunny ex vs Teal Mask Ogerpon ex: n=9 row_wr=0.778 [0.453,0.937]  [LOW-N]
+
+Most lopsided ADEQUATE-N (>=30) matchup cells (row win rate farthest from 0.5):
+  Fezandipiti ex vs Mega Kangaskhan ex: n=38 row_wr=0.684 [0.525,0.809]
+  Marnie's Grimmsnarl ex vs Mega Kangaskhan ex: n=39 row_wr=0.410 [0.271,0.566]
+  Fezandipiti ex vs Marnie's Grimmsnarl ex: n=84 row_wr=0.476 [0.373,0.582]
+
+==============================================================================
+DECK VARIATION within top archetypes/clusters
+
+  Marnie's Grimmsnarl ex: 32 distinct decklists, 487 games, top-list share=0.52
+    core cards (in all 32 lists): 10
+    top tech/variable cards: [('Night Stretcher', '30/32'), ('Unfair Stamp', '25/32'), ('Boss’s Orders', '24/32'), ("Team Rocket's Petrel", '24/32'), ('Dawn', '23/32'), ('Froslass', '22/32'), ('Snorunt', '21/32'), ('Xerosic’s Machinations', '15/32')]
+
+  Fezandipiti ex: 62 distinct decklists, 329 games, top-list share=0.46
+    core cards (in all 62 lists): 1
+    top tech/variable cards: [('Buddy-Buddy Poffin', '61/62'), ('Poké Pad', '61/62'), ('Night Stretcher', '60/62'), ('Rare Candy', '58/62'), ('Boss’s Orders', '58/62'), ('Dawn', '58/62'), ('Dudunsparce', '57/62'), ('Sacred Ash', '57/62')]
+
+  Mega Lucario ex: 39 distinct decklists, 145 games, top-list share=0.32
+    core cards (in all 39 lists): 5
+    top tech/variable cards: [('Lunatone', '37/39'), ('Solrock', '37/39'), ('Premium Power Pro', '37/39'), ('Boss’s Orders', '37/39'), ('Poké Pad', '36/39'), ('Dusk Ball', '35/39'), ('Switch', '35/39'), ('Hero’s Cape', '32/39')]
+
+  Mega Kangaskhan ex: 22 distinct decklists, 140 games, top-list share=0.24
+    core cards (in all 22 lists): 1
+    top tech/variable cards: [('Boss’s Orders', '19/22'), ('Basic {G} Energy', '18/22'), ('Xerosic’s Machinations', '18/22'), ("Lillie's Determination", '17/22'), ('Hilda', '16/22'), ('Mist Energy', '15/22'), ('Spiky Energy', '15/22'), ('Grow Grass Energy', '15/22')]
+
+  UNLABELED_CLUSTER_01: 29 distinct decklists, 106 games, top-list share=0.55
+    core cards (in all 29 lists): 12
+    top tech/variable cards: [('Enhanced Hammer', '28/29'), ('Night Stretcher', '28/29'), ('Sacred Ash', '28/29'), ('Dunsparce', '20/29'), ('Lana’s Aid', '20/29'), ('Enriching Energy', '17/29'), ('Battle Cage', '15/29'), ('Dunsparce', '10/29')]
+
+  Dragapult ex: 26 distinct decklists, 107 games, top-list share=0.31
+    core cards (in all 26 lists): 8
+    top tech/variable cards: [('Fezandipiti ex', '25/26'), ('Budew', '25/26'), ('Night Stretcher', '25/26'), ('Boss’s Orders', '25/26'), ('Crispin', '25/26'), ('Poké Pad', '24/26'), ('Meowth ex', '22/26'), ('Unfair Stamp', '21/26')]
+
+  Cynthia's Garchomp ex: 7 distinct decklists, 79 games, top-list share=0.85
+    core cards (in all 7 lists): 12
+    top tech/variable cards: [('Unfair Stamp', '6/7'), ("Cynthia's Spiritomb", '5/7'), ('Boss’s Orders', '5/7'), ('Xerosic’s Machinations', '5/7'), ('Hilda', '5/7'), ('Forest of Vitality', '5/7'), ('Premium Power Pro', '5/7'), ('Night Stretcher', '3/7')]
+
+  Team Rocket's Mewtwo ex: 20 distinct decklists, 77 games, top-list share=0.25
+    core cards (in all 20 lists): 12
+    top tech/variable cards: [("Team Rocket's Giovanni", '19/20'), ('Hero’s Cape', '18/20'), ("Team Rocket's Mimikyu", '18/20'), ('Ultra Ball', '18/20'), ("Team Rocket's Factory", '17/20'), ("Team Rocket's Archer", '15/20'), ('Brave Bangle', '14/20'), ('Buddy-Buddy Poffin', '9/20')]
+
+  UNLABELED_CLUSTER_02: 24 distinct decklists, 74 games, top-list share=0.49
+    core cards (in all 24 lists): 9
+    top tech/variable cards: [('Hero’s Cape', '23/24'), ('Relicanth', '18/24'), ('Cinderace', '17/24'), ('Jumbo Ice Cream', '17/24'), ('Explorer’s Guidance', '17/24'), ('Boss’s Orders', '16/24'), ('Judge', '12/24'), ('Xerosic’s Machinations', '12/24')]
+
+  Mega Lopunny ex: 10 distinct decklists, 67 games, top-list share=0.36
+    core cards (in all 10 lists): 4
+    top tech/variable cards: [('Buneary', '9/10'), ('Buddy-Buddy Poffin', '9/10'), ('Ultra Ball', '9/10'), ('Mist Energy', '8/10'), ('Dudunsparce', '8/10'), ('Fan Rotom', '8/10'), ('Pokégear 3.0', '8/10'), ('Hilda', '8/10')]
+
+  UNLABELED_CLUSTER_03: 11 distinct decklists, 57 games, top-list share=0.74
+    core cards (in all 11 lists): 14
+    top tech/variable cards: [('Dunsparce', '10/11'), ('Legacy Energy', '9/11'), ('Brock’s Scouting', '9/11'), ('Boss’s Orders', '8/11'), ('Colress’s Tenacity', '8/11'), ('Dunsparce', '1/11'), ('Unfair Stamp', '1/11'), ('Switch', '1/11')]
+
+  UNLABELED_CLUSTER_04: 10 distinct decklists, 53 games, top-list share=0.43
+    core cards (in all 10 lists): 8
+    top tech/variable cards: [('Salvatore', '8/10'), ('Cinderace', '7/10'), ('Night Stretcher', '7/10'), ('Ultra Ball', '7/10'), ('Mega Signal', '7/10'), ('Hero’s Cape', '7/10'), ('Boss’s Orders', '7/10'), ('Crushing Hammer', '6/10')]
+
+  Teal Mask Ogerpon ex: 16 distinct decklists, 45 games, top-list share=0.42
+    core cards (in all 16 lists): 2
+    top tech/variable cards: [('Bug Catching Set', '14/16'), ('Boss’s Orders', '14/16'), ("Lillie's Determination", '14/16'), ('Ultra Ball', '9/16'), ('Tera Orb', '8/16'), ('Hero’s Cape', '8/16'), ('Judge', '8/16'), ('Poké Pad', '8/16')]
+
+  UNLABELED_CLUSTER_05: 12 distinct decklists, 31 games, top-list share=0.52
+    core cards (in all 12 lists): 4
+    top tech/variable cards: [('Mist Energy', '11/12'), ('Grow Grass Energy', '11/12'), ('Buddy-Buddy Poffin', '11/12'), ('Jumbo Ice Cream', '11/12'), ('Cook', '11/12'), ('Spiky Energy', '10/12'), ("Lillie's Determination", '8/12'), ('Waitress', '6/12')]
+
+Wrote deck_variants.csv: 185 rows across 14 archetypes
+
+==============================================================================
+GAME LENGTH DISTRIBUTION (main weighted sample, DECISIVE)
+  n=997 min=19 p5=61 p25=122 median=153 p75=183 p95=238 max=369
+  DECISIVE games with n_steps < 20: 1/997 (0.10%)
+  short-game deck/cluster distribution: [('UNLABELED_CLUSTER_08', 1), ('UNLABELED_CLUSTER_01', 1)]
+  outcome_type breakdown (ALL episodes): {'DECISIVE': 997, 'DRAW': 3}
+  ERROR_OR_TIMEOUT by period: {}
+
+DONE.
