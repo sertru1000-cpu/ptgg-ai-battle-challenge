@@ -61,7 +61,7 @@ deliberately *worse* agents whose only purpose was to isolate a variable.
 | V12 | heuristic refinements | 669.6 |
 | V17 | native C++ MCTS over the engine's search sandbox, V6 evaluation | 679.9 |
 | V18 | + opponent-archetype determinization, still V6 evaluation | **506** |
-| V19 | leader decklist on the V6 policy | 674.0 |
+| V19 | leader decklist on the V6 policy | 674.6 |
 | **V20** | + learned P(win) evaluation, PUCT, determinization voting | **691** |
 | V23 | V20 shell, evaluator retrained on 212K own-engine self-play games | 595 |
 | V24 | true multi-level PUCT tree (~13 plies), learned leaf evaluation | 666 |
@@ -156,7 +156,7 @@ top teams on the identical list is about as strong a prior as competitive
 play ever produces.
 
 **We built that exact list and it lost rating.** V19, V25 and V26 field the
-leader list on our own agents; V19 measured 674 against V20's 691 on the same
+leader list on our own agents; V19 measured 674.6 against V20's 691 on the same
 policy generation, and the deeper-search versions on the leader list finished
 the competition at 587.5 (V25) and 601.3 (V26) — the leader list cost us
 rating at every search depth we tried it at. The mechanism is visible in the diff itself: the cards
@@ -303,7 +303,7 @@ carried rating information, V27's win rate should track the anchor's rating.
 | V20 | 691.0 | 0.625 |
 | V6 | 683.7 | 0.438 |
 | V17 | 679.9 | 0.250 |
-| V19 | 674.0 | 0.500 |
+| V19 | 674.6 | 0.500 |
 | V24 | 666.0 | 0.562 |
 | V26 | 601.3 | 0.562 |
 | V23 | 595.0 | 0.375 |
@@ -334,7 +334,7 @@ else":
 | Comparison | Change | Ladder effect |
 |---|---|---|
 | V24 vs V23 | + deep PUCT tree, evaluator matched to the pool | **+71** |
-| V25 vs V19 | + deep PUCT tree, evaluator facing an off-distribution pool | **−86.5** |
+| V25 vs V19 | + deep PUCT tree, evaluator facing an off-distribution pool | **−87.1** |
 
 Same architectural change, opposite sign. Depth is not a property with a
 fixed sign. Search maximizes over the evaluator's

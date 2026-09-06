@@ -53,7 +53,7 @@ def fig_trajectory():
         ("V12", 669.6, None, False),
         ("V17", 679.9, "C++ MCTS", False),
         ("V18", 506.0, "determinization,\nold eval", False),
-        ("V19", 674.0, "leader deck", False),
+        ("V19", 674.6, "leader deck", False),
         ("V20", 691.0, "+ learned eval  691", False),
         ("V23", 595.0, "self-play circularity", False),
         ("V24", 666.0, "deep tree", False),

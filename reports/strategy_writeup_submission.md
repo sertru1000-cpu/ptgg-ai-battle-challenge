@@ -11,7 +11,7 @@ job was to isolate one variable.
 | V6 | hand-tuned heuristic core | 683.7 |
 | V17 | native C++ MCTS, V6 evaluation | 679.9 |
 | V18 | + opponent-archetype determinization, V6 evaluation | 506 |
-| V19 | leader decklist on the V6 policy | 674.0 |
+| V19 | leader decklist on the V6 policy | 674.6 |
 | **V20** | + learned P(win) evaluation, PUCT, determinization voting | **691** |
 | V23 | V20 shell, evaluator retrained on self-play | 595 |
 | V24 | true multi-level PUCT tree (~13 plies) | 666 |
@@ -45,7 +45,7 @@ Helmet, a Crispin. The "Munkidori package" moves damage counters onto the target
 that matters — on paper a strict upgrade to our engine.
 
 **We built that exact list and it lost rating.** V19/V25/V26 field it; V19 rated
-674 against V20's 691 on the same policy, and the deep-search versions finished
+674.6 against V20's 691 on the same policy, and the deep-search versions finished
 at 587.5 and 601.3. The diff explains it: leaders cut *consistency and recovery*
 to add *precision and disruption*. Precision pays when both players execute
 nearly perfectly — the 1000–1200 band leaders occupy. In our ~650–700 band,
@@ -110,7 +110,7 @@ bias exactly where it was.
 **2. Search amplifies the tails of evaluation error.** Same architectural change,
 opposite sign: adding the deep tree to a pool-matched evaluator gained **+71**
 (V24 vs V23); adding the same depth on an evaluator facing an off-distribution
-pool lost **−86.5** (V25 vs V19). Search maximizes over the evaluator's output,
+pool lost **−87.1** (V25 vs V19). Search maximizes over the evaluator's output,
 so it steers into the positions where that evaluator is most wrong — the
 optimizer's curse. **Mean AUC differences of 1–3 points concealed this
 entirely.** An evaluator under a deep search must be judged on worst-case
