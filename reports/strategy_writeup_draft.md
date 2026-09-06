@@ -66,4 +66,7 @@ We consider this section our most original contribution. Three findings, each wi
 3. Train evaluators on opponent-stratified real data, never self-play alone, and judge them by tail behavior if any search sits above them.
 4. Budget ladder submissions as experiments from day one — they are the only instrument that measures the quantity being scored, and we can now put a number on how little local substitutes measure it: r = 0.04.
 
-*Attachments: code repository (agent line V1–V27, C++ search core, training pipeline), B1v4 dataset builder, anchored round-robin raw games (192), per-tier AUC evaluation notebook.*
+*Attachments:*
+- *Dataset `sergueimakarov/ptcg-ai-battle-strategy-artifacts` — full code (agent line V1–V27, C++ search core, training pipeline), B1v4 tier datasets (parquet), anchored round-robin raw games (192), figures. Private until deadline; auto-published after.*
+- *Notebook `sergueimakarov/ptcg-b1v4-per-tier-auc-reproduction` — reproduces Table 2 (per-tier AUC) from the saved models, no retraining.*
+- *Media gallery: Fig. 1 rating trajectory, Fig. 2 per-tier AUC dumbbell.*
