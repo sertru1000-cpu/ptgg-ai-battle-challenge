@@ -52,13 +52,13 @@ def fig_trajectory():
         ("V6", 683.7, "heuristic core", False),
         ("V12", 669.6, None, False),
         ("V17", 679.9, "C++ MCTS", False),
-        ("V18", 506.0, "abort bug", False),
+        ("V18", 506.0, "determinization,\nold eval", False),
         ("V19", 674.0, "leader deck", False),
         ("V20", 691.0, "+ learned eval  691", False),
         ("V23", 595.0, "self-play circularity", False),
         ("V24", 666.0, "deep tree", False),
-        ("V25", 610.0, None, True),
-        ("V26", 613.0, "final pair*", True),
+        ("V25", 587.5, None, False),
+        ("V26", 601.3, "final pair", False),
     ]
     fig, ax = plt.subplots(figsize=(8.6, 4.4))
     fig.patch.set_facecolor(SURFACE)
@@ -83,7 +83,7 @@ def fig_trajectory():
     ax.set_ylabel("ladder skill rating (μ)")
     ax.set_title("Five days, 27 agent versions: ladder trajectory of every rated submission",
                  fontsize=11, color=INK, loc="left", pad=14)
-    ax.text(0, -0.16, "* V25/V26 still converging (final ratings ~Aug 31). "
+    ax.text(0, -0.16, "Converged final-leaderboard ratings. "
             "Unlabeled failures V9–V11 (<600) omitted — no converged rating recorded.",
             transform=ax.transAxes, fontsize=7.5, color=MUTED)
     fig.tight_layout()
